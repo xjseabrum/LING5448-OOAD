@@ -5,4 +5,9 @@
 - Weitung Liao
 - Dananjay Srinivas
 
+# Notes regarding the files 
+- Files for Part 3 are stored in Part3/src/
+
+
+
 
