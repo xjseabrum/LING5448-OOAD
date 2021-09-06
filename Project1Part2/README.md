@@ -6,3 +6,7 @@
 - Dananjay Srinivas
 
 
+# Notes regarding the files 
+- Files for Problem 3 are stored in Prob3/src/
+
+
