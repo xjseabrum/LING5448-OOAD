@@ -1,7 +1,7 @@
 // Written using Java JDK v. 16.
 
 // Main program that will do two things:
-// 1. Ask the user for input calling decode() method
+// 1. Take in the ASCII list from the decode() method. 
 // 2. Call the other methods and print out the results
 
 // Reading from text file reference:
