@@ -2,7 +2,8 @@
 
 // Main program that will do two things:
 // 1. Take in the ASCII list from the decode() method. 
-// 2. Call the other methods and print out the results
+// 2. Call the other methods and print out the results and save them to 
+// Results3.txt
 
 // Reading from text file reference:
 // https://www.geeksforgeeks.org/different-ways-reading-text-file-java/
