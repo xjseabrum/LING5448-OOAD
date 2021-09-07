@@ -1,3 +1,5 @@
+// Written using Java JDK v. 16.
+
 /* codeToType takes in an integer from the asciiCode int array list
  * checks it against various cases to assign it the
  * appropriate character type.
