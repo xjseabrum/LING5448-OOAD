@@ -21,7 +21,7 @@ public class Main {
         // is stored in the utils package.
 
         // The utils are segregated based on their functionality.
-        
+
         // External libraries (apache.commons.math3) was used to calculate mean and standardDeviation.
 
         Ranger ranger = new Ranger();
