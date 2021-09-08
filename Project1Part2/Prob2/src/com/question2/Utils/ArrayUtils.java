@@ -7,6 +7,8 @@ public class ArrayUtils {
 
     public static int[] createRandomArray(int low, int high) {
 
+
+        // References:
         // https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java
         // https://www.javatpoint.com/how-to-return-an-array-in-java
 
@@ -19,10 +21,10 @@ public class ArrayUtils {
     }
 
     public static int[] extendArray(int[] randomArray, int low, int high){
-        randomArray =  Arrays.copyOf(randomArray, randomArray.length +10);
+        randomArray =  Arrays.copyOf(randomArray, randomArray.length +10); // increase array length by 10
 
         for (int i=randomArray.length-1; i>=(randomArray.length-10); i--)
-            randomArray[i] = (int) NumberUtils.getRandomNumber(low, high);
+            randomArray[i] = (int) NumberUtils.getRandomNumber(low, high); // fill newly added array members in descending manner
 
         return randomArray;
     }
@@ -34,7 +36,7 @@ public class ArrayUtils {
         double[] castedRandomArray = new double[randomArray.length];
 
         for (int i=0; i<randomArray.length; i++)
-            castedRandomArray[i] = randomArray[i];
+            castedRandomArray[i] = randomArray[i]; // given integer array, cast into double array
 
         return castedRandomArray;
     }

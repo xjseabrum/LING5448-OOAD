@@ -8,6 +8,12 @@ import java.util.Scanner;
 
 public class Ranger {
 
+    // class Ranger()  is designed
+    // with the following high-level flow in mind :
+    // 1. Read and validate input (read())
+    // 2. If valid input, calculate() and write()
+    // 3. If invalid input, writeError()
+
     int low, high;
     double mean, standardDeviation;
     int[] randomArray;

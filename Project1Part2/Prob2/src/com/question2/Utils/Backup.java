@@ -6,6 +6,10 @@ import org.apache.commons.math3.stat.StatUtils;
 
 public class Backup {
 
+    // TEST CODE THAT CAN BE SAFELY IGNORED.
+    // First attempt at Java ever - became involved functionally
+    // rather than objectively. Saved the code just in case.
+
     public static void main(){
 
         int low, high;

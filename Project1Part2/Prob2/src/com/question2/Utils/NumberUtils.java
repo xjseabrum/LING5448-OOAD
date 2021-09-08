@@ -4,6 +4,9 @@ import org.apache.commons.math3.stat.StatUtils;
 
 public class NumberUtils {
 
+    // I could work with just Java library, but I used the apache.commons.math3 library
+    // to get a feel for working with external libraries.
+
     public static double getMean(int[] randomArray){
 
         // https://stackoverflow.com/questions/5492553/java-library-to-calculate-the-mean
@@ -18,6 +21,7 @@ public class NumberUtils {
 
         // https://www.investopedia.com/ask/answers/021215/what-difference-between-standard-deviation-and-variance.asp
 
+        // sqrt(variance) = standardDeviation
         return Math.sqrt(StatUtils.variance(ArrayUtils.recastArray(randomArray)));
     }
 
