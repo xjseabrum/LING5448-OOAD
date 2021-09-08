@@ -8,6 +8,7 @@
 
 # Notes regarding the files 
 - Files for Problem 1 are stored in Project1Part2/Prob1/OOAD Assigment1-1/src/question1/Main.java
+- Files for Problem 2 are stored in Prob2/src/com/question2
 - Files for Problem 3 are stored in Prob3/src/ 
 
 
