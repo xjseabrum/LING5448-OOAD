@@ -1,82 +1,83 @@
+// Add notes as to why this is OO
+// as in, the purpose of the code (cohesion)
+// what the code takes in
+// what the code outputs for other objects to use.
+
 // import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 public class Wares {
-    public int totalGames;
-//    public double totalCash;
-//    public List<CashRegister> cashRegisters;
-    public List<Games> games;
-    public List<Games> damaged;
+//    public int totalGames;
+    public double totalCash;
+    public List<CashRegister> listCashReg = new ArrayList<>();
+    public List<Games> gamesList = new ArrayList<>();
+    public List<Games> damagedList = new ArrayList<>();
+    public HashMap<String, double[]> gameDimensions = new HashMap<>();
 
-    public void setTotalGames(int numGames){
-        this.totalGames = numGames;
-    }
+    //////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////
 
-    public int getTotalGames(){
-        return totalGames;
-    }
-
-//    public double getTotalCash(){
-//        return totalCash;
+    // Non-getter-setter methods
+//    public void addGame(String obj){
+//        gamesList.add(obj.getGameName());
+//
 //    }
 //
-//    public List<CashRegister> getCashRegisters(){
-//        return cashRegisters;
+//    public void removeGame(Games obj){
+//      gamesList.remove(obj.getGameName());
 //    }
+//
+    public void addListCashReg(CashRegister obj){
+        listCashReg.add(obj);
+    }
+
+    //////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////
+
+    // Explicit getters for (all) vars
+    private double getTotalGames(){
+        return gamesList.size();
+    }
+
+    public double getTotalCash(){
+        totalCash = 0;
+        for (int i = 0; i < listCashReg.size(); i++){
+            totalCash += listCashReg.get(i).getCash();
+        }
+        return totalCash;
+    }
+
+    public List<CashRegister> getListCashReg(){
+        return listCashReg;
+    }
 
     public List<Games> getGames(){
-        return games;
+        return gamesList;
     }
 
     public List<Games> getDamaged(){
-        return damaged;
+        return damagedList;
     }
 
-//    public void setTotalCash(int startCash){
-//        this.totalCash = startCash;
-//    }
-
-//    public void setCashRegisters(List<CashRegister> listReg){
-//        this.cashRegisters = listReg;
-//    }
-
-    public void setGames(List<Games> listGames){
-        this.games = listGames;
+    public HashMap<String, double[]> getGameDimensions(){
+        return gameDimensions;
     }
 
-    public void setDamaged(List<Games> listDmg){
-        this.damaged = listDmg;
+    //////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////
+
+    // Explicit setters for (all) vars
+    public void setGameDimensions(String inputName, double[] vals){
+        gameDimensions.put(inputName, vals);
     }
 
-//    private double calculateTotalCash(){
-//        double sumCash = 0;
-//        int listSize = this.cashRegisters.size();
-//
-//        for (i = 0, i < listSize, i++) {
-//            sumCash += listReg[i].getCash();
-//        }
-//
-//        return sumCash;
-//    }
+    public void removeListCashReg(CashRegister obj){
+        listCashReg.remove(obj);
+    }
 
-//    private double calculateTotalGames(){
-//
-//    }
-//
-//    public void addCashRegister(String crName){
-//        crName = new CashRegister();
-//        this.cashRegisters.add(crName);
-//    }
-//
-//    public void addGame(){
-//
-//    }
-//
-//    public void removeGame(){
-//
-//    }
-//
-//    public void removeCashRegister(){
-//
+//    public void addDamagedList(List<Games> listDmg) {
+//        damagedList.add(obj);
 //    }
 }
