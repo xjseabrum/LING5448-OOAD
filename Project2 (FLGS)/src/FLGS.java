@@ -9,7 +9,7 @@ public class FLGS {
         waresTest.setTotalGames(0);
         System.out.println(testGame.gameName);
 
-        //Testing section for Stack
+        //Testing section for EmployeeTask
         String employeeName="Jay";
         int arriveDay=1;
         CashRegister testRegister=new CashRegister();
