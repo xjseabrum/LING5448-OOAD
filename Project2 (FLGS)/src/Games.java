@@ -1,4 +1,4 @@
-public abstract class Games {
+public class Games {
 
     public double price;
     public double boxHeight;
