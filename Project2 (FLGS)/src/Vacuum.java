@@ -22,9 +22,12 @@ public class Vacuum implements Action {
 
             //reference https://www.baeldung.com/java-random-list-element
             List<Games> gameList=ware.getGames();
-            Games gameDamaged=gameList.get(r.nextInt(gameList.size()));
-            //ware.removeGame(gameDamaged);
-            System.out.println("game "+gameDamaged.getGameName()+" is damaged");
+            if(gameList!=null && !gameList.isEmpty()){
+                Games gameDamaged=gameList.get(r.nextInt(gameList.size()));
+                //ware.removeGame(gameDamaged);
+                System.out.println("game "+gameDamaged.getGameName()+" is damaged");
+            }
+
         }
     }
 }

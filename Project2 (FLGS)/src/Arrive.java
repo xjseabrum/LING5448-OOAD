@@ -10,9 +10,9 @@ public class Arrive implements Action{
         this.arriveDay=arriveDay;
     }
     public void announce() {
-        System.out.print(employeeName+" the Cashier has arrived at the store on Day "+arriveDay);
+        System.out.println(employeeName+" the Cashier has arrived at the store on Day "+arriveDay);
     }
     public void doAction() {
-        System.out.print("inventory arrived");
+        System.out.println("inventory arrived");
     }
 }

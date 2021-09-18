@@ -15,7 +15,6 @@ public class Wares {
     public int getTotalGames(){
         return totalGames;
     }
-
 //    public double getTotalCash(){
 //        return totalCash;
 //    }
