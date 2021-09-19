@@ -1,3 +1,5 @@
+package src;
+
 public class Games {
 
     public double price;

@@ -1,7 +1,15 @@
+package src;
+
+import src.TimeLine;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class FLGS {
+
+    public static TimeLine timeLine = new TimeLine();
+    public static Store store = new Store();
+
     public static void kickoff() throws Exception {
         Wares waresTest = new Wares();
         Games testGame=new CardGame();
