@@ -1,5 +1,3 @@
-package src;
-
 public class TimeLine {
     // is this class required in our current implementation?
     // Attributes.

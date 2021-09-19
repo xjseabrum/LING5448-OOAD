@@ -1,34 +1,36 @@
-package src;
-
 public class Main {
 
     public static TimeLine timeLine = new TimeLine();
     public static Store store = new Store();
+    public static CashRegister register = new CashRegister();
+    public static Wares wares = new Wares();
 
-    public static void main(){
-//        I dont think timeline object is required.
-//        TimeLine timeLine = new TimeLine();
 
-        Store store = new Store();
-        store.addShelf();
-        store.addShelf();
-        store.addShelf();
+    public static void main(String[] args){
 
-        store.spawnCashier("Burt", 0.05);
-        store.spawnCashier("Ernie", 0.10);
 
-        for (int i=0; i<=30; i++){
+        store.setupNewStore(1);
+        // TODO: wares.setupWares() for init conditions of inventory
 
-            int numOfCustomers = RandomUtils.getRandomInt(4);
 
-            for (int c=0; c<=numOfCustomers; c++){
-                // store.spawnCustomer(); (is this required?)
-                Customer customer = new Customer();
-                boolean customerWillBuy = RandomUtils.getRandomBool();
-                if (customerWillBuy) {
-                    customer.buyGame();
-                }
-            }
+        for (int day=0; day<=30; day++){
+
+            // Arrive
+            store.doDailyRollCall(day);
+
+            // Count, Vacuum, Stack, Open
+            store.doDailyMaintainence();
+
+
+            // Sell to customers
+            // TODO: CashierTask "Sell()"
+            store.doDailyBuisness(4);
+
+
+            // Order
+            // Close
+            store.doDailyPunchOut();
+            System.out.println("\n\n");
         }
     }
 }

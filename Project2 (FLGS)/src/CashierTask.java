@@ -1,5 +1,3 @@
-package src;
-
 public class CashierTask {
     Arrive arrive;
     Close close;

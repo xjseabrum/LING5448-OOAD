@@ -1,5 +1,3 @@
-package src;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -39,11 +37,11 @@ public class Customer {
         return shelf.getGamePile().get(selectedGameIndex);
     }
 
-    public Games buyGame(){
+    public Games buyGame(List<Shelf> shelves){
 
-        Shelf shelf = selectShelf(Main.store.shelves);
+        Shelf shelf = selectShelf(shelves);
         Games game = selectGame(shelf);
-        boolean ifGameBought = shelf.removeFromGamePile(game);
+//        boolean ifGameBought = shelf.removeFromGamePile(game);
 
         // TODO: Check if game is not found and then raiseError?
         // TODO: Collab with Wei Tung on how to inform employee about the game

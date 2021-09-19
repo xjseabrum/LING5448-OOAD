@@ -1,5 +1,3 @@
-package src;
-
 // Add notes as to why this is OO
 // as in, the purpose of the code (cohesion)
 // what the code takes in

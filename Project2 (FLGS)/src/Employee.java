@@ -1,5 +1,3 @@
-package src;
-
 public class Employee {
 
     protected String name;

@@ -1,17 +1,13 @@
-package src;
-
 public class Cashier extends Employee{
 
-    double vaccumDamageRange;
-    CashierTask cashierTask;
+    int vaccumDamageRate;
+    CashierTask tasks;
 
-    public Cashier(String name, double vaccumDamageRange){
-        super(name);
-        this.vaccumDamageRange = vaccumDamageRange;
+    public Cashier(String cashierName, int arrivalDay, CashRegister register, Store store, Wares ware, int damageRate, Stack stack){
 
-        // need clarification from Wei Tung over how to implement cashier tasks.
+        super(cashierName);
+        this.vaccumDamageRate = damageRate;
+        this.tasks = new CashierTask(cashierName, arrivalDay, register, store, ware, damageRate, stack);
+        // need clarification from Jay : 1 or many cash registers?
     }
-
-
-
 }

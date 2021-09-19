@@ -1,7 +1,3 @@
-package src;
-
-import src.TimeLine;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -14,7 +10,7 @@ public class FLGS {
         Wares waresTest = new Wares();
         Games testGame=new CardGame();
         testGame.setGameName("poker");
-        waresTest.setTotalGames(0);
+//        waresTest.setTotalGames(0);
         System.out.println(testGame.gameName);
 
         //Testing section for EmployeeTask
@@ -42,7 +38,7 @@ public class FLGS {
         gameList.add(g1);
         gameList.add(g3);
         gameList.add(g2);
-        testWare.setGames(gameList);
+//        testWare.setGames(gameList);
 
         int damageRate=50;
         Stack stack=new HighestFirstStack(testWare,employeeName);
