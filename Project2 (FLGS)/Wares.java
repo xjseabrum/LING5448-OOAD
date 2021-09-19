@@ -9,26 +9,26 @@ import java.util.HashMap;
 import java.util.List;
 
 public class Wares {
-//    public int totalGames;
+    public int totalGames;
     public double totalCash;
     public List<CashRegister> listCashReg = new ArrayList<>();
-    public List<Games> gamesList = new ArrayList<>();
-    public List<Games> damagedList = new ArrayList<>();
-    public HashMap<String, double[]> gameDimensions = new HashMap<>();
+    public List<String> gamesList = new ArrayList<>();
+    public List<String> damagedList = new ArrayList<>();
+//    public HashMap<String, double[]> gameDimensions = new HashMap<>();
 
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////
 
     // Non-getter-setter methods
-//    public void addGame(String obj){
-//        gamesList.add(obj.getGameName());
-//
-//    }
-//
-//    public void removeGame(Games obj){
-//      gamesList.remove(obj.getGameName());
-//    }
-//
+    public void addGame(Games obj){
+        gamesList.add(obj.getGameName());
+
+    }
+
+    public void removeGame(Games obj){
+      gamesList.remove(obj.getGameName());
+    }
+
     public void addListCashReg(CashRegister obj){
         listCashReg.add(obj);
     }
@@ -53,31 +53,31 @@ public class Wares {
         return listCashReg;
     }
 
-    public List<Games> getGames(){
+    public List<String> getGames(){
         return gamesList;
     }
 
-    public List<Games> getDamaged(){
+    public List<String> getDamaged(){
         return damagedList;
     }
 
-    public HashMap<String, double[]> getGameDimensions(){
-        return gameDimensions;
-    }
+//    public HashMap<String, double[]> getGameDimensions(){
+//        return gameDimensions;
+//    }
 
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////
 
     // Explicit setters for (all) vars
-    public void setGameDimensions(String inputName, double[] vals){
-        gameDimensions.put(inputName, vals);
-    }
+//    public void setGameDimensions(String inputName, double[] vals){
+//        gameDimensions.put(inputName, vals);
+//    }
 
     public void removeListCashReg(CashRegister obj){
         listCashReg.remove(obj);
     }
 
-//    public void addDamagedList(List<Games> listDmg) {
-//        damagedList.add(obj);
-//    }
+    public void addDamagedList(Games obj) {
+        damagedList.add(obj.getGameName());
+    }
 }

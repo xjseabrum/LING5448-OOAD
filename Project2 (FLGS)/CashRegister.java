@@ -8,15 +8,15 @@ import java.util.Map;
 
 public class CashRegister {
     public double cash = 0;
-    public HashMap<String, Double> priceTable = new HashMap<>();
-
-    public HashMap<String, Double> getPriceTable(){
-        return priceTable;
-    }
-
-    public void setPriceTable(String inputName, double inputVal) {
-        priceTable.put(inputName, inputVal);
-    }
+//    public HashMap<String, Double> priceTable = new HashMap<>();
+//
+//    public HashMap<String, Double> getPriceTable(){
+//        return priceTable;
+//    }
+//
+//    public void setPriceTable(String inputName, double inputVal) {
+//        priceTable.put(inputName, inputVal);
+//    }
 
     public double getCash(){
         return cash;
