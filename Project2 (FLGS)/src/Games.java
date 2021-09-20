@@ -1,3 +1,12 @@
+// This is the Games superclass.
+// This is an abstract class.
+// It forms the base of the inheritance structure,
+// by which KidsGame, BoardGame, CardGame and FamilyGame
+// inherit their shared attributes, functions, and methods.
+
+// Games calls an object, gi, which contains
+// the hashmaps to the names, prices, and dimensions of the games.
+
 public abstract class Games {
 
     public double price;
@@ -9,29 +18,55 @@ public abstract class Games {
     public int currentPosition;
     public int damageContainer = 0;
     public String gameName;
+    public String gameType;
+    GameInfo gi = new GameInfo();
 
+    //////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////
+
+    // Constructor
     public Games(){
 
     }
 
+    //////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////
+
+    // Non-getter-setter methods
+    public void addInventory(int addToInv){
+        this.inventory += addToInv;
+    }
+
+    public boolean Sold(int numSold){
+        if (this.inventory < numSold) {
+            return false;
+        } else {
+            this.sold += numSold;
+            this.inventory -= numSold;
+            return true;
+        }
+    }
+
+    //////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////
+
+    // Getters
     public double getPrice(){
         return price;
     }
 
-    // getters for dimensions to refer to hashmap
-
-    public double getBoxHeight(GameInfo obj){
-        boxHeight = obj.gameDimensions.get(this.getGameName())[0];
+    public double getBoxHeight(){
+        this.boxHeight = gi.gameDimensions().get(this.getGameName())[0];
         return boxHeight;
     }
 
-    public double getBoxWidth(GameInfo obj){
-        boxWidth = obj.gameDimensions.get(this.getGameName())[1];
+    public double getBoxWidth(){
+        this.boxWidth = gi.gameDimensions().get(this.getGameName())[1];
         return boxWidth;
     }
 
-    public double getBoxLength(GameInfo obj){
-        boxLength = obj.gameDimensions.get(this.getGameName())[2];
+    public double getBoxLength(){
+        this.boxLength = gi.gameDimensions().get(this.getGameName())[2];
         return boxLength;
     }
 
@@ -51,9 +86,26 @@ public abstract class Games {
         return damageContainer;
     }
 
+    public String getGameName(){
+        return gameName;
+    }
+
+    public String getGameType(){
+        return gameType;
+    }
+
+    //////////////////////////////////////////////////////////////////////////
+    //////////////////////////////////////////////////////////////////////////
+
+    // Setters
     public void setPrice(double itemPrice) throws Exception {
+        this.price = gi.priceTable().get(this.getGameName());
         this.price = Math.round(itemPrice * 100.0) / 100.0;
 
+        gi.priceTable().replace(this.gameName,
+                                Math.round(itemPrice * 100.0) / 100.0);
+
+        // Check to ensure the price falls between 5 and 100, inclusive.
         if(this.price < 5 || this.price > 100){
             try
             {
@@ -64,35 +116,14 @@ public abstract class Games {
                 System.out.println("Price must be between 5-100, inclusive.");
                 throw e;
             }
-
         }
     }
 
-    // Explicit setters commented out as the item LxWxH are in the hashmap.
-//    public void setBoxHeight(double itemHeight){
-//        this.boxHeight = itemHeight;
-//    }
-//
-//    public void setBoxWidth(double itemWidth){
-//        this.boxWidth = itemWidth;
-//    }
-//
-//    public void setBoxLength(double itemLength){
-//        this.boxLength = itemLength;
-//    }
-
-    public void addInventory(int addToInv){
-        this.inventory += addToInv;
+    public void setGameName(String newName){
+        this.gameName = newName;
     }
-
-    public boolean Sold(int numSold){
-        if (this.inventory < numSold) {
-            return false;
-        } else {
-            this.sold += numSold;
-            this.inventory -= numSold;
-            return true;
-        }
+    public void setGameType(String newType){
+        this.gameType = newType;
     }
 
     public void setCurrentPosition(int shelfPos){
@@ -101,13 +132,5 @@ public abstract class Games {
 
     public void setDamageContainer(int numDmg){
         this.damageContainer = numDmg;
-    }
-
-    public String getGameName(){
-        return gameName;
-    }
-
-    public void setGameName(String newName){
-        this.gameName = newName;
     }
 }
