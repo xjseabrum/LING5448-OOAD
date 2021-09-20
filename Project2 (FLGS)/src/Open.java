@@ -13,7 +13,6 @@ public class Open implements Action {
     }
     @Override
     public void doAction() {
-        int num=r.nextInt(4);
-        //store.generateCustomer(num);
+        //Here would do nothing because customer coming and customer buying is implemented in Store.java
     }
 }

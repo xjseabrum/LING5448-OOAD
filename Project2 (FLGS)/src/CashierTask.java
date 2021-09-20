@@ -13,7 +13,7 @@ public class CashierTask {
         this.open=new Open(store);
         this.stack=stack;
         this.vacuum=new Vacuum(damageRate,ware);
-        this.order=new Order(ware);
+        this.order=new Order(ware,register,this.arrive);
     }
     public void arrive(){
         arrive.announce();

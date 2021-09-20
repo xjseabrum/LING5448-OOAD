@@ -24,7 +24,9 @@ public class Vacuum implements Action {
             List<Games> gameList=ware.getGames();
             if(gameList!=null && !gameList.isEmpty()){
                 Games gameDamaged=gameList.get(r.nextInt(gameList.size()));
-                //ware.removeGame(gameDamaged);
+
+                //TODO: should have a decrement function of game inventory.
+                gameDamaged.inventory=gameDamaged.inventory-1;
                 System.out.println("game "+gameDamaged.getGameName()+" is damaged");
             }
 
