@@ -53,15 +53,15 @@ public class FLGS {
         risk.setGameName("Risk");
         gloomhaven.setGameName("Gloomhaven");
 
-
+        System.out.println(monopoly.getBoxHeight());
 //        System.out.println(cumulSum.cumul(new int[]{7, 6, 8, 9}));
 
         // Testing: Making sure all prices and dimensions print to console.
-//        for (int i = 0; i < gameInfo.gameList.length; i++){
-//            System.out.println(gameInfo.gameList[i]);
-//            System.out.println("Price: $" + gameInfo.priceTable().get(gameInfo.gameList[i]));
-//            System.out.println("Dim: " + Arrays.toString(gameInfo.gameDimensions().get(gameInfo.gameList[i])));
-//        }
+        for (int i = 0; i < gameInfo.gameList.length; i++){
+            System.out.println(gameInfo.gameList[i]);
+            System.out.println("Price: $" + gameInfo.priceTable().get(gameInfo.gameList[i]));
+            System.out.println("Dim: " + Arrays.toString(gameInfo.gameDimensions().get(gameInfo.gameList[i])));
+        }
 
     }
 
