@@ -6,6 +6,8 @@ public class CashierTask {
     Order order;
     Stack stack;
     Vacuum vacuum;
+    Sold sold=new Sold();
+    CashRegister cashRegister;
     public CashierTask(String employeeName, int arriveDay,CashRegister register,Object store,Wares ware, int damageRate,Stack stack){
         this.arrive=new Arrive(employeeName,arriveDay);
         this.close=new Close();
@@ -14,6 +16,7 @@ public class CashierTask {
         this.stack=stack;
         this.vacuum=new Vacuum(damageRate,ware);
         this.order=new Order(ware,register,this.arrive);
+        this.cashRegister=register;
     }
     public void arrive(){
         arrive.announce();
@@ -42,6 +45,9 @@ public class CashierTask {
     public void vacuum(){
         vacuum.announce();
         vacuum.doAction();
+    }
+    public void sold(Games gameSold, String customerName){
+        sold.doAction(gameSold,customerName,cashRegister);
     }
 
 

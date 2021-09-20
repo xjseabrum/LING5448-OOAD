@@ -22,6 +22,7 @@ public class Arrive implements Action{
                 System.out.println("game "+game.getGameName()+" arrived");
             }
         }
+        this.gameOrderedLastnight=new ArrayList<>();
     }
     public void setOrderedGames(List<Games> games){
         this.gameOrderedLastnight=games;
