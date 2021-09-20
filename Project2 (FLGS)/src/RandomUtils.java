@@ -26,4 +26,8 @@ public class RandomUtils {
     public static boolean getRandomBool(){
         return rand.nextBoolean();
     }
+
+    public static double getRandomDouble(){
+        return rand.nextDouble();
+    }
 }

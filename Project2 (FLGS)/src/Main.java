@@ -1,6 +1,5 @@
 public class Main {
 
-    public static TimeLine timeLine = new TimeLine();
     public static Store store = new Store();
     public static CashRegister register = new CashRegister();
     public static Wares wares = new Wares();
@@ -8,29 +7,30 @@ public class Main {
 
     public static void main(String[] args){
 
-
-        store.setupNewStore(1);
-        // TODO: wares.setupWares() for init conditions of inventory
-
-
-        for (int day=0; day<=30; day++){
-
-            // Arrive
-            store.doDailyRollCall(day);
-
-            // Count, Vacuum, Stack, Open
-            store.doDailyMaintainence();
+        FamilyGame monopoly = new FamilyGame();
+        FamilyGame clue = new FamilyGame();
+        FamilyGame life = new FamilyGame();
 
 
-            // Sell to customers
-            // TODO: CashierTask "Sell()"
-            store.doDailyBuisness(4);
+        CardGame magic = new CardGame();
+        CardGame pokemon = new CardGame();
+        CardGame netrunner = new CardGame();
 
+        BoardGame catan = new BoardGame();
+        BoardGame risk = new BoardGame();
+        BoardGame gloomhaven = new BoardGame();
 
-            // Order
-            // Close
-            store.doDailyPunchOut();
-            System.out.println("\n\n");
-        }
+        wares.addGame(monopoly);
+        wares.addGame(monopoly);
+        wares.addGame(clue);
+        wares.addGame(life);
+        wares.addGame(pokemon);
+        wares.addGame(netrunner);
+        wares.addGame(catan);
+        wares.addGame(risk);
+        wares.addGame(gloomhaven);
+        wares.addGame(magic);
+
+       store.simulate(30);
     }
 }

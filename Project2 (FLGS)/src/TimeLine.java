@@ -4,8 +4,6 @@ public class TimeLine {
     private int daysElapsed = 0;
     private int currentDay = 0;
 
-    public Games games = new Games();
-
 
     // Getters and Setters
     public int getDaysElapsed() {

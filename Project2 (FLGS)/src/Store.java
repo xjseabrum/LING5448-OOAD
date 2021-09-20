@@ -5,17 +5,20 @@ import java.util.Random;
 public class Store {
 
     // attributes
-    public List<Shelf> shelves = new ArrayList<Shelf>();
+//    public List<Shelf> shelves = new ArrayList<Shelf>();
     public List<Customer> customers = new ArrayList<Customer>();
     public List<Cashier> cashiers = new ArrayList<Cashier>();
 
     // getters and setters
+    public Cashier getCashier(){
+        return this.cashiers.get(0);
+    }
 
     // methods
-    public void addShelf(){
-        int shelfNumber = shelves.size();
-        shelves.add(new Shelf(shelfNumber));
-    }
+//    public void addShelf(){
+//        int shelfNumber = shelves.size();
+//        shelves.add(new Shelf(shelfNumber));
+//    }
 
     public void spawnCustomer(){
         customers.add(new Customer());
@@ -23,25 +26,6 @@ public class Store {
 
     public void spawnCashier(String name, int arrivalDay, int vaccumDamageRate, Stack stack){
         cashiers.add(new Cashier(name, arrivalDay, Main.register, this, Main.wares, vaccumDamageRate, stack));
-    }
-
-    public void setupNewStore(int numShelves){
-
-        // TODO: needs to be re-written after understanding init conditions.
-
-        for (int i=0; i<=numShelves; i++) {
-            this.addShelf();
-        }
-
-        for (Shelf shelf:this.shelves){
-            int numGames = RandomUtils.getRandomInt(4);
-            if (numGames==0){
-                numGames += 1;
-            }
-            for (int i=0; i<= numGames; i++) {
-                shelf.addToGamePile(new BoardGame());
-            }
-        }
     }
 
     public void doDailyRollCall(int day){
@@ -81,15 +65,10 @@ public class Store {
         System.out.println(numOfCustomers+1 + " customers have visited the store today.");
 
         for (int c=0; c<=numOfCustomers; c++){
-            // store.spawnCustomer(); (is this required?)
             Customer customer = new Customer();
-            boolean customerWillBuy = RandomUtils.getRandomBool();  // they may or may not buy something
-            if (customerWillBuy) {
-                System.out.println("Customer named " + customer.getCustomerName() + " has bought the following game:");
-                System.out.println(customer.buyGame(this.shelves));
-            }
+            System.out.println("Customer named " + customer.getCustomerName() + " is inspecting the shelves.");
+            customer.buyGame(Main.wares.gamesList);
         }
-
     }
 
     public void doDailyPunchOut(){
@@ -98,5 +77,15 @@ public class Store {
             cashier.tasks.close();
         }
         this.cashiers.clear();
+    }
+
+    public void simulate(int days){
+
+        for (int day=0; day<=days; day++){
+            this.doDailyRollCall(day);
+            this.doDailyMaintainence();
+            this.doDailyBuisness(4);
+            this.doDailyPunchOut();
+        }
     }
 }

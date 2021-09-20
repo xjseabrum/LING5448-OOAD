@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Customer {
@@ -9,10 +10,12 @@ public class Customer {
 
     public Customer(String name){
         this.name = name;
+        shelfPreferenceProbability.addAll(Arrays.asList(0.8, 0.82, 0.84, 0.86, 0.88, 0.90, 0.92, 0.94, 0.96, 0.98, 1.0));
     }
 
     public Customer(){
-        this.name = RandomUtils.getRandomName(10);
+        name = RandomUtils.getRandomName(10);
+        shelfPreferenceProbability.addAll(Arrays.asList(0.8, 0.82, 0.84, 0.86, 0.88, 0.90, 0.92, 0.94, 0.96, 0.98, 1.0));
     }
 
     //Getters and Setters.
@@ -31,21 +34,37 @@ public class Customer {
         return shelves.get(selectedShelfIndex);
     }
 
-    public Games selectGame(Shelf shelf){
+    public int selectGame(){
 
-        int selectedGameIndex = RandomUtils.getRandomInt(shelf.getGamePile().size());
-        return shelf.getGamePile().get(selectedGameIndex);
+        double probabilityOfBuy = RandomUtils.getRandomDouble();
+        int i=0;
+
+        while (i<shelfPreferenceProbability.size()){
+            if (probabilityOfBuy <= shelfPreferenceProbability.get(i)){
+                return i-1;
+            }
+            i++;
+        }
+        return -1;
     }
 
-    public Games buyGame(List<Shelf> shelves){
+    public void buyGame(List<Games> shelf){
 
-        Shelf shelf = selectShelf(shelves);
-        Games game = selectGame(shelf);
-//        boolean ifGameBought = shelf.removeFromGamePile(game);
+        List<Games> inInventory = new ArrayList<>();
+        for (Games gameInInventory:shelf){
+            if (gameInInventory.getInventory()>0) {
+                inInventory.add(gameInInventory);
+            }
+        }
 
-        // TODO: Check if game is not found and then raiseError?
-        // TODO: Collab with Wei Tung on how to inform employee about the game
+        int selectedGame = this.selectGame();
 
-        return game;
+        if ((selectedGame>-1) && (selectedGame<inInventory.size())) {
+            System.out.println("Customer named " + this.name + "has selected game " + inInventory.get(selectedGame).getGameName());
+            Main.store.getCashier().tasks.sold(inInventory.get(selectedGame), this.getCustomerName());
+        }
+        else {
+            System.out.println("Customer named " + this.name + "has not purchased anything and left the store");
+        }
     }
 }
