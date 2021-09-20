@@ -66,12 +66,25 @@ public class FLGS {
         risk.setGameName("Risk"); risk.setPrice(gameInfo.getPriceTable().get("Risk"));
         gloomhaven.setGameName("Gloomhaven"); gloomhaven.setPrice(gameInfo.getPriceTable().get("Gloomhaven"));
 
+
+        storeroom.addGame(monopoly);
+        storeroom.addGame(catan);
+        storeroom.addGame(pokemon);
+        storeroom.addGame(risk);
+
+        System.out.println(storeroom.getGames());
+
         // Testing: Making sure all prices and dimensions print to console.
         for (int i = 0; i < gameInfo.gameList.length; i++){
             System.out.println(gameInfo.gameList[i]);
             System.out.println("Price: $" + gameInfo.getPriceTable().get(gameInfo.gameList[i]));
             System.out.println("Dim: " + Arrays.toString(gameInfo.getGameDimensions().get(gameInfo.gameList[i])));
         }
+
+        System.out.println(monopoly.getBoxWidth(gameInfo));
+        System.out.println(monopoly.getBoxHeight(gameInfo));
+        System.out.println(monopoly.getBoxLength(gameInfo));
+
     }
 
     public static void main(String[] args) throws Exception {
