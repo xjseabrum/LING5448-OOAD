@@ -1,30 +1,31 @@
-import java.util.ArrayList;
-import java.util.List;
+// Jay's main testing ground
+// Mostly will be instantiations of objects to get things going
+// within my third of the code responsibility.
+
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.HashMap;
 
 public class FLGS {
 
-    public static TimeLine timeLine = new TimeLine();
-    public static Store store = new Store();
-
     public static void kickoff() throws Exception {
-        Wares waresTest = new Wares();
-        Games testGame=new CardGame();
-        testGame.setGameName("poker");
-//        waresTest.setTotalGames(0);
-        System.out.println(testGame.gameName);
+        // Instantiate the game info containing game prices and dimensions.
+        GameInfo gameInfo = new GameInfo();
 
+        // Instantiate the store's storeroom
+        Wares wares = new Wares();
 
-        //Testing section for EmployeeTask
-        String employeeName="Jay";
-        int arriveDay=1;
-        CashRegister testRegister=new CashRegister();
-        Object store=new Object();
-        Wares testWare=new Wares();
+        // Instantiate the store's cash register
+        CashRegister cr = new CashRegister();
 
+        // Instantiate the game objects that are specified in the assignment:
         FamilyGame monopoly = new FamilyGame();
         FamilyGame clue = new FamilyGame();
         FamilyGame life = new FamilyGame();
 
+        KidsGame mousetrap = new KidsGame();
+        KidsGame candyland = new KidsGame();
+        KidsGame connectFour = new KidsGame();
 
         CardGame magic = new CardGame();
         CardGame pokemon = new CardGame();
@@ -34,33 +35,33 @@ public class FLGS {
         BoardGame risk = new BoardGame();
         BoardGame gloomhaven = new BoardGame();
 
-        List<Games> gameList=new ArrayList<Games>();
-        gameList.add(monopoly);
-        gameList.add(clue);
-        gameList.add(life);
-        gameList.add(pokemon);
-        gameList.add(netrunner);
-        gameList.add(catan);
-        gameList.add(risk);
-        gameList.add(gloomhaven);
-        gameList.add(magic);
+        // Setting the game name manually
+        // Surely there is a way to do this more automatically.
+        monopoly.setGameName("Monopoly");
+        clue.setGameName("Clue");
+        life.setGameName("Life");
 
-        //        testWare.setGames(gameList);
+        mousetrap.setGameName("Mousetrap");
+        candyland.setGameName("Candyland");
+        connectFour.setGameName("Connect Four");
 
-        int damageRate=50;
-        Stack stack=new HighestFirstStack(testWare,employeeName);
-        CashierTask testTask=new CashierTask(employeeName,arriveDay,testRegister,store,testWare,damageRate,stack);
+        magic.setGameName("Magic");
+        pokemon.setGameName("Pokemon");
+        netrunner.setGameName("Netrunner");
 
-        testTask.arrive();
-        testTask.count();
-        testTask.open();
-        testTask.vacuum();
-        testTask.stack();
-        testTask.order();
-        testTask.close();
+        catan.setGameName("Catan");
+        risk.setGameName("Risk");
+        gloomhaven.setGameName("Gloomhaven");
 
+        System.out.println(monopoly.getBoxHeight());
+//        System.out.println(cumulSum.cumul(new int[]{7, 6, 8, 9}));
 
-        //Test End
+        // Testing: Making sure all prices and dimensions print to console.
+        for (int i = 0; i < gameInfo.gameList.length; i++){
+            System.out.println(gameInfo.gameList[i]);
+            System.out.println("Price: $" + gameInfo.priceTable().get(gameInfo.gameList[i]));
+            System.out.println("Dim: " + Arrays.toString(gameInfo.gameDimensions().get(gameInfo.gameList[i])));
+        }
 
     }
 
