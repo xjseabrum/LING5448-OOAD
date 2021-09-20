@@ -30,7 +30,7 @@ public class Order implements Action{
         int costOfGame=0;
         for(Games game:outOfStockGames){
             game.addInventory(3);
-            costOfGame+=game.getPrice()*3;
+            costOfGame += Math.round(game.getPrice()*3*0.5*100.0/100.0);
         }
         cashRegister.removeCash(costOfGame);
         //Putting ordered games in Arrive object is not a good practice, gonna changed it one day.
