@@ -3,9 +3,7 @@
 // what the code takes in
 // what the code outputs for other objects to use.
 
-// import java.util.Arrays;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
 public class Wares {
@@ -14,7 +12,6 @@ public class Wares {
     public List<CashRegister> listCashReg = new ArrayList<>();
     public List<Games> gamesList = new ArrayList<>();
     public List<Games> damagedList = new ArrayList<>();
-//    public HashMap<String, double[]> gameDimensions = new HashMap<>();
 
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////
@@ -30,6 +27,18 @@ public class Wares {
 
     public void addListCashReg(CashRegister obj){
         listCashReg.add(obj);
+    }
+
+    public void removeListCashReg(CashRegister obj){
+        listCashReg.remove(obj);
+    }
+
+    public void addDamagedList(Games obj) {
+        damagedList.add(obj);
+    }
+
+    public void removeDamagedList(Games obj) {
+        damagedList.remove(obj);
     }
 
     //////////////////////////////////////////////////////////////////////////
@@ -60,23 +69,7 @@ public class Wares {
         return damagedList;
     }
 
-//    public HashMap<String, double[]> getGameDimensions(){
-//        return gameDimensions;
-//    }
-
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////
 
-    // Explicit setters for (all) vars
-//    public void setGameDimensions(String inputName, double[] vals){
-//        gameDimensions.put(inputName, vals);
-//    }
-
-    public void removeListCashReg(CashRegister obj){
-        listCashReg.remove(obj);
-    }
-
-    public void addDamagedList(Games obj) {
-        damagedList.add(obj);
-    }
 }

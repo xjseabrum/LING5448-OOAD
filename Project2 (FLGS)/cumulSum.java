@@ -1,7 +1,8 @@
-// Add notes as to why this is OO
-// as in, the purpose of the code (cohesion)
-// what the code takes in
-// what the code outputs for other objects to use.
+// Cumulative sum takes in an integer array input and computes the
+// iterative sum across the array.  It also normalizes it to one
+// on the chance that the sum of the internals exceeds one.
+
+// This is used to check which shelf the customer checks.
 
 import java.util.Arrays;
 
