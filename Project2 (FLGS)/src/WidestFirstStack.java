@@ -1,3 +1,4 @@
+import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
@@ -14,6 +15,7 @@ public class WidestFirstStack extends Stack{
         List<Games> stack = ware.getGames();
         if( stack!=null && !stack.isEmpty()) {
             stack.sort(Comparator.comparing(a -> a.getBoxWidth()));
+            Collections.reverse(stack);
             for (int i = 0; i < stack.size(); i++) {
                 Games game = stack.get(i);
                 System.out.println(EmployeeName + " stacked " + game.getInventory() + " " +
