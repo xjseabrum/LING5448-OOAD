@@ -1,4 +1,4 @@
-public class Games {
+public abstract class Games {
 
     public double price;
     public double boxHeight;
@@ -18,15 +18,20 @@ public class Games {
         return price;
     }
 
-    public double getBoxHeight(){
+    // getters for dimensions to refer to hashmap
+
+    public double getBoxHeight(GameInfo obj){
+        boxHeight = obj.gameDimensions.get(this.getGameName())[0];
         return boxHeight;
     }
 
-    public double getBoxWidth(){
+    public double getBoxWidth(GameInfo obj){
+        boxWidth = obj.gameDimensions.get(this.getGameName())[1];
         return boxWidth;
     }
 
-    public double getBoxLength(){
+    public double getBoxLength(GameInfo obj){
+        boxLength = obj.gameDimensions.get(this.getGameName())[2];
         return boxLength;
     }
 
@@ -63,17 +68,18 @@ public class Games {
         }
     }
 
-    public void setBoxHeight(double itemHeight){
-        this.boxHeight = itemHeight;
-    }
-
-    public void setBoxWidth(double itemWidth){
-        this.boxWidth = itemWidth;
-    }
-
-    public void setBoxLength(double itemLength){
-        this.boxLength = itemLength;
-    }
+    // Explicit setters commented out as the item LxWxH are in the hashmap.
+//    public void setBoxHeight(double itemHeight){
+//        this.boxHeight = itemHeight;
+//    }
+//
+//    public void setBoxWidth(double itemWidth){
+//        this.boxWidth = itemWidth;
+//    }
+//
+//    public void setBoxLength(double itemLength){
+//        this.boxLength = itemLength;
+//    }
 
     public void addInventory(int addToInv){
         this.inventory += addToInv;
@@ -104,5 +110,4 @@ public class Games {
     public void setGameName(String newName){
         this.gameName = newName;
     }
-
 }
