@@ -15,7 +15,10 @@ public class Shelf {
 
     public Shelf(int shelfNumber){
         this.shelfNumber = shelfNumber;
-        this.shelfProbability = 0.20;
+        this.shelfProbability = 0.20 - (0.02)*(shelfNumber);
+        if (this.shelfProbability <= 0){
+         this.shelfProbability = 0;
+        }
     }
 
     //Getters and Setters.
