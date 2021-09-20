@@ -48,6 +48,10 @@ public class Main {
         wares.addGame(clue);
         wares.addGame(life);
 
+        wares.addGame(mousetrap);
+        wares.addGame(candyland);
+        wares.addGame(connectFour);
+
         wares.addGame(pokemon);
         wares.addGame(netrunner);
         wares.addGame(catan);

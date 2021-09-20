@@ -15,7 +15,7 @@ public class Customer {
     }
 
     public Customer(){
-        name = RandomUtils.getRandomName(10);
+        name = RandomUtils.getRandomName(6);
         shelfPreferenceProbability.addAll(Arrays.asList(0.8, 0.82, 0.84, 0.86, 0.88, 0.90, 0.92, 0.94, 0.96, 0.98, 1.0));
     }
 
@@ -38,7 +38,7 @@ public class Customer {
     public int selectGame(){
 
         double probabilityOfBuy = RandomUtils.getRandomDouble();
-        int i=0;
+        int i = 0;
 
         while (i < shelfPreferenceProbability.size()){
             if (probabilityOfBuy <= shelfPreferenceProbability.get(i)){
@@ -53,14 +53,14 @@ public class Customer {
 
         List<Games> inInventory = new ArrayList<>();
         for (Games gameInInventory:shelf){
-            if (gameInInventory.getInventory()>0) {
+            if (gameInInventory.getInventory() > 0) {
                 inInventory.add(gameInInventory);
             }
         }
 
         int selectedGame = this.selectGame();
 
-        if ( (selectedGame>-1) && (selectedGame<inInventory.size()) ) {
+        if ( (selectedGame > -1) && (selectedGame < inInventory.size()) ) {
             System.out.println("Customer " + this.name + " has selected " + inInventory.get(selectedGame).getGameName());
             Main.store.getCashier().tasks.sold(inInventory.get(selectedGame), this.getCustomerName());
         }

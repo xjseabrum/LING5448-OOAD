@@ -4,7 +4,7 @@ import java.util.List;
 public class WidestFirstStack extends Stack{
 
     public WidestFirstStack(Wares ware, String EmployeeName) {
-        super(ware,EmployeeName);
+        super(ware, EmployeeName);
     }
 
     @Override
