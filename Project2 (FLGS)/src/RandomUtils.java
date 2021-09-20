@@ -30,4 +30,20 @@ public class RandomUtils {
     public static double getRandomDouble(){
         return rand.nextDouble();
     }
+
+    public static boolean customerBuysFromShelf(int shelfPos){
+
+        double shelfProbability = 0.2-(0.02*shelfPos);
+
+        if (shelfProbability<0){
+            return false;
+        }
+        else if (getRandomDouble()<=shelfProbability){
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+
 }
