@@ -13,6 +13,7 @@ public class Wares {
     public List<CashRegister> listCashReg = new ArrayList<>();
     public List<Games> gamesList = new ArrayList<>();
     public List<Games> damagedList = new ArrayList<>();
+    public List<Games> gameOrderedLastNight=new ArrayList<>();
 
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////

@@ -4,11 +4,9 @@ import java.util.List;
 public class Order implements Action{
     Wares ware;
     CashRegister cashRegister;
-    Arrive arrive;
-    public Order(Wares ware, CashRegister cashRegister,Arrive arrive){
+    public Order(Wares ware, CashRegister cashRegister){
         this.ware=ware;
         this.cashRegister=cashRegister;
-        this.arrive=arrive;
     }
     @Override
     public void announce() {
@@ -31,10 +29,10 @@ public class Order implements Action{
         for(Games game:outOfStockGames){
             game.addInventory(3);
             costOfGame += Math.round(game.getPrice()*3*0.5*100.0/100.0);
+            ware.gameOrderedLastNight.add(game);
         }
 
         cashRegister.removeCash(costOfGame);
         //Putting ordered games in Arrive object is not a good practice, gonna changed it one day.
-        arrive.setOrderedGames(outOfStockGames);
     }
 }

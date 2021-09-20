@@ -13,13 +13,13 @@ public class CashierTask {
     CashRegister cashRegister;
     public CashierTask(String employeeName, int arriveDay, CashRegister register,
                        Object store,Wares ware, int damageRate,Stack stack) {
-        this.arrive = new Arrive(employeeName,arriveDay);
+        this.arrive = new Arrive(employeeName,arriveDay,ware);
         this.close = new Close();
         this.count = new Count(register);
         this.open = new Open(store);
         this.stack = stack;
         this.vacuum = new Vacuum(damageRate,ware);
-        this.order = new Order(ware,register,this.arrive);
+        this.order = new Order(ware,register);
         this.cashRegister = register;
     }
     public void arrive(){

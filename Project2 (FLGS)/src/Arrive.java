@@ -8,10 +8,11 @@ import java.util.List;
 public class Arrive implements Action{
     String employeeName;
     int arriveDay;
-    List<Games> gameOrderedLastNight = new ArrayList<>();
-    public Arrive(String employeeName, int arriveDay){
+    Wares ware;
+    public Arrive(String employeeName, int arriveDay,Wares ware){
         this.employeeName = employeeName;
         this.arriveDay = arriveDay;
+        this.ware=ware;
     }
     public void announce() {
         System.out.println("---------------------------------------------------");
@@ -20,16 +21,13 @@ public class Arrive implements Action{
                 (arriveDay + 1) );
     }
     public void doAction() {
-        if(gameOrderedLastNight.size() > 0){
-            for(Games game:gameOrderedLastNight){
+        List<Games>gamesList=ware.gameOrderedLastNight;
+        if(gamesList.size() > 0){
+            for(Games game:gamesList){
                 System.out.println("Three new orders of " +
-                                    game.getGameName() + " have been placed " +
-                                    "and will be in stock tomorrow.");
+                                    game.getGameName() + " have arrived.");
             }
         }
-        this.gameOrderedLastNight = new ArrayList<>();
-    }
-    public void setOrderedGames(List<Games> games){
-        this.gameOrderedLastNight = games;
+        ware.gameOrderedLastNight = new ArrayList<>();
     }
 }

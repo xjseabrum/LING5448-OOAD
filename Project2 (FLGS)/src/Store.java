@@ -75,7 +75,6 @@ public class Store {
         for (Cashier cashier:this.cashiers){
             cashier.tasks.order();
             cashier.tasks.close();
-            cashier.tasks.arrive.doAction();
         }
         this.cashiers.clear();
     }
