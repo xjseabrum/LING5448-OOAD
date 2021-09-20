@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+
 public class Customer {
 
     // Attributes.
@@ -39,7 +40,7 @@ public class Customer {
         double probabilityOfBuy = RandomUtils.getRandomDouble();
         int i=0;
 
-        while (i<shelfPreferenceProbability.size()){
+        while (i < shelfPreferenceProbability.size()){
             if (probabilityOfBuy <= shelfPreferenceProbability.get(i)){
                 return i-1;
             }
@@ -59,12 +60,12 @@ public class Customer {
 
         int selectedGame = this.selectGame();
 
-        if ((selectedGame>-1) && (selectedGame<inInventory.size())) {
-            System.out.println("Customer named " + this.name + "has selected game " + inInventory.get(selectedGame).getGameName());
+        if ( (selectedGame>-1) && (selectedGame<inInventory.size()) ) {
+            System.out.println("Customer " + this.name + " has selected " + inInventory.get(selectedGame).getGameName());
             Main.store.getCashier().tasks.sold(inInventory.get(selectedGame), this.getCustomerName());
         }
         else {
-            System.out.println("Customer named " + this.name + "has not purchased anything and left the store");
+            System.out.println("Customer " + this.name + " did not purchase anything and left the store.");
         }
     }
 }

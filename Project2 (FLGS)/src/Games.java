@@ -4,7 +4,7 @@
 // by which KidsGame, BoardGame, CardGame and FamilyGame
 // inherit their shared attributes, functions, and methods.
 
-// Games calls an object, gi, which contains
+// This object calls an object, gi, which contains
 // the hashmaps to the names, prices, and dimensions of the games.
 
 public abstract class Games {
@@ -52,7 +52,7 @@ public abstract class Games {
 
     // Getters
     public double getPrice(){
-        return price;
+        return gi.priceTable().get(this.getGameName());
     }
 
     public double getBoxHeight(){

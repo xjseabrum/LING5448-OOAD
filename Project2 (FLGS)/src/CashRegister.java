@@ -3,9 +3,6 @@
 // instantiated cash registers in the store.  As it does no other function,
 // it is incredibly cohesive.
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class CashRegister {
     public double cash = 0;
 

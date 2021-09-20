@@ -8,23 +8,27 @@ import java.util.List;
 public class Arrive implements Action{
     String employeeName;
     int arriveDay;
-    List<Games> gameOrderedLastnight=new ArrayList<>();
+    List<Games> gameOrderedLastNight = new ArrayList<>();
     public Arrive(String employeeName, int arriveDay){
-        this.employeeName=employeeName;
-        this.arriveDay=arriveDay;
+        this.employeeName = employeeName;
+        this.arriveDay = arriveDay;
     }
     public void announce() {
-        System.out.println(employeeName+" the Cashier has arrived at the store on Day "+arriveDay);
+        System.out.println("---------------------------------------------------");
+        System.out.println(employeeName +
+                           " the Cashier arrived at the store on Day " +
+                (arriveDay + 1) );
     }
     public void doAction() {
-        if(gameOrderedLastnight.size()>0){
-            for(Games game:gameOrderedLastnight){
-                System.out.println("game "+game.getGameName()+" arrived");
+        if(gameOrderedLastNight.size() > 0){
+            for(Games game:gameOrderedLastNight){
+                System.out.println("New orders of " +
+                                    game.getGameName() + " have arrived.");
             }
         }
-        this.gameOrderedLastnight=new ArrayList<>();
+        this.gameOrderedLastNight = new ArrayList<>();
     }
     public void setOrderedGames(List<Games> games){
-        this.gameOrderedLastnight=games;
+        this.gameOrderedLastNight = games;
     }
 }

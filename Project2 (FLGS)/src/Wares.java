@@ -2,6 +2,7 @@
 // as in, the purpose of the code (cohesion)
 // what the code takes in
 // what the code outputs for other objects to use.
+//
 
 import java.util.ArrayList;
 import java.util.List;

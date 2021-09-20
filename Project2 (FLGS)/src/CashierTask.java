@@ -1,3 +1,6 @@
+//Comment
+
+
 public class CashierTask {
     Arrive arrive;
     Close close;
@@ -6,17 +9,18 @@ public class CashierTask {
     Order order;
     Stack stack;
     Vacuum vacuum;
-    Sold sold=new Sold();
+    Sold sold = new Sold();
     CashRegister cashRegister;
-    public CashierTask(String employeeName, int arriveDay,CashRegister register,Object store,Wares ware, int damageRate,Stack stack){
-        this.arrive=new Arrive(employeeName,arriveDay);
-        this.close=new Close();
-        this.count=new Count(register);
-        this.open=new Open(store);
-        this.stack=stack;
-        this.vacuum=new Vacuum(damageRate,ware);
-        this.order=new Order(ware,register,this.arrive);
-        this.cashRegister=register;
+    public CashierTask(String employeeName, int arriveDay, CashRegister register,
+                       Object store,Wares ware, int damageRate,Stack stack) {
+        this.arrive = new Arrive(employeeName,arriveDay);
+        this.close = new Close();
+        this.count = new Count(register);
+        this.open = new Open(store);
+        this.stack = stack;
+        this.vacuum = new Vacuum(damageRate,ware);
+        this.order = new Order(ware,register,this.arrive);
+        this.cashRegister = register;
     }
     public void arrive(){
         arrive.announce();

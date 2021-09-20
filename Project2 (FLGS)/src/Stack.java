@@ -1,5 +1,4 @@
 
-
 public abstract class Stack implements Action {
     Wares ware;
     String EmployeeName;
@@ -10,6 +9,6 @@ public abstract class Stack implements Action {
 
     @Override
     public void announce() {
-        System.out.println("stacking");
+        System.out.println("Stacking...");
     }
 }

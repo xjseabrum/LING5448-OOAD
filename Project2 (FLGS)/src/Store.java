@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 
 public class Store {
 
@@ -62,7 +61,7 @@ public class Store {
 
         int numOfCustomers = RandomUtils.getRandomInt(maxNumCustomers);
 
-        System.out.println(numOfCustomers+1 + " customers have visited the store today.");
+        System.out.println(numOfCustomers+1 + " customer(s) visited the store today.");
 
         for (int c=0; c<=numOfCustomers; c++){
             Customer customer = new Customer();
@@ -72,7 +71,7 @@ public class Store {
     }
 
     public void doDailyPunchOut(){
-        // Employees check the registers and inventory, order new games, close shope
+        // Employees check the registers and inventory, order new games, close shop
         for (Cashier cashier:this.cashiers){
             cashier.tasks.close();
         }
@@ -81,7 +80,7 @@ public class Store {
 
     public void simulate(int days){
 
-        for (int day=0; day<=days; day++){
+        for (int day = 0; day < days; day++){
             this.doDailyRollCall(day);
             this.doDailyMaintainence();
             this.doDailyBuisness(4);
