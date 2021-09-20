@@ -56,7 +56,7 @@ public class Store {
         }
     }
 
-    public void doDailyBuisness(int maxNumCustomers){
+    public void doDailyBusiness(int maxNumCustomers){
         // Employees open the shop and customers buy stuff.
 
         int numOfCustomers = RandomUtils.getRandomInt(maxNumCustomers);
@@ -73,7 +73,9 @@ public class Store {
     public void doDailyPunchOut(){
         // Employees check the registers and inventory, order new games, close shop
         for (Cashier cashier:this.cashiers){
+            cashier.tasks.order();
             cashier.tasks.close();
+            cashier.tasks.arrive.doAction();
         }
         this.cashiers.clear();
     }
@@ -83,7 +85,7 @@ public class Store {
         for (int day = 0; day < days; day++){
             this.doDailyRollCall(day);
             this.doDailyMaintainence();
-            this.doDailyBuisness(4);
+            this.doDailyBusiness(4);
             this.doDailyPunchOut();
         }
     }

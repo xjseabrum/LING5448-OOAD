@@ -21,7 +21,6 @@ public class Wares {
     public void addGame(Games obj){
         gamesList.add(obj);
     }
-
     public void removeGame(Games obj){
       gamesList.remove(obj);
     }
@@ -73,4 +72,54 @@ public class Wares {
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////
 
+    // Instantiate the game objects that are specified in the assignment
+    public void instantiateGames(){
+        FamilyGame monopoly = new FamilyGame();
+        FamilyGame clue = new FamilyGame();
+        FamilyGame life = new FamilyGame();
+
+        KidsGame mousetrap = new KidsGame();
+        KidsGame candyland = new KidsGame();
+        KidsGame connectFour = new KidsGame();
+
+        CardGame magic = new CardGame();
+        CardGame pokemon = new CardGame();
+        CardGame netrunner = new CardGame();
+
+        BoardGame catan = new BoardGame();
+        BoardGame risk = new BoardGame();
+        BoardGame gloomhaven = new BoardGame();
+
+        monopoly.setGameName("Monopoly");
+        clue.setGameName("Clue");
+        life.setGameName("Life");
+
+        mousetrap.setGameName("Mousetrap");
+        candyland.setGameName("Candyland");
+        connectFour.setGameName("Connect Four");
+
+        magic.setGameName("Magic");
+        pokemon.setGameName("Pokemon");
+        netrunner.setGameName("Netrunner");
+
+        catan.setGameName("Catan");
+        risk.setGameName("Risk");
+        gloomhaven.setGameName("Gloomhaven");
+
+        this.addGame(monopoly);
+        this.addGame(clue);
+        this.addGame(life);
+
+        this.addGame(mousetrap);
+        this.addGame(candyland);
+        this.addGame(connectFour);
+
+        this.addGame(magic);
+        this.addGame(pokemon);
+        this.addGame(netrunner);
+
+        this.addGame(catan);
+        this.addGame(risk);
+        this.addGame(gloomhaven);
+    }
 }

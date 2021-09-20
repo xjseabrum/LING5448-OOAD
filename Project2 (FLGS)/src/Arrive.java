@@ -22,8 +22,9 @@ public class Arrive implements Action{
     public void doAction() {
         if(gameOrderedLastNight.size() > 0){
             for(Games game:gameOrderedLastNight){
-                System.out.println("New orders of " +
-                                    game.getGameName() + " have arrived.");
+                System.out.println("Three new orders of " +
+                                    game.getGameName() + " have been placed " +
+                                    "and will be in stock tomorrow.");
             }
         }
         this.gameOrderedLastNight = new ArrayList<>();

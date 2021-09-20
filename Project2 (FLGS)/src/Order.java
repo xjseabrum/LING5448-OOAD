@@ -12,7 +12,7 @@ public class Order implements Action{
     }
     @Override
     public void announce() {
-
+        System.out.println("Checking to see if games need to be restocked...");
     }
 
     @Override
@@ -32,6 +32,7 @@ public class Order implements Action{
             game.addInventory(3);
             costOfGame += Math.round(game.getPrice()*3*0.5*100.0/100.0);
         }
+
         cashRegister.removeCash(costOfGame);
         //Putting ordered games in Arrive object is not a good practice, gonna changed it one day.
         arrive.setOrderedGames(outOfStockGames);
