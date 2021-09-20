@@ -12,8 +12,8 @@ public class Wares {
     public int totalGames;
     public double totalCash;
     public List<CashRegister> listCashReg = new ArrayList<>();
-    public List<String> gamesList = new ArrayList<>();
-    public List<String> damagedList = new ArrayList<>();
+    public List<Games> gamesList = new ArrayList<>();
+    public List<Games> damagedList = new ArrayList<>();
 //    public HashMap<String, double[]> gameDimensions = new HashMap<>();
 
     //////////////////////////////////////////////////////////////////////////
@@ -21,12 +21,11 @@ public class Wares {
 
     // Non-getter-setter methods
     public void addGame(Games obj){
-        gamesList.add(obj.getGameName());
-
+        gamesList.add(obj);
     }
 
     public void removeGame(Games obj){
-      gamesList.remove(obj.getGameName());
+      gamesList.remove(obj);
     }
 
     public void addListCashReg(CashRegister obj){
@@ -53,11 +52,11 @@ public class Wares {
         return listCashReg;
     }
 
-    public List<String> getGames(){
+    public List<Games> getGames(){
         return gamesList;
     }
 
-    public List<String> getDamaged(){
+    public List<Games> getDamaged(){
         return damagedList;
     }
 
@@ -78,6 +77,6 @@ public class Wares {
     }
 
     public void addDamagedList(Games obj) {
-        damagedList.add(obj.getGameName());
+        damagedList.add(obj);
     }
 }
