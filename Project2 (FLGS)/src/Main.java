@@ -13,12 +13,13 @@ public class Main {
         System.setOut(fileStream);
         store.simulate(30);
         System.out.println("-----------------------------------");
-        System.out.println("-----------------------------------");
+        System.out.println("\n-----------------------------------");
         System.out.println("Games Sold and Their Generated Revenue: \n");
         for (Games game:wares.getGames()){
             System.out.println(game.getSold() + " sale(s) of " +
-                               game.getGameName() + " occurred resulting in $" +
-                    (float)(game.getSold() * game.getPrice()) + " of revenue.");
+                               game.getGameName() + " occurred, generating $" +
+                    String.format("%.2f", (float)(game.getSold() *
+                                  game.getPrice())) + " of revenue.");
 
         }
     }

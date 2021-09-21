@@ -13,7 +13,7 @@ public abstract class Games {
     public double boxHeight;
     public double boxWidth;
     public double boxLength;
-    public int inventory = 1;
+    public int inventory = 3;
     public int sold = 0;
     public int currentPosition;
     public int damageContainer = 0;

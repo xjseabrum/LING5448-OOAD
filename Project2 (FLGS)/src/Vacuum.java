@@ -27,7 +27,9 @@ public class Vacuum implements Action {
 
                 //TODO: should have a decrement function of game inventory.
                 gameDamaged.inventory -= 1;
-                System.out.println("Game " + gameDamaged.getGameName() + " is damaged");
+                System.out.println("An in-stock order of " +
+                                    gameDamaged.getGameName() +
+                                 " got damaged while vacuuming!");
             }
 
         }

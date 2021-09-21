@@ -15,7 +15,7 @@ public class Customer {
     }
 
     public Customer(){
-        name = RandomUtils.getRandomName(10);
+        name = RandomUtils.getRandomName(6);
 //        shelfPreferenceProbability.addAll(Arrays.asList(0.8, 0.82, 0.84, 0.86, 0.88, 0.90, 0.92, 0.94, 0.96, 0.98, 1.0));
 
     }
@@ -62,11 +62,11 @@ public class Customer {
         for (int i = 0; i<=inInventory.size(); i++){
 
             if (RandomUtils.customerBuysFromShelf(i)) {
-                System.out.println("Customer named " + this.name + " has selected game " + inInventory.get(i).getGameName());
+                System.out.println("Customer " + this.name + " selected " + inInventory.get(i).getGameName() + ".");
                 Main.store.getCashier().tasks.sold(inInventory.get(i), this.getCustomerName());
                 return;
             }
         }
-        System.out.println("Customer named " + this.name + " has not purchased anything and left the store");
+        System.out.println("Customer " + this.name + " did not purchase anything and left the store.");
     }
 }

@@ -11,7 +11,8 @@ public class Count implements Action {
     }
     public void announce(){
         double cash = Math.round(cashRegister.getCash() * 100.0) / 100.0;
-        System.out.println("The cash register currently has $" + cash);
+        System.out.println("The cash register currently has $" +
+                String.format("%.2f", cash));
     }
 
     public void doAction(){
@@ -21,7 +22,7 @@ public class Count implements Action {
             cashRegister.addCash(moneyAdded);
             System.out.println(
                     "The Cash Fairy graciously and magically added $" +
-                    moneyAdded + " to the cash register");
+                    String.format("%.2f", moneyAdded) + " to the cash register.");
             announce();
         }
     }

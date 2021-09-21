@@ -8,15 +8,38 @@ public class RandomUtils {
         // References
         // https://stackoverflow.com/questions/20536566/creating-a-random-string-with-a-z-and-0-9-in-java
 
-        String chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        char[] charsCons = {'B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M',
+                            'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y',
+                            'Z'};
+        char[] charsVowel = {'A', 'E', 'I', 'O', 'U'};
+//        String chars = "ABCDEFGHIJKLMNOPQRSTVWXYZ";
+//        String charsVowel = "AEIOU";
         StringBuilder name = new StringBuilder();
 
-        while (name.length() <= nameLength){
-            int i =  (int) (rand.nextFloat() * chars.length());
-            name.append(chars.charAt(i));
+        while (name.length() < nameLength){
+            Random rand = new Random();
+            int r = rand.nextInt(charsCons.length);
+            int s = rand.nextInt(charsVowel.length);
+            char cons = charsCons[r];
+            char vow = charsVowel[s];
+
+            if (name.length() % 2 == 0){
+                name.append(cons);
+            } else {
+                name.append(vow);
+            }
         }
 
-        return name.toString();
+        StringBuilder lowers = new StringBuilder();
+        String nameString = name.toString();
+        char[] letters = nameString.toCharArray();
+
+        for (int i = 2; i <= nameLength; i++){
+            lowers.append(Character.toLowerCase(letters[i-1]));
+        }
+
+        String nameOut = String.valueOf(name.charAt(0)) + String.valueOf(lowers);
+        return nameOut;
     }
 
     public static int getRandomInt(int higherBound){
