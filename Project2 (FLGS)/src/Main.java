@@ -9,10 +9,18 @@ public class Main {
 
 
     public static void main(String[] args) throws FileNotFoundException {
-        wares.instantiateGames();
         PrintStream fileStream = new PrintStream("Output.txt");
         System.setOut(fileStream);
         store.simulate(30);
+        System.out.println("-----------------------------------");
+        System.out.println("-----------------------------------");
+        System.out.println("Games Sold and Their Generated Revenue: \n");
+        for (Games game:wares.getGames()){
+            System.out.println(game.getSold() + " sale(s) of " +
+                               game.getGameName() + " occurred resulting in $" +
+                    (float)(game.getSold() * game.getPrice()) + " of revenue.");
+
+        }
     }
 
 }

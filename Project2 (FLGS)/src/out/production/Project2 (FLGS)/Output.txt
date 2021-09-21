@@ -18,30 +18,34 @@ Burt stacked 1 Magic game(s) at shelf position 10
 Burt stacked 1 Netrunner game(s) at shelf position 11
 Burt stacked 1 Pokemon game(s) at shelf position 12
 The store is open for business.
-3 customer(s) visited the store today.
-Customer named IZRMCOG is inspecting the shelves.
-Customer IZRMCOG has selected Mousetrap
-IZRMCOG bought Mousetrap for $24.9
-Customer named CXBSMPB is inspecting the shelves.
-Customer CXBSMPB has selected Netrunner
-CXBSMPB bought Netrunner for $12.0
-Customer named DJRAROQ is inspecting the shelves.
-Customer DJRAROQ did not purchase anything and left the store.
+4 customer(s) visited the store today.
+Customer named GGDIGJG is inspecting the shelves.
+Customer GGDIGJG has selected Magic
+GGDIGJG bought Magic for $39.88
+Customer named TOMKJHE is inspecting the shelves.
+Customer TOMKJHE has selected Catan
+TOMKJHE bought Catan for $41.9
+Customer named KENTMVM is inspecting the shelves.
+Customer KENTMVM has selected Mousetrap
+KENTMVM bought Mousetrap for $24.9
+Customer named BTWKYLN is inspecting the shelves.
+Customer BTWKYLN did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
-Three new orders of Mousetrap have been placed and will be in stock tomorrow.
-Three new orders of Netrunner have been placed and will be in stock tomorrow.
 ---------------------------------------------------
 Ernie the Cashier arrived at the store on Day 2
-The cash register currently has $981.9
+Three new orders of Mousetrap have arrived.
+Three new orders of Catan have arrived.
+Three new orders of Magic have arrived.
+The cash register currently has $946.68
 Vacuuming... 
 Stacking...
 Ernie stacked 1 Pokemon game(s) at shelf position 1
-Ernie stacked 1 Magic game(s) at shelf position 2
-Ernie stacked 3 Netrunner game(s) at shelf position 3
+Ernie stacked 3 Magic game(s) at shelf position 2
+Ernie stacked 1 Netrunner game(s) at shelf position 3
 Ernie stacked 1 Connect Four game(s) at shelf position 4
 Ernie stacked 1 Gloomhaven game(s) at shelf position 5
-Ernie stacked 1 Catan game(s) at shelf position 6
+Ernie stacked 3 Catan game(s) at shelf position 6
 Ernie stacked 1 Clue game(s) at shelf position 7
 Ernie stacked 1 Risk game(s) at shelf position 8
 Ernie stacked 1 Life game(s) at shelf position 9
@@ -49,18 +53,16 @@ Ernie stacked 1 Candyland game(s) at shelf position 10
 Ernie stacked 3 Mousetrap game(s) at shelf position 11
 Ernie stacked 1 Monopoly game(s) at shelf position 12
 The store is open for business.
-3 customer(s) visited the store today.
-Customer named HWIMSQO is inspecting the shelves.
-Customer HWIMSQO did not purchase anything and left the store.
-Customer named RCLLDTG is inspecting the shelves.
-Customer RCLLDTG did not purchase anything and left the store.
-Customer named JVRYGOO is inspecting the shelves.
-Customer JVRYGOO did not purchase anything and left the store.
+1 customer(s) visited the store today.
+Customer named WLIYNTS is inspecting the shelves.
+Customer WLIYNTS has selected Gloomhaven
+WLIYNTS bought Gloomhaven for $50.0
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
 Burt the Cashier arrived at the store on Day 3
-The cash register currently has $981.9
+Three new orders of Gloomhaven have arrived.
+The cash register currently has $921.68
 Vacuuming... 
 Stacking...
 Burt stacked 1 Monopoly game(s) at shelf position 1
@@ -70,772 +72,765 @@ Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 1 Clue game(s) at shelf position 5
 Burt stacked 1 Life game(s) at shelf position 6
 Burt stacked 1 Risk game(s) at shelf position 7
-Burt stacked 1 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
-Burt stacked 1 Magic game(s) at shelf position 10
-Burt stacked 3 Netrunner game(s) at shelf position 11
+Burt stacked 3 Catan game(s) at shelf position 8
+Burt stacked 3 Gloomhaven game(s) at shelf position 9
+Burt stacked 3 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
 Burt stacked 1 Pokemon game(s) at shelf position 12
-The store is open for business.
-3 customer(s) visited the store today.
-Customer named AWECXAD is inspecting the shelves.
-Customer AWECXAD did not purchase anything and left the store.
-Customer named XCVMQWA is inspecting the shelves.
-Customer XCVMQWA did not purchase anything and left the store.
-Customer named ZDKMWGI is inspecting the shelves.
-Customer ZDKMWGI did not purchase anything and left the store.
-Checking to see if games need to be restocked...
-Cashier is leaving and the store is closed.
----------------------------------------------------
-Ernie the Cashier arrived at the store on Day 4
-The cash register currently has $981.9
-Vacuuming... 
-Stacking...
-Ernie stacked 1 Pokemon game(s) at shelf position 1
-Ernie stacked 1 Magic game(s) at shelf position 2
-Ernie stacked 3 Netrunner game(s) at shelf position 3
-Ernie stacked 1 Connect Four game(s) at shelf position 4
-Ernie stacked 1 Gloomhaven game(s) at shelf position 5
-Ernie stacked 1 Catan game(s) at shelf position 6
-Ernie stacked 1 Clue game(s) at shelf position 7
-Ernie stacked 1 Life game(s) at shelf position 8
-Ernie stacked 1 Risk game(s) at shelf position 9
-Ernie stacked 1 Candyland game(s) at shelf position 10
-Ernie stacked 3 Mousetrap game(s) at shelf position 11
-Ernie stacked 1 Monopoly game(s) at shelf position 12
-The store is open for business.
-2 customer(s) visited the store today.
-Customer named YCIVIAZ is inspecting the shelves.
-Customer YCIVIAZ did not purchase anything and left the store.
-Customer named VLGPUJD is inspecting the shelves.
-Customer VLGPUJD did not purchase anything and left the store.
-Checking to see if games need to be restocked...
-Cashier is leaving and the store is closed.
----------------------------------------------------
-Ernie the Cashier arrived at the store on Day 5
-The cash register currently has $981.9
-Vacuuming... 
-Stacking...
-Ernie stacked 1 Pokemon game(s) at shelf position 1
-Ernie stacked 1 Magic game(s) at shelf position 2
-Ernie stacked 3 Netrunner game(s) at shelf position 3
-Ernie stacked 1 Connect Four game(s) at shelf position 4
-Ernie stacked 1 Gloomhaven game(s) at shelf position 5
-Ernie stacked 1 Catan game(s) at shelf position 6
-Ernie stacked 1 Clue game(s) at shelf position 7
-Ernie stacked 1 Life game(s) at shelf position 8
-Ernie stacked 1 Risk game(s) at shelf position 9
-Ernie stacked 1 Candyland game(s) at shelf position 10
-Ernie stacked 3 Mousetrap game(s) at shelf position 11
-Ernie stacked 1 Monopoly game(s) at shelf position 12
-The store is open for business.
-4 customer(s) visited the store today.
-Customer named XYSBZCD is inspecting the shelves.
-Customer XYSBZCD has selected Life
-XYSBZCD bought Life for $20.0
-Customer named DQAQVSY is inspecting the shelves.
-Customer DQAQVSY did not purchase anything and left the store.
-Customer named BACREMC is inspecting the shelves.
-Customer BACREMC did not purchase anything and left the store.
-Customer named ZHAHZKB is inspecting the shelves.
-Customer ZHAHZKB did not purchase anything and left the store.
-Checking to see if games need to be restocked...
-Cashier is leaving and the store is closed.
-Three new orders of Life have been placed and will be in stock tomorrow.
----------------------------------------------------
-Burt the Cashier arrived at the store on Day 6
-The cash register currently has $971.9
-Vacuuming... 
-Game Candyland is damaged
-Stacking...
-Burt stacked 1 Monopoly game(s) at shelf position 1
-Burt stacked 1 Connect Four game(s) at shelf position 2
-Burt stacked 3 Mousetrap game(s) at shelf position 3
-Burt stacked 0 Candyland game(s) at shelf position 4
-Burt stacked 1 Clue game(s) at shelf position 5
-Burt stacked 1 Risk game(s) at shelf position 6
-Burt stacked 3 Life game(s) at shelf position 7
-Burt stacked 1 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
-Burt stacked 1 Magic game(s) at shelf position 10
-Burt stacked 3 Netrunner game(s) at shelf position 11
-Burt stacked 1 Pokemon game(s) at shelf position 12
-The store is open for business.
-4 customer(s) visited the store today.
-Customer named CDVUSVK is inspecting the shelves.
-Customer CDVUSVK did not purchase anything and left the store.
-Customer named ETDYNKA is inspecting the shelves.
-Customer ETDYNKA did not purchase anything and left the store.
-Customer named DFGSCYC is inspecting the shelves.
-Customer DFGSCYC did not purchase anything and left the store.
-Customer named UCRHFZE is inspecting the shelves.
-Customer UCRHFZE did not purchase anything and left the store.
-Checking to see if games need to be restocked...
-Cashier is leaving and the store is closed.
-Three new orders of Candyland have been placed and will be in stock tomorrow.
----------------------------------------------------
-Ernie the Cashier arrived at the store on Day 7
-The cash register currently has $934.9
-Vacuuming... 
-Stacking...
-Ernie stacked 1 Pokemon game(s) at shelf position 1
-Ernie stacked 1 Magic game(s) at shelf position 2
-Ernie stacked 3 Netrunner game(s) at shelf position 3
-Ernie stacked 1 Connect Four game(s) at shelf position 4
-Ernie stacked 1 Gloomhaven game(s) at shelf position 5
-Ernie stacked 1 Catan game(s) at shelf position 6
-Ernie stacked 1 Clue game(s) at shelf position 7
-Ernie stacked 1 Risk game(s) at shelf position 8
-Ernie stacked 3 Life game(s) at shelf position 9
-Ernie stacked 3 Candyland game(s) at shelf position 10
-Ernie stacked 3 Mousetrap game(s) at shelf position 11
-Ernie stacked 1 Monopoly game(s) at shelf position 12
 The store is open for business.
 1 customer(s) visited the store today.
-Customer named FWSGZOP is inspecting the shelves.
-Customer FWSGZOP did not purchase anything and left the store.
+Customer named TWMJJEB is inspecting the shelves.
+Customer TWMJJEB has selected Risk
+TWMJJEB bought Risk for $31.5
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
-Burt the Cashier arrived at the store on Day 8
-The cash register currently has $934.9
+Burt the Cashier arrived at the store on Day 4
+Three new orders of Risk have arrived.
+The cash register currently has $906.18
 Vacuuming... 
 Stacking...
 Burt stacked 1 Monopoly game(s) at shelf position 1
 Burt stacked 1 Connect Four game(s) at shelf position 2
 Burt stacked 3 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
+Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 1 Clue game(s) at shelf position 5
-Burt stacked 3 Life game(s) at shelf position 6
-Burt stacked 1 Risk game(s) at shelf position 7
-Burt stacked 1 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
-Burt stacked 1 Magic game(s) at shelf position 10
-Burt stacked 3 Netrunner game(s) at shelf position 11
+Burt stacked 3 Risk game(s) at shelf position 6
+Burt stacked 1 Life game(s) at shelf position 7
+Burt stacked 3 Catan game(s) at shelf position 8
+Burt stacked 3 Gloomhaven game(s) at shelf position 9
+Burt stacked 3 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
 Burt stacked 1 Pokemon game(s) at shelf position 12
 The store is open for business.
+2 customer(s) visited the store today.
+Customer named USQZXZD is inspecting the shelves.
+Customer USQZXZD did not purchase anything and left the store.
+Customer named GDQGGSN is inspecting the shelves.
+Customer GDQGGSN has selected Gloomhaven
+GDQGGSN bought Gloomhaven for $50.0
+Checking to see if games need to be restocked...
+Cashier is leaving and the store is closed.
+---------------------------------------------------
+Burt the Cashier arrived at the store on Day 5
+The cash register currently has $956.18
+Vacuuming... 
+Stacking...
+Burt stacked 1 Monopoly game(s) at shelf position 1
+Burt stacked 1 Connect Four game(s) at shelf position 2
+Burt stacked 3 Mousetrap game(s) at shelf position 3
+Burt stacked 1 Candyland game(s) at shelf position 4
+Burt stacked 1 Clue game(s) at shelf position 5
+Burt stacked 1 Life game(s) at shelf position 6
+Burt stacked 3 Risk game(s) at shelf position 7
+Burt stacked 3 Catan game(s) at shelf position 8
+Burt stacked 2 Gloomhaven game(s) at shelf position 9
+Burt stacked 3 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 1 Pokemon game(s) at shelf position 12
+The store is open for business.
+2 customer(s) visited the store today.
+Customer named SPMMDEE is inspecting the shelves.
+Customer SPMMDEE did not purchase anything and left the store.
+Customer named GMPTLDP is inspecting the shelves.
+Customer GMPTLDP did not purchase anything and left the store.
+Checking to see if games need to be restocked...
+Cashier is leaving and the store is closed.
+---------------------------------------------------
+Burt the Cashier arrived at the store on Day 6
+The cash register currently has $956.18
+Vacuuming... 
+Stacking...
+Burt stacked 1 Monopoly game(s) at shelf position 1
+Burt stacked 1 Connect Four game(s) at shelf position 2
+Burt stacked 3 Mousetrap game(s) at shelf position 3
+Burt stacked 1 Candyland game(s) at shelf position 4
+Burt stacked 1 Clue game(s) at shelf position 5
+Burt stacked 3 Risk game(s) at shelf position 6
+Burt stacked 1 Life game(s) at shelf position 7
+Burt stacked 3 Catan game(s) at shelf position 8
+Burt stacked 2 Gloomhaven game(s) at shelf position 9
+Burt stacked 3 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 1 Pokemon game(s) at shelf position 12
+The store is open for business.
+4 customer(s) visited the store today.
+Customer named VKVVMDC is inspecting the shelves.
+Customer VKVVMDC did not purchase anything and left the store.
+Customer named SJBPNKT is inspecting the shelves.
+Customer SJBPNKT has selected Mousetrap
+SJBPNKT bought Mousetrap for $24.9
+Customer named MQMHWAG is inspecting the shelves.
+Customer MQMHWAG did not purchase anything and left the store.
+Customer named ELIVGSM is inspecting the shelves.
+Customer ELIVGSM has selected Magic
+ELIVGSM bought Magic for $39.88
+Checking to see if games need to be restocked...
+Cashier is leaving and the store is closed.
+---------------------------------------------------
+Ernie the Cashier arrived at the store on Day 7
+The cash register currently has $1020.96
+Vacuuming... 
+Stacking...
+Ernie stacked 1 Pokemon game(s) at shelf position 1
+Ernie stacked 2 Magic game(s) at shelf position 2
+Ernie stacked 1 Netrunner game(s) at shelf position 3
+Ernie stacked 1 Connect Four game(s) at shelf position 4
+Ernie stacked 2 Gloomhaven game(s) at shelf position 5
+Ernie stacked 3 Catan game(s) at shelf position 6
+Ernie stacked 1 Clue game(s) at shelf position 7
+Ernie stacked 3 Risk game(s) at shelf position 8
+Ernie stacked 1 Life game(s) at shelf position 9
+Ernie stacked 1 Candyland game(s) at shelf position 10
+Ernie stacked 2 Mousetrap game(s) at shelf position 11
+Ernie stacked 1 Monopoly game(s) at shelf position 12
+The store is open for business.
 3 customer(s) visited the store today.
-Customer named NOQIRVF is inspecting the shelves.
-Customer NOQIRVF did not purchase anything and left the store.
-Customer named UKOLCKB is inspecting the shelves.
-Customer UKOLCKB did not purchase anything and left the store.
-Customer named OXCKEIV is inspecting the shelves.
-Customer OXCKEIV has selected Life
-OXCKEIV bought Life for $20.0
+Customer named QKFEVRI is inspecting the shelves.
+Customer QKFEVRI did not purchase anything and left the store.
+Customer named NPYYKYU is inspecting the shelves.
+Customer NPYYKYU did not purchase anything and left the store.
+Customer named EUMBOGJ is inspecting the shelves.
+Customer EUMBOGJ did not purchase anything and left the store.
+Checking to see if games need to be restocked...
+Cashier is leaving and the store is closed.
+---------------------------------------------------
+Ernie the Cashier arrived at the store on Day 8
+The cash register currently has $1020.96
+Vacuuming... 
+Stacking...
+Ernie stacked 1 Pokemon game(s) at shelf position 1
+Ernie stacked 2 Magic game(s) at shelf position 2
+Ernie stacked 1 Netrunner game(s) at shelf position 3
+Ernie stacked 1 Connect Four game(s) at shelf position 4
+Ernie stacked 2 Gloomhaven game(s) at shelf position 5
+Ernie stacked 3 Catan game(s) at shelf position 6
+Ernie stacked 1 Clue game(s) at shelf position 7
+Ernie stacked 3 Risk game(s) at shelf position 8
+Ernie stacked 1 Life game(s) at shelf position 9
+Ernie stacked 1 Candyland game(s) at shelf position 10
+Ernie stacked 2 Mousetrap game(s) at shelf position 11
+Ernie stacked 1 Monopoly game(s) at shelf position 12
+The store is open for business.
+4 customer(s) visited the store today.
+Customer named CIHTIZN is inspecting the shelves.
+Customer CIHTIZN did not purchase anything and left the store.
+Customer named DGHCWFD is inspecting the shelves.
+Customer DGHCWFD did not purchase anything and left the store.
+Customer named HMEQUQB is inspecting the shelves.
+Customer HMEQUQB has selected Pokemon
+HMEQUQB bought Pokemon for $10.0
+Customer named KKSLXFE is inspecting the shelves.
+Customer KKSLXFE did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
 Ernie the Cashier arrived at the store on Day 9
-The cash register currently has $954.9
+Three new orders of Pokemon have arrived.
+The cash register currently has $1015.96
 Vacuuming... 
-Stacking...
-Ernie stacked 1 Pokemon game(s) at shelf position 1
-Ernie stacked 1 Magic game(s) at shelf position 2
-Ernie stacked 3 Netrunner game(s) at shelf position 3
-Ernie stacked 1 Connect Four game(s) at shelf position 4
-Ernie stacked 1 Gloomhaven game(s) at shelf position 5
-Ernie stacked 1 Catan game(s) at shelf position 6
-Ernie stacked 1 Clue game(s) at shelf position 7
-Ernie stacked 2 Life game(s) at shelf position 8
-Ernie stacked 1 Risk game(s) at shelf position 9
-Ernie stacked 3 Candyland game(s) at shelf position 10
-Ernie stacked 3 Mousetrap game(s) at shelf position 11
-Ernie stacked 1 Monopoly game(s) at shelf position 12
-The store is open for business.
-4 customer(s) visited the store today.
-Customer named QAYVIIX is inspecting the shelves.
-Customer QAYVIIX has selected Pokemon
-QAYVIIX bought Pokemon for $10.0
-Customer named GOZNXUR is inspecting the shelves.
-Customer GOZNXUR did not purchase anything and left the store.
-Customer named EZFCXOQ is inspecting the shelves.
-Customer EZFCXOQ did not purchase anything and left the store.
-Customer named BLNJBMF is inspecting the shelves.
-Customer BLNJBMF has selected Magic
-BLNJBMF bought Magic for $39.88
-Checking to see if games need to be restocked...
-Cashier is leaving and the store is closed.
-Three new orders of Pokemon have been placed and will be in stock tomorrow.
-Three new orders of Magic have been placed and will be in stock tomorrow.
----------------------------------------------------
-Ernie the Cashier arrived at the store on Day 10
-The cash register currently has $929.78
-Vacuuming... 
-Game Mousetrap is damaged
 Stacking...
 Ernie stacked 3 Pokemon game(s) at shelf position 1
-Ernie stacked 3 Magic game(s) at shelf position 2
-Ernie stacked 3 Netrunner game(s) at shelf position 3
+Ernie stacked 2 Magic game(s) at shelf position 2
+Ernie stacked 1 Netrunner game(s) at shelf position 3
 Ernie stacked 1 Connect Four game(s) at shelf position 4
-Ernie stacked 1 Gloomhaven game(s) at shelf position 5
-Ernie stacked 1 Catan game(s) at shelf position 6
+Ernie stacked 2 Gloomhaven game(s) at shelf position 5
+Ernie stacked 3 Catan game(s) at shelf position 6
 Ernie stacked 1 Clue game(s) at shelf position 7
-Ernie stacked 2 Life game(s) at shelf position 8
-Ernie stacked 1 Risk game(s) at shelf position 9
-Ernie stacked 3 Candyland game(s) at shelf position 10
+Ernie stacked 3 Risk game(s) at shelf position 8
+Ernie stacked 1 Life game(s) at shelf position 9
+Ernie stacked 1 Candyland game(s) at shelf position 10
 Ernie stacked 2 Mousetrap game(s) at shelf position 11
 Ernie stacked 1 Monopoly game(s) at shelf position 12
 The store is open for business.
-4 customer(s) visited the store today.
-Customer named JHMSWIS is inspecting the shelves.
-Customer JHMSWIS did not purchase anything and left the store.
-Customer named SPGOLAP is inspecting the shelves.
-Customer SPGOLAP did not purchase anything and left the store.
-Customer named AXKOTTQ is inspecting the shelves.
-Customer AXKOTTQ did not purchase anything and left the store.
-Customer named BNGZIXT is inspecting the shelves.
-Customer BNGZIXT did not purchase anything and left the store.
+1 customer(s) visited the store today.
+Customer named TWXRCAY is inspecting the shelves.
+Customer TWXRCAY did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
-Ernie the Cashier arrived at the store on Day 11
-The cash register currently has $929.78
+Ernie the Cashier arrived at the store on Day 10
+The cash register currently has $1015.96
 Vacuuming... 
 Stacking...
 Ernie stacked 3 Pokemon game(s) at shelf position 1
-Ernie stacked 3 Magic game(s) at shelf position 2
-Ernie stacked 3 Netrunner game(s) at shelf position 3
+Ernie stacked 2 Magic game(s) at shelf position 2
+Ernie stacked 1 Netrunner game(s) at shelf position 3
 Ernie stacked 1 Connect Four game(s) at shelf position 4
-Ernie stacked 1 Gloomhaven game(s) at shelf position 5
-Ernie stacked 1 Catan game(s) at shelf position 6
+Ernie stacked 2 Gloomhaven game(s) at shelf position 5
+Ernie stacked 3 Catan game(s) at shelf position 6
 Ernie stacked 1 Clue game(s) at shelf position 7
-Ernie stacked 2 Life game(s) at shelf position 8
-Ernie stacked 1 Risk game(s) at shelf position 9
-Ernie stacked 3 Candyland game(s) at shelf position 10
+Ernie stacked 3 Risk game(s) at shelf position 8
+Ernie stacked 1 Life game(s) at shelf position 9
+Ernie stacked 1 Candyland game(s) at shelf position 10
 Ernie stacked 2 Mousetrap game(s) at shelf position 11
 Ernie stacked 1 Monopoly game(s) at shelf position 12
 The store is open for business.
 3 customer(s) visited the store today.
-Customer named VIUXOHP is inspecting the shelves.
-Customer VIUXOHP did not purchase anything and left the store.
-Customer named DICCHFA is inspecting the shelves.
-Customer DICCHFA did not purchase anything and left the store.
-Customer named YVJPVLK is inspecting the shelves.
-Customer YVJPVLK has selected Clue
-YVJPVLK bought Clue for $19.0
+Customer named UEKEEZL is inspecting the shelves.
+Customer UEKEEZL has selected Clue
+UEKEEZL bought Clue for $19.0
+Customer named WQHLYPP is inspecting the shelves.
+Customer WQHLYPP has selected Pokemon
+WQHLYPP bought Pokemon for $10.0
+Customer named BKFSQJN is inspecting the shelves.
+Customer BKFSQJN did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
-Three new orders of Clue have been placed and will be in stock tomorrow.
 ---------------------------------------------------
-Burt the Cashier arrived at the store on Day 12
-The cash register currently has $919.78
+Burt the Cashier arrived at the store on Day 11
+Three new orders of Clue have arrived.
+The cash register currently has $1015.96
 Vacuuming... 
 Stacking...
 Burt stacked 1 Monopoly game(s) at shelf position 1
 Burt stacked 1 Connect Four game(s) at shelf position 2
 Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
+Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 1 Risk game(s) at shelf position 6
-Burt stacked 2 Life game(s) at shelf position 7
-Burt stacked 1 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
-Burt stacked 3 Magic game(s) at shelf position 10
-Burt stacked 3 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Burt stacked 1 Life game(s) at shelf position 6
+Burt stacked 3 Risk game(s) at shelf position 7
+Burt stacked 3 Catan game(s) at shelf position 8
+Burt stacked 2 Gloomhaven game(s) at shelf position 9
+Burt stacked 2 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
 The store is open for business.
 3 customer(s) visited the store today.
-Customer named LWTDGKR is inspecting the shelves.
-Customer LWTDGKR did not purchase anything and left the store.
-Customer named HDFBYMF is inspecting the shelves.
-Customer HDFBYMF did not purchase anything and left the store.
-Customer named ANELXMZ is inspecting the shelves.
-Customer ANELXMZ did not purchase anything and left the store.
+Customer named JLFNGVE is inspecting the shelves.
+Customer JLFNGVE did not purchase anything and left the store.
+Customer named YIMDABU is inspecting the shelves.
+Customer YIMDABU did not purchase anything and left the store.
+Customer named MYLIRFG is inspecting the shelves.
+Customer MYLIRFG did not purchase anything and left the store.
+Checking to see if games need to be restocked...
+Cashier is leaving and the store is closed.
+---------------------------------------------------
+Burt the Cashier arrived at the store on Day 12
+The cash register currently has $1015.96
+Vacuuming... 
+Stacking...
+Burt stacked 1 Monopoly game(s) at shelf position 1
+Burt stacked 1 Connect Four game(s) at shelf position 2
+Burt stacked 2 Mousetrap game(s) at shelf position 3
+Burt stacked 1 Candyland game(s) at shelf position 4
+Burt stacked 3 Clue game(s) at shelf position 5
+Burt stacked 3 Risk game(s) at shelf position 6
+Burt stacked 1 Life game(s) at shelf position 7
+Burt stacked 3 Catan game(s) at shelf position 8
+Burt stacked 2 Gloomhaven game(s) at shelf position 9
+Burt stacked 2 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
+The store is open for business.
+4 customer(s) visited the store today.
+Customer named TXLSNNQ is inspecting the shelves.
+Customer TXLSNNQ did not purchase anything and left the store.
+Customer named CFMNPIU is inspecting the shelves.
+Customer CFMNPIU did not purchase anything and left the store.
+Customer named UPMXQJX is inspecting the shelves.
+Customer UPMXQJX has selected Gloomhaven
+UPMXQJX bought Gloomhaven for $50.0
+Customer named OIUGSKY is inspecting the shelves.
+Customer OIUGSKY did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
 Burt the Cashier arrived at the store on Day 13
-The cash register currently has $919.78
-Vacuuming... 
-Game Magic is damaged
-Stacking...
-Burt stacked 1 Monopoly game(s) at shelf position 1
-Burt stacked 1 Connect Four game(s) at shelf position 2
-Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
-Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 2 Life game(s) at shelf position 6
-Burt stacked 1 Risk game(s) at shelf position 7
-Burt stacked 1 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
-Burt stacked 2 Magic game(s) at shelf position 10
-Burt stacked 3 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
-The store is open for business.
-4 customer(s) visited the store today.
-Customer named FJMBHXN is inspecting the shelves.
-Customer FJMBHXN did not purchase anything and left the store.
-Customer named CPIGOQE is inspecting the shelves.
-Customer CPIGOQE did not purchase anything and left the store.
-Customer named TCATCGQ is inspecting the shelves.
-Customer TCATCGQ did not purchase anything and left the store.
-Customer named UYOWTAI is inspecting the shelves.
-Customer UYOWTAI did not purchase anything and left the store.
-Checking to see if games need to be restocked...
-Cashier is leaving and the store is closed.
----------------------------------------------------
-Burt the Cashier arrived at the store on Day 14
-The cash register currently has $919.78
+The cash register currently has $1065.96
 Vacuuming... 
 Stacking...
 Burt stacked 1 Monopoly game(s) at shelf position 1
 Burt stacked 1 Connect Four game(s) at shelf position 2
 Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
+Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 1 Risk game(s) at shelf position 6
-Burt stacked 2 Life game(s) at shelf position 7
-Burt stacked 1 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
-Burt stacked 2 Magic game(s) at shelf position 10
-Burt stacked 3 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
-The store is open for business.
-4 customer(s) visited the store today.
-Customer named ZBWSIOY is inspecting the shelves.
-Customer ZBWSIOY has selected Connect Four
-ZBWSIOY bought Connect Four for $12.0
-Customer named RWJUGUA is inspecting the shelves.
-Customer RWJUGUA did not purchase anything and left the store.
-Customer named NDRLZQQ is inspecting the shelves.
-Customer NDRLZQQ did not purchase anything and left the store.
-Customer named QTDTZWX is inspecting the shelves.
-Customer QTDTZWX did not purchase anything and left the store.
-Checking to see if games need to be restocked...
-Cashier is leaving and the store is closed.
-Three new orders of Connect Four have been placed and will be in stock tomorrow.
----------------------------------------------------
-Ernie the Cashier arrived at the store on Day 15
-The cash register currently has $913.78
-Vacuuming... 
-Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1
-Ernie stacked 2 Magic game(s) at shelf position 2
-Ernie stacked 3 Netrunner game(s) at shelf position 3
-Ernie stacked 3 Connect Four game(s) at shelf position 4
-Ernie stacked 1 Gloomhaven game(s) at shelf position 5
-Ernie stacked 1 Catan game(s) at shelf position 6
-Ernie stacked 3 Clue game(s) at shelf position 7
-Ernie stacked 1 Risk game(s) at shelf position 8
-Ernie stacked 2 Life game(s) at shelf position 9
-Ernie stacked 3 Candyland game(s) at shelf position 10
-Ernie stacked 2 Mousetrap game(s) at shelf position 11
-Ernie stacked 1 Monopoly game(s) at shelf position 12
-The store is open for business.
-1 customer(s) visited the store today.
-Customer named HCQUHGN is inspecting the shelves.
-Customer HCQUHGN has selected Catan
-HCQUHGN bought Catan for $41.9
-Checking to see if games need to be restocked...
-Cashier is leaving and the store is closed.
-Three new orders of Catan have been placed and will be in stock tomorrow.
----------------------------------------------------
-Burt the Cashier arrived at the store on Day 16
-The cash register currently has $892.68
-Vacuuming... 
-Stacking...
-Burt stacked 1 Monopoly game(s) at shelf position 1
-Burt stacked 3 Connect Four game(s) at shelf position 2
-Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
-Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 2 Life game(s) at shelf position 6
-Burt stacked 1 Risk game(s) at shelf position 7
+Burt stacked 1 Life game(s) at shelf position 6
+Burt stacked 3 Risk game(s) at shelf position 7
 Burt stacked 3 Catan game(s) at shelf position 8
 Burt stacked 1 Gloomhaven game(s) at shelf position 9
 Burt stacked 2 Magic game(s) at shelf position 10
-Burt stacked 3 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
+The store is open for business.
+3 customer(s) visited the store today.
+Customer named KQQBOXK is inspecting the shelves.
+Customer KQQBOXK has selected Gloomhaven
+KQQBOXK bought Gloomhaven for $50.0
+Customer named YHXHYHJ is inspecting the shelves.
+Customer YHXHYHJ did not purchase anything and left the store.
+Customer named SHDIIMA is inspecting the shelves.
+Customer SHDIIMA did not purchase anything and left the store.
+Checking to see if games need to be restocked...
+Cashier is leaving and the store is closed.
+---------------------------------------------------
+Ernie the Cashier arrived at the store on Day 14
+Three new orders of Gloomhaven have arrived.
+The cash register currently has $1040.96
+Vacuuming... 
+Stacking...
+Ernie stacked 2 Pokemon game(s) at shelf position 1
+Ernie stacked 2 Magic game(s) at shelf position 2
+Ernie stacked 1 Netrunner game(s) at shelf position 3
+Ernie stacked 1 Connect Four game(s) at shelf position 4
+Ernie stacked 3 Gloomhaven game(s) at shelf position 5
+Ernie stacked 3 Catan game(s) at shelf position 6
+Ernie stacked 3 Clue game(s) at shelf position 7
+Ernie stacked 1 Life game(s) at shelf position 8
+Ernie stacked 3 Risk game(s) at shelf position 9
+Ernie stacked 1 Candyland game(s) at shelf position 10
+Ernie stacked 2 Mousetrap game(s) at shelf position 11
+Ernie stacked 1 Monopoly game(s) at shelf position 12
 The store is open for business.
 4 customer(s) visited the store today.
-Customer named HYWDMYS is inspecting the shelves.
-Customer HYWDMYS did not purchase anything and left the store.
-Customer named GZHUTJW is inspecting the shelves.
-Customer GZHUTJW did not purchase anything and left the store.
-Customer named HRNETID is inspecting the shelves.
-Customer HRNETID did not purchase anything and left the store.
-Customer named ZGIQMDJ is inspecting the shelves.
-Customer ZGIQMDJ did not purchase anything and left the store.
+Customer named FOYFXYM is inspecting the shelves.
+Customer FOYFXYM did not purchase anything and left the store.
+Customer named CYEKRXQ is inspecting the shelves.
+Customer CYEKRXQ did not purchase anything and left the store.
+Customer named PXPIXVU is inspecting the shelves.
+Customer PXPIXVU did not purchase anything and left the store.
+Customer named GKRTPQD is inspecting the shelves.
+Customer GKRTPQD did not purchase anything and left the store.
+Checking to see if games need to be restocked...
+Cashier is leaving and the store is closed.
+---------------------------------------------------
+Burt the Cashier arrived at the store on Day 15
+The cash register currently has $1040.96
+Vacuuming... 
+Stacking...
+Burt stacked 1 Monopoly game(s) at shelf position 1
+Burt stacked 1 Connect Four game(s) at shelf position 2
+Burt stacked 2 Mousetrap game(s) at shelf position 3
+Burt stacked 1 Candyland game(s) at shelf position 4
+Burt stacked 3 Clue game(s) at shelf position 5
+Burt stacked 3 Risk game(s) at shelf position 6
+Burt stacked 1 Life game(s) at shelf position 7
+Burt stacked 3 Catan game(s) at shelf position 8
+Burt stacked 3 Gloomhaven game(s) at shelf position 9
+Burt stacked 2 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
+The store is open for business.
+3 customer(s) visited the store today.
+Customer named XZNFSBJ is inspecting the shelves.
+Customer XZNFSBJ did not purchase anything and left the store.
+Customer named LOTAOYD is inspecting the shelves.
+Customer LOTAOYD did not purchase anything and left the store.
+Customer named MXPJJLT is inspecting the shelves.
+Customer MXPJJLT did not purchase anything and left the store.
+Checking to see if games need to be restocked...
+Cashier is leaving and the store is closed.
+---------------------------------------------------
+Ernie the Cashier arrived at the store on Day 16
+The cash register currently has $1040.96
+Vacuuming... 
+Stacking...
+Ernie stacked 2 Pokemon game(s) at shelf position 1
+Ernie stacked 2 Magic game(s) at shelf position 2
+Ernie stacked 1 Netrunner game(s) at shelf position 3
+Ernie stacked 1 Connect Four game(s) at shelf position 4
+Ernie stacked 3 Gloomhaven game(s) at shelf position 5
+Ernie stacked 3 Catan game(s) at shelf position 6
+Ernie stacked 3 Clue game(s) at shelf position 7
+Ernie stacked 3 Risk game(s) at shelf position 8
+Ernie stacked 1 Life game(s) at shelf position 9
+Ernie stacked 1 Candyland game(s) at shelf position 10
+Ernie stacked 2 Mousetrap game(s) at shelf position 11
+Ernie stacked 1 Monopoly game(s) at shelf position 12
+The store is open for business.
+4 customer(s) visited the store today.
+Customer named WTVWVIH is inspecting the shelves.
+Customer WTVWVIH did not purchase anything and left the store.
+Customer named WGPWRRD is inspecting the shelves.
+Customer WGPWRRD did not purchase anything and left the store.
+Customer named DTRMGPV is inspecting the shelves.
+Customer DTRMGPV did not purchase anything and left the store.
+Customer named NUPPCXB is inspecting the shelves.
+Customer NUPPCXB did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
 Burt the Cashier arrived at the store on Day 17
-The cash register currently has $892.68
+The cash register currently has $1040.96
 Vacuuming... 
-Game Netrunner is damaged
 Stacking...
 Burt stacked 1 Monopoly game(s) at shelf position 1
-Burt stacked 3 Connect Four game(s) at shelf position 2
+Burt stacked 1 Connect Four game(s) at shelf position 2
 Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
+Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 1 Risk game(s) at shelf position 6
-Burt stacked 2 Life game(s) at shelf position 7
+Burt stacked 1 Life game(s) at shelf position 6
+Burt stacked 3 Risk game(s) at shelf position 7
 Burt stacked 3 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
+Burt stacked 3 Gloomhaven game(s) at shelf position 9
 Burt stacked 2 Magic game(s) at shelf position 10
-Burt stacked 2 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
 The store is open for business.
-4 customer(s) visited the store today.
-Customer named YVZVDBW is inspecting the shelves.
-Customer YVZVDBW did not purchase anything and left the store.
-Customer named JEKUQAV is inspecting the shelves.
-Customer JEKUQAV did not purchase anything and left the store.
-Customer named GZACIUT is inspecting the shelves.
-Customer GZACIUT has selected Risk
-GZACIUT bought Risk for $31.5
-Customer named RTGGZWH is inspecting the shelves.
-Customer RTGGZWH did not purchase anything and left the store.
+1 customer(s) visited the store today.
+Customer named NVFQYWR is inspecting the shelves.
+Customer NVFQYWR did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
-Three new orders of Risk have been placed and will be in stock tomorrow.
 ---------------------------------------------------
 Ernie the Cashier arrived at the store on Day 18
-The cash register currently has $877.18
+The cash register currently has $1040.96
 Vacuuming... 
 Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1
+Ernie stacked 2 Pokemon game(s) at shelf position 1
 Ernie stacked 2 Magic game(s) at shelf position 2
-Ernie stacked 2 Netrunner game(s) at shelf position 3
-Ernie stacked 3 Connect Four game(s) at shelf position 4
-Ernie stacked 1 Gloomhaven game(s) at shelf position 5
+Ernie stacked 1 Netrunner game(s) at shelf position 3
+Ernie stacked 1 Connect Four game(s) at shelf position 4
+Ernie stacked 3 Gloomhaven game(s) at shelf position 5
 Ernie stacked 3 Catan game(s) at shelf position 6
 Ernie stacked 3 Clue game(s) at shelf position 7
-Ernie stacked 3 Risk game(s) at shelf position 8
-Ernie stacked 2 Life game(s) at shelf position 9
-Ernie stacked 3 Candyland game(s) at shelf position 10
+Ernie stacked 1 Life game(s) at shelf position 8
+Ernie stacked 3 Risk game(s) at shelf position 9
+Ernie stacked 1 Candyland game(s) at shelf position 10
 Ernie stacked 2 Mousetrap game(s) at shelf position 11
 Ernie stacked 1 Monopoly game(s) at shelf position 12
 The store is open for business.
-1 customer(s) visited the store today.
-Customer named GWZCFZJ is inspecting the shelves.
-Customer GWZCFZJ did not purchase anything and left the store.
+3 customer(s) visited the store today.
+Customer named FYICQHD is inspecting the shelves.
+Customer FYICQHD has selected Connect Four
+FYICQHD bought Connect Four for $12.0
+Customer named VSWBTSE is inspecting the shelves.
+Customer VSWBTSE did not purchase anything and left the store.
+Customer named FKYUUOD is inspecting the shelves.
+Customer FKYUUOD did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
 Burt the Cashier arrived at the store on Day 19
-The cash register currently has $877.18
+Three new orders of Connect Four have arrived.
+The cash register currently has $1034.96
 Vacuuming... 
 Stacking...
 Burt stacked 1 Monopoly game(s) at shelf position 1
 Burt stacked 3 Connect Four game(s) at shelf position 2
 Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
+Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 2 Life game(s) at shelf position 6
-Burt stacked 3 Risk game(s) at shelf position 7
+Burt stacked 3 Risk game(s) at shelf position 6
+Burt stacked 1 Life game(s) at shelf position 7
 Burt stacked 3 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
+Burt stacked 3 Gloomhaven game(s) at shelf position 9
 Burt stacked 2 Magic game(s) at shelf position 10
-Burt stacked 2 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
 The store is open for business.
-4 customer(s) visited the store today.
-Customer named OJFAFKX is inspecting the shelves.
-Customer OJFAFKX did not purchase anything and left the store.
-Customer named NDZNFID is inspecting the shelves.
-Customer NDZNFID has selected Magic
-NDZNFID bought Magic for $39.88
-Customer named OYAXFQO is inspecting the shelves.
-Customer OYAXFQO did not purchase anything and left the store.
-Customer named VRHQXPH is inspecting the shelves.
-Customer VRHQXPH did not purchase anything and left the store.
+2 customer(s) visited the store today.
+Customer named MHOTJUR is inspecting the shelves.
+Customer MHOTJUR did not purchase anything and left the store.
+Customer named RMTGFPD is inspecting the shelves.
+Customer RMTGFPD did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
 Ernie the Cashier arrived at the store on Day 20
-The cash register currently has $917.06
+The cash register currently has $1034.96
 Vacuuming... 
 Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1
-Ernie stacked 1 Magic game(s) at shelf position 2
-Ernie stacked 2 Netrunner game(s) at shelf position 3
+Ernie stacked 2 Pokemon game(s) at shelf position 1
+Ernie stacked 2 Magic game(s) at shelf position 2
+Ernie stacked 1 Netrunner game(s) at shelf position 3
 Ernie stacked 3 Connect Four game(s) at shelf position 4
-Ernie stacked 1 Gloomhaven game(s) at shelf position 5
+Ernie stacked 3 Gloomhaven game(s) at shelf position 5
 Ernie stacked 3 Catan game(s) at shelf position 6
 Ernie stacked 3 Clue game(s) at shelf position 7
-Ernie stacked 2 Life game(s) at shelf position 8
-Ernie stacked 3 Risk game(s) at shelf position 9
-Ernie stacked 3 Candyland game(s) at shelf position 10
+Ernie stacked 3 Risk game(s) at shelf position 8
+Ernie stacked 1 Life game(s) at shelf position 9
+Ernie stacked 1 Candyland game(s) at shelf position 10
 Ernie stacked 2 Mousetrap game(s) at shelf position 11
 Ernie stacked 1 Monopoly game(s) at shelf position 12
 The store is open for business.
-1 customer(s) visited the store today.
-Customer named ZJEVUOU is inspecting the shelves.
-Customer ZJEVUOU did not purchase anything and left the store.
+2 customer(s) visited the store today.
+Customer named ZPVQVZZ is inspecting the shelves.
+Customer ZPVQVZZ did not purchase anything and left the store.
+Customer named VSEQWSK is inspecting the shelves.
+Customer VSEQWSK did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
 Burt the Cashier arrived at the store on Day 21
-The cash register currently has $917.06
+The cash register currently has $1034.96
 Vacuuming... 
 Stacking...
 Burt stacked 1 Monopoly game(s) at shelf position 1
 Burt stacked 3 Connect Four game(s) at shelf position 2
 Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
+Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 3 Risk game(s) at shelf position 6
-Burt stacked 2 Life game(s) at shelf position 7
+Burt stacked 1 Life game(s) at shelf position 6
+Burt stacked 3 Risk game(s) at shelf position 7
 Burt stacked 3 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
-Burt stacked 1 Magic game(s) at shelf position 10
-Burt stacked 2 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Burt stacked 3 Gloomhaven game(s) at shelf position 9
+Burt stacked 2 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
 The store is open for business.
-1 customer(s) visited the store today.
-Customer named ZNOFDEW is inspecting the shelves.
-Customer ZNOFDEW did not purchase anything and left the store.
+4 customer(s) visited the store today.
+Customer named XCXPULZ is inspecting the shelves.
+Customer XCXPULZ did not purchase anything and left the store.
+Customer named TZWGEDJ is inspecting the shelves.
+Customer TZWGEDJ did not purchase anything and left the store.
+Customer named QIFBDXT is inspecting the shelves.
+Customer QIFBDXT did not purchase anything and left the store.
+Customer named MIIFAAV is inspecting the shelves.
+Customer MIIFAAV did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
 Burt the Cashier arrived at the store on Day 22
-The cash register currently has $917.06
+The cash register currently has $1034.96
 Vacuuming... 
 Stacking...
 Burt stacked 1 Monopoly game(s) at shelf position 1
 Burt stacked 3 Connect Four game(s) at shelf position 2
 Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
+Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 2 Life game(s) at shelf position 6
-Burt stacked 3 Risk game(s) at shelf position 7
+Burt stacked 3 Risk game(s) at shelf position 6
+Burt stacked 1 Life game(s) at shelf position 7
 Burt stacked 3 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
-Burt stacked 1 Magic game(s) at shelf position 10
-Burt stacked 2 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Burt stacked 3 Gloomhaven game(s) at shelf position 9
+Burt stacked 2 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
 The store is open for business.
 4 customer(s) visited the store today.
-Customer named NBZNIBF is inspecting the shelves.
-Customer NBZNIBF did not purchase anything and left the store.
-Customer named DEQSUUV is inspecting the shelves.
-Customer DEQSUUV did not purchase anything and left the store.
-Customer named AZVFZOJ is inspecting the shelves.
-Customer AZVFZOJ did not purchase anything and left the store.
-Customer named KOWCXES is inspecting the shelves.
-Customer KOWCXES did not purchase anything and left the store.
+Customer named ZRIRDJF is inspecting the shelves.
+Customer ZRIRDJF did not purchase anything and left the store.
+Customer named BBQCUXM is inspecting the shelves.
+Customer BBQCUXM did not purchase anything and left the store.
+Customer named JRMADMX is inspecting the shelves.
+Customer JRMADMX has selected Mousetrap
+JRMADMX bought Mousetrap for $24.9
+Customer named TPYPUAX is inspecting the shelves.
+Customer TPYPUAX did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
 Burt the Cashier arrived at the store on Day 23
-The cash register currently has $917.06
+The cash register currently has $1059.86
 Vacuuming... 
+Game Gloomhaven is damaged
 Stacking...
 Burt stacked 1 Monopoly game(s) at shelf position 1
 Burt stacked 3 Connect Four game(s) at shelf position 2
-Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
+Burt stacked 1 Mousetrap game(s) at shelf position 3
+Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 3 Risk game(s) at shelf position 6
-Burt stacked 2 Life game(s) at shelf position 7
+Burt stacked 1 Life game(s) at shelf position 6
+Burt stacked 3 Risk game(s) at shelf position 7
 Burt stacked 3 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
-Burt stacked 1 Magic game(s) at shelf position 10
-Burt stacked 2 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Burt stacked 2 Gloomhaven game(s) at shelf position 9
+Burt stacked 2 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
 The store is open for business.
-2 customer(s) visited the store today.
-Customer named EFKWPEY is inspecting the shelves.
-Customer EFKWPEY did not purchase anything and left the store.
-Customer named EWDRUQK is inspecting the shelves.
-Customer EWDRUQK did not purchase anything and left the store.
+3 customer(s) visited the store today.
+Customer named LBGQYVC is inspecting the shelves.
+Customer LBGQYVC did not purchase anything and left the store.
+Customer named VSUBSRU is inspecting the shelves.
+Customer VSUBSRU did not purchase anything and left the store.
+Customer named AQPZZPB is inspecting the shelves.
+Customer AQPZZPB has selected Risk
+AQPZZPB bought Risk for $31.5
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
 Burt the Cashier arrived at the store on Day 24
-The cash register currently has $917.06
+The cash register currently has $1091.36
 Vacuuming... 
 Stacking...
 Burt stacked 1 Monopoly game(s) at shelf position 1
 Burt stacked 3 Connect Four game(s) at shelf position 2
-Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
+Burt stacked 1 Mousetrap game(s) at shelf position 3
+Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 2 Life game(s) at shelf position 6
-Burt stacked 3 Risk game(s) at shelf position 7
+Burt stacked 2 Risk game(s) at shelf position 6
+Burt stacked 1 Life game(s) at shelf position 7
 Burt stacked 3 Catan game(s) at shelf position 8
-Burt stacked 1 Gloomhaven game(s) at shelf position 9
-Burt stacked 1 Magic game(s) at shelf position 10
-Burt stacked 2 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Burt stacked 2 Gloomhaven game(s) at shelf position 9
+Burt stacked 2 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
 The store is open for business.
-3 customer(s) visited the store today.
-Customer named MEGAFND is inspecting the shelves.
-Customer MEGAFND did not purchase anything and left the store.
-Customer named DPYGBQO is inspecting the shelves.
-Customer DPYGBQO did not purchase anything and left the store.
-Customer named UXWDBHF is inspecting the shelves.
-Customer UXWDBHF has selected Gloomhaven
-UXWDBHF bought Gloomhaven for $50.0
-Checking to see if games need to be restocked...
-Cashier is leaving and the store is closed.
-Three new orders of Gloomhaven have been placed and will be in stock tomorrow.
----------------------------------------------------
-Ernie the Cashier arrived at the store on Day 25
-The cash register currently has $892.06
-Vacuuming... 
-Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1
-Ernie stacked 1 Magic game(s) at shelf position 2
-Ernie stacked 2 Netrunner game(s) at shelf position 3
-Ernie stacked 3 Connect Four game(s) at shelf position 4
-Ernie stacked 3 Gloomhaven game(s) at shelf position 5
-Ernie stacked 3 Catan game(s) at shelf position 6
-Ernie stacked 3 Clue game(s) at shelf position 7
-Ernie stacked 2 Life game(s) at shelf position 8
-Ernie stacked 3 Risk game(s) at shelf position 9
-Ernie stacked 3 Candyland game(s) at shelf position 10
-Ernie stacked 2 Mousetrap game(s) at shelf position 11
-Ernie stacked 1 Monopoly game(s) at shelf position 12
-The store is open for business.
-3 customer(s) visited the store today.
-Customer named LCJDPMQ is inspecting the shelves.
-Customer LCJDPMQ did not purchase anything and left the store.
-Customer named ESGFFSS is inspecting the shelves.
-Customer ESGFFSS did not purchase anything and left the store.
-Customer named DDIOTGG is inspecting the shelves.
-Customer DDIOTGG did not purchase anything and left the store.
+1 customer(s) visited the store today.
+Customer named ZQYODJD is inspecting the shelves.
+Customer ZQYODJD did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
-Ernie the Cashier arrived at the store on Day 26
-The cash register currently has $892.06
+Burt the Cashier arrived at the store on Day 25
+The cash register currently has $1091.36
 Vacuuming... 
 Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1
-Ernie stacked 1 Magic game(s) at shelf position 2
-Ernie stacked 2 Netrunner game(s) at shelf position 3
-Ernie stacked 3 Connect Four game(s) at shelf position 4
-Ernie stacked 3 Gloomhaven game(s) at shelf position 5
-Ernie stacked 3 Catan game(s) at shelf position 6
-Ernie stacked 3 Clue game(s) at shelf position 7
-Ernie stacked 2 Life game(s) at shelf position 8
-Ernie stacked 3 Risk game(s) at shelf position 9
-Ernie stacked 3 Candyland game(s) at shelf position 10
-Ernie stacked 2 Mousetrap game(s) at shelf position 11
-Ernie stacked 1 Monopoly game(s) at shelf position 12
+Burt stacked 1 Monopoly game(s) at shelf position 1
+Burt stacked 3 Connect Four game(s) at shelf position 2
+Burt stacked 1 Mousetrap game(s) at shelf position 3
+Burt stacked 1 Candyland game(s) at shelf position 4
+Burt stacked 3 Clue game(s) at shelf position 5
+Burt stacked 1 Life game(s) at shelf position 6
+Burt stacked 2 Risk game(s) at shelf position 7
+Burt stacked 3 Catan game(s) at shelf position 8
+Burt stacked 2 Gloomhaven game(s) at shelf position 9
+Burt stacked 2 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
+The store is open for business.
+1 customer(s) visited the store today.
+Customer named WOYCRAR is inspecting the shelves.
+Customer WOYCRAR did not purchase anything and left the store.
+Checking to see if games need to be restocked...
+Cashier is leaving and the store is closed.
+---------------------------------------------------
+Burt the Cashier arrived at the store on Day 26
+The cash register currently has $1091.36
+Vacuuming... 
+Game Catan is damaged
+Stacking...
+Burt stacked 1 Monopoly game(s) at shelf position 1
+Burt stacked 3 Connect Four game(s) at shelf position 2
+Burt stacked 1 Mousetrap game(s) at shelf position 3
+Burt stacked 1 Candyland game(s) at shelf position 4
+Burt stacked 3 Clue game(s) at shelf position 5
+Burt stacked 2 Risk game(s) at shelf position 6
+Burt stacked 1 Life game(s) at shelf position 7
+Burt stacked 2 Catan game(s) at shelf position 8
+Burt stacked 2 Gloomhaven game(s) at shelf position 9
+Burt stacked 2 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
 The store is open for business.
 3 customer(s) visited the store today.
-Customer named YUFEQJN is inspecting the shelves.
-Customer YUFEQJN has selected Connect Four
-YUFEQJN bought Connect Four for $12.0
-Customer named JUIHZTY is inspecting the shelves.
-Customer JUIHZTY did not purchase anything and left the store.
-Customer named LRYBMKY is inspecting the shelves.
-Customer LRYBMKY did not purchase anything and left the store.
+Customer named QZWHBNB is inspecting the shelves.
+Customer QZWHBNB did not purchase anything and left the store.
+Customer named NEMJWRV is inspecting the shelves.
+Customer NEMJWRV did not purchase anything and left the store.
+Customer named MKLKKOC is inspecting the shelves.
+Customer MKLKKOC has selected Life
+MKLKKOC bought Life for $20.0
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
 Burt the Cashier arrived at the store on Day 27
-The cash register currently has $904.06
+Three new orders of Life have arrived.
+The cash register currently has $1081.36
 Vacuuming... 
 Stacking...
 Burt stacked 1 Monopoly game(s) at shelf position 1
-Burt stacked 2 Connect Four game(s) at shelf position 2
-Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
+Burt stacked 3 Connect Four game(s) at shelf position 2
+Burt stacked 1 Mousetrap game(s) at shelf position 3
+Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 3 Risk game(s) at shelf position 6
-Burt stacked 2 Life game(s) at shelf position 7
-Burt stacked 3 Catan game(s) at shelf position 8
-Burt stacked 3 Gloomhaven game(s) at shelf position 9
-Burt stacked 1 Magic game(s) at shelf position 10
-Burt stacked 2 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Burt stacked 3 Life game(s) at shelf position 6
+Burt stacked 2 Risk game(s) at shelf position 7
+Burt stacked 2 Catan game(s) at shelf position 8
+Burt stacked 2 Gloomhaven game(s) at shelf position 9
+Burt stacked 2 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
 The store is open for business.
-3 customer(s) visited the store today.
-Customer named CAUYFWH is inspecting the shelves.
-Customer CAUYFWH did not purchase anything and left the store.
-Customer named AQNZFBQ is inspecting the shelves.
-Customer AQNZFBQ did not purchase anything and left the store.
-Customer named IXDBQQG is inspecting the shelves.
-Customer IXDBQQG has selected Connect Four
-IXDBQQG bought Connect Four for $12.0
+2 customer(s) visited the store today.
+Customer named EQNEBLP is inspecting the shelves.
+Customer EQNEBLP did not purchase anything and left the store.
+Customer named CESOTET is inspecting the shelves.
+Customer CESOTET did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
-Burt the Cashier arrived at the store on Day 28
-The cash register currently has $916.06
+Ernie the Cashier arrived at the store on Day 28
+The cash register currently has $1081.36
 Vacuuming... 
-Game Monopoly is damaged
 Stacking...
-Burt stacked 0 Monopoly game(s) at shelf position 1
-Burt stacked 1 Connect Four game(s) at shelf position 2
-Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
-Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 2 Life game(s) at shelf position 6
-Burt stacked 3 Risk game(s) at shelf position 7
-Burt stacked 3 Catan game(s) at shelf position 8
-Burt stacked 3 Gloomhaven game(s) at shelf position 9
-Burt stacked 1 Magic game(s) at shelf position 10
-Burt stacked 2 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Ernie stacked 2 Pokemon game(s) at shelf position 1
+Ernie stacked 2 Magic game(s) at shelf position 2
+Ernie stacked 1 Netrunner game(s) at shelf position 3
+Ernie stacked 3 Connect Four game(s) at shelf position 4
+Ernie stacked 2 Gloomhaven game(s) at shelf position 5
+Ernie stacked 2 Catan game(s) at shelf position 6
+Ernie stacked 3 Clue game(s) at shelf position 7
+Ernie stacked 3 Life game(s) at shelf position 8
+Ernie stacked 2 Risk game(s) at shelf position 9
+Ernie stacked 1 Candyland game(s) at shelf position 10
+Ernie stacked 1 Mousetrap game(s) at shelf position 11
+Ernie stacked 1 Monopoly game(s) at shelf position 12
 The store is open for business.
-4 customer(s) visited the store today.
-Customer named NTHHVQQ is inspecting the shelves.
-Customer NTHHVQQ did not purchase anything and left the store.
-Customer named ZCBOVWN is inspecting the shelves.
-Customer ZCBOVWN did not purchase anything and left the store.
-Customer named JVCYCSL is inspecting the shelves.
-Customer JVCYCSL did not purchase anything and left the store.
-Customer named TCNVXHF is inspecting the shelves.
-Customer TCNVXHF did not purchase anything and left the store.
+2 customer(s) visited the store today.
+Customer named QQEWPDD is inspecting the shelves.
+Customer QQEWPDD did not purchase anything and left the store.
+Customer named WYBMMIR is inspecting the shelves.
+Customer WYBMMIR did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
-Three new orders of Monopoly have been placed and will be in stock tomorrow.
 ---------------------------------------------------
 Burt the Cashier arrived at the store on Day 29
-The cash register currently has $874.06
+The cash register currently has $1081.36
 Vacuuming... 
 Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1
-Burt stacked 1 Connect Four game(s) at shelf position 2
-Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
+Burt stacked 1 Monopoly game(s) at shelf position 1
+Burt stacked 3 Connect Four game(s) at shelf position 2
+Burt stacked 1 Mousetrap game(s) at shelf position 3
+Burt stacked 1 Candyland game(s) at shelf position 4
 Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 3 Risk game(s) at shelf position 6
-Burt stacked 2 Life game(s) at shelf position 7
-Burt stacked 3 Catan game(s) at shelf position 8
-Burt stacked 3 Gloomhaven game(s) at shelf position 9
-Burt stacked 1 Magic game(s) at shelf position 10
-Burt stacked 2 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Burt stacked 2 Risk game(s) at shelf position 6
+Burt stacked 3 Life game(s) at shelf position 7
+Burt stacked 2 Catan game(s) at shelf position 8
+Burt stacked 2 Gloomhaven game(s) at shelf position 9
+Burt stacked 2 Magic game(s) at shelf position 10
+Burt stacked 1 Netrunner game(s) at shelf position 11
+Burt stacked 2 Pokemon game(s) at shelf position 12
 The store is open for business.
-4 customer(s) visited the store today.
-Customer named MIIGKPD is inspecting the shelves.
-Customer MIIGKPD has selected Catan
-MIIGKPD bought Catan for $41.9
-Customer named FXBMZNQ is inspecting the shelves.
-Customer FXBMZNQ did not purchase anything and left the store.
-Customer named CTYICHW is inspecting the shelves.
-Customer CTYICHW has selected Life
-CTYICHW bought Life for $20.0
-Customer named EYBMJPP is inspecting the shelves.
-Customer EYBMJPP did not purchase anything and left the store.
+3 customer(s) visited the store today.
+Customer named WWPAFGI is inspecting the shelves.
+Customer WWPAFGI did not purchase anything and left the store.
+Customer named XXSSYLB is inspecting the shelves.
+Customer XXSSYLB did not purchase anything and left the store.
+Customer named TDHRCKX is inspecting the shelves.
+Customer TDHRCKX did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
 ---------------------------------------------------
-Burt the Cashier arrived at the store on Day 30
-The cash register currently has $935.96
+Ernie the Cashier arrived at the store on Day 30
+The cash register currently has $1081.36
 Vacuuming... 
 Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1
-Burt stacked 1 Connect Four game(s) at shelf position 2
-Burt stacked 2 Mousetrap game(s) at shelf position 3
-Burt stacked 3 Candyland game(s) at shelf position 4
-Burt stacked 3 Clue game(s) at shelf position 5
-Burt stacked 1 Life game(s) at shelf position 6
-Burt stacked 3 Risk game(s) at shelf position 7
-Burt stacked 2 Catan game(s) at shelf position 8
-Burt stacked 3 Gloomhaven game(s) at shelf position 9
-Burt stacked 1 Magic game(s) at shelf position 10
-Burt stacked 2 Netrunner game(s) at shelf position 11
-Burt stacked 3 Pokemon game(s) at shelf position 12
+Ernie stacked 2 Pokemon game(s) at shelf position 1
+Ernie stacked 2 Magic game(s) at shelf position 2
+Ernie stacked 1 Netrunner game(s) at shelf position 3
+Ernie stacked 3 Connect Four game(s) at shelf position 4
+Ernie stacked 2 Gloomhaven game(s) at shelf position 5
+Ernie stacked 2 Catan game(s) at shelf position 6
+Ernie stacked 3 Clue game(s) at shelf position 7
+Ernie stacked 2 Risk game(s) at shelf position 8
+Ernie stacked 3 Life game(s) at shelf position 9
+Ernie stacked 1 Candyland game(s) at shelf position 10
+Ernie stacked 1 Mousetrap game(s) at shelf position 11
+Ernie stacked 1 Monopoly game(s) at shelf position 12
 The store is open for business.
-1 customer(s) visited the store today.
-Customer named ZGIROFU is inspecting the shelves.
-Customer ZGIROFU did not purchase anything and left the store.
+3 customer(s) visited the store today.
+Customer named CTTKABD is inspecting the shelves.
+Customer CTTKABD has selected Catan
+CTTKABD bought Catan for $41.9
+Customer named KUGNKFA is inspecting the shelves.
+Customer KUGNKFA did not purchase anything and left the store.
+Customer named JTYPVJT is inspecting the shelves.
+Customer JTYPVJT did not purchase anything and left the store.
 Checking to see if games need to be restocked...
 Cashier is leaving and the store is closed.
+-----------------------------------
+Games Sold and Their Generated Revenue:
+2 sale(s) of Pokemon occurred resulting in $20.0 of revenue.
+2 sale(s) of Magic occurred resulting in $79.76 of revenue.
+0 sale(s) of Netrunner occurred resulting in $0.0 of revenue.
+1 sale(s) of Connect Four occurred resulting in $12.0 of revenue.
+4 sale(s) of Gloomhaven occurred resulting in $200.0 of revenue.
+2 sale(s) of Catan occurred resulting in $83.8 of revenue.
+1 sale(s) of Clue occurred resulting in $19.0 of revenue.
+2 sale(s) of Risk occurred resulting in $63.0 of revenue.
+1 sale(s) of Life occurred resulting in $20.0 of revenue.
+0 sale(s) of Candyland occurred resulting in $0.0 of revenue.
+3 sale(s) of Mousetrap occurred resulting in $74.7 of revenue.
+0 sale(s) of Monopoly occurred resulting in $0.0 of revenue.
