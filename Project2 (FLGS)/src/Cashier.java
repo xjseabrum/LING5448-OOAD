@@ -10,7 +10,7 @@ public class Cashier extends Employee{
 
         super(cashierName);
         this.vacuumDamageRate = damageRate;
-        this.tasks = new CashierTask(cashierName, arrivalDay, register, store, ware, damageRate, stack);
+        this.tasks = new CashierTask(cashierName, arrivalDay, register, ware, damageRate, stack);
         // need clarification from Jay : 1 or many cash registers?
     }
 }
