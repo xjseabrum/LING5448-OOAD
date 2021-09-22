@@ -10,7 +10,7 @@ public class Order implements Action{
     }
     @Override
     public void announce() {
-        System.out.println("Checking to see if games need to be restocked...");
+        System.out.println("The Cashier checks to see if games need to be restocked...");
     }
 
     @Override

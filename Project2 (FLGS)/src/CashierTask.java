@@ -1,8 +1,8 @@
-/*
-    We use the delegation here to perform each tasks. So when we need a different task, saying we want
-    a different type of stack, we only needs to initiate a different class of stack and put it into CashierTask Object.
+//An example of identity - CashierTasks receives a Games object from
+//Customer.buyGame(). It then passes it to Sold.doAction() where it
+//updates the Games object.
 
-*/
+
 public class CashierTask {
     Arrive arrive;
     Close close;
@@ -14,11 +14,11 @@ public class CashierTask {
     Sold sold = new Sold();
     CashRegister cashRegister;
     public CashierTask(String employeeName, int arriveDay, CashRegister register,
-                       Wares ware, int damageRate,Stack stack) {
+                       Object store,Wares ware, int damageRate,Stack stack) {
         this.arrive = new Arrive(employeeName,arriveDay,ware);
         this.close = new Close();
         this.count = new Count(register);
-        this.open = new Open();
+        this.open = new Open(store);
         this.stack = stack;
         this.vacuum = new Vacuum(damageRate,ware);
         this.order = new Order(ware,register);

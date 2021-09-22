@@ -8,18 +8,17 @@ public class Shelf {
     private double shelfProbability;
     int shelfNumber;
 
-    public Shelf(int shelfNumber, double shelfProbability){
-        this.shelfNumber = shelfNumber;
-        this.shelfProbability = shelfProbability;
-    }
-
-    public Shelf(int shelfNumber){
-        this.shelfNumber = shelfNumber;
-        this.shelfProbability = 0.20 - (0.02)*(shelfNumber);
-        if (this.shelfProbability <= 0){
-         this.shelfProbability = 0;
-        }
-    }
+    // Commented out as we have Sold.java as getits own class.
+    // Kept here on the chance that we might have to implement it
+    // here in the future.
+    
+//    public Shelf(int shelfNumber){
+//        this.shelfNumber = shelfNumber;
+//        this.shelfProbability = 0.20 - (0.02)*(shelfNumber);
+//        if (this.shelfProbability <= 0){
+//         this.shelfProbability = 0;
+//        }
+//    }
 
     //Getters and Setters.
     public List<Games> getGamePile(){
