@@ -25,7 +25,6 @@ public class Vacuum implements Action {
             if(gameList!=null && !gameList.isEmpty()){
                 Games gameDamaged=gameList.get(r.nextInt(gameList.size()));
 
-                //TODO: should have a decrement function of game inventory.
                 gameDamaged.inventory -= 1;
                 System.out.println("An in-stock order of " +
                                     gameDamaged.getGameName() +

@@ -100,7 +100,10 @@ public abstract class Games {
     // Setters
     public void setPrice(double itemPrice) throws Exception {
         this.price = gi.priceTable().get(this.getGameName());
-        this.price = Math.round(itemPrice * 100.0) / 100.0;
+
+        // Commented out for now as we don't expect price changes to
+        // change on the fly.
+        // this.price = Math.round(itemPrice * 100.0) / 100.0;
 
         gi.priceTable().replace(this.gameName,
                                 Math.round(itemPrice * 100.0) / 100.0);

@@ -7,7 +7,7 @@ public class Employee {
     }
 
     public Employee(){
-        this.name = RandomUtils.getRandomName(10);
+        this.name = RandomUtils.getRandomName();
     }
 
     // Getters and Setters.

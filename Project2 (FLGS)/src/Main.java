@@ -1,5 +1,4 @@
 import java.io.FileNotFoundException;
-import java.io.PrintStream;
 
 public class Main {
 
@@ -8,7 +7,6 @@ public class Main {
     public static Wares wares = new Wares();
 
     public static void main(String[] args) throws FileNotFoundException {
-
         store.simulate(30);
     }
 }

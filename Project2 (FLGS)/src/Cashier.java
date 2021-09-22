@@ -1,8 +1,8 @@
-//An example of inheritance - Cashier has inherited from Employee. You can even see the super()
-//constructor.
+//An example of inheritance - Cashier has inherited from Employee.
+// You can even see the super() constructor.
 
-//An example of cohesion - The functionality of tasks has been delegated to CashierTask,
-//making Cashier more cohesive with what it does (handling information regarding cashier.)
+// An example of cohesion - The functionality of tasks has been delegated to CashierTask,
+// making Cashier more cohesive with what it does (handling information regarding cashier.)
 
 public class Cashier extends Employee{
 
