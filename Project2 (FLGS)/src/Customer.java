@@ -41,7 +41,7 @@ public class Customer {
         return shelves.get(selectedShelfIndex);
     }
 
-    public int selectGame(){
+    public int selectGame(List<Games> shelf){
         // customer preference in choosing game goes here.
         // unused in this implementation. plans to implement next sprint.
 
