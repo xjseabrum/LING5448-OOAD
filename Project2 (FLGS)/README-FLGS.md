@@ -1,5 +1,9 @@
 
+Team members (along with version of Java that each is using):
 
+- Jay Seabrum (using Java JDK 16)
+- Weitung Liao (using Java JDK 16)
+- Dananjay Srinivas (using Open SDK 16)
 
 **You will actually find the specific comments regarding these concepts on the top of the file. This is a general index 
 we made for you convenience.**
