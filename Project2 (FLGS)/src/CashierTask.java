@@ -1,4 +1,6 @@
-//Comment
+//An example of identity - CashierTasks receives a Games object from
+//Customer.buyGame(). It then passes it to Sold.doAction() where it
+//updates the Games object.
 
 
 public class CashierTask {

@@ -1,0 +1,96 @@
+
+
+
+**You will actually find the specific comments regarding these concepts on the top of the file. This is a general index 
+we made for you convenience.**
+
+
+Examples of Inheritance - 
+
+
+
+| Class   | Explanation                           | File         |
+| ------- | ------------------------------------- | ------------ |
+| Cashier | Cashier Inherits from class Employee. | Cashier.java |
+|         |                                       |              |
+|         |                                       |              |
+
+Examples of Cohesion - 
+
+| Class                      | Explanation                                                  | File                           |
+| -------------------------- | ------------------------------------------------------------ | ------------------------------ |
+| CashierTasks/EmployeeTasks | We did not want to have Cashier/Employee class implement all the actions, as it would have too much responsibilities. We created a separate class called CashierTasks, that handles all the actions made by the Cashier/Employee. At the moment Employee is an abstract class . | Cashier.java/CashierTasks.java |
+|                            |                                                              |                                |
+|                            |                                                              |                                |
+
+
+
+Examples of Identity - 
+
+
+
+| Class                      | Explanation                                                  | File                                                  |
+| -------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
+| Customer/CashierTasks/Sold | When a Customer selects a game, that game object is passed to Cashier - who delegates it to CashierTasks, who passes the identity of the Game to “Sold”, which then modifies the attributes of the game. | Customer. buyGame(),  Cashier.tasks.sold(), Sold.java |
+|                            |                                                              |                                                       |
+|                            |                                                              |                                                       |
+
+Examples of Encapsulation - *In general, we have employed getters-setters, so that is a case of encapsulation. This is under the philosophy - encapsulate what varies.*
+
+
+
+| Class | Explanation                                                  | File       |
+| ----- | ------------------------------------------------------------ | ---------- |
+| Store | Everyday, a store performs 4 operations - “DailyRollCall, DailyMaintainence, DailyBusiness, DailyPunchOut”. These functions are private because they need not be accessed by other classes. | Store.java |
+|       |                                                              |            |
+
+Examples of Abstraction - 
+
+
+
+| Class | Explanation | File |
+| ----- | ----------- | ---- |
+|       |             |      |
+|       |             |      |
+
+
+
+Examples of Polymorphism - 
+
+
+
+| Class | Explanation | File |
+| ----- | ----------- | ---- |
+|       |             |      |
+|       |             |      |
+
+
+
+#### Roadmap
+
+This was a conservative bet on what can be delivered in the 8 days that we actually worked on this project (the rest was divided between design and Project 1 submission). 
+
+
+
+Here are the salient points that we hope to address in the coming submissions - 
+
+- Removing Timeline, changing it into a util that reports to Store object. 
+- Removing util functions inside Store and placing it in a delegated class : StoreUtils.
+- Reduce some coupling between Cashier/Main and CashierTasks.
+- Store should have fewer method definitions and more method calls (*jury is out on this one*)
+- Store should own Wares and CashRegister (*jury is out on this one* - *there are good reasons to keep them separate in our opinion.*)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
