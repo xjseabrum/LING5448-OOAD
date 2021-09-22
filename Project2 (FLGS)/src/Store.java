@@ -34,7 +34,7 @@ public class Store {
     }
 
     public void spawnCashier(String name, int arrivalDay, int vacuumDamageRate, Stack stack){
-        cashiers.add(new Cashier(name, arrivalDay, Main.register, this, Main.wares, vacuumDamageRate, stack));
+        cashiers.add(new Cashier(name, arrivalDay, Main.register, Main.wares, vacuumDamageRate, stack));
     }
 
     private void doDailyRollCall(int day){
