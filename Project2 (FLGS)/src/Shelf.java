@@ -8,7 +8,7 @@ public class Shelf {
     private double shelfProbability;
     int shelfNumber;
 
-    // Commented out as we have Sold.java as its own class.
+    // Commented out as we have Sold.java as getits own class.
     // Kept here on the chance that we might have to implement it
     // here in the future.
     

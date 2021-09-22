@@ -56,8 +56,8 @@ Examples of Abstraction -
 
 | Class | Explanation | File |
 | ----- | ----------- | ---- |
-|       |             |      |
-|       |             |      |
+| Games | The superclass to the Games' subclasses.  It provides the framework by which all Games subclasses have to abide by and use. | Games.java |
+| Action | This is a classic example of Abstraction, as an interface is guaranteed and the user can just call methods from class that implement Action.interface and not worry about what is under the hood. | Action.java<br />(Interface) |
 
 
 
@@ -86,18 +86,4 @@ Here are the salient points that we hope to address in the coming submissions -
 - Reduce some coupling between Cashier/Main and CashierTasks.
 - Store should have fewer method definitions and more method calls (*jury is out on this one*)
 - Store should own Wares and CashRegister (*jury is out on this one* - *there are good reasons to keep them separate in our opinion.*)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
