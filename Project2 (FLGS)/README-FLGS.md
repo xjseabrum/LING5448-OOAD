@@ -8,7 +8,7 @@ Team members (along with version of Java that each is using):
 # *All files that should be graded are stored in Project2 (FLGS)/src. Output.txt is also in /src.
 
 **You will actually find the specific comments regarding these concepts on the top of the file. This is a general index 
-we made for you convenience.**
+we made for your convenience.**
 
 
 Examples of Inheritance - 
