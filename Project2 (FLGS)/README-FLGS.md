@@ -5,7 +5,7 @@ Team members (along with version of Java that each is using):
 - Weitung Liao (using Java JDK 16)
 - Dananjay Srinivas (using Open SDK 16)
 
-*All files that should be graded are stored in Project2 (FLGS)/src. Output.txt is also in /src.
+# *All files that should be graded are stored in Project2 (FLGS)/src. Output.txt is also in /src.
 
 **You will actually find the specific comments regarding these concepts on the top of the file. This is a general index 
 we made for you convenience.**
