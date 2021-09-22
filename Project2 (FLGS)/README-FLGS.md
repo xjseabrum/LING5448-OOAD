@@ -64,7 +64,7 @@ Examples of Polymorphism -
 
 
 | Class | Explanation | File |
-| ----- | ----------- | ---- |
+| KidsGame/BoardGame/CardGame/FamilyGame | These are all subclasses to the main superclass Games.java.  Because all the same methods can be used across all the subclasses, polymorphism is maintained. | KidsGame.java, BoardGame.java, CardGame.java, FamilyGame.java |
 |       |             |      |
 |       |             |      |
 
