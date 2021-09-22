@@ -3,6 +3,9 @@
 // It forms the base of the inheritance structure,
 // by which KidsGame, BoardGame, CardGame and FamilyGame
 // inherit their shared attributes, functions, and methods.
+// This provides an example of abstraction:
+// This superclass provides the framework by which all Games
+// subclasses have to abide by and use.
 
 // This object calls an object, gi, which contains
 // the hashmaps to the names, prices, and dimensions of the games.
