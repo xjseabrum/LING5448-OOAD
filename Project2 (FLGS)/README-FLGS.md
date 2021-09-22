@@ -56,7 +56,7 @@ Examples of Abstraction -
 
 | Class | Explanation | File |
 | ----- | ----------- | ---- |
-|       |             |      |
+| Games | The superclass to the Games' subclasses.  It provides the framework by which all Games subclasses have to abide by and use. | Games.java |
 |       |             |      |
 
 
