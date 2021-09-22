@@ -6,6 +6,7 @@ Team members (along with version of Java that each is using):
 - Dananjay Srinivas (using Open SDK 16)
 
 # *All files that should be graded are stored in Project2 (FLGS)/src. Output.txt is also in /src.
+## *The UML file is located here: Project2 (FLGS)/OOAD Project2 UML.jpg
 
 **You will actually find the specific comments regarding these concepts on the top of the file. This is a general index 
 we made for your convenience.**
