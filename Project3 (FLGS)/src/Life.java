@@ -1,5 +1,5 @@
 public class Life extends FamilyGame{
-    public Life() throws Exception{
+    public Life(){
         super.setGameName("Life");
         super.setPrice(20.00);
         super.boxLength = 15.75;

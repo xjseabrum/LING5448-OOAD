@@ -1,6 +1,6 @@
 public class Gloomhaven extends BoardGame{
 
-    public Gloomhaven() throws Exception{
+    public Gloomhaven(){
         Gloomhaven.super.extraBuyChance = 0.2;
         super.setGameName("Gloomhaven");
         super.setPrice(50.00);

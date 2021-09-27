@@ -10,11 +10,13 @@ public class Arrive implements Action{
     String employeeName;
     int arriveDay;
     Wares ware;
-    public Arrive(String employeeName, int arriveDay,Wares ware){
+
+    public Arrive(String employeeName, int arriveDay, Wares ware){
         this.employeeName = employeeName;
         this.arriveDay = arriveDay;
-        this.ware=ware;
+        this.ware = ware;
     }
+
     public void announce() {
         System.out.println("---------------------------------------------------");
         System.out.println(employeeName +

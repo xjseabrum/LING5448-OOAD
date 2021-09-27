@@ -1,5 +1,5 @@
 public class Catan extends BoardGame{
-    public Catan() throws Exception {
+    public Catan() {
         super.setGameName("Catan");
         super.setPrice(41.90);
         super.boxLength = 11.63;

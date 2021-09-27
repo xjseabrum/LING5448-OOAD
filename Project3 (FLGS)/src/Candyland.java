@@ -1,5 +1,5 @@
 public class Candyland extends KidsGame{
-    public Candyland() throws Exception {
+    public Candyland(){
         super.setGameName("Candyland");
         super.setPrice(24.40);
         super.boxLength = 15.76;

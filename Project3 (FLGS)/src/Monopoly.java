@@ -1,6 +1,6 @@
 public class Monopoly extends FamilyGame{
 
-    public Monopoly() throws Exception{
+    public Monopoly(){
         Monopoly.super.extraBuyChance = 0.5;
         super.setGameName("Monopoly");
         super.setPrice(28.00);

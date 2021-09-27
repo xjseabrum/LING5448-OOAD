@@ -1,5 +1,5 @@
 public class Pokemon extends CardGame{
-    public Pokemon() throws Exception{
+    public Pokemon(){
         super.setGameName("Pokemon");
         super.setPrice(10.00);
         super.boxLength = 3.00;

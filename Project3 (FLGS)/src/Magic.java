@@ -1,5 +1,5 @@
 public class Magic extends CardGame{
-    public Magic() throws Exception{
+    public Magic(){
         super.setGameName("Magic");
         super.setPrice(39.88);
         super.boxLength = 11.63;

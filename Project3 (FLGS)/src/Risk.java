@@ -1,5 +1,5 @@
 public class Risk extends BoardGame{
-    public Risk() throws Exception{
+    public Risk(){
         super.setGameName("Risk");
         super.setPrice(31.50);
         super.boxLength = 15.75;

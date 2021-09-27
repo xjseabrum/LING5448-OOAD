@@ -1,5 +1,5 @@
 public class ConnectFour extends KidsGame{
-    public ConnectFour() throws Exception {
+    public ConnectFour(){
         super.setGameName("Connect Four");
         super.setPrice(12.00);
         super.boxLength = 10.51;

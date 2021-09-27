@@ -1,5 +1,5 @@
 public class Clue extends FamilyGame {
-    public Clue() throws Exception {
+    public Clue(){
         super.setGameName("Clue");
         super.setPrice(19.00);
         super.boxLength = 15.75;

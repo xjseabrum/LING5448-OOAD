@@ -100,7 +100,7 @@ public abstract class Games {
     //////////////////////////////////////////////////////////////////////////
 
     // Setters
-    public void setPrice(double itemPrice) throws Exception {
+    public void setPrice(double itemPrice) {
         this.price = Math.round(itemPrice * 100.0) / 100.0;
     }
 

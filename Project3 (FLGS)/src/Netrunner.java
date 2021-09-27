@@ -1,5 +1,5 @@
 public class Netrunner extends CardGame{
-    public Netrunner() throws Exception{
+    public Netrunner(){
         super.setGameName("Netrunner");
         super.setPrice(12.00);
         super.boxLength = 5.00;
