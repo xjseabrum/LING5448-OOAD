@@ -5,15 +5,25 @@ public class RandomUtils {
 
     public static String getRandomName() {
         Random rand = new Random();
+
+        // Generate a name of random length between 3 and 8 characters long,
+        // endpoints inclusive.
+
+        // The math here is that the range between 3 and 8 is 5 (8-3=5)
+        // and the nextInt function randomly selects between 0 and
+        // the range calculated above plus 1 (as nextInt is exclusive
+        // on the upper bound).  Then translate the sampled space over
+        // 3 units so that the minimum is 3.
+
         int nameLength = rand.nextInt(6) + 3;
 
         // References
         // https://stackoverflow.com/questions/20536566/creating-a-random-string-with-a-z-and-0-9-in-java
 
-        char[] charsCons = {'B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M',
-                'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y',
-                'Z'};
-        char[] charsVowel = {'A', 'E', 'I', 'O', 'U'};
+        char[] charsCons = {'b', 'c', 'd', 'e', 'f', 'g', 'h', 'k', 'l', 'm',
+                'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y',
+                'z'};
+        char[] charsVowel = {'a', 'e', 'i', 'o', 'u'};
 
         StringBuilder name = new StringBuilder();
 
@@ -30,15 +40,13 @@ public class RandomUtils {
             }
         }
 
-        StringBuilder lowers = new StringBuilder();
-        String nameString = name.toString();
-        char[] letters = nameString.toCharArray();
+        // Get the letters of the name, excluding the first letter
+        // which has to be converted to uppercase
+        String withoutFirst = name.substring(1);
 
-        for (int i = 2; i <= nameLength; i++) {
-            lowers.append(Character.toLowerCase(letters[i - 1]));
-        }
-
-        String nameOut = String.valueOf(name.charAt(0)) + String.valueOf(lowers);
+        // Output the name where the first character is uppercase and
+        // the rest is preserved.
+        String nameOut = Character.toUpperCase(name.charAt(0)) + withoutFirst;
         return nameOut;
     }
 
