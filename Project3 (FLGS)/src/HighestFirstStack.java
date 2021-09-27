@@ -19,7 +19,7 @@ public class HighestFirstStack extends Stack{
                 int position = i+1;
                 System.out.println(" stacked " + game.getInventory() + " " +
                                     game.getGameName() + " game(s) at shelf " +
-                                    "position " + position);
+                                    "position " + position + ".");
             }
         }
     }

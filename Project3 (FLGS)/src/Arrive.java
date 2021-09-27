@@ -19,7 +19,7 @@ public class Arrive implements Action{
         System.out.println("---------------------------------------------------");
         System.out.println(employeeName +
                            " the Cashier arrived at the store on Day " +
-                (arriveDay + 1) );
+                (arriveDay + 1) + ".");
     }
     public void doAction() {
         List<Games>gamesList = ware.gameOrderedLastNight;

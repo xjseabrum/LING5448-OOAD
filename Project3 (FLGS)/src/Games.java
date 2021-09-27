@@ -12,17 +12,17 @@
 
 public abstract class Games {
 
-    public double price;
-    public double boxHeight;
-    public double boxWidth;
-    public double boxLength;
+    public double price = -1;
+    public double boxHeight = 0;
+    public double boxWidth = 0;
+    public double boxLength = 0;
     public int inventory = 3;
     public int sold = 0;
     public int currentPosition;
     public int damageContainer = 0;
-    public String gameName;
-    public String gameType;
-    GameInfo gi = new GameInfo();
+    public String gameName = "Generic Game";
+    public String gameType = "Generic Type of Game";
+    public double extraBuyChance = 0;
 
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////
@@ -55,21 +55,18 @@ public abstract class Games {
 
     // Getters
     public double getPrice(){
-        return gi.priceTable().get(this.getGameName());
+        return price;
     }
 
     public double getBoxHeight(){
-        this.boxHeight = gi.gameDimensions().get(this.getGameName())[0];
         return boxHeight;
     }
 
     public double getBoxWidth(){
-        this.boxWidth = gi.gameDimensions().get(this.getGameName())[1];
         return boxWidth;
     }
 
     public double getBoxLength(){
-        this.boxLength = gi.gameDimensions().get(this.getGameName())[2];
         return boxLength;
     }
 
@@ -97,32 +94,14 @@ public abstract class Games {
         return gameType;
     }
 
+    public double getExtraBuyChance(){return extraBuyChance;}
+
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////
 
     // Setters
     public void setPrice(double itemPrice) throws Exception {
-        this.price = gi.priceTable().get(this.getGameName());
-
-        // Commented out for now as we don't expect price changes to
-        // change on the fly.
-        // this.price = Math.round(itemPrice * 100.0) / 100.0;
-
-        gi.priceTable().replace(this.gameName,
-                                Math.round(itemPrice * 100.0) / 100.0);
-
-        // Check to ensure the price falls between 5 and 100, inclusive.
-        if(this.price < 5 || this.price > 100){
-            try
-            {
-                throw new Exception("Invalid price.");
-            }
-            catch(Exception e)
-            {
-                System.out.println("Price must be between 5-100, inclusive.");
-                throw e;
-            }
-        }
+        this.price = Math.round(itemPrice * 100.0) / 100.0;
     }
 
     public void setGameName(String newName){
@@ -139,4 +118,6 @@ public abstract class Games {
     public void setDamageContainer(int numDmg){
         this.damageContainer = numDmg;
     }
+    public void setExtraBuyChance(double d){this.extraBuyChance = d;}
+
 }

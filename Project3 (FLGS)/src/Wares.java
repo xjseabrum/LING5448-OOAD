@@ -27,7 +27,7 @@ public class Wares {
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////
     // Constructor
-    public Wares(){
+    public Wares() throws Exception{
         this.instantiateGames();
     }
 
@@ -91,53 +91,69 @@ public class Wares {
     //////////////////////////////////////////////////////////////////////////
 
     // Instantiate the game objects that are specified in the assignment
-    public void instantiateGames(){
-        FamilyGame monopoly = new FamilyGame();
-        FamilyGame clue = new FamilyGame();
-        FamilyGame life = new FamilyGame();
+    public void instantiateGames() throws Exception {
+        this.addGame(new Monopoly());
+        this.addGame(new Clue());
+        this.addGame(new Life());
 
-        KidsGame mousetrap = new KidsGame();
-        KidsGame candyland = new KidsGame();
-        KidsGame connectFour = new KidsGame();
+        this.addGame(new Mousetrap());
+        this.addGame(new Candyland());
+        this.addGame(new ConnectFour());
 
-        CardGame magic = new CardGame();
-        CardGame pokemon = new CardGame();
-        CardGame netrunner = new CardGame();
+        this.addGame(new Magic());
+        this.addGame(new Pokemon());
+        this.addGame(new Netrunner());
 
-        BoardGame catan = new BoardGame();
-        BoardGame risk = new BoardGame();
-        BoardGame gloomhaven = new BoardGame();
+        this.addGame(new Catan());
+        this.addGame(new Risk());
+        this.addGame(new Gloomhaven());
 
-        monopoly.setGameName("Monopoly");
-        clue.setGameName("Clue");
-        life.setGameName("Life");
+//        FamilyGame monopoly = new Monopoly();
+//        FamilyGame clue = new Clue();
+//        FamilyGame life = new Life();
+//
+//        KidsGame mousetrap = new Mousetrap();
+//        KidsGame candyland = new Candyland();
+//        KidsGame connectFour = new ConnectFour();
+//
+//        CardGame magic = new Magic();
+//        CardGame pokemon = new Pokemon();
+//        CardGame netrunner = new Netrunner();
+//
+//        BoardGame catan = new Catan();
+//        BoardGame risk = new Risk();
+//        BoardGame gloomhaven = new Gloomhaven();
 
-        mousetrap.setGameName("Mousetrap");
-        candyland.setGameName("Candyland");
-        connectFour.setGameName("Connect Four");
+//        monopoly.setGameName("Monopoly");
+//        clue.setGameName("Clue");
+//        life.setGameName("Life");
+//
+//        mousetrap.setGameName("Mousetrap");
+//        candyland.setGameName("Candyland");
+//        connectFour.setGameName("Connect Four");
+//
+//        magic.setGameName("Magic");
+//        pokemon.setGameName("Pokemon");
+//        netrunner.setGameName("Netrunner");
+//
+//        catan.setGameName("Catan");
+//        risk.setGameName("Risk");
+//        gloomhaven.setGameName("Gloomhaven");
 
-        magic.setGameName("Magic");
-        pokemon.setGameName("Pokemon");
-        netrunner.setGameName("Netrunner");
-
-        catan.setGameName("Catan");
-        risk.setGameName("Risk");
-        gloomhaven.setGameName("Gloomhaven");
-
-        this.addGame(monopoly);
-        this.addGame(clue);
-        this.addGame(life);
-
-        this.addGame(mousetrap);
-        this.addGame(candyland);
-        this.addGame(connectFour);
-
-        this.addGame(magic);
-        this.addGame(pokemon);
-        this.addGame(netrunner);
-
-        this.addGame(catan);
-        this.addGame(risk);
-        this.addGame(gloomhaven);
+//        this.addGame(monopoly);
+//        this.addGame(clue);
+//        this.addGame(life);
+//
+//        this.addGame(mousetrap);
+//        this.addGame(candyland);
+//        this.addGame(connectFour);
+//
+//        this.addGame(magic);
+//        this.addGame(pokemon);
+//        this.addGame(netrunner);
+//
+//        this.addGame(catan);
+//        this.addGame(risk);
+//        this.addGame(gloomhaven);
     }
 }

@@ -12,7 +12,7 @@ public class Count implements Action {
     public void announce(){
         double cash = Math.round(cashRegister.getCash() * 100.0) / 100.0;
         System.out.println("The cash register currently has $" +
-                String.format("%.2f", cash));
+                String.format("%.2f", cash) + ".");
     }
 
     public void doAction(){

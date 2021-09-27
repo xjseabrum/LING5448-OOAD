@@ -6,6 +6,6 @@ public class Sold {
         gameSold.sold += 1;
         cashRegister.addCash(income);
         System.out.println(customerName + " bought " + gameSold.getGameName() +
-                           " for $"+ String.format("%.2f", income));
+                           " for $"+ String.format("%.2f", income) + ".");
     }
 }

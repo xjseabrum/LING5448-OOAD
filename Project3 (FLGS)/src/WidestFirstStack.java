@@ -20,7 +20,7 @@ public class WidestFirstStack extends Stack{
                 Games game = stack.get(i);
                 System.out.println(EmployeeName + " stacked " + game.getInventory() + " " +
                         game.getGameName() + " game(s) at shelf " +
-                        "position " + (i+1));
+                        "position " + (i+1) + ".");
             }
         }
 
