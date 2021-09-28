@@ -2,6 +2,7 @@ public class SpecialTokenPack extends SpecialAdd{
     public SpecialTokenPack(Games g){
         this.g = g;
         this.price = 6.00;
+        this.gameName = g.getGameName();
     }
 
     public double getPrice(){

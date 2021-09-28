@@ -5,6 +5,7 @@ public class CustomMinis extends SpecialAdd{
     public CustomMinis(Games g){
         this.g = g;
         this.price = 49.98;
+        this.gameName = g.getGameName();
     }
 
     public double getPrice(){

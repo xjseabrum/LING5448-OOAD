@@ -8,5 +8,13 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException {
         store.simulate(30);
+
+        // Testing decorator code.  Ignore.
+//        Games gh = new Gloomhaven();
+//        System.out.println("N: " + gh.getGameName() + " P: $" + gh.getPrice());
+//
+//
+//        gh = new CustomMinis(gh);
+//        System.out.println("N: " + gh.getGameName() + " P: $" + gh.getPrice());
     }
 }
