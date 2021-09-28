@@ -3,9 +3,8 @@ public class CustomMinis extends SpecialAdd{
     private int maxRoll = 4;
 
     public CustomMinis(Games g){
-        this.g = g;
+        super(g);
         this.price = 49.98;
-        this.gameName = g.getGameName();
     }
 
     public double getPrice(){

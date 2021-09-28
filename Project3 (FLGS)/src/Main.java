@@ -11,10 +11,14 @@ public class Main {
 
         // Testing decorator code.  Ignore.
 //        Games gh = new Gloomhaven();
-//        System.out.println("N: " + gh.getGameName() + " P: $" + gh.getPrice());
+//        System.out.println("N: " + gh.getGameName() + " P: $" + gh.getPrice() +
+//                "BL: " + gh.getBoxLength());
 //
 //
 //        gh = new CustomMinis(gh);
-//        System.out.println("N: " + gh.getGameName() + " P: $" + gh.getPrice());
+//        System.out.println("N: " + gh.getGameName() + " P: $" + gh.getPrice() +
+//                "BL: " + gh.getBoxLength());
+//
+//        System.out.println(gh.getPrice());
     }
 }

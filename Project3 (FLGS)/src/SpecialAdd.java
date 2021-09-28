@@ -3,6 +3,20 @@ public abstract class SpecialAdd extends Games{
     public int randRoll;
     Games g;
 
+    public SpecialAdd(Games g){
+        this.g = g;
+        this.boxHeight = g.getBoxHeight();
+        this.boxWidth = g.getBoxWidth();
+        this.boxLength = g.getBoxLength();
+        this.inventory = g.getInventory();
+        this.sold = g.getSold();
+        this.currentPosition = g.getCurrentPosition();
+        this.damageContainer = g.getDamageContainer();
+        this.gameName = g.getGameName();
+        this.gameType = g.getGameType();
+        this.extraBuyChance = g.getExtraBuyChance();
+    }
+
     public int getRandRoll(int min, int max) {
         this.randRoll = RandomUtils.rand.nextInt((max - min) + 1) + min;
         return randRoll;

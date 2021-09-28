@@ -12,6 +12,12 @@
 
 public abstract class Games {
 
+    // Generic values for this superclass.
+    // Since the more concrete classes will
+    // override some of these values, if we
+    // see any weird values for a game (such as price being -1)
+    // then it serves as a check in our code.
+
     public double price = -1;
     public double boxHeight = 0;
     public double boxWidth = 0;
@@ -21,7 +27,7 @@ public abstract class Games {
     public int currentPosition;
     public int damageContainer = 0;
     public String gameName = "Generic Game Name";
-    public String gameType = "Generic Type of Game";
+    public String gameType = "Generic Game Type";
     public double extraBuyChance = 0;
 
     //////////////////////////////////////////////////////////////////////////

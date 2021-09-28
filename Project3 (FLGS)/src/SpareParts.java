@@ -3,9 +3,11 @@ public class SpareParts extends SpecialAdd{
     private int maxRoll = 2;
 
     public SpareParts(Games g){
-        this.g = g;
+        super(g);
+//        this.g = g;
         this.price = 7.00;
-        this.gameName = g.getGameName();
+//        this.gameName = g.getGameName();
+//        this.gameType = g.getGameType();
     }
 
     public double getPrice(){
