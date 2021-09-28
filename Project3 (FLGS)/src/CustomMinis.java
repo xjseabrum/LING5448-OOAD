@@ -1,15 +1,19 @@
 public class CustomMinis extends SpecialAdd{
-        private int minRoll = 1;
-        private int maxRoll = 4;
-        public double extraCost;
-        Games g;
+    private int minRoll = 1;
+    private int maxRoll = 4;
 
-        public CustomMinis(Games g){
-            this.g = g;
-        }
+    public CustomMinis(Games g){
+        this.g = g;
+        this.price = 49.98;
+    }
 
-        public double cost(){
-            extraCost = super.getRandRoll(minRoll, maxRoll) * 49.98;
-            return g.getPrice() + extraCost;
-        }
+    public double getPrice(){
+        int numBuy = super.getRandRoll(minRoll, maxRoll);
+        double addCost = numBuy * this.price;
+        double totCost = g.getPrice() + addCost;
+        System.out.println(" and " + numBuy + " custom mini(s) for $" +
+                           String.format("%.2f", addCost) +
+                           " for a grand total of $" + totCost + ".");
+        return totCost;
+    }
 }

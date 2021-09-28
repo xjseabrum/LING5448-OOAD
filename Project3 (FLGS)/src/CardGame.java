@@ -13,7 +13,7 @@
 
 public class CardGame extends Games{
     public CardGame(){
-        CardGame.super.gameType = "Card Game";
-        CardGame.super.extraBuyChance = 0.2;
+        super.gameType = "Card Game";
+        super.extraBuyChance = 0.2;
     }
 }

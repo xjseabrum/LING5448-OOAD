@@ -14,6 +14,6 @@
 
 public class BoardGame extends Games{
     public BoardGame(){
-        BoardGame.super.gameType = "Board Game";
+        super.gameType = "Board Game";
     }
 }

@@ -1,16 +1,19 @@
 public class SpareParts extends SpecialAdd{
     private int minRoll = 1;
     private int maxRoll = 2;
-    public double extraCost;
-    Games g;
 
     public SpareParts(Games g){
         this.g = g;
+        this.price = 7.00;
     }
 
-    public double cost(){
-        super.getRandRoll(minRoll, maxRoll);
-        extraCost = super.randRoll * 7.00;
-        return g.getPrice() + extraCost;
+    public double getPrice(){
+        int numBuy = super.getRandRoll(minRoll, maxRoll);
+        double addCost = numBuy * this.price;
+        double totCost = g.getPrice() + addCost;
+        System.out.println(" and " + numBuy + " spare parts kit(s) for $" +
+                String.format("%.2f", addCost) +
+                " for a grand total of $" + totCost + ".");
+        return totCost;
     }
 }

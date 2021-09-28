@@ -20,7 +20,7 @@ public abstract class Games {
     public int sold = 0;
     public int currentPosition;
     public int damageContainer = 0;
-    public String gameName = "Generic Game";
+    public String gameName = "Generic Game Name";
     public String gameType = "Generic Type of Game";
     public double extraBuyChance = 0;
 

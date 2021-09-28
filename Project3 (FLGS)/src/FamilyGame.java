@@ -14,6 +14,6 @@
 
 public class FamilyGame extends Games {
     public FamilyGame(){
-        FamilyGame.super.gameType = "Family Game";
+        super.gameType = "Family Game";
     }
 }

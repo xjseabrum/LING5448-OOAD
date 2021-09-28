@@ -90,7 +90,7 @@ public class Wares {
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////
 
-    // Instantiate the game objects that are specified in the assignment
+    // Instantiate the game objects.
     public void instantiateGames(){
         this.addGame(new Monopoly());
         this.addGame(new Clue());
