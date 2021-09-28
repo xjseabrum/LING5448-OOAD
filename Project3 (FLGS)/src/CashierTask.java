@@ -13,24 +13,22 @@ public class CashierTask {
     Vacuum vacuum;
     Sold sold = new Sold();
     CashRegister cashRegister;
-    public CashierTask(String employeeName, int arriveDay, CashRegister register
-                       ,Wares ware, int damageRate,Stack stack) {
-        this.arrive = new Arrive(employeeName,arriveDay,ware);
+    public CashierTask(Stack stack) {
+        this.arrive = new Arrive();
         this.close = new Close();
-        this.count = new Count(register);
+        this.count = new Count();
         this.open = new Open();
         this.stack = stack;
-        this.vacuum = new Vacuum(damageRate,ware);
-        this.order = new Order(ware,register);
-        this.cashRegister = register;
+        this.vacuum = new Vacuum();
+        this.order = new Order();
     }
-    public void arrive(){
-        arrive.announce();
-        arrive.doAction();
+    public void arrive(String employeeName, int arriveDay, Wares ware){
+        arrive.announce(employeeName, arriveDay);
+        arrive.doAction(ware);
     }
-    public void count(){
-        count.announce();
-        count.doAction();
+    public void count(CashRegister register){
+        count.announce(register);
+        count.doAction(register);
     }
     public void close(){
         close.announce();
@@ -40,19 +38,20 @@ public class CashierTask {
         open.announce();
         open.doAction();
     }
-    public void order(){
+    public void order(Wares ware,CashRegister register){
         order.announce();
-        order.doAction();
+        order.doAction(ware,register);
     }
-    public void stack(){
+    public void stack(Wares ware,String employeeName){
         stack.announce();
-        stack.doAction();
+        stack.doAction(ware);
+        stack.announceStackOrder(ware,employeeName);
     }
-    public void vacuum(){
+    public void vacuum(Wares ware,int damageRate){
         vacuum.announce();
-        vacuum.doAction();
+        vacuum.doAction(damageRate,ware);
     }
-    public void sold(Games gameSold, String customerName){
+    public void sold(Games gameSold, String customerName,CashRegister cashRegister){
         sold.doAction(gameSold,customerName,cashRegister);
     }
 

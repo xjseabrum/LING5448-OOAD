@@ -6,24 +6,14 @@ import java.util.List;
     https://stackoverflow.com/questions/14921671/an-interface-with-different-method-parameters/14921692
 */
 
-public class Arrive implements Action{
-    String employeeName;
-    int arriveDay;
-    Wares ware;
-
-    public Arrive(String employeeName, int arriveDay, Wares ware){
-        this.employeeName = employeeName;
-        this.arriveDay = arriveDay;
-        this.ware = ware;
-    }
-
-    public void announce() {
+public class Arrive{
+    public void announce(String employeeName, int arriveDay) {
         System.out.println("---------------------------------------------------");
         System.out.println(employeeName +
                            " the Cashier arrived at the store on Day " +
                 (arriveDay + 1) + ".");
     }
-    public void doAction() {
+    public void doAction(Wares ware) {
         List<Games>gamesList = ware.gameOrderedLastNight;
         if(gamesList.size() > 0){
             for(Games game:gamesList){

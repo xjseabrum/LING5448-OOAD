@@ -71,7 +71,7 @@ public class Customer {
 
             if (RandomUtils.customerBuysFromShelf(i)) {
                 System.out.println("Customer " + this.name + " selected " + inInventory.get(i).getGameName() + ".");
-                Main.store.getCashier().tasks.sold(inInventory.get(i), this.getCustomerName());
+                Main.store.getCashier().tasks.sold(inInventory.get(i), this.getCustomerName(),Main.register);
                 return;
             }
         }
