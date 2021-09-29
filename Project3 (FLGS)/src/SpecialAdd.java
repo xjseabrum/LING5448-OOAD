@@ -3,6 +3,7 @@ public abstract class SpecialAdd extends Games{
     public int randRoll;
     Games g;
 
+    // How much will we end up mapping to the base?
     public SpecialAdd(Games g){
         this.g = g;
         this.boxHeight = g.getBoxHeight();
