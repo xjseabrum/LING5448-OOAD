@@ -7,6 +7,14 @@ public class CustomMinis extends SpecialAdd{
         this.price = 49.98;
     }
 
+
+    // TO DO: Decorator tracks the string to pass to Sold().
+
+//    public void getDescrip(){
+//        ", and $" + addCost);
+//    }
+
+
     public double getPrice(){
         int numBuy = super.getRandRoll(minRoll, maxRoll);
         double addCost = numBuy * this.price;

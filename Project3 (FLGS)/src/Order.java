@@ -1,20 +1,12 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Order implements Action{
-    Wares ware;
-    CashRegister cashRegister;
-    public Order(Wares ware, CashRegister cashRegister){
-        this.ware=ware;
-        this.cashRegister=cashRegister;
-    }
-    @Override
+public class Order{
     public void announce() {
         System.out.println("The Cashier checks to see if games need to be restocked...");
     }
 
-    @Override
-    public void doAction() {
+    public void doAction(Wares ware,CashRegister cashRegister) {
         List<Games> gameList=ware.getGames();
         List<Games> outOfStockGames=new ArrayList<>();
         for(int i=0;i<gameList.size();i++){

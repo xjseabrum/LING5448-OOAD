@@ -43,26 +43,26 @@ public class Store {
 
         if (burtArrives){
             String employeeName = "Burt";
-            Stack widestFirstStack = new WidestFirstStack(Main.wares, employeeName);
+            Stack widestFirstStack = new WidestFirstStack();
             this.spawnCashier(employeeName, day, 10, widestFirstStack);
         }
         else { // Ernie arrives instead!
             String employeeName = "Ernie";
-            Stack highestFirstStack = new HighestFirstStack(Main.wares, employeeName);
+            Stack highestFirstStack = new HighestFirstStack();
             this.spawnCashier(employeeName, day, 5, highestFirstStack);
         }
 
         for (Cashier cashier:this.cashiers){
-            cashier.tasks.arrive();
+            cashier.tasks.arrive(cashier.getName(),day,Main.wares);
         }
     }
 
     private void doDailyMaintainence(){
         // Employees stack and vacuum.
         for (Cashier cashier:this.cashiers){
-            cashier.tasks.count();
-            cashier.tasks.vacuum();
-            cashier.tasks.stack();
+            cashier.tasks.count(Main.register);
+            cashier.tasks.vacuum(Main.wares,cashier.vacuumDamageRate);
+            cashier.tasks.stack(Main.wares,cashier.getName());
             cashier.tasks.open();
         }
     }
@@ -84,7 +84,7 @@ public class Store {
     private void doDailyPunchOut(){
         // Employees check the registers and inventory, order new games, close shop
         for (Cashier cashier:this.cashiers){
-            cashier.tasks.order();
+            cashier.tasks.order(Main.wares,Main.register);
             cashier.tasks.close();
         }
         this.cashiers.clear();
