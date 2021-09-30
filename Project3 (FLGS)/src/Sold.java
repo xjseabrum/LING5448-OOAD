@@ -9,8 +9,8 @@ public class Sold {
         // Diff'tiate the deco and the game to do this correctly.
 
         // gs.g.i()
+        gameSold=gameSold.self;
         gameSold.inventory -= 1;
-
         // Same here.
         gameSold.sold += 1;
 

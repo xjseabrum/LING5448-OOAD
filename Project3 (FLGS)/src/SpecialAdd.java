@@ -5,6 +5,7 @@ public abstract class SpecialAdd extends Games{
 
     // How much will we end up mapping to the base?
     public SpecialAdd(Games g){
+        super.self=g;
         this.g = g;
         this.boxHeight = g.getBoxHeight();
         this.boxWidth = g.getBoxWidth();
