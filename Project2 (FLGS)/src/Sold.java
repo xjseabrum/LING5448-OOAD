@@ -3,8 +3,9 @@ public class Sold {
                          CashRegister cashRegister) {
         double income = gameSold.getPrice();
         gameSold.inventory -= 1;
+        gameSold.sold += 1;
         cashRegister.addCash(income);
         System.out.println(customerName + " bought " + gameSold.getGameName() +
-                           " for $"+ income);
+                           " for $"+ String.format("%.2f", income));
     }
 }

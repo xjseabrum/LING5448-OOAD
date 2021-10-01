@@ -1,4 +1,6 @@
-//Comment
+//An example of identity - CashierTasks receives a Games object from
+//Customer.buyGame(). It then passes it to Sold.doAction() where it
+//updates the Games object.
 
 
 public class CashierTask {
@@ -11,12 +13,12 @@ public class CashierTask {
     Vacuum vacuum;
     Sold sold = new Sold();
     CashRegister cashRegister;
-    public CashierTask(String employeeName, int arriveDay, CashRegister register,
-                       Object store,Wares ware, int damageRate,Stack stack) {
+    public CashierTask(String employeeName, int arriveDay, CashRegister register
+                       ,Wares ware, int damageRate,Stack stack) {
         this.arrive = new Arrive(employeeName,arriveDay,ware);
         this.close = new Close();
         this.count = new Count(register);
-        this.open = new Open(store);
+        this.open = new Open();
         this.stack = stack;
         this.vacuum = new Vacuum(damageRate,ware);
         this.order = new Order(ware,register);

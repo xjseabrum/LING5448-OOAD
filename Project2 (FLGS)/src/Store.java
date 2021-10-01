@@ -1,3 +1,9 @@
+//An example of encapsulation - Store.customers and Store.cashiers are encapsulated and can only be accessed
+//via getter and setter. Store methods such as doDailyRollCall(), doDailyMaintenance, doDailyBusiness, doDailyClose
+//are all private because they need (and should) not be accessed outside of Store.simulate().
+
+import java.io.FileNotFoundException;
+import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -5,11 +11,13 @@ public class Store {
 
     // attributes
 //    public List<Shelf> shelves = new ArrayList<Shelf>();
-    public List<Customer> customers = new ArrayList<Customer>();
-    public List<Cashier> cashiers = new ArrayList<Cashier>();
+    private List<Customer> customers = new ArrayList<Customer>();
+    private List<Cashier> cashiers = new ArrayList<Cashier>();
 
     // getters and setters
     public Cashier getCashier(){
+        // only one cashier per day. no need to query further.
+        // change depending on requirements in next sprint.
         return this.cashiers.get(0);
     }
 
@@ -20,14 +28,17 @@ public class Store {
 //    }
 
     public void spawnCustomer(){
+        //one customer at a time in store.
+        //change depending on requirements in next sprint.
         customers.add(new Customer());
     }
 
-    public void spawnCashier(String name, int arrivalDay, int vaccumDamageRate, Stack stack){
-        cashiers.add(new Cashier(name, arrivalDay, Main.register, this, Main.wares, vaccumDamageRate, stack));
+    public void spawnCashier(String name, int arrivalDay, int vacuumDamageRate, Stack stack){
+        cashiers.add(new Cashier(name, arrivalDay, Main.register, Main.wares, vacuumDamageRate, stack));
     }
 
-    public void doDailyRollCall(int day){
+    private void doDailyRollCall(int day){
+        // Which cashier arrives today? Coin toss to decide and Cashier.tasks.arrive()
         boolean burtArrives = RandomUtils.getRandomBool();
 
         if (burtArrives){
@@ -46,7 +57,7 @@ public class Store {
         }
     }
 
-    public void doDailyMaintainence(){
+    private void doDailyMaintainence(){
         // Employees stack and vacuum.
         for (Cashier cashier:this.cashiers){
             cashier.tasks.count();
@@ -56,7 +67,7 @@ public class Store {
         }
     }
 
-    public void doDailyBusiness(int maxNumCustomers){
+    private void doDailyBusiness(int maxNumCustomers){
         // Employees open the shop and customers buy stuff.
 
         int numOfCustomers = RandomUtils.getRandomInt(maxNumCustomers);
@@ -70,7 +81,7 @@ public class Store {
         }
     }
 
-    public void doDailyPunchOut(){
+    private void doDailyPunchOut(){
         // Employees check the registers and inventory, order new games, close shop
         for (Cashier cashier:this.cashiers){
             cashier.tasks.order();
@@ -79,7 +90,21 @@ public class Store {
         this.cashiers.clear();
     }
 
-    public void simulate(int days){
+    public void writeSummary() {
+        System.out.println("-----------------------------------");
+        System.out.println("\n-----------------------------------");
+        System.out.println("Games Sold and Their Generated Revenue: \n");
+        for (Games game : Main.wares.getGames()) {
+            System.out.println(game.getSold() + " sale(s) of " +
+                    game.getGameName() + " occurred, generating $" +
+                    String.format("%.2f", (float) (game.getSold() *
+                            game.getPrice())) + " of revenue.");
+        }
+    }
+
+    public void simulate(int days) throws FileNotFoundException {
+
+        this.storeUtils();
 
         for (int day = 0; day < days; day++){
             this.doDailyRollCall(day);
@@ -87,5 +112,13 @@ public class Store {
             this.doDailyBusiness(4);
             this.doDailyPunchOut();
         }
+        this.writeSummary();
     }
+
+    public void storeUtils () throws FileNotFoundException {
+        PrintStream fileStream = new PrintStream("Output.txt");
+        System.setOut(fileStream);
+    }
+
+
 }

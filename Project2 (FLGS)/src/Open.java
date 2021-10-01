@@ -1,13 +1,6 @@
 import java.util.Random;
 
 public class Open implements Action {
-    Object store;
-    Random r = new Random();
-    public Open(Object store)
-    {
-        this.store=store;
-    }
-
     @Override
     public void announce() {
         System.out.println("The store is open for business.");
