@@ -1,4 +1,5 @@
-package com.FLGS.Store;//An example of identity - com.FLGS.Store.Customer.buyGame() passes a com.FLGS.Games.Games object to
+package com.FLGS.Store;
+//An example of identity - com.FLGS.Store.Customer.buyGame() passes a com.FLGS.Games.Games object to
 //a com.FLGS.Store.Employees.Cashier.CashierTasks object. You can step in further, to see that
 //the game is then passed further.
 
@@ -100,7 +101,8 @@ public class Customer {
         // if cookies in cookieJar
         // buyCookies
         // adjust buyProbabilityModifier accordingly
-        System.out.println("Customer Log: Customer is trying to buy cookies.");
+        System.out.println("Customer Log: Customer " + this.name +
+                           " is trying to buy cookies.");
     }
 
     private void buyGames(List<Games> inInventory){
