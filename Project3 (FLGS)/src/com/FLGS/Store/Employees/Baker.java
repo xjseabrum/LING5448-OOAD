@@ -10,17 +10,16 @@ public class Baker extends Employee {
     }
 
     public void arrive(int numDays){
-        this.publish(this.getName() + " the Baker has arrived on day " + numDays);
+        this.publish(this.getName() + " the Baker has arrived on day " + (numDays+1));
     }
 
     public void deliverCookies(){
-
         // Some logic for delivering cookies
         this.publish(this.getName() + " the baker has dropped of 0 cookies for $0");
     }
 
     public void leave(int numDays){
-        this.publish(this.getName() + " the baker has left for day " + numDays);
+        this.publish(this.getName() + " the baker has left for day " + (numDays+1));
     }
 
 }

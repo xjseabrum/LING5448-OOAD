@@ -1,262 +1,342 @@
 ---------------------------------------------
 Guy Log: Guy has arrived on day 1.
-Guy Log: Burt the Cashier arrived at the store on Day 1.
+Guy Log: Ernie the Cashier arrived at the store on Day 1.
 Guy Log: The cash register currently has $0.00.
 Guy Log: The Cash Fairy graciously and magically added $1000.00 to the cash register.
 Guy Log: The cash register currently has $1000.00.
 Guy Log: Vacuuming... 
 Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Connect Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 3 Clue game(s) at shelf position 5.
-Burt stacked 3 Risk game(s) at shelf position 6.
-Burt stacked 3 Life game(s) at shelf position 7.
-Burt stacked 3 Catan game(s) at shelf position 8.
-Burt stacked 3 Magic game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 3 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 3 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
 Guy Log: The store is open for business.
-Store Log: 4 customer(s) visited the store today.
-Store Log: Customer named Diwav is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Diwav selected Candyland.
-Guy Log: Diwav bought Candyland for $24.40.
-Customer Log: Customer Diwav selected Magic.
-Guy Log: Diwav bought Magic for $39.88.
-Customer Log: Customer Diwav bought 2 game(s).
-Store Log: Customer named Vomozi is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Vomozi selected Connect Four.
-Guy Log: Vomozi bought Connect Four for $12.00.
-Customer Log: Customer Vomozi selected Mousetrap.
-Guy Log: Vomozi bought Mousetrap for $24.90.
-Customer Log: Customer Vomozi selected Clue.
-Guy Log: Vomozi bought Clue for $19.00.
-Customer Log: Customer Vomozi bought 3 game(s).
-Store Log: Customer named Wase is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Wase bought 0 game(s).
-Store Log: Customer named Sefuhek is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Sefuhek selected Monopoly.
-Guy Log: Sefuhek bought Monopoly for $28.00.
-Customer Log: Customer Sefuhek selected Life.
-Guy Log: Sefuhek bought Life for $20.00.
-Customer Log: Customer Sefuhek selected Catan.
-Guy Log: Sefuhek bought Catan for $41.90.
-Customer Log: Customer Sefuhek bought 3 game(s).
-Guy Log: Burt the Cashier checks to see if games need to be restocked...
-Guy Log: Burt the Cashier closed the store for the night and went home.
+Store Log: 1 customer(s) visited the store today.
+Store Log: Customer named Disom is inspecting the shelves.
+Customer Log: Customer Disom is trying to buy cookies.
+Customer Log: Customer Disom selected Candyland.
+Guy Log: Disom bought Candyland for $24.40.
+Customer Log: Customer Disom selected Connect Four.
+Guy Log: Disom bought Connect Four for $12.00.
+Customer Log: Customer Disom selected Risk.
+Guy Log: Disom bought Risk for $31.50.
+Customer Log: Customer Disom bought 3 game(s).
+Guy Log: Ernie the Cashier checks to see if games need to be restocked...
+Guy Log: Ernie the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 2.
 Guy Log: Ernie the Cashier arrived at the store on Day 2.
-Guy Log: The cash register currently has $1210.08.
+Guy Log: The cash register currently has $1067.90.
 Guy Log: Vacuuming... 
-An in-stock order of Clue got damaged while vacuuming!
 Stacking...
 Ernie stacked 3 Pokemon game(s) at shelf position 1.
 Ernie stacked 3 Netrunner game(s) at shelf position 2.
 Ernie stacked 2 Candyland game(s) at shelf position 3.
 Ernie stacked 2 Connect Four game(s) at shelf position 4.
-Ernie stacked 2 Life game(s) at shelf position 5.
-Ernie stacked 3 Risk game(s) at shelf position 6.
-Ernie stacked 1 Clue game(s) at shelf position 7.
-Ernie stacked 2 Monopoly game(s) at shelf position 8.
-Ernie stacked 2 Catan game(s) at shelf position 9.
-Ernie stacked 2 Magic game(s) at shelf position 10.
-Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
 Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
 Guy Log: The store is open for business.
 Store Log: 3 customer(s) visited the store today.
-Store Log: Customer named Tene is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Tene selected Pokemon.
-Guy Log: Tene bought Pokemon for $10.00.
-Customer Log: Customer Tene selected Connect Four.
-Guy Log: Tene bought Connect Four for $12.00.
-Customer Log: Customer Tene bought 2 game(s).
-Store Log: Customer named Eikiei is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Eikiei selected Netrunner.
-Guy Log: Eikiei bought Netrunner for $12.00.
-Customer Log: Customer Eikiei selected Candyland.
-Guy Log: Eikiei bought Candyland for $24.40.
-Customer Log: Customer Eikiei bought 2 game(s).
-Store Log: Customer named Rifa is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Rifa selected Netrunner.
-Guy Log: Rifa bought Netrunner for $12.00.
-Customer Log: Customer Rifa selected Life.
-Guy Log: Rifa bought Life for $20.00.
-Customer Log: Customer Rifa bought 2 game(s).
+Store Log: Customer named Qinati is inspecting the shelves.
+Customer Log: Customer Qinati is trying to buy cookies.
+Customer Log: Customer Qinati selected Netrunner.
+Guy Log: Qinati bought Netrunner for $12.00.
+Customer Log: Customer Qinati selected Candyland.
+Guy Log: Qinati bought Candyland for $24.40.
+Customer Log: Customer Qinati selected Connect Four.
+Guy Log: Qinati bought Connect Four for $12.00.
+Customer Log: Customer Qinati bought 3 game(s).
+Store Log: Customer named Zeb is inspecting the shelves.
+Customer Log: Customer Zeb is trying to buy cookies.
+Customer Log: Customer Zeb bought 0 game(s).
+Store Log: Customer named Tiganaq is inspecting the shelves.
+Customer Log: Customer Tiganaq is trying to buy cookies.
+Customer Log: Customer Tiganaq selected Netrunner.
+Guy Log: Tiganaq bought Netrunner for $12.00.
+Customer Log: Customer Tiganaq bought 1 game(s).
 Guy Log: Ernie the Cashier checks to see if games need to be restocked...
 Guy Log: Ernie the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 3.
-Guy Log: Burt the Cashier arrived at the store on Day 3.
-Guy Log: The cash register currently has $1300.48.
-Guy Log: Vacuuming... 
-An in-stock order of Candyland got damaged while vacuuming!
-Stacking...
-Burt stacked 2 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Connect Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
-Burt stacked 0 Candyland game(s) at shelf position 4.
-Burt stacked 1 Clue game(s) at shelf position 5.
-Burt stacked 3 Risk game(s) at shelf position 6.
-Burt stacked 1 Life game(s) at shelf position 7.
-Burt stacked 2 Magic game(s) at shelf position 8.
-Burt stacked 2 Catan game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 4 customer(s) visited the store today.
-Store Log: Customer named Caeiyuz is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Caeiyuz selected Connect Four.
-Guy Log: Caeiyuz bought Connect Four for $12.00.
-Customer Log: Customer Caeiyuz selected Clue.
-Guy Log: Caeiyuz bought Clue for $19.00.
-Customer Log: Customer Caeiyuz selected Life.
-Guy Log: Caeiyuz bought Life for $20.00.
-Customer Log: Customer Caeiyuz bought 3 game(s).
-Store Log: Customer named Bofinope is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Bofinope selected Monopoly.
-Guy Log: Bofinope bought Monopoly for $28.00.
-Customer Log: Customer Bofinope selected Catan.
-Guy Log: Bofinope bought Catan for $41.90.
-Customer Log: Customer Bofinope bought 2 game(s).
-Store Log: Customer named Kee is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Kee selected Monopoly.
-Guy Log: Kee bought Monopoly for $28.00.
-Customer Log: Customer Kee selected Mousetrap.
-Guy Log: Kee bought Mousetrap for $24.90.
-Customer Log: Customer Kee bought 2 game(s).
-Store Log: Customer named Nucise is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Nucise bought 0 game(s).
-Guy Log: Burt the Cashier checks to see if games need to be restocked...
-Guy Log: Burt the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 4.
-Guy Log: Burt the Cashier arrived at the store on Day 4.
-Guy Log: Three new orders of Monopoly have arrived.
-Guy Log: Three new orders of Connect Four have arrived.
-Guy Log: Three new orders of Candyland have arrived.
-Guy Log: Three new orders of Clue have arrived.
-Guy Log: Three new orders of Life have arrived.
-Guy Log: The cash register currently has $1318.28.
+Guy Log: Ernie the Cashier arrived at the store on Day 3.
+Guy Log: The cash register currently has $1128.30.
 Guy Log: Vacuuming... 
 Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Connect Four game(s) at shelf position 2.
-Burt stacked 1 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 3 Clue game(s) at shelf position 5.
-Burt stacked 3 Life game(s) at shelf position 6.
-Burt stacked 3 Risk game(s) at shelf position 7.
-Burt stacked 1 Catan game(s) at shelf position 8.
-Burt stacked 2 Magic game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 2 customer(s) visited the store today.
-Store Log: Customer named Mope is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Mope selected Mousetrap.
-Guy Log: Mope bought Mousetrap for $24.90.
-Customer Log: Customer Mope selected Clue.
-Guy Log: Mope bought Clue for $19.00.
-Customer Log: Customer Mope bought 2 game(s).
-Store Log: Customer named Cotami is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Cotami selected Candyland.
-Guy Log: Cotami bought Candyland for $24.40.
-Customer Log: Customer Cotami bought 1 game(s).
-Guy Log: Burt the Cashier checks to see if games need to be restocked...
-Guy Log: Burt the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 5.
-Guy Log: Ernie the Cashier arrived at the store on Day 5.
-Guy Log: Three new orders of Mousetrap have arrived.
-Guy Log: The cash register currently has $1349.58.
-Guy Log: Vacuuming... 
-Stacking...
-Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
 Ernie stacked 1 Netrunner game(s) at shelf position 2.
-Ernie stacked 2 Candyland game(s) at shelf position 3.
-Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 1 Candyland game(s) at shelf position 3.
+Ernie stacked 1 Connect Four game(s) at shelf position 4.
 Ernie stacked 3 Life game(s) at shelf position 5.
-Ernie stacked 3 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
 Ernie stacked 3 Monopoly game(s) at shelf position 8.
-Ernie stacked 1 Catan game(s) at shelf position 9.
-Ernie stacked 2 Magic game(s) at shelf position 10.
+Ernie stacked 3 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
 Ernie stacked 3 Mousetrap game(s) at shelf position 11.
 Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
 Guy Log: The store is open for business.
 Store Log: 3 customer(s) visited the store today.
-Store Log: Customer named Wid is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Wid selected Life.
-Guy Log: Wid bought Life for $20.00.
-Customer Log: Customer Wid bought 1 game(s).
-Store Log: Customer named Tof is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Tof selected Connect Four.
-Guy Log: Tof bought Connect Four for $12.00.
-Customer Log: Customer Tof bought 1 game(s).
-Store Log: Customer named Bodom is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Bodom selected Connect Four.
-Guy Log: Bodom bought Connect Four for $12.00.
-Customer Log: Customer Bodom bought 1 game(s).
+Store Log: Customer named Lomax is inspecting the shelves.
+Customer Log: Customer Lomax is trying to buy cookies.
+Customer Log: Customer Lomax selected Connect Four.
+Guy Log: Lomax bought Connect Four for $12.00.
+Customer Log: Customer Lomax bought 1 game(s).
+Store Log: Customer named Redelad is inspecting the shelves.
+Customer Log: Customer Redelad is trying to buy cookies.
+Customer Log: Customer Redelad bought 0 game(s).
+Store Log: Customer named Lal is inspecting the shelves.
+Customer Log: Customer Lal is trying to buy cookies.
+Customer Log: Customer Lal selected Pokemon.
+Guy Log: Lal bought Pokemon for $10.00.
+Customer Log: Customer Lal bought 1 game(s).
 Guy Log: Ernie the Cashier checks to see if games need to be restocked...
 Guy Log: Ernie the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
-Guy Log: Guy has arrived on day 6.
-Guy Log: Burt the Cashier arrived at the store on Day 6.
-Guy Log: The cash register currently has $1393.58.
+Guy Log: Guy has arrived on day 4.
+Guy Log: Ernie the Cashier arrived at the store on Day 4.
+Guy Log: Three new orders of Connect Four have arrived.
+Guy Log: The cash register currently has $1132.30.
 Guy Log: Vacuuming... 
-An in-stock order of Catan got damaged while vacuuming!
+Stacking...
+Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Ernie stacked 1 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 3 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 2 customer(s) visited the store today.
+Store Log: Customer named Yeq is inspecting the shelves.
+Customer Log: Customer Yeq is trying to buy cookies.
+Customer Log: Customer Yeq selected Pokemon.
+Guy Log: Yeq bought Pokemon for $10.00.
+Customer Log: Customer Yeq selected Life.
+Guy Log: Yeq bought Life for $20.00.
+Customer Log: Customer Yeq bought 2 game(s).
+Store Log: Customer named Gupa is inspecting the shelves.
+Customer Log: Customer Gupa is trying to buy cookies.
+Customer Log: Customer Gupa selected Pokemon.
+Guy Log: Gupa bought Pokemon for $10.00.
+Customer Log: Customer Gupa bought 1 game(s).
+Guy Log: Ernie the Cashier checks to see if games need to be restocked...
+Guy Log: Ernie the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 5.
+Guy Log: Burt the Cashier arrived at the store on Day 5.
+Guy Log: Three new orders of Pokemon have arrived.
+Guy Log: The cash register currently has $1157.30.
+Guy Log: Vacuuming... 
+An in-stock order of Connect Four got damaged while vacuuming!
 Stacking...
 Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Connect Four game(s) at shelf position 2.
+Burt stacked 2 Connect Four game(s) at shelf position 2.
 Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 2 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 3 Risk game(s) at shelf position 6.
+Burt stacked 1 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 2 Risk game(s) at shelf position 6.
 Burt stacked 2 Life game(s) at shelf position 7.
-Burt stacked 2 Magic game(s) at shelf position 8.
-Burt stacked 0 Catan game(s) at shelf position 9.
+Burt stacked 3 Catan game(s) at shelf position 8.
+Burt stacked 3 Magic game(s) at shelf position 9.
 Burt stacked 3 Gloomhaven game(s) at shelf position 10.
 Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
 Guy Log: The store is open for business.
 Store Log: 1 customer(s) visited the store today.
-Store Log: Customer named Pupiqomi is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Pupiqomi bought 0 game(s).
+Store Log: Customer named Bux is inspecting the shelves.
+Customer Log: Customer Bux is trying to buy cookies.
+Customer Log: Customer Bux selected Candyland.
+Guy Log: Bux bought Candyland for $24.40.
+Customer Log: Customer Bux bought 1 game(s).
 Guy Log: Burt the Cashier checks to see if games need to be restocked...
 Guy Log: Burt the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
+Guy Log: Guy has arrived on day 6.
+Guy Log: Ernie the Cashier arrived at the store on Day 6.
+Guy Log: Three new orders of Candyland have arrived.
+Guy Log: The cash register currently has $1144.70.
+Guy Log: Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 2 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 1 customer(s) visited the store today.
+Store Log: Customer named Vikopi is inspecting the shelves.
+Customer Log: Customer Vikopi is trying to buy cookies.
+Customer Log: Customer Vikopi bought 0 game(s).
+Guy Log: Ernie the Cashier checks to see if games need to be restocked...
+Guy Log: Ernie the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
 Guy Log: Guy has arrived on day 7.
-Guy Log: Ernie the Cashier arrived at the store on Day 7.
-Guy Log: Three new orders of Catan have arrived.
-Guy Log: The cash register currently has $1330.58.
+Guy Log: Burt the Cashier arrived at the store on Day 7.
+Guy Log: The cash register currently has $1144.70.
+Guy Log: Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 2 Connect Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 2 Risk game(s) at shelf position 6.
+Burt stacked 2 Life game(s) at shelf position 7.
+Burt stacked 3 Magic game(s) at shelf position 8.
+Burt stacked 3 Catan game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 1 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 1 customer(s) visited the store today.
+Store Log: Customer named Vebotu is inspecting the shelves.
+Customer Log: Customer Vebotu is trying to buy cookies.
+Customer Log: Customer Vebotu selected Clue.
+Guy Log: Vebotu bought Clue for $19.00.
+Customer Log: Customer Vebotu bought 1 game(s).
+Guy Log: Burt the Cashier checks to see if games need to be restocked...
+Guy Log: Burt the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 8.
+Guy Log: Burt the Cashier arrived at the store on Day 8.
+Guy Log: The cash register currently has $1163.70.
+Guy Log: Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 2 Connect Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 2 Clue game(s) at shelf position 5.
+Burt stacked 2 Life game(s) at shelf position 6.
+Burt stacked 2 Risk game(s) at shelf position 7.
+Burt stacked 3 Catan game(s) at shelf position 8.
+Burt stacked 3 Magic game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 1 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 1 customer(s) visited the store today.
+Store Log: Customer named Qine is inspecting the shelves.
+Customer Log: Customer Qine is trying to buy cookies.
+Customer Log: Customer Qine selected Connect Four.
+Guy Log: Qine bought Connect Four for $12.00.
+Customer Log: Customer Qine selected Mousetrap.
+Guy Log: Qine bought Mousetrap for $24.90.
+Customer Log: Customer Qine selected Clue.
+Guy Log: Qine bought Clue for $19.00.
+Customer Log: Customer Qine bought 3 game(s).
+Guy Log: Burt the Cashier checks to see if games need to be restocked...
+Guy Log: Burt the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 9.
+Guy Log: Ernie the Cashier arrived at the store on Day 9.
+Guy Log: The cash register currently has $1219.60.
+Guy Log: Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 1 customer(s) visited the store today.
+Store Log: Customer named Metahen is inspecting the shelves.
+Customer Log: Customer Metahen is trying to buy cookies.
+Customer Log: Customer Metahen selected Netrunner.
+Guy Log: Metahen bought Netrunner for $12.00.
+Customer Log: Customer Metahen selected Candyland.
+Guy Log: Metahen bought Candyland for $24.40.
+Customer Log: Customer Metahen bought 2 game(s).
+Guy Log: Ernie the Cashier checks to see if games need to be restocked...
+Guy Log: Ernie the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 10.
+Guy Log: Ernie the Cashier arrived at the store on Day 10.
+Guy Log: Three new orders of Netrunner have arrived.
+Guy Log: The cash register currently has $1238.00.
+Guy Log: Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 2 Candyland game(s) at shelf position 3.
+Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 4 customer(s) visited the store today.
+Store Log: Customer named Tokopi is inspecting the shelves.
+Customer Log: Customer Tokopi is trying to buy cookies.
+Customer Log: Customer Tokopi bought 0 game(s).
+Store Log: Customer named Gitodi is inspecting the shelves.
+Customer Log: Customer Gitodi is trying to buy cookies.
+Customer Log: Customer Gitodi selected Netrunner.
+Guy Log: Gitodi bought Netrunner for $12.00.
+Customer Log: Customer Gitodi bought 1 game(s).
+Store Log: Customer named Eaeefuni is inspecting the shelves.
+Customer Log: Customer Eaeefuni is trying to buy cookies.
+Customer Log: Customer Eaeefuni bought 0 game(s).
+Store Log: Customer named Muk is inspecting the shelves.
+Customer Log: Customer Muk is trying to buy cookies.
+Customer Log: Customer Muk selected Pokemon.
+Guy Log: Muk bought Pokemon for $10.00.
+Customer Log: Customer Muk selected Netrunner.
+Guy Log: Muk bought Netrunner for $12.00.
+Customer Log: Customer Muk bought 2 game(s).
+Guy Log: Ernie the Cashier checks to see if games need to be restocked...
+Guy Log: Ernie the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 11.
+Guy Log: Ernie the Cashier arrived at the store on Day 11.
+Guy Log: The cash register currently has $1272.00.
 Guy Log: Vacuuming... 
 Stacking...
 Ernie stacked 2 Pokemon game(s) at shelf position 1.
@@ -264,519 +344,90 @@ Ernie stacked 1 Netrunner game(s) at shelf position 2.
 Ernie stacked 2 Candyland game(s) at shelf position 3.
 Ernie stacked 1 Connect Four game(s) at shelf position 4.
 Ernie stacked 2 Life game(s) at shelf position 5.
-Ernie stacked 3 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
 Ernie stacked 3 Monopoly game(s) at shelf position 8.
-Ernie stacked 2 Magic game(s) at shelf position 9.
-Ernie stacked 3 Catan game(s) at shelf position 10.
-Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 2 Mousetrap game(s) at shelf position 11.
 Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
 Guy Log: The store is open for business.
 Store Log: 1 customer(s) visited the store today.
-Store Log: Customer named Zahikexi is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Zahikexi selected Life.
-Guy Log: Zahikexi bought Life for $20.00.
-Customer Log: Customer Zahikexi selected Clue.
-Guy Log: Zahikexi bought Clue for $19.00.
-Customer Log: Customer Zahikexi bought 2 game(s).
-Guy Log: Ernie the Cashier checks to see if games need to be restocked...
-Guy Log: Ernie the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 8.
-Guy Log: Burt the Cashier arrived at the store on Day 8.
-Guy Log: The cash register currently has $1369.58.
-Guy Log: Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Connect Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 2 Candyland game(s) at shelf position 4.
-Burt stacked 1 Clue game(s) at shelf position 5.
-Burt stacked 3 Risk game(s) at shelf position 6.
-Burt stacked 1 Life game(s) at shelf position 7.
-Burt stacked 3 Catan game(s) at shelf position 8.
-Burt stacked 2 Magic game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 2 customer(s) visited the store today.
-Store Log: Customer named Wiqihapi is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Wiqihapi bought 0 game(s).
-Store Log: Customer named Eixike is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Eixike selected Clue.
-Guy Log: Eixike bought Clue for $19.00.
-Customer Log: Customer Eixike bought 1 game(s).
-Guy Log: Burt the Cashier checks to see if games need to be restocked...
-Guy Log: Burt the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 9.
-Guy Log: Burt the Cashier arrived at the store on Day 9.
-Guy Log: Three new orders of Clue have arrived.
-Guy Log: The cash register currently has $1359.58.
-Guy Log: Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Connect Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 2 Candyland game(s) at shelf position 4.
-Burt stacked 3 Clue game(s) at shelf position 5.
-Burt stacked 1 Life game(s) at shelf position 6.
-Burt stacked 3 Risk game(s) at shelf position 7.
-Burt stacked 2 Magic game(s) at shelf position 8.
-Burt stacked 3 Catan game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 3 customer(s) visited the store today.
-Store Log: Customer named Natueuz is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Natueuz selected Connect Four.
-Guy Log: Natueuz bought Connect Four for $12.00.
-Customer Log: Customer Natueuz selected Candyland.
-Guy Log: Natueuz bought Candyland for $24.40.
-Customer Log: Customer Natueuz bought 2 game(s).
-Store Log: Customer named Yavuvi is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Yavuvi bought 0 game(s).
-Store Log: Customer named Layebo is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Layebo bought 0 game(s).
-Guy Log: Burt the Cashier checks to see if games need to be restocked...
-Guy Log: Burt the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 10.
-Guy Log: Burt the Cashier arrived at the store on Day 10.
-Guy Log: Three new orders of Connect Four have arrived.
-Guy Log: The cash register currently has $1377.98.
-Guy Log: Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Connect Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 1 Candyland game(s) at shelf position 4.
-Burt stacked 3 Clue game(s) at shelf position 5.
-Burt stacked 3 Risk game(s) at shelf position 6.
-Burt stacked 1 Life game(s) at shelf position 7.
-Burt stacked 3 Catan game(s) at shelf position 8.
-Burt stacked 2 Magic game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 4 customer(s) visited the store today.
-Store Log: Customer named Rucie is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Rucie bought 0 game(s).
-Store Log: Customer named Loq is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Loq bought 0 game(s).
-Store Log: Customer named Fuduwoe is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Fuduwoe selected Monopoly.
-Guy Log: Fuduwoe bought Monopoly for $28.00.
-Customer Log: Customer Fuduwoe selected Risk.
-Guy Log: Fuduwoe bought Risk for $31.50.
-Customer Log: Customer Fuduwoe bought 2 game(s).
-Store Log: Customer named Tiveb is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Tiveb selected Connect Four.
-Guy Log: Tiveb bought Connect Four for $12.00.
-Customer Log: Customer Tiveb selected Clue.
-Guy Log: Tiveb bought Clue for $19.00.
-Customer Log: Customer Tiveb bought 2 game(s).
-Guy Log: Burt the Cashier checks to see if games need to be restocked...
-Guy Log: Burt the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 11.
-Guy Log: Ernie the Cashier arrived at the store on Day 11.
-Guy Log: The cash register currently has $1468.48.
-Guy Log: Vacuuming... 
-An in-stock order of Magic got damaged while vacuuming!
-Stacking...
-Ernie stacked 2 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
-Ernie stacked 1 Candyland game(s) at shelf position 3.
-Ernie stacked 2 Connect Four game(s) at shelf position 4.
-Ernie stacked 1 Life game(s) at shelf position 5.
-Ernie stacked 2 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
-Ernie stacked 2 Monopoly game(s) at shelf position 8.
-Ernie stacked 3 Catan game(s) at shelf position 9.
-Ernie stacked 1 Magic game(s) at shelf position 10.
-Ernie stacked 3 Mousetrap game(s) at shelf position 11.
-Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 3 customer(s) visited the store today.
-Store Log: Customer named Duta is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Duta selected Netrunner.
-Guy Log: Duta bought Netrunner for $12.00.
-Customer Log: Customer Duta selected Connect Four.
-Guy Log: Duta bought Connect Four for $12.00.
-Customer Log: Customer Duta selected Life.
-Guy Log: Duta bought Life for $20.00.
-Customer Log: Customer Duta bought 3 game(s).
-Store Log: Customer named Curobom is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Curobom selected Pokemon.
-Guy Log: Curobom bought Pokemon for $10.00.
-Customer Log: Customer Curobom bought 1 game(s).
-Store Log: Customer named Yali is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Yali bought 0 game(s).
+Store Log: Customer named Yozu is inspecting the shelves.
+Customer Log: Customer Yozu is trying to buy cookies.
+Customer Log: Customer Yozu bought 0 game(s).
 Guy Log: Ernie the Cashier checks to see if games need to be restocked...
 Guy Log: Ernie the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 12.
 Guy Log: Burt the Cashier arrived at the store on Day 12.
-Guy Log: Three new orders of Netrunner have arrived.
-Guy Log: Three new orders of Life have arrived.
-Guy Log: The cash register currently has $1474.48.
+Guy Log: The cash register currently has $1272.00.
 Guy Log: Vacuuming... 
 Stacking...
-Burt stacked 2 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Monopoly game(s) at shelf position 1.
 Burt stacked 1 Connect Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 1 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
+Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Burt stacked 2 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
 Burt stacked 2 Risk game(s) at shelf position 6.
-Burt stacked 3 Life game(s) at shelf position 7.
-Burt stacked 1 Magic game(s) at shelf position 8.
+Burt stacked 2 Life game(s) at shelf position 7.
+Burt stacked 3 Magic game(s) at shelf position 8.
 Burt stacked 3 Catan game(s) at shelf position 9.
 Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 3 Netrunner game(s) at shelf position 11.
-Burt stacked 1 Pokemon game(s) at shelf position 12.
+Burt stacked 1 Netrunner game(s) at shelf position 11.
+Burt stacked 2 Pokemon game(s) at shelf position 12.
 Guy Log: The store is open for business.
-Store Log: 3 customer(s) visited the store today.
-Store Log: Customer named Noteq is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Noteq selected Risk.
-Guy Log: Noteq bought Risk for $31.50.
-Customer Log: Customer Noteq bought 1 game(s).
-Store Log: Customer named Voxevase is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Voxevase bought 0 game(s).
-Store Log: Customer named Pecelo is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Pecelo bought 0 game(s).
+Store Log: 1 customer(s) visited the store today.
+Store Log: Customer named Robovi is inspecting the shelves.
+Customer Log: Customer Robovi is trying to buy cookies.
+Customer Log: Customer Robovi selected Magic.
+Guy Log: Robovi bought Magic for $39.88.
+Customer Log: Customer Robovi bought 1 game(s).
 Guy Log: Burt the Cashier checks to see if games need to be restocked...
 Guy Log: Burt the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 13.
 Guy Log: Burt the Cashier arrived at the store on Day 13.
-Guy Log: The cash register currently has $1505.98.
+Guy Log: The cash register currently has $1311.88.
 Guy Log: Vacuuming... 
 Stacking...
-Burt stacked 2 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Monopoly game(s) at shelf position 1.
 Burt stacked 1 Connect Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 1 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 3 Life game(s) at shelf position 6.
-Burt stacked 1 Risk game(s) at shelf position 7.
+Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Burt stacked 2 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 2 Life game(s) at shelf position 6.
+Burt stacked 2 Risk game(s) at shelf position 7.
 Burt stacked 3 Catan game(s) at shelf position 8.
-Burt stacked 1 Magic game(s) at shelf position 9.
+Burt stacked 2 Magic game(s) at shelf position 9.
 Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 3 Netrunner game(s) at shelf position 11.
-Burt stacked 1 Pokemon game(s) at shelf position 12.
+Burt stacked 1 Netrunner game(s) at shelf position 11.
+Burt stacked 2 Pokemon game(s) at shelf position 12.
 Guy Log: The store is open for business.
-Store Log: 4 customer(s) visited the store today.
-Store Log: Customer named Roeisulu is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Roeisulu selected Monopoly.
-Guy Log: Roeisulu bought Monopoly for $28.00.
-Customer Log: Customer Roeisulu selected Candyland.
-Guy Log: Roeisulu bought Candyland for $24.40.
-Customer Log: Customer Roeisulu bought 2 game(s).
-Store Log: Customer named Yebuhi is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Yebuhi selected Catan.
-Guy Log: Yebuhi bought Catan for $41.90.
-Customer Log: Customer Yebuhi bought 1 game(s).
-Store Log: Customer named Naqi is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Naqi selected Clue.
-Guy Log: Naqi bought Clue for $19.00.
-Customer Log: Customer Naqi selected Life.
-Guy Log: Naqi bought Life for $20.00.
-Customer Log: Customer Naqi bought 2 game(s).
-Store Log: Customer named Wiy is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Wiy selected Life.
-Guy Log: Wiy bought Life for $20.00.
-Customer Log: Customer Wiy bought 1 game(s).
+Store Log: 2 customer(s) visited the store today.
+Store Log: Customer named Zebabaqo is inspecting the shelves.
+Customer Log: Customer Zebabaqo is trying to buy cookies.
+Customer Log: Customer Zebabaqo selected Catan.
+Guy Log: Zebabaqo bought Catan for $41.90.
+Customer Log: Customer Zebabaqo bought 1 game(s).
+Store Log: Customer named Tifix is inspecting the shelves.
+Customer Log: Customer Tifix is trying to buy cookies.
+Customer Log: Customer Tifix selected Monopoly.
+Guy Log: Tifix bought Monopoly for $28.00.
+Customer Log: Customer Tifix selected Risk.
+Guy Log: Tifix bought Risk for $31.50.
+Customer Log: Customer Tifix selected Catan.
+Guy Log: Tifix bought Catan for $41.90.
+Customer Log: Customer Tifix bought 3 game(s).
 Guy Log: Burt the Cashier checks to see if games need to be restocked...
 Guy Log: Burt the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 14.
-Guy Log: Ernie the Cashier arrived at the store on Day 14.
-Guy Log: Three new orders of Candyland have arrived.
-Guy Log: The cash register currently has $1622.28.
-Guy Log: Vacuuming... 
-Stacking...
-Ernie stacked 1 Pokemon game(s) at shelf position 1.
-Ernie stacked 3 Netrunner game(s) at shelf position 2.
-Ernie stacked 3 Candyland game(s) at shelf position 3.
-Ernie stacked 1 Connect Four game(s) at shelf position 4.
-Ernie stacked 1 Life game(s) at shelf position 5.
-Ernie stacked 1 Risk game(s) at shelf position 6.
-Ernie stacked 1 Clue game(s) at shelf position 7.
-Ernie stacked 1 Monopoly game(s) at shelf position 8.
-Ernie stacked 2 Catan game(s) at shelf position 9.
-Ernie stacked 1 Magic game(s) at shelf position 10.
-Ernie stacked 3 Mousetrap game(s) at shelf position 11.
-Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 3 customer(s) visited the store today.
-Store Log: Customer named Rutado is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Rutado selected Pokemon.
-Guy Log: Rutado bought Pokemon for $10.00.
-Customer Log: Customer Rutado selected Clue.
-Guy Log: Rutado bought Clue for $19.00.
-Customer Log: Customer Rutado bought 2 game(s).
-Store Log: Customer named Eepoxiz is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Eepoxiz selected Netrunner.
-Guy Log: Eepoxiz bought Netrunner for $12.00.
-Customer Log: Customer Eepoxiz selected Monopoly.
-Guy Log: Eepoxiz bought Monopoly for $28.00.
-Customer Log: Customer Eepoxiz bought 2 game(s).
-Store Log: Customer named Terieonu is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Terieonu bought 0 game(s).
-Guy Log: Ernie the Cashier checks to see if games need to be restocked...
-Guy Log: Ernie the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 15.
-Guy Log: Burt the Cashier arrived at the store on Day 15.
-Guy Log: Three new orders of Pokemon have arrived.
-Guy Log: Three new orders of Clue have arrived.
-Guy Log: Three new orders of Monopoly have arrived.
-Guy Log: The cash register currently has $1605.28.
-Guy Log: Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Connect Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 3 Clue game(s) at shelf position 5.
-Burt stacked 1 Risk game(s) at shelf position 6.
-Burt stacked 1 Life game(s) at shelf position 7.
-Burt stacked 1 Magic game(s) at shelf position 8.
-Burt stacked 2 Catan game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 2 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 1 customer(s) visited the store today.
-Store Log: Customer named Qarixu is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Qarixu bought 0 game(s).
-Guy Log: Burt the Cashier checks to see if games need to be restocked...
-Guy Log: Burt the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 16.
-Guy Log: Burt the Cashier arrived at the store on Day 16.
-Guy Log: The cash register currently has $1605.28.
-Guy Log: Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Connect Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 3 Clue game(s) at shelf position 5.
-Burt stacked 1 Life game(s) at shelf position 6.
-Burt stacked 1 Risk game(s) at shelf position 7.
-Burt stacked 2 Catan game(s) at shelf position 8.
-Burt stacked 1 Magic game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 2 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 4 customer(s) visited the store today.
-Store Log: Customer named Suxoxuni is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Suxoxuni selected Mousetrap.
-Guy Log: Suxoxuni bought Mousetrap for $24.90.
-Customer Log: Customer Suxoxuni selected Candyland.
-Guy Log: Suxoxuni bought Candyland for $24.40.
-Customer Log: Customer Suxoxuni selected Clue.
-Guy Log: Suxoxuni bought Clue for $19.00.
-Customer Log: Customer Suxoxuni bought 3 game(s).
-Store Log: Customer named Dobixup is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Dobixup selected Candyland.
-Guy Log: Dobixup bought Candyland for $24.40.
-Customer Log: Customer Dobixup selected Clue.
-Guy Log: Dobixup bought Clue for $19.00.
-Customer Log: Customer Dobixup bought 2 game(s).
-Store Log: Customer named Eawipo is inspecting the shelves.
-Customer Log: Cookie Monster has arrived to terrorize!
-Customer Log: Cookie Monster has eaten all the cookies!
-An in-stock order of Pokemon got damaged while vacuuming!
-Customer Log: Cookie Monster has damaged 1 game(s)!
-Customer Log: Customer Eawipo bought 0 game(s).
-Store Log: Customer named Kagofa is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Kagofa bought 0 game(s).
-Guy Log: Burt the Cashier checks to see if games need to be restocked...
-Guy Log: Burt the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 17.
-Guy Log: Ernie the Cashier arrived at the store on Day 17.
-Guy Log: The cash register currently has $1716.98.
-Guy Log: Vacuuming... 
-Stacking...
-Ernie stacked 2 Pokemon game(s) at shelf position 1.
-Ernie stacked 2 Netrunner game(s) at shelf position 2.
-Ernie stacked 1 Candyland game(s) at shelf position 3.
-Ernie stacked 1 Connect Four game(s) at shelf position 4.
-Ernie stacked 1 Life game(s) at shelf position 5.
-Ernie stacked 1 Risk game(s) at shelf position 6.
-Ernie stacked 1 Clue game(s) at shelf position 7.
-Ernie stacked 3 Monopoly game(s) at shelf position 8.
-Ernie stacked 2 Catan game(s) at shelf position 9.
-Ernie stacked 1 Magic game(s) at shelf position 10.
-Ernie stacked 2 Mousetrap game(s) at shelf position 11.
-Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 3 customer(s) visited the store today.
-Store Log: Customer named Diboti is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Diboti selected Pokemon.
-Guy Log: Diboti bought Pokemon for $10.00.
-Customer Log: Customer Diboti selected Netrunner.
-Guy Log: Diboti bought Netrunner for $12.00.
-Customer Log: Customer Diboti selected Candyland.
-Guy Log: Diboti bought Candyland for $24.40.
-Customer Log: Customer Diboti bought 3 game(s).
-Store Log: Customer named Duqe is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Duqe selected Pokemon.
-Guy Log: Duqe bought Pokemon for $10.00.
-Customer Log: Customer Duqe bought 1 game(s).
-Store Log: Customer named Gayosama is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Gayosama selected Life.
-Guy Log: Gayosama bought Life for $20.00.
-Customer Log: Customer Gayosama bought 1 game(s).
-Guy Log: Ernie the Cashier checks to see if games need to be restocked...
-Guy Log: Ernie the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 18.
-Guy Log: Burt the Cashier arrived at the store on Day 18.
-Guy Log: Three new orders of Pokemon have arrived.
-Guy Log: Three new orders of Candyland have arrived.
-Guy Log: Three new orders of Life have arrived.
-Guy Log: The cash register currently has $1711.38.
-Guy Log: Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Connect Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 1 Clue game(s) at shelf position 5.
-Burt stacked 1 Risk game(s) at shelf position 6.
-Burt stacked 3 Life game(s) at shelf position 7.
-Burt stacked 1 Magic game(s) at shelf position 8.
-Burt stacked 2 Catan game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 1 customer(s) visited the store today.
-Store Log: Customer named Xatigev is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Xatigev bought 0 game(s).
-Guy Log: Burt the Cashier checks to see if games need to be restocked...
-Guy Log: Burt the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 19.
-Guy Log: Burt the Cashier arrived at the store on Day 19.
-Guy Log: The cash register currently has $1711.38.
-Guy Log: Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Connect Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 1 Clue game(s) at shelf position 5.
-Burt stacked 3 Life game(s) at shelf position 6.
-Burt stacked 1 Risk game(s) at shelf position 7.
-Burt stacked 2 Catan game(s) at shelf position 8.
-Burt stacked 1 Magic game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 1 customer(s) visited the store today.
-Store Log: Customer named Weye is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Weye selected Monopoly.
-Guy Log: Weye bought Monopoly for $28.00.
-Customer Log: Customer Weye bought 1 game(s).
-Guy Log: Burt the Cashier checks to see if games need to be restocked...
-Guy Log: Burt the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 20.
-Guy Log: Ernie the Cashier arrived at the store on Day 20.
-Guy Log: The cash register currently has $1739.38.
-Guy Log: Vacuuming... 
-Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
-Ernie stacked 3 Candyland game(s) at shelf position 3.
-Ernie stacked 1 Connect Four game(s) at shelf position 4.
-Ernie stacked 3 Life game(s) at shelf position 5.
-Ernie stacked 1 Risk game(s) at shelf position 6.
-Ernie stacked 1 Clue game(s) at shelf position 7.
-Ernie stacked 2 Monopoly game(s) at shelf position 8.
-Ernie stacked 2 Catan game(s) at shelf position 9.
-Ernie stacked 1 Magic game(s) at shelf position 10.
-Ernie stacked 2 Mousetrap game(s) at shelf position 11.
-Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
-Guy Log: The store is open for business.
-Store Log: 4 customer(s) visited the store today.
-Store Log: Customer named Hih is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Hih bought 0 game(s).
-Store Log: Customer named Rudisoy is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Rudisoy selected Candyland.
-Guy Log: Rudisoy bought Candyland for $24.40.
-Customer Log: Customer Rudisoy bought 1 game(s).
-Store Log: Customer named Sigimap is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Sigimap bought 0 game(s).
-Store Log: Customer named Bizekuwo is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Bizekuwo bought 0 game(s).
-Guy Log: Ernie the Cashier checks to see if games need to be restocked...
-Guy Log: Ernie the Cashier closed the store for the night and went home.
-Guy Log: Guy has left for the day 
----------------------------------------------
-Guy Log: Guy has arrived on day 21.
-Guy Log: Burt the Cashier arrived at the store on Day 21.
-Guy Log: The cash register currently has $1763.78.
+Guy Log: Burt the Cashier arrived at the store on Day 14.
+Guy Log: The cash register currently has $1455.18.
 Guy Log: Vacuuming... 
 Stacking...
 Burt stacked 2 Monopoly game(s) at shelf position 1.
@@ -785,373 +436,642 @@ Burt stacked 2 Mousetrap game(s) at shelf position 3.
 Burt stacked 2 Candyland game(s) at shelf position 4.
 Burt stacked 1 Clue game(s) at shelf position 5.
 Burt stacked 1 Risk game(s) at shelf position 6.
-Burt stacked 3 Life game(s) at shelf position 7.
-Burt stacked 1 Magic game(s) at shelf position 8.
-Burt stacked 2 Catan game(s) at shelf position 9.
+Burt stacked 2 Life game(s) at shelf position 7.
+Burt stacked 2 Magic game(s) at shelf position 8.
+Burt stacked 1 Catan game(s) at shelf position 9.
 Burt stacked 3 Gloomhaven game(s) at shelf position 10.
 Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
+Burt stacked 2 Pokemon game(s) at shelf position 12.
 Guy Log: The store is open for business.
-Store Log: 3 customer(s) visited the store today.
-Store Log: Customer named Nopaea is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Nopaea bought 0 game(s).
-Store Log: Customer named Viho is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Viho selected Mousetrap.
-Guy Log: Viho bought Mousetrap for $24.90.
-Customer Log: Customer Viho bought 1 game(s).
-Store Log: Customer named Doza is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Doza selected Mousetrap.
-Guy Log: Doza bought Mousetrap for $24.90.
-Customer Log: Customer Doza selected Clue.
-Guy Log: Doza bought Clue for $19.00.
-Customer Log: Customer Doza selected Life.
-Guy Log: Doza bought Life for $20.00.
-Customer Log: Customer Doza bought 3 game(s).
+Store Log: 1 customer(s) visited the store today.
+Store Log: Customer named Qaro is inspecting the shelves.
+Customer Log: Customer Qaro is trying to buy cookies.
+Customer Log: Customer Qaro selected Mousetrap.
+Guy Log: Qaro bought Mousetrap for $24.90.
+Customer Log: Customer Qaro bought 1 game(s).
 Guy Log: Burt the Cashier checks to see if games need to be restocked...
 Guy Log: Burt the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
-Guy Log: Guy has arrived on day 22.
-Guy Log: Ernie the Cashier arrived at the store on Day 22.
-Guy Log: Three new orders of Mousetrap have arrived.
-Guy Log: Three new orders of Clue have arrived.
-Guy Log: The cash register currently has $1786.58.
+Guy Log: Guy has arrived on day 15.
+Guy Log: Burt the Cashier arrived at the store on Day 15.
+Guy Log: The cash register currently has $1480.08.
 Guy Log: Vacuuming... 
 Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
-Ernie stacked 2 Candyland game(s) at shelf position 3.
-Ernie stacked 1 Connect Four game(s) at shelf position 4.
-Ernie stacked 2 Life game(s) at shelf position 5.
-Ernie stacked 1 Risk game(s) at shelf position 6.
-Ernie stacked 3 Clue game(s) at shelf position 7.
-Ernie stacked 2 Monopoly game(s) at shelf position 8.
-Ernie stacked 1 Magic game(s) at shelf position 9.
-Ernie stacked 2 Catan game(s) at shelf position 10.
-Ernie stacked 3 Mousetrap game(s) at shelf position 11.
-Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Burt stacked 2 Monopoly game(s) at shelf position 1.
+Burt stacked 1 Connect Four game(s) at shelf position 2.
+Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Burt stacked 2 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 2 Life game(s) at shelf position 6.
+Burt stacked 1 Risk game(s) at shelf position 7.
+Burt stacked 1 Catan game(s) at shelf position 8.
+Burt stacked 2 Magic game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 1 Netrunner game(s) at shelf position 11.
+Burt stacked 2 Pokemon game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 2 customer(s) visited the store today.
+Store Log: Customer named Yoqaruh is inspecting the shelves.
+Customer Log: Customer Yoqaruh is trying to buy cookies.
+Customer Log: Customer Yoqaruh selected Life.
+Guy Log: Yoqaruh bought Life for $20.00.
+Customer Log: Customer Yoqaruh bought 1 game(s).
+Store Log: Customer named Domode is inspecting the shelves.
+Customer Log: Customer Domode is trying to buy cookies.
+Customer Log: Customer Domode selected Monopoly.
+Guy Log: Domode bought Monopoly for $28.00.
+Customer Log: Customer Domode bought 1 game(s).
+Guy Log: Burt the Cashier checks to see if games need to be restocked...
+Guy Log: Burt the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 16.
+Guy Log: Burt the Cashier arrived at the store on Day 16.
+Guy Log: The cash register currently has $1528.08.
+Guy Log: Vacuuming... 
+An in-stock order of Netrunner got damaged while vacuuming!
+Stacking...
+Burt stacked 1 Monopoly game(s) at shelf position 1.
+Burt stacked 1 Connect Four game(s) at shelf position 2.
+Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Burt stacked 2 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 1 Risk game(s) at shelf position 6.
+Burt stacked 1 Life game(s) at shelf position 7.
+Burt stacked 2 Magic game(s) at shelf position 8.
+Burt stacked 1 Catan game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 0 Netrunner game(s) at shelf position 11.
+Burt stacked 2 Pokemon game(s) at shelf position 12.
 Guy Log: The store is open for business.
 Store Log: 4 customer(s) visited the store today.
-Store Log: Customer named Vib is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Vib bought 0 game(s).
-Store Log: Customer named Zaro is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Zaro selected Clue.
-Guy Log: Zaro bought Clue for $19.00.
-Customer Log: Customer Zaro selected Catan.
-Guy Log: Zaro bought Catan for $41.90.
-Customer Log: Customer Zaro bought 2 game(s).
-Store Log: Customer named Hatab is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Hatab bought 0 game(s).
-Store Log: Customer named Xadikaq is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Xadikaq bought 0 game(s).
+Store Log: Customer named Loxo is inspecting the shelves.
+Customer Log: Customer Loxo is trying to buy cookies.
+Customer Log: Customer Loxo bought 0 game(s).
+Store Log: Customer named Eixuh is inspecting the shelves.
+Customer Log: Customer Eixuh is trying to buy cookies.
+Customer Log: Customer Eixuh bought 0 game(s).
+Store Log: Customer named Yiwudi is inspecting the shelves.
+Customer Log: Customer Yiwudi is trying to buy cookies.
+Customer Log: Customer Yiwudi bought 0 game(s).
+Store Log: Customer named Wefotu is inspecting the shelves.
+Customer Log: Customer Wefotu is trying to buy cookies.
+Customer Log: Customer Wefotu selected Risk.
+Guy Log: Wefotu bought Risk for $31.50.
+Customer Log: Customer Wefotu bought 1 game(s).
+Guy Log: Burt the Cashier checks to see if games need to be restocked...
+Guy Log: Burt the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 17.
+Guy Log: Ernie the Cashier arrived at the store on Day 17.
+Guy Log: Three new orders of Risk have arrived.
+Guy Log: Three new orders of Netrunner have arrived.
+Guy Log: The cash register currently has $1494.58.
+Guy Log: Vacuuming... 
+Stacking...
+Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 2 Candyland game(s) at shelf position 3.
+Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 2 Magic game(s) at shelf position 9.
+Ernie stacked 1 Catan game(s) at shelf position 10.
+Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 2 customer(s) visited the store today.
+Store Log: Customer named Geci is inspecting the shelves.
+Customer Log: Customer Geci is trying to buy cookies.
+Customer Log: Customer Geci selected Pokemon.
+Guy Log: Geci bought Pokemon for $10.00.
+Customer Log: Customer Geci bought 1 game(s).
+Store Log: Customer named Rufilewo is inspecting the shelves.
+Customer Log: Customer Rufilewo is trying to buy cookies.
+Customer Log: Customer Rufilewo selected Pokemon.
+Guy Log: Rufilewo bought Pokemon for $10.00.
+Customer Log: Customer Rufilewo selected Connect Four.
+Guy Log: Rufilewo bought Connect Four for $12.00.
+Customer Log: Customer Rufilewo bought 2 game(s).
 Guy Log: Ernie the Cashier checks to see if games need to be restocked...
 Guy Log: Ernie the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
-Guy Log: Guy has arrived on day 23.
-Guy Log: Ernie the Cashier arrived at the store on Day 23.
-Guy Log: The cash register currently has $1847.48.
+Guy Log: Guy has arrived on day 18.
+Guy Log: Ernie the Cashier arrived at the store on Day 18.
+Guy Log: Three new orders of Pokemon have arrived.
+Guy Log: Three new orders of Connect Four have arrived.
+Guy Log: The cash register currently has $1493.58.
 Guy Log: Vacuuming... 
 Stacking...
 Ernie stacked 3 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
 Ernie stacked 2 Candyland game(s) at shelf position 3.
-Ernie stacked 1 Connect Four game(s) at shelf position 4.
-Ernie stacked 2 Life game(s) at shelf position 5.
-Ernie stacked 1 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
-Ernie stacked 2 Monopoly game(s) at shelf position 8.
-Ernie stacked 1 Magic game(s) at shelf position 9.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 2 Magic game(s) at shelf position 9.
 Ernie stacked 1 Catan game(s) at shelf position 10.
-Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 1 Mousetrap game(s) at shelf position 11.
 Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
 Guy Log: The store is open for business.
 Store Log: 4 customer(s) visited the store today.
-Store Log: Customer named Tiqefun is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Tiqefun bought 0 game(s).
-Store Log: Customer named Mopamay is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Mopamay selected Candyland.
-Guy Log: Mopamay bought Candyland for $24.40.
-Customer Log: Customer Mopamay bought 1 game(s).
-Store Log: Customer named Cagoreh is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Cagoreh selected Netrunner.
-Guy Log: Cagoreh bought Netrunner for $12.00.
-Customer Log: Customer Cagoreh selected Risk.
-Guy Log: Cagoreh bought Risk for $31.50.
-Customer Log: Customer Cagoreh bought 2 game(s).
-Store Log: Customer named Keci is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Keci selected Candyland.
-Guy Log: Keci bought Candyland for $24.40.
-Customer Log: Customer Keci bought 1 game(s).
+Store Log: Customer named Rifopa is inspecting the shelves.
+Customer Log: Customer Rifopa is trying to buy cookies.
+Customer Log: Customer Rifopa bought 0 game(s).
+Store Log: Customer named Viwitub is inspecting the shelves.
+Customer Log: Customer Viwitub is trying to buy cookies.
+Customer Log: Customer Viwitub selected Connect Four.
+Guy Log: Viwitub bought Connect Four for $12.00.
+Customer Log: Customer Viwitub bought 1 game(s).
+Store Log: Customer named Yuqow is inspecting the shelves.
+Customer Log: Customer Yuqow is trying to buy cookies.
+Customer Log: Customer Yuqow selected Magic.
+Guy Log: Yuqow bought Magic for $39.88.
+Customer Log: Customer Yuqow bought 1 game(s).
+Store Log: Customer named Kuruha is inspecting the shelves.
+Customer Log: Customer Kuruha is trying to buy cookies.
+Customer Log: Customer Kuruha selected Risk.
+Guy Log: Kuruha bought Risk for $31.50.
+Customer Log: Customer Kuruha bought 1 game(s).
+Guy Log: Ernie the Cashier checks to see if games need to be restocked...
+Guy Log: Ernie the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 19.
+Guy Log: Burt the Cashier arrived at the store on Day 19.
+Guy Log: The cash register currently has $1576.96.
+Guy Log: Vacuuming... 
+Stacking...
+Burt stacked 1 Monopoly game(s) at shelf position 1.
+Burt stacked 2 Connect Four game(s) at shelf position 2.
+Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Burt stacked 2 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 2 Risk game(s) at shelf position 6.
+Burt stacked 1 Life game(s) at shelf position 7.
+Burt stacked 1 Catan game(s) at shelf position 8.
+Burt stacked 1 Magic game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 3 customer(s) visited the store today.
+Store Log: Customer named Fam is inspecting the shelves.
+Customer Log: Customer Fam is trying to buy cookies.
+Customer Log: Customer Fam selected Clue.
+Guy Log: Fam bought Clue for $19.00.
+Customer Log: Customer Fam bought 1 game(s).
+Store Log: Customer named Yegac is inspecting the shelves.
+Customer Log: Customer Yegac is trying to buy cookies.
+Customer Log: Customer Yegac selected Catan.
+Guy Log: Yegac bought Catan for $41.90.
+Customer Log: Customer Yegac bought 1 game(s).
+Store Log: Customer named Tezi is inspecting the shelves.
+Customer Log: Cookie Monster has arrived to terrorize!
+Customer Log: Cookie Monster has eaten all the cookies!
+An in-stock order of Connect Four got damaged while vacuuming!
+An in-stock order of Mousetrap got damaged while vacuuming!
+An in-stock order of Mousetrap got damaged while vacuuming!
+An in-stock order of Netrunner got damaged while vacuuming!
+An in-stock order of Connect Four got damaged while vacuuming!
+Customer Log: Cookie Monster has damaged 5 game(s)!
+Customer Log: Customer Tezi bought 0 game(s).
+Guy Log: Burt the Cashier checks to see if games need to be restocked...
+Guy Log: Burt the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 20.
+Guy Log: Ernie the Cashier arrived at the store on Day 20.
+Guy Log: Three new orders of Connect Four have arrived.
+Guy Log: Three new orders of Clue have arrived.
+Guy Log: Three new orders of Catan have arrived.
+Guy Log: The cash register currently has $1527.86.
+Guy Log: Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 2 Netrunner game(s) at shelf position 2.
+Ernie stacked 2 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 1 Magic game(s) at shelf position 10.
+Ernie stacked -1 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 4 customer(s) visited the store today.
+Store Log: Customer named Tipatus is inspecting the shelves.
+Customer Log: Customer Tipatus is trying to buy cookies.
+Customer Log: Customer Tipatus selected Pokemon.
+Guy Log: Tipatus bought Pokemon for $10.00.
+Customer Log: Customer Tipatus bought 1 game(s).
+Store Log: Customer named Yoeic is inspecting the shelves.
+Customer Log: Customer Yoeic is trying to buy cookies.
+Customer Log: Customer Yoeic selected Pokemon.
+Guy Log: Yoeic bought Pokemon for $10.00.
+Customer Log: Customer Yoeic selected Clue.
+Guy Log: Yoeic bought Clue for $19.00.
+Customer Log: Customer Yoeic bought 2 game(s).
+Store Log: Customer named Zok is inspecting the shelves.
+Customer Log: Customer Zok is trying to buy cookies.
+Customer Log: Customer Zok selected Candyland.
+Guy Log: Zok bought Candyland for $24.40.
+Customer Log: Customer Zok bought 1 game(s).
+Store Log: Customer named Yiriv is inspecting the shelves.
+Customer Log: Customer Yiriv is trying to buy cookies.
+Customer Log: Customer Yiriv selected Candyland.
+Guy Log: Yiriv bought Candyland for $24.40.
+Customer Log: Customer Yiriv bought 1 game(s).
+Guy Log: Ernie the Cashier checks to see if games need to be restocked...
+Guy Log: Ernie the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 21.
+Guy Log: Ernie the Cashier arrived at the store on Day 21.
+Guy Log: Three new orders of Candyland have arrived.
+Guy Log: The cash register currently has $1578.66.
+Guy Log: Vacuuming... 
+Stacking...
+Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Ernie stacked 2 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 2 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 1 Magic game(s) at shelf position 10.
+Ernie stacked -1 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 2 customer(s) visited the store today.
+Store Log: Customer named Yaeuvay is inspecting the shelves.
+Customer Log: Customer Yaeuvay is trying to buy cookies.
+Customer Log: Customer Yaeuvay bought 0 game(s).
+Store Log: Customer named Qil is inspecting the shelves.
+Customer Log: Customer Qil is trying to buy cookies.
+Customer Log: Customer Qil selected Pokemon.
+Guy Log: Qil bought Pokemon for $10.00.
+Customer Log: Customer Qil selected Clue.
+Guy Log: Qil bought Clue for $19.00.
+Customer Log: Customer Qil bought 2 game(s).
+Guy Log: Ernie the Cashier checks to see if games need to be restocked...
+Guy Log: Ernie the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 22.
+Guy Log: Burt the Cashier arrived at the store on Day 22.
+Guy Log: Three new orders of Pokemon have arrived.
+Guy Log: The cash register currently has $1592.66.
+Guy Log: Vacuuming... 
+Stacking...
+Burt stacked 1 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked -1 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 2 Risk game(s) at shelf position 6.
+Burt stacked 1 Life game(s) at shelf position 7.
+Burt stacked 1 Magic game(s) at shelf position 8.
+Burt stacked 3 Catan game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 2 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 3 customer(s) visited the store today.
+Store Log: Customer named Wamuwa is inspecting the shelves.
+Customer Log: Customer Wamuwa is trying to buy cookies.
+Customer Log: Customer Wamuwa bought 0 game(s).
+Store Log: Customer named Vexote is inspecting the shelves.
+Customer Log: Customer Vexote is trying to buy cookies.
+Customer Log: Customer Vexote bought 0 game(s).
+Store Log: Customer named Deda is inspecting the shelves.
+Customer Log: Customer Deda is trying to buy cookies.
+Customer Log: Customer Deda bought 0 game(s).
+Guy Log: Burt the Cashier checks to see if games need to be restocked...
+Guy Log: Burt the Cashier closed the store for the night and went home.
+Guy Log: Guy has left for the day 
+---------------------------------------------
+Guy Log: Guy has arrived on day 23.
+Guy Log: Ernie the Cashier arrived at the store on Day 23.
+Guy Log: The cash register currently has $1592.66.
+Guy Log: Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 2 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked -1 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy Log: The store is open for business.
+Store Log: 4 customer(s) visited the store today.
+Store Log: Customer named Gur is inspecting the shelves.
+Customer Log: Customer Gur is trying to buy cookies.
+Customer Log: Customer Gur selected Pokemon.
+Guy Log: Gur bought Pokemon for $10.00.
+Customer Log: Customer Gur selected Netrunner.
+Guy Log: Gur bought Netrunner for $12.00.
+Customer Log: Customer Gur bought 2 game(s).
+Store Log: Customer named Duwibey is inspecting the shelves.
+Customer Log: Customer Duwibey is trying to buy cookies.
+Customer Log: Customer Duwibey bought 0 game(s).
+Store Log: Customer named Nod is inspecting the shelves.
+Customer Log: Customer Nod is trying to buy cookies.
+Customer Log: Customer Nod selected Pokemon.
+Guy Log: Nod bought Pokemon for $10.00.
+Customer Log: Customer Nod bought 1 game(s).
+Store Log: Customer named Vigiva is inspecting the shelves.
+Customer Log: Customer Vigiva is trying to buy cookies.
+Customer Log: Customer Vigiva bought 0 game(s).
 Guy Log: Ernie the Cashier checks to see if games need to be restocked...
 Guy Log: Ernie the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 24.
 Guy Log: Ernie the Cashier arrived at the store on Day 24.
-Guy Log: Three new orders of Netrunner have arrived.
-Guy Log: Three new orders of Candyland have arrived.
-Guy Log: Three new orders of Risk have arrived.
-Guy Log: The cash register currently has $1837.78.
+Guy Log: The cash register currently has $1624.66.
 Guy Log: Vacuuming... 
+An in-stock order of Candyland got damaged while vacuuming!
 Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1.
-Ernie stacked 3 Netrunner game(s) at shelf position 2.
-Ernie stacked 3 Candyland game(s) at shelf position 3.
-Ernie stacked 1 Connect Four game(s) at shelf position 4.
-Ernie stacked 2 Life game(s) at shelf position 5.
-Ernie stacked 3 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
-Ernie stacked 2 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Ernie stacked 2 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
 Ernie stacked 1 Magic game(s) at shelf position 9.
-Ernie stacked 1 Catan game(s) at shelf position 10.
-Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked -1 Mousetrap game(s) at shelf position 11.
 Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
 Guy Log: The store is open for business.
-Store Log: 1 customer(s) visited the store today.
-Store Log: Customer named Tura is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Tura selected Netrunner.
-Guy Log: Tura bought Netrunner for $12.00.
-Customer Log: Customer Tura selected Life.
-Guy Log: Tura bought Life for $20.00.
-Customer Log: Customer Tura selected Magic.
-Guy Log: Tura bought Magic for $39.88.
-Customer Log: Customer Tura bought 3 game(s).
+Store Log: 4 customer(s) visited the store today.
+Store Log: Customer named Mevew is inspecting the shelves.
+Customer Log: Customer Mevew is trying to buy cookies.
+Customer Log: Customer Mevew bought 0 game(s).
+Store Log: Customer named Eud is inspecting the shelves.
+Customer Log: Customer Eud is trying to buy cookies.
+Customer Log: Customer Eud selected Netrunner.
+Guy Log: Eud bought Netrunner for $12.00.
+Customer Log: Customer Eud selected Life.
+Guy Log: Eud bought Life for $20.00.
+Customer Log: Customer Eud bought 2 game(s).
+Store Log: Customer named Ledenitu is inspecting the shelves.
+Customer Log: Customer Ledenitu is trying to buy cookies.
+Customer Log: Customer Ledenitu selected Candyland.
+Guy Log: Ledenitu bought Candyland for $24.40.
+Customer Log: Customer Ledenitu bought 1 game(s).
+Store Log: Customer named Zuki is inspecting the shelves.
+Customer Log: Customer Zuki is trying to buy cookies.
+Customer Log: Customer Zuki selected Connect Four.
+Guy Log: Zuki bought Connect Four for $12.00.
+Customer Log: Customer Zuki selected Magic.
+Guy Log: Zuki bought Magic for $39.88.
+Customer Log: Customer Zuki bought 2 game(s).
 Guy Log: Ernie the Cashier checks to see if games need to be restocked...
 Guy Log: Ernie the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 25.
 Guy Log: Burt the Cashier arrived at the store on Day 25.
+Guy Log: Three new orders of Netrunner have arrived.
+Guy Log: Three new orders of Life have arrived.
 Guy Log: Three new orders of Magic have arrived.
-Guy Log: The cash register currently has $1849.66.
+Guy Log: The cash register currently has $1624.94.
 Guy Log: Vacuuming... 
-An in-stock order of Pokemon got damaged while vacuuming!
 Stacking...
-Burt stacked 2 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Connect Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 3 Risk game(s) at shelf position 6.
-Burt stacked 1 Life game(s) at shelf position 7.
-Burt stacked 1 Catan game(s) at shelf position 8.
+Burt stacked 1 Monopoly game(s) at shelf position 1.
+Burt stacked 2 Connect Four game(s) at shelf position 2.
+Burt stacked -1 Mousetrap game(s) at shelf position 3.
+Burt stacked 1 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 2 Risk game(s) at shelf position 6.
+Burt stacked 3 Life game(s) at shelf position 7.
+Burt stacked 3 Catan game(s) at shelf position 8.
 Burt stacked 3 Magic game(s) at shelf position 9.
 Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 2 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 1 Pokemon game(s) at shelf position 12.
 Guy Log: The store is open for business.
 Store Log: 4 customer(s) visited the store today.
-Store Log: Customer named Rusebo is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Rusebo selected Candyland.
-Guy Log: Rusebo bought Candyland for $24.40.
-Customer Log: Customer Rusebo selected Risk.
-Guy Log: Rusebo bought Risk for $31.50.
-Customer Log: Customer Rusebo bought 2 game(s).
-Store Log: Customer named Bob is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Bob selected Connect Four.
-Guy Log: Bob bought Connect Four for $12.00.
-Customer Log: Customer Bob selected Candyland.
-Guy Log: Bob bought Candyland for $24.40.
-Customer Log: Customer Bob bought 2 game(s).
-Store Log: Customer named Paf is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Paf selected Mousetrap.
-Guy Log: Paf bought Mousetrap for $24.90.
-Customer Log: Customer Paf bought 1 game(s).
-Store Log: Customer named Bira is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Bira bought 0 game(s).
+Store Log: Customer named Ruheso is inspecting the shelves.
+Customer Log: Customer Ruheso is trying to buy cookies.
+Customer Log: Customer Ruheso bought 0 game(s).
+Store Log: Customer named Sutes is inspecting the shelves.
+Customer Log: Customer Sutes is trying to buy cookies.
+Customer Log: Customer Sutes selected Candyland.
+Guy Log: Sutes bought Candyland for $24.40.
+Customer Log: Customer Sutes bought 1 game(s).
+Store Log: Customer named Kizina is inspecting the shelves.
+Customer Log: Customer Kizina is trying to buy cookies.
+Customer Log: Customer Kizina selected Monopoly.
+Guy Log: Kizina bought Monopoly for $28.00.
+Customer Log: Customer Kizina selected Connect Four.
+Guy Log: Kizina bought Connect Four for $12.00.
+Customer Log: Customer Kizina selected Risk.
+Guy Log: Kizina bought Risk for $31.50.
+Customer Log: Customer Kizina bought 3 game(s).
+Store Log: Customer named Xueova is inspecting the shelves.
+Customer Log: Customer Xueova is trying to buy cookies.
+Customer Log: Customer Xueova selected Connect Four.
+Guy Log: Xueova bought Connect Four for $12.00.
+Customer Log: Customer Xueova selected Life.
+Guy Log: Xueova bought Life for $20.00.
+Customer Log: Customer Xueova selected Catan.
+Guy Log: Xueova bought Catan for $41.90.
+Customer Log: Customer Xueova bought 3 game(s).
 Guy Log: Burt the Cashier checks to see if games need to be restocked...
 Guy Log: Burt the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 26.
-Guy Log: Burt the Cashier arrived at the store on Day 26.
+Guy Log: Ernie the Cashier arrived at the store on Day 26.
+Guy Log: Three new orders of Monopoly have arrived.
 Guy Log: Three new orders of Connect Four have arrived.
-Guy Log: The cash register currently has $1948.86.
+Guy Log: Three new orders of Candyland have arrived.
+Guy Log: The cash register currently has $1697.74.
 Guy Log: Vacuuming... 
 Stacking...
-Burt stacked 2 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Connect Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
-Burt stacked 1 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 1 Life game(s) at shelf position 6.
-Burt stacked 2 Risk game(s) at shelf position 7.
-Burt stacked 3 Magic game(s) at shelf position 8.
-Burt stacked 1 Catan game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 2 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
+Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 1 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 2 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked -1 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
 Guy Log: The store is open for business.
-Store Log: 4 customer(s) visited the store today.
-Store Log: Customer named Nano is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Nano selected Clue.
-Guy Log: Nano bought Clue for $19.00.
-Customer Log: Customer Nano bought 1 game(s).
-Store Log: Customer named Tox is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Tox selected Life.
-Guy Log: Tox bought Life for $20.00.
-Customer Log: Customer Tox bought 1 game(s).
-Store Log: Customer named Qivewal is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Qivewal selected Monopoly.
-Guy Log: Qivewal bought Monopoly for $28.00.
-Customer Log: Customer Qivewal bought 1 game(s).
-Store Log: Customer named Rim is inspecting the shelves.
-Customer Log: Cookie Monster has arrived to terrorize!
-Customer Log: Cookie Monster has eaten all the cookies!
-An in-stock order of Candyland got damaged while vacuuming!
-Customer Log: Cookie Monster has damaged 1 game(s)!
-Customer Log: Customer Rim bought 0 game(s).
-Guy Log: Burt the Cashier checks to see if games need to be restocked...
-Guy Log: Burt the Cashier closed the store for the night and went home.
+Store Log: 1 customer(s) visited the store today.
+Store Log: Customer named Fieut is inspecting the shelves.
+Customer Log: Customer Fieut is trying to buy cookies.
+Customer Log: Customer Fieut bought 0 game(s).
+Guy Log: Ernie the Cashier checks to see if games need to be restocked...
+Guy Log: Ernie the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 27.
 Guy Log: Burt the Cashier arrived at the store on Day 27.
-Guy Log: Three new orders of Candyland have arrived.
-Guy Log: Three new orders of Life have arrived.
-Guy Log: The cash register currently has $1948.86.
+Guy Log: The cash register currently has $1697.74.
 Guy Log: Vacuuming... 
+An in-stock order of Mousetrap got damaged while vacuuming!
 Stacking...
-Burt stacked 1 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Monopoly game(s) at shelf position 1.
 Burt stacked 3 Connect Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Burt stacked -2 Mousetrap game(s) at shelf position 3.
 Burt stacked 3 Candyland game(s) at shelf position 4.
 Burt stacked 1 Clue game(s) at shelf position 5.
-Burt stacked 2 Risk game(s) at shelf position 6.
-Burt stacked 3 Life game(s) at shelf position 7.
-Burt stacked 1 Catan game(s) at shelf position 8.
-Burt stacked 3 Magic game(s) at shelf position 9.
+Burt stacked 1 Risk game(s) at shelf position 6.
+Burt stacked 2 Life game(s) at shelf position 7.
+Burt stacked 3 Magic game(s) at shelf position 8.
+Burt stacked 2 Catan game(s) at shelf position 9.
 Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 2 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 1 Pokemon game(s) at shelf position 12.
 Guy Log: The store is open for business.
-Store Log: 1 customer(s) visited the store today.
-Store Log: Customer named Bisarata is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Bisarata bought 0 game(s).
+Store Log: 3 customer(s) visited the store today.
+Store Log: Customer named Dame is inspecting the shelves.
+Customer Log: Customer Dame is trying to buy cookies.
+Customer Log: Customer Dame selected Gloomhaven.
+Guy Log: Dame bought Gloomhaven for $50.00.
+Customer Log: Customer Dame bought 1 game(s).
+Store Log: Customer named Feru is inspecting the shelves.
+Customer Log: Customer Feru is trying to buy cookies.
+Customer Log: Customer Feru selected Life.
+Guy Log: Feru bought Life for $20.00.
+Customer Log: Customer Feru selected Magic.
+Guy Log: Feru bought Magic for $39.88.
+Customer Log: Customer Feru selected Gloomhaven.
+Guy Log: Feru bought Gloomhaven for $50.00.
+Customer Log: Customer Feru bought 3 game(s).
+Store Log: Customer named Foeuy is inspecting the shelves.
+Customer Log: Customer Foeuy is trying to buy cookies.
+Customer Log: Customer Foeuy selected Magic.
+Guy Log: Foeuy bought Magic for $39.88.
+Customer Log: Customer Foeuy bought 1 game(s).
 Guy Log: Burt the Cashier checks to see if games need to be restocked...
 Guy Log: Burt the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 28.
-Guy Log: Ernie the Cashier arrived at the store on Day 28.
-Guy Log: The cash register currently has $1948.86.
+Guy Log: Burt the Cashier arrived at the store on Day 28.
+Guy Log: The cash register currently has $1897.50.
 Guy Log: Vacuuming... 
 Stacking...
-Ernie stacked 2 Pokemon game(s) at shelf position 1.
-Ernie stacked 2 Netrunner game(s) at shelf position 2.
-Ernie stacked 3 Candyland game(s) at shelf position 3.
-Ernie stacked 3 Connect Four game(s) at shelf position 4.
-Ernie stacked 3 Life game(s) at shelf position 5.
-Ernie stacked 2 Risk game(s) at shelf position 6.
-Ernie stacked 1 Clue game(s) at shelf position 7.
-Ernie stacked 1 Monopoly game(s) at shelf position 8.
-Ernie stacked 1 Catan game(s) at shelf position 9.
-Ernie stacked 3 Magic game(s) at shelf position 10.
-Ernie stacked 2 Mousetrap game(s) at shelf position 11.
-Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked -2 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 1 Life game(s) at shelf position 6.
+Burt stacked 1 Risk game(s) at shelf position 7.
+Burt stacked 2 Catan game(s) at shelf position 8.
+Burt stacked 1 Magic game(s) at shelf position 9.
+Burt stacked 1 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 1 Pokemon game(s) at shelf position 12.
 Guy Log: The store is open for business.
-Store Log: 3 customer(s) visited the store today.
-Store Log: Customer named Hoyiha is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Hoyiha selected Netrunner.
-Guy Log: Hoyiha bought Netrunner for $12.00.
-Customer Log: Customer Hoyiha selected Connect Four.
-Guy Log: Hoyiha bought Connect Four for $12.00.
-Customer Log: Customer Hoyiha selected Catan.
-Guy Log: Hoyiha bought Catan for $41.90.
-Customer Log: Customer Hoyiha bought 3 game(s).
-Store Log: Customer named Nahime is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Nahime bought 0 game(s).
-Store Log: Customer named Geyuhi is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Geyuhi selected Candyland.
-Guy Log: Geyuhi bought Candyland for $24.40.
-Customer Log: Customer Geyuhi bought 1 game(s).
-Guy Log: Ernie the Cashier checks to see if games need to be restocked...
-Guy Log: Ernie the Cashier closed the store for the night and went home.
+Store Log: 2 customer(s) visited the store today.
+Store Log: Customer named Mudezum is inspecting the shelves.
+Customer Log: Customer Mudezum is trying to buy cookies.
+Customer Log: Customer Mudezum selected Catan.
+Guy Log: Mudezum bought Catan for $41.90.
+Customer Log: Customer Mudezum bought 1 game(s).
+Store Log: Customer named Xus is inspecting the shelves.
+Customer Log: Customer Xus is trying to buy cookies.
+Customer Log: Customer Xus selected Life.
+Guy Log: Xus bought Life for $20.00.
+Customer Log: Customer Xus bought 1 game(s).
+Guy Log: Burt the Cashier checks to see if games need to be restocked...
+Guy Log: Burt the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 29.
-Guy Log: Ernie the Cashier arrived at the store on Day 29.
-Guy Log: Three new orders of Catan have arrived.
-Guy Log: The cash register currently has $1976.16.
+Guy Log: Burt the Cashier arrived at the store on Day 29.
+Guy Log: Three new orders of Life have arrived.
+Guy Log: The cash register currently has $1929.40.
 Guy Log: Vacuuming... 
 Stacking...
-Ernie stacked 2 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
-Ernie stacked 2 Candyland game(s) at shelf position 3.
-Ernie stacked 2 Connect Four game(s) at shelf position 4.
-Ernie stacked 3 Life game(s) at shelf position 5.
-Ernie stacked 2 Risk game(s) at shelf position 6.
-Ernie stacked 1 Clue game(s) at shelf position 7.
-Ernie stacked 1 Monopoly game(s) at shelf position 8.
-Ernie stacked 3 Catan game(s) at shelf position 9.
-Ernie stacked 3 Magic game(s) at shelf position 10.
-Ernie stacked 2 Mousetrap game(s) at shelf position 11.
-Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked -2 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 1 Risk game(s) at shelf position 6.
+Burt stacked 3 Life game(s) at shelf position 7.
+Burt stacked 1 Magic game(s) at shelf position 8.
+Burt stacked 1 Catan game(s) at shelf position 9.
+Burt stacked 1 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 1 Pokemon game(s) at shelf position 12.
 Guy Log: The store is open for business.
-Store Log: 2 customer(s) visited the store today.
-Store Log: Customer named Cec is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Cec selected Candyland.
-Guy Log: Cec bought Candyland for $24.40.
-Customer Log: Customer Cec bought 1 game(s).
-Store Log: Customer named Cuqob is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Cuqob bought 0 game(s).
-Guy Log: Ernie the Cashier checks to see if games need to be restocked...
-Guy Log: Ernie the Cashier closed the store for the night and went home.
+Store Log: 1 customer(s) visited the store today.
+Store Log: Customer named Nacot is inspecting the shelves.
+Customer Log: Customer Nacot is trying to buy cookies.
+Customer Log: Customer Nacot bought 0 game(s).
+Guy Log: Burt the Cashier checks to see if games need to be restocked...
+Guy Log: Burt the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
 ---------------------------------------------
 Guy Log: Guy has arrived on day 30.
 Guy Log: Ernie the Cashier arrived at the store on Day 30.
-Guy Log: The cash register currently has $2000.56.
+Guy Log: The cash register currently has $1929.40.
 Guy Log: Vacuuming... 
 Stacking...
-Ernie stacked 2 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
-Ernie stacked 1 Candyland game(s) at shelf position 3.
-Ernie stacked 2 Connect Four game(s) at shelf position 4.
+Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
 Ernie stacked 3 Life game(s) at shelf position 5.
-Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 1 Risk game(s) at shelf position 6.
 Ernie stacked 1 Clue game(s) at shelf position 7.
-Ernie stacked 1 Monopoly game(s) at shelf position 8.
-Ernie stacked 3 Catan game(s) at shelf position 9.
-Ernie stacked 3 Magic game(s) at shelf position 10.
-Ernie stacked 2 Mousetrap game(s) at shelf position 11.
-Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Magic game(s) at shelf position 9.
+Ernie stacked 1 Catan game(s) at shelf position 10.
+Ernie stacked -2 Mousetrap game(s) at shelf position 11.
+Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
 Guy Log: The store is open for business.
-Store Log: 2 customer(s) visited the store today.
-Store Log: Customer named Kiyar is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Kiyar selected Netrunner.
-Guy Log: Kiyar bought Netrunner for $12.00.
-Customer Log: Customer Kiyar bought 1 game(s).
-Store Log: Customer named Xafutawo is inspecting the shelves.
-Customer Log: Customer is trying to buy cookies.
-Customer Log: Customer Xafutawo bought 0 game(s).
+Store Log: 4 customer(s) visited the store today.
+Store Log: Customer named Pusudohu is inspecting the shelves.
+Customer Log: Customer Pusudohu is trying to buy cookies.
+Customer Log: Customer Pusudohu selected Pokemon.
+Guy Log: Pusudohu bought Pokemon for $10.00.
+Customer Log: Customer Pusudohu selected Connect Four.
+Guy Log: Pusudohu bought Connect Four for $12.00.
+Customer Log: Customer Pusudohu bought 2 game(s).
+Store Log: Customer named Wabuxuna is inspecting the shelves.
+Customer Log: Customer Wabuxuna is trying to buy cookies.
+Customer Log: Customer Wabuxuna bought 0 game(s).
+Store Log: Customer named Qerewo is inspecting the shelves.
+Customer Log: Customer Qerewo is trying to buy cookies.
+Customer Log: Customer Qerewo selected Netrunner.
+Guy Log: Qerewo bought Netrunner for $12.00.
+Customer Log: Customer Qerewo selected Risk.
+Guy Log: Qerewo bought Risk for $31.50.
+Customer Log: Customer Qerewo bought 2 game(s).
+Store Log: Customer named Voq is inspecting the shelves.
+Customer Log: Customer Voq is trying to buy cookies.
+Customer Log: Customer Voq bought 0 game(s).
 Guy Log: Ernie the Cashier checks to see if games need to be restocked...
 Guy Log: Ernie the Cashier closed the store for the night and went home.
 Guy Log: Guy has left for the day 
@@ -1159,15 +1079,15 @@ Guy Log: Guy has left for the day
 ---------------------------------------------
 Items Sold and Their Generated Revenue: 
 
-5 sale(s) of Pokemon occurred, generating $50.00 of revenue.
-9 sale(s) of Netrunner occurred, generating $108.00 of revenue.
-15 sale(s) of Candyland occurred, generating $366.00 of revenue.
+12 sale(s) of Pokemon occurred, generating $120.00 of revenue.
+8 sale(s) of Netrunner occurred, generating $96.00 of revenue.
+8 sale(s) of Candyland occurred, generating $195.20 of revenue.
 10 sale(s) of Connect Four occurred, generating $120.00 of revenue.
-12 sale(s) of Life occurred, generating $240.00 of revenue.
-4 sale(s) of Risk occurred, generating $126.00 of revenue.
-13 sale(s) of Clue occurred, generating $247.00 of revenue.
-8 sale(s) of Monopoly occurred, generating $224.00 of revenue.
+6 sale(s) of Life occurred, generating $120.00 of revenue.
+6 sale(s) of Risk occurred, generating $189.00 of revenue.
+5 sale(s) of Clue occurred, generating $95.00 of revenue.
+3 sale(s) of Monopoly occurred, generating $84.00 of revenue.
+5 sale(s) of Magic occurred, generating $199.40 of revenue.
 5 sale(s) of Catan occurred, generating $209.50 of revenue.
-2 sale(s) of Magic occurred, generating $79.76 of revenue.
-7 sale(s) of Mousetrap occurred, generating $174.30 of revenue.
-0 sale(s) of Gloomhaven occurred, generating $0.00 of revenue.
+2 sale(s) of Mousetrap occurred, generating $49.80 of revenue.
+2 sale(s) of Gloomhaven occurred, generating $100.00 of revenue.
