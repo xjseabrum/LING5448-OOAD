@@ -1,0 +1,887 @@
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 1.
+The cash register currently has $0.00.
+The Cash Fairy graciously and magically added $1000.00 to the cash register.
+The cash register currently has $1000.00.
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 3 Risk game(s) at shelf position 6.
+Burt stacked 3 Life game(s) at shelf position 7.
+Burt stacked 3 Catan game(s) at shelf position 8.
+Burt stacked 3 Magic game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+4 customer(s) visited the store today.
+com.FLGS.Store.Customer named Mamivip is inspecting the shelves.
+com.FLGS.Store.Customer Mamivip selected Monopoly.
+Mamivip bought Monopoly for $28.00.
+com.FLGS.Store.Customer named Dolo is inspecting the shelves.
+com.FLGS.Store.Customer Dolo did not purchase anything and left the store.
+com.FLGS.Store.Customer named Hut is inspecting the shelves.
+com.FLGS.Store.Customer Hut selected Four.
+Hut bought Four for $12.00.
+com.FLGS.Store.Customer named Taxocofa is inspecting the shelves.
+com.FLGS.Store.Customer Taxocofa selected Clue.
+Taxocofa bought Clue for $19.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 2.
+The cash register currently has $1059.00.
+Vacuuming... 
+Stacking...
+Burt stacked 2 Monopoly game(s) at shelf position 1.
+Burt stacked 2 Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 2 Clue game(s) at shelf position 5.
+Burt stacked 3 Life game(s) at shelf position 6.
+Burt stacked 3 Risk game(s) at shelf position 7.
+Burt stacked 3 Magic game(s) at shelf position 8.
+Burt stacked 3 Catan game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+1 customer(s) visited the store today.
+com.FLGS.Store.Customer named Noxo is inspecting the shelves.
+com.FLGS.Store.Customer Noxo selected Monopoly.
+Noxo bought Monopoly for $28.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 3.
+The cash register currently has $1087.00.
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 2 Four game(s) at shelf position 4.
+Ernie stacked 3 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 2 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+4 customer(s) visited the store today.
+com.FLGS.Store.Customer named Taxiq is inspecting the shelves.
+com.FLGS.Store.Customer Taxiq did not purchase anything and left the store.
+com.FLGS.Store.Customer named Camaq is inspecting the shelves.
+com.FLGS.Store.Customer Camaq selected Magic.
+Camaq bought Magic for $39.88.
+com.FLGS.Store.Customer named Vawa is inspecting the shelves.
+com.FLGS.Store.Customer Vawa selected Pokemon.
+Vawa bought Pokemon for $10.00.
+com.FLGS.Store.Customer named Sapimo is inspecting the shelves.
+com.FLGS.Store.Customer Sapimo selected Life.
+Sapimo bought Life for $20.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 4.
+The cash register currently has $1156.88.
+Vacuuming... 
+Stacking...
+Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 2 Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 2 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 2 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+2 customer(s) visited the store today.
+com.FLGS.Store.Customer named Log is inspecting the shelves.
+com.FLGS.Store.Customer Log selected Pokemon.
+Log bought Pokemon for $10.00.
+com.FLGS.Store.Customer named Samicexu is inspecting the shelves.
+com.FLGS.Store.Customer Samicexu selected Four.
+Samicexu bought Four for $12.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 5.
+The cash register currently has $1178.88.
+Vacuuming... 
+Stacking...
+Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 1 Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 2 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 2 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+1 customer(s) visited the store today.
+com.FLGS.Store.Customer named Los is inspecting the shelves.
+com.FLGS.Store.Customer Los selected Monopoly.
+Los bought Monopoly for $28.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 6.
+Three new orders of Monopoly have arrived.
+The cash register currently has $1164.88.
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 1 Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 2 Clue game(s) at shelf position 5.
+Burt stacked 3 Risk game(s) at shelf position 6.
+Burt stacked 2 Life game(s) at shelf position 7.
+Burt stacked 3 Catan game(s) at shelf position 8.
+Burt stacked 2 Magic game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 1 Pokemon game(s) at shelf position 12.
+The store is open for business.
+2 customer(s) visited the store today.
+com.FLGS.Store.Customer named Eemafi is inspecting the shelves.
+com.FLGS.Store.Customer Eemafi did not purchase anything and left the store.
+com.FLGS.Store.Customer named Nuhica is inspecting the shelves.
+com.FLGS.Store.Customer Nuhica selected Four.
+Nuhica bought Four for $12.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 7.
+Three new orders of Four have arrived.
+The cash register currently has $1158.88.
+Vacuuming... 
+Stacking...
+Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 2 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 2 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+3 customer(s) visited the store today.
+com.FLGS.Store.Customer named Dahuyit is inspecting the shelves.
+com.FLGS.Store.Customer Dahuyit selected Candyland.
+Dahuyit bought Candyland for $24.40.
+com.FLGS.Store.Customer named Zeqaku is inspecting the shelves.
+com.FLGS.Store.Customer Zeqaku selected Monopoly.
+Zeqaku bought Monopoly for $28.00.
+com.FLGS.Store.Customer named Xorube is inspecting the shelves.
+com.FLGS.Store.Customer Xorube selected Pokemon.
+Xorube bought Pokemon for $10.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 8.
+Three new orders of Pokemon have arrived.
+The cash register currently has $1206.28.
+Vacuuming... 
+An in-stock order of Magic got damaged while vacuuming!
+Stacking...
+Burt stacked 2 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 2 Candyland game(s) at shelf position 4.
+Burt stacked 2 Clue game(s) at shelf position 5.
+Burt stacked 3 Risk game(s) at shelf position 6.
+Burt stacked 2 Life game(s) at shelf position 7.
+Burt stacked 1 Magic game(s) at shelf position 8.
+Burt stacked 3 Catan game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+1 customer(s) visited the store today.
+com.FLGS.Store.Customer named Yekacase is inspecting the shelves.
+com.FLGS.Store.Customer Yekacase selected Risk.
+Yekacase bought Risk for $31.50.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 9.
+The cash register currently has $1237.78.
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 2 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 2 Clue game(s) at shelf position 7.
+Ernie stacked 2 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+3 customer(s) visited the store today.
+com.FLGS.Store.Customer named Budice is inspecting the shelves.
+com.FLGS.Store.Customer Budice selected Four.
+Budice bought Four for $12.00.
+com.FLGS.Store.Customer named Bigodob is inspecting the shelves.
+com.FLGS.Store.Customer Bigodob selected Candyland.
+Bigodob bought Candyland for $24.40.
+com.FLGS.Store.Customer named Eiee is inspecting the shelves.
+com.FLGS.Store.Customer Eiee did not purchase anything and left the store.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 10.
+The cash register currently has $1274.18.
+Vacuuming... 
+Stacking...
+Burt stacked 2 Monopoly game(s) at shelf position 1.
+Burt stacked 2 Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 1 Candyland game(s) at shelf position 4.
+Burt stacked 2 Clue game(s) at shelf position 5.
+Burt stacked 2 Risk game(s) at shelf position 6.
+Burt stacked 2 Life game(s) at shelf position 7.
+Burt stacked 3 Catan game(s) at shelf position 8.
+Burt stacked 1 Magic game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+4 customer(s) visited the store today.
+com.FLGS.Store.Customer named Gokiqa is inspecting the shelves.
+com.FLGS.Store.Customer Gokiqa selected Monopoly.
+Gokiqa bought Monopoly for $28.00.
+com.FLGS.Store.Customer named Qul is inspecting the shelves.
+com.FLGS.Store.Customer Qul selected Four.
+Qul bought Four for $12.00.
+com.FLGS.Store.Customer named Wosakuy is inspecting the shelves.
+com.FLGS.Store.Customer Wosakuy selected Four.
+Wosakuy bought Four for $12.00.
+com.FLGS.Store.Customer named Gin is inspecting the shelves.
+com.FLGS.Store.Customer Gin selected Clue.
+Gin bought Clue for $19.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 11.
+Three new orders of Four have arrived.
+The cash register currently has $1327.18.
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 1 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 1 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+1 customer(s) visited the store today.
+com.FLGS.Store.Customer named Eep is inspecting the shelves.
+com.FLGS.Store.Customer Eep selected Life.
+Eep bought Life for $20.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 12.
+The cash register currently has $1347.18.
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 1 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 1 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+3 customer(s) visited the store today.
+com.FLGS.Store.Customer named Siqod is inspecting the shelves.
+com.FLGS.Store.Customer Siqod selected Pokemon.
+Siqod bought Pokemon for $10.00.
+com.FLGS.Store.Customer named Daxowif is inspecting the shelves.
+com.FLGS.Store.Customer Daxowif did not purchase anything and left the store.
+com.FLGS.Store.Customer named Nocagobi is inspecting the shelves.
+com.FLGS.Store.Customer Nocagobi selected Clue.
+Nocagobi bought Clue for $19.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 13.
+Three new orders of Clue have arrived.
+The cash register currently has $1347.18.
+Vacuuming... 
+Stacking...
+Burt stacked 1 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 1 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 2 Risk game(s) at shelf position 6.
+Burt stacked 1 Life game(s) at shelf position 7.
+Burt stacked 1 Magic game(s) at shelf position 8.
+Burt stacked 3 Catan game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 2 Pokemon game(s) at shelf position 12.
+The store is open for business.
+4 customer(s) visited the store today.
+com.FLGS.Store.Customer named Qohumod is inspecting the shelves.
+com.FLGS.Store.Customer Qohumod selected Monopoly.
+Qohumod bought Monopoly for $28.00.
+com.FLGS.Store.Customer named Loluh is inspecting the shelves.
+com.FLGS.Store.Customer Loluh did not purchase anything and left the store.
+com.FLGS.Store.Customer named Zifi is inspecting the shelves.
+com.FLGS.Store.Customer Zifi selected Gloomhaven.
+Zifi bought Gloomhaven for $50.00.
+com.FLGS.Store.Customer named Vidibi is inspecting the shelves.
+com.FLGS.Store.Customer Vidibi selected Clue.
+Vidibi bought Clue for $19.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 14.
+Three new orders of Monopoly have arrived.
+The cash register currently has $1402.18.
+Vacuuming... 
+Stacking...
+Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 1 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 2 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+2 customer(s) visited the store today.
+com.FLGS.Store.Customer named Wohir is inspecting the shelves.
+com.FLGS.Store.Customer Wohir selected Four.
+Wohir bought Four for $12.00.
+com.FLGS.Store.Customer named Bogoruxu is inspecting the shelves.
+com.FLGS.Store.Customer Bogoruxu did not purchase anything and left the store.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 15.
+The cash register currently has $1414.18.
+Vacuuming... 
+An in-stock order of Candyland got damaged while vacuuming!
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 2 Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 0 Candyland game(s) at shelf position 4.
+Burt stacked 2 Clue game(s) at shelf position 5.
+Burt stacked 2 Risk game(s) at shelf position 6.
+Burt stacked 1 Life game(s) at shelf position 7.
+Burt stacked 3 Catan game(s) at shelf position 8.
+Burt stacked 1 Magic game(s) at shelf position 9.
+Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 2 Pokemon game(s) at shelf position 12.
+The store is open for business.
+2 customer(s) visited the store today.
+com.FLGS.Store.Customer named Eedonit is inspecting the shelves.
+com.FLGS.Store.Customer Eedonit selected Clue.
+Eedonit bought Clue for $19.00.
+com.FLGS.Store.Customer named Xohen is inspecting the shelves.
+com.FLGS.Store.Customer Xohen selected Monopoly.
+Xohen bought Monopoly for $28.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 16.
+Three new orders of Candyland have arrived.
+The cash register currently has $1424.18.
+Vacuuming... 
+Stacking...
+Burt stacked 2 Monopoly game(s) at shelf position 1.
+Burt stacked 2 Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 1 Life game(s) at shelf position 6.
+Burt stacked 2 Risk game(s) at shelf position 7.
+Burt stacked 1 Magic game(s) at shelf position 8.
+Burt stacked 3 Catan game(s) at shelf position 9.
+Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 2 Pokemon game(s) at shelf position 12.
+The store is open for business.
+3 customer(s) visited the store today.
+com.FLGS.Store.Customer named Mesik is inspecting the shelves.
+com.FLGS.Store.Customer Mesik selected Mousetrap.
+Mesik bought Mousetrap for $24.90.
+com.FLGS.Store.Customer named Sopodaeu is inspecting the shelves.
+com.FLGS.Store.Customer Sopodaeu selected Mousetrap.
+Sopodaeu bought Mousetrap for $24.90.
+com.FLGS.Store.Customer named Saea is inspecting the shelves.
+com.FLGS.Store.Customer Saea did not purchase anything and left the store.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 17.
+The cash register currently has $1473.98.
+Vacuuming... 
+An in-stock order of Catan got damaged while vacuuming!
+Stacking...
+Burt stacked 2 Monopoly game(s) at shelf position 1.
+Burt stacked 2 Four game(s) at shelf position 2.
+Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 2 Risk game(s) at shelf position 6.
+Burt stacked 1 Life game(s) at shelf position 7.
+Burt stacked 2 Catan game(s) at shelf position 8.
+Burt stacked 1 Magic game(s) at shelf position 9.
+Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 2 Pokemon game(s) at shelf position 12.
+The store is open for business.
+2 customer(s) visited the store today.
+com.FLGS.Store.Customer named Toxul is inspecting the shelves.
+com.FLGS.Store.Customer Toxul selected Four.
+Toxul bought Four for $12.00.
+com.FLGS.Store.Customer named Fot is inspecting the shelves.
+com.FLGS.Store.Customer Fot selected Mousetrap.
+Fot bought Mousetrap for $24.90.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 18.
+Three new orders of Mousetrap have arrived.
+The cash register currently has $1473.88.
+Vacuuming... 
+Stacking...
+Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 1 Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 2 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 2 Monopoly game(s) at shelf position 8.
+Ernie stacked 2 Catan game(s) at shelf position 9.
+Ernie stacked 1 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+1 customer(s) visited the store today.
+com.FLGS.Store.Customer named Nuwufeei is inspecting the shelves.
+com.FLGS.Store.Customer Nuwufeei did not purchase anything and left the store.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 19.
+The cash register currently has $1473.88.
+Vacuuming... 
+Stacking...
+Burt stacked 2 Monopoly game(s) at shelf position 1.
+Burt stacked 1 Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 2 Risk game(s) at shelf position 6.
+Burt stacked 1 Life game(s) at shelf position 7.
+Burt stacked 1 Magic game(s) at shelf position 8.
+Burt stacked 2 Catan game(s) at shelf position 9.
+Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 2 Pokemon game(s) at shelf position 12.
+The store is open for business.
+4 customer(s) visited the store today.
+com.FLGS.Store.Customer named Finiyafo is inspecting the shelves.
+com.FLGS.Store.Customer Finiyafo did not purchase anything and left the store.
+com.FLGS.Store.Customer named Yotezega is inspecting the shelves.
+com.FLGS.Store.Customer Yotezega selected Mousetrap.
+Yotezega bought Mousetrap for $24.90.
+com.FLGS.Store.Customer named Xoyali is inspecting the shelves.
+com.FLGS.Store.Customer Xoyali selected Four.
+Xoyali bought Four for $12.00.
+com.FLGS.Store.Customer named Yafolav is inspecting the shelves.
+com.FLGS.Store.Customer Yafolav selected Catan.
+Yafolav bought Catan for $41.90.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 20.
+Three new orders of Four have arrived.
+The cash register currently has $1534.68.
+Vacuuming... 
+An in-stock order of Pokemon got damaged while vacuuming!
+Stacking...
+Burt stacked 2 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Four game(s) at shelf position 2.
+Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 1 Life game(s) at shelf position 6.
+Burt stacked 2 Risk game(s) at shelf position 7.
+Burt stacked 1 Catan game(s) at shelf position 8.
+Burt stacked 1 Magic game(s) at shelf position 9.
+Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 1 Pokemon game(s) at shelf position 12.
+The store is open for business.
+2 customer(s) visited the store today.
+com.FLGS.Store.Customer named Lig is inspecting the shelves.
+com.FLGS.Store.Customer Lig selected Risk.
+Lig bought Risk for $31.50.
+com.FLGS.Store.Customer named Mewipuf is inspecting the shelves.
+com.FLGS.Store.Customer Mewipuf selected Clue.
+Mewipuf bought Clue for $19.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 21.
+Three new orders of Clue have arrived.
+The cash register currently has $1556.18.
+Vacuuming... 
+Stacking...
+Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 1 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 2 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Catan game(s) at shelf position 9.
+Ernie stacked 1 Magic game(s) at shelf position 10.
+Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+3 customer(s) visited the store today.
+com.FLGS.Store.Customer named Fehipa is inspecting the shelves.
+com.FLGS.Store.Customer Fehipa selected Clue.
+Fehipa bought Clue for $19.00.
+com.FLGS.Store.Customer named Vaqol is inspecting the shelves.
+com.FLGS.Store.Customer Vaqol selected Pokemon.
+Vaqol bought Pokemon for $10.00.
+com.FLGS.Store.Customer named Fek is inspecting the shelves.
+com.FLGS.Store.Customer Fek selected Clue.
+Fek bought Clue for $19.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 22.
+Three new orders of Pokemon have arrived.
+The cash register currently has $1589.18.
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 1 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 2 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Catan game(s) at shelf position 9.
+Ernie stacked 1 Magic game(s) at shelf position 10.
+Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+3 customer(s) visited the store today.
+com.FLGS.Store.Customer named Vieamiwu is inspecting the shelves.
+com.FLGS.Store.Customer Vieamiwu selected Monopoly.
+Vieamiwu bought Monopoly for $28.00.
+com.FLGS.Store.Customer named Qasamovi is inspecting the shelves.
+com.FLGS.Store.Customer Qasamovi selected Pokemon.
+Qasamovi bought Pokemon for $10.00.
+com.FLGS.Store.Customer named Begiee is inspecting the shelves.
+com.FLGS.Store.Customer Begiee did not purchase anything and left the store.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 23.
+The cash register currently has $1627.18.
+Vacuuming... 
+Stacking...
+Burt stacked 1 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Four game(s) at shelf position 2.
+Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 1 Clue game(s) at shelf position 5.
+Burt stacked 1 Risk game(s) at shelf position 6.
+Burt stacked 1 Life game(s) at shelf position 7.
+Burt stacked 1 Magic game(s) at shelf position 8.
+Burt stacked 1 Catan game(s) at shelf position 9.
+Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 2 Pokemon game(s) at shelf position 12.
+The store is open for business.
+4 customer(s) visited the store today.
+com.FLGS.Store.Customer named Miret is inspecting the shelves.
+com.FLGS.Store.Customer Miret did not purchase anything and left the store.
+com.FLGS.Store.Customer named Sowidod is inspecting the shelves.
+com.FLGS.Store.Customer Sowidod did not purchase anything and left the store.
+com.FLGS.Store.Customer named Lenes is inspecting the shelves.
+com.FLGS.Store.Customer Lenes selected Catan.
+Lenes bought Catan for $41.90.
+com.FLGS.Store.Customer named Cue is inspecting the shelves.
+com.FLGS.Store.Customer Cue selected Monopoly.
+Cue bought Monopoly for $28.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 24.
+Three new orders of Monopoly have arrived.
+Three new orders of Catan have arrived.
+The cash register currently has $1592.08.
+Vacuuming... 
+Stacking...
+Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 1 Risk game(s) at shelf position 6.
+Ernie stacked 1 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+3 customer(s) visited the store today.
+com.FLGS.Store.Customer named Fiqulop is inspecting the shelves.
+com.FLGS.Store.Customer Fiqulop selected Candyland.
+Fiqulop bought Candyland for $24.40.
+com.FLGS.Store.Customer named Gofa is inspecting the shelves.
+com.FLGS.Store.Customer Gofa selected Clue.
+Gofa bought Clue for $19.00.
+com.FLGS.Store.Customer named Peb is inspecting the shelves.
+com.FLGS.Store.Customer Peb selected Pokemon.
+Peb bought Pokemon for $10.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 25.
+Three new orders of Clue have arrived.
+The cash register currently has $1616.48.
+Vacuuming... 
+Stacking...
+Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 2 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 1 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+3 customer(s) visited the store today.
+com.FLGS.Store.Customer named Rufemum is inspecting the shelves.
+com.FLGS.Store.Customer Rufemum selected Netrunner.
+Rufemum bought Netrunner for $12.00.
+com.FLGS.Store.Customer named Veyuked is inspecting the shelves.
+com.FLGS.Store.Customer Veyuked selected Netrunner.
+Veyuked bought Netrunner for $12.00.
+com.FLGS.Store.Customer named Vofi is inspecting the shelves.
+com.FLGS.Store.Customer Vofi selected Netrunner.
+Vofi bought Netrunner for $12.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 26.
+Three new orders of Netrunner have arrived.
+The cash register currently has $1634.48.
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Four game(s) at shelf position 2.
+Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Burt stacked 2 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 1 Risk game(s) at shelf position 6.
+Burt stacked 1 Life game(s) at shelf position 7.
+Burt stacked 3 Catan game(s) at shelf position 8.
+Burt stacked 1 Magic game(s) at shelf position 9.
+Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 1 Pokemon game(s) at shelf position 12.
+The store is open for business.
+2 customer(s) visited the store today.
+com.FLGS.Store.Customer named Yasepile is inspecting the shelves.
+com.FLGS.Store.Customer Yasepile selected Monopoly.
+Yasepile bought Monopoly for $28.00.
+com.FLGS.Store.Customer named Sagowero is inspecting the shelves.
+com.FLGS.Store.Customer Sagowero selected Four.
+Sagowero bought Four for $12.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Burt the com.FLGS.Store.Cashier arrived at the store on Day 27.
+The cash register currently has $1674.48.
+Vacuuming... 
+Stacking...
+Burt stacked 2 Monopoly game(s) at shelf position 1.
+Burt stacked 2 Four game(s) at shelf position 2.
+Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Burt stacked 2 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 1 Life game(s) at shelf position 6.
+Burt stacked 1 Risk game(s) at shelf position 7.
+Burt stacked 1 Magic game(s) at shelf position 8.
+Burt stacked 3 Catan game(s) at shelf position 9.
+Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 1 Pokemon game(s) at shelf position 12.
+The store is open for business.
+4 customer(s) visited the store today.
+com.FLGS.Store.Customer named Tak is inspecting the shelves.
+com.FLGS.Store.Customer Tak selected Mousetrap.
+Tak bought Mousetrap for $24.90.
+com.FLGS.Store.Customer named Fuyamavi is inspecting the shelves.
+com.FLGS.Store.Customer Fuyamavi selected Monopoly.
+Fuyamavi bought Monopoly for $28.00.
+com.FLGS.Store.Customer named Noxel is inspecting the shelves.
+com.FLGS.Store.Customer Noxel did not purchase anything and left the store.
+com.FLGS.Store.Customer named Vad is inspecting the shelves.
+com.FLGS.Store.Customer Vad selected Risk.
+Vad bought Risk for $31.50.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 28.
+Three new orders of Risk have arrived.
+The cash register currently has $1711.88.
+Vacuuming... 
+Stacking...
+Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 2 Candyland game(s) at shelf position 3.
+Ernie stacked 2 Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+1 customer(s) visited the store today.
+com.FLGS.Store.Customer named Pehew is inspecting the shelves.
+com.FLGS.Store.Customer Pehew did not purchase anything and left the store.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 29.
+The cash register currently has $1711.88.
+Vacuuming... 
+Stacking...
+Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 2 Candyland game(s) at shelf position 3.
+Ernie stacked 2 Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+3 customer(s) visited the store today.
+com.FLGS.Store.Customer named Maco is inspecting the shelves.
+com.FLGS.Store.Customer Maco selected Netrunner.
+Maco bought Netrunner for $12.00.
+com.FLGS.Store.Customer named Euwoka is inspecting the shelves.
+com.FLGS.Store.Customer Euwoka selected Pokemon.
+Euwoka bought Pokemon for $10.00.
+com.FLGS.Store.Customer named Fagah is inspecting the shelves.
+com.FLGS.Store.Customer Fagah selected Candyland.
+Fagah bought Candyland for $24.40.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+---------------------------------------------------
+Ernie the com.FLGS.Store.Cashier arrived at the store on Day 30.
+Three new orders of Pokemon have arrived.
+The cash register currently has $1743.28.
+Vacuuming... 
+An in-stock order of Netrunner got damaged while vacuuming!
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Ernie stacked 1 Candyland game(s) at shelf position 3.
+Ernie stacked 2 Four game(s) at shelf position 4.
+Ernie stacked 1 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Ernie stacked 1 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+2 customer(s) visited the store today.
+com.FLGS.Store.Customer named Rizunu is inspecting the shelves.
+com.FLGS.Store.Customer Rizunu selected Candyland.
+Rizunu bought Candyland for $24.40.
+com.FLGS.Store.Customer named Dir is inspecting the shelves.
+com.FLGS.Store.Customer Dir selected Clue.
+Dir bought Clue for $19.00.
+The com.FLGS.Store.Cashier checks to see if games need to be restocked...
+The com.FLGS.Store.Cashier closed the store for the night and went home.
+-----------------------------------
+
+-----------------------------------
+com.FLGS.Games.Games com.FLGS.Actions.Sold and Their Generated Revenue: 
+
+8 sale(s) of Pokemon occurred, generating $80.00 of revenue.
+4 sale(s) of Netrunner occurred, generating $48.00 of revenue.
+5 sale(s) of Candyland occurred, generating $122.00 of revenue.
+10 sale(s) of Four occurred, generating $120.00 of revenue.
+2 sale(s) of Life occurred, generating $40.00 of revenue.
+3 sale(s) of Risk occurred, generating $94.50 of revenue.
+10 sale(s) of Clue occurred, generating $190.00 of revenue.
+11 sale(s) of Monopoly occurred, generating $308.00 of revenue.
+1 sale(s) of Magic occurred, generating $39.88 of revenue.
+2 sale(s) of Catan occurred, generating $83.80 of revenue.
+5 sale(s) of Mousetrap occurred, generating $124.50 of revenue.
+1 sale(s) of Gloomhaven occurred, generating $50.00 of revenue.
