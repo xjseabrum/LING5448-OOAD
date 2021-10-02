@@ -1,8 +1,5 @@
 package com.FLGS;
 
-import com.FLGS.Games.CustomMinis;
-import com.FLGS.Games.Games;
-import com.FLGS.Games.Gloomhaven;
 import com.FLGS.Store.CashRegister;
 import com.FLGS.Store.Store;
 import com.FLGS.Store.Wares;

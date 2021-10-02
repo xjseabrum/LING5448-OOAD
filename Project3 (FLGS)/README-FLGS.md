@@ -12,8 +12,8 @@ Implement 0-2 games that a customer can buy (currently they either buy 0 or 1)
 Implement Shelves obj
 Implement game/cookie multiplier via decorator
 Implement new Stacking method
-Implement new com.FLGS.Store.Cashier Bart
-Implement new com.FLGS.Store.Employee class: announcer - Guy
+Implement new com.FLGS.Store.Employees.Cashier Bart
+Implement new com.FLGS.Store.Employees.Employee class: announcer - Guy
 Implement Cookie Monster event (1%)
 Implement cookie delivery event: maker - Gonger
 Customers can buy 
@@ -35,7 +35,7 @@ Here are the salient points that we hope to address in the coming submissions -
 
 - Removing Timeline, changing it into a util that reports to com.FLGS.Store.Store object. 
 - Removing util functions inside com.FLGS.Store.Store and placing it in a delegated class : StoreUtils.
-- Reduce some coupling between com.FLGS.Store.Cashier/Main and CashierTasks.
+- Reduce some coupling between com.FLGS.Store.Employees.Cashier/Main and CashierTasks.
 - com.FLGS.Store.Store should have fewer method definitions and more method calls (*jury is out on this one*)
 - com.FLGS.Store.Store should own com.FLGS.Store.Wares and com.FLGS.Store.CashRegister (*jury is out on this one* - *there are good reasons to keep them separate in our opinion.*)
 

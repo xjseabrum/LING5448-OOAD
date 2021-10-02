@@ -1,4 +1,4 @@
-package com.FLGS.Store;
+package com.FLGS.Store.Employees;
 //An example of identity - CashierTasks receives a com.FLGS.Games.Games object from
 //com.FLGS.Store.Customer.buyGame(). It then passes it to com.FLGS.Actions.Sold.doAction() where it
 //updates the com.FLGS.Games.Games object.
@@ -6,6 +6,8 @@ package com.FLGS.Store;
 
 import com.FLGS.Actions.*;
 import com.FLGS.Games.Games;
+import com.FLGS.Store.CashRegister;
+import com.FLGS.Store.Wares;
 
 public class CashierTask {
     Arrive arrive;
@@ -15,19 +17,23 @@ public class CashierTask {
     Order order;
     Stack stack;
     Vacuum vacuum;
-    Sold sold = new Sold();
+    Sold sold;
+    Cashier cashier;
 
-    public CashierTask(Stack stack) {
-        this.arrive = new Arrive();
-        this.close = new Close();
-        this.count = new Count();
-        this.open = new Open();
+    public CashierTask(Stack stack, Cashier cashier) {
+        this.cashier = cashier;
+        this.arrive = new Arrive(this.cashier);
+        this.close = new Close(this.cashier);
+        this.count = new Count(this.cashier);
+        this.open = new Open(this.cashier);
         this.stack = stack;
-        this.vacuum = new Vacuum();
-        this.order = new Order();
+        this.vacuum = new Vacuum(this.cashier);
+        this.order = new Order(this.cashier);
+        this.sold = new Sold(this.cashier);
+
     }
     public void arrive(String employeeName, int arriveDay, Wares ware){
-        arrive.announce(employeeName, arriveDay);
+        arrive.announce(arriveDay);
         arrive.doAction(ware);
     }
     public void count(CashRegister register){

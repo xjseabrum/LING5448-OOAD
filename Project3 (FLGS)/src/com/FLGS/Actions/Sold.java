@@ -2,9 +2,16 @@ package com.FLGS.Actions;
 
 import com.FLGS.Games.Games;
 import com.FLGS.Store.CashRegister;
+import com.FLGS.Store.Employees.Cashier;
 
 public class Sold {
     // Output the price with the decorators.
+
+    Cashier cashier;
+
+    public Sold(Cashier cashier){
+        this.cashier = cashier;
+    }
 
     public void doAction(Games gameSold, String customerName,
                          CashRegister cashRegister) {
@@ -21,7 +28,7 @@ public class Sold {
 
 
         cashRegister.addCash(income);
-        System.out.println(customerName + " bought " + gameSold.getGameName() +
+        this.cashier.publish(customerName + " bought " + gameSold.getGameName() +
                            " for $"+ String.format("%.2f", income) + ".");
     }
 }

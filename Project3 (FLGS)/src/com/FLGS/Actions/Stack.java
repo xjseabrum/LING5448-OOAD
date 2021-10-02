@@ -1,11 +1,13 @@
 package com.FLGS.Actions;
 
 import com.FLGS.Games.Games;
+import com.FLGS.Store.Employees.Cashier;
 import com.FLGS.Store.Wares;
 
 import java.util.List;
 
 public abstract class Stack{
+
 
     public void announce() {
         System.out.println("Stacking...");

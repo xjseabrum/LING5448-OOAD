@@ -74,5 +74,13 @@ public class RandomUtils {
 
     }
 
+    public static boolean customerBuysFromShelf(int shelfPos, double probModifier) {
+        // We can account for modifications to shelf probability if customer buys a cookie.
+
+        double shelfProbability = 0.2 - (0.02 * shelfPos) + probModifier;
+        return getRandomDouble() <= shelfProbability && shelfProbability > 0;
+
+    }
+
 }
 

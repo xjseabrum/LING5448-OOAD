@@ -2,14 +2,21 @@ package com.FLGS.Actions;
 
 import com.FLGS.Games.Games;
 import com.FLGS.Store.CashRegister;
+import com.FLGS.Store.Employees.Cashier;
 import com.FLGS.Store.Wares;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Order{
+    Cashier cashier;
+
+    public Order(Cashier cashier){
+        this.cashier = cashier;
+    }
+
     public void announce() {
-        System.out.println("The com.FLGS.Store.Cashier checks to see if games need to be restocked...");
+        this.cashier.publish("The Cashier" + this.cashier.getName() + " checks to see if games need to be restocked...");
     }
 
     public void doAction(Wares ware, CashRegister cashRegister) {

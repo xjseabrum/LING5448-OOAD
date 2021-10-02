@@ -6,7 +6,9 @@ import com.FLGS.Actions.HighestFirstStack;
 import com.FLGS.Actions.Stack;
 import com.FLGS.Actions.WidestFirstStack;
 import com.FLGS.Games.Games;
-import com.FLGS.Utils.RandomUtils;
+import com.FLGS.Store.Employees.Announcer;
+import com.FLGS.Store.Employees.Cashier;
+import com.FLGS.Utils.*;
 import com.FLGS.Main;
 
 import java.io.FileNotFoundException;
@@ -20,6 +22,7 @@ public class Store {
 //    public List<com.FLGS.Store.Shelf> shelves = new ArrayList<com.FLGS.Store.Shelf>();
     private List<Customer> customers = new ArrayList<Customer>();
     private List<Cashier> cashiers = new ArrayList<Cashier>();
+    private Announcer announcer;
 
     // getters and setters
     public Cashier getCashier(){
@@ -40,25 +43,18 @@ public class Store {
         customers.add(new Customer());
     }
 
-    public void spawnCashier(String name, int arrivalDay, int vacuumDamageRate, Stack stack){
-        cashiers.add(new Cashier(name, vacuumDamageRate, stack));
+    public void spawnCashiers(Announcer announcer){
+        cashiers.add(EmployeeUtils.spawnCashier(announcer));
     }
 
     private void doDailyRollCall(int day){
-        // Which cashier arrives today? Coin toss to decide and com.FLGS.Store.Cashier.tasks.arrive()
-        boolean burtArrives = RandomUtils.getRandomBool();
+        // Which cashier arrives today? Coin toss to decide and com.FLGS.Store.Employees.Cashier.tasks.arrive()
 
-        if (burtArrives){
-            String employeeName = "Burt";
-            Stack widestFirstStack = new WidestFirstStack();
-            this.spawnCashier(employeeName, day, 10, widestFirstStack);
-        }
-        else { // Ernie arrives instead!
-            String employeeName = "Ernie";
-            Stack highestFirstStack = new HighestFirstStack();
-            this.spawnCashier(employeeName, day, 5, highestFirstStack);
-        }
+        this.announcer = EmployeeUtils.spawnAnnouncer();
+        this.announcer.arrive(day);
 
+
+        spawnCashiers(this.announcer);
         for (Cashier cashier:this.cashiers){
             cashier.tasks.arrive(cashier.getName(),day, Main.wares);
         }
@@ -79,12 +75,12 @@ public class Store {
 
         int numOfCustomers = RandomUtils.getRandomInt(maxNumCustomers);
 
-        System.out.println(numOfCustomers+1 + " customer(s) visited the store today.");
+        System.out.println("Store Log : " + numOfCustomers+1 + " customer(s) visited the store today.");
 
         for (int c=0; c<=numOfCustomers; c++){
             Customer customer = new Customer();
-            System.out.println("com.FLGS.Store.Customer named " + customer.getCustomerName() + " is inspecting the shelves.");
-            customer.buyGame(Main.wares.gamesList);
+            System.out.println("Store Log : " + "Customer named " + customer.getCustomerName() + " is inspecting the shelves.");
+            customer.visitShop(Main.wares.gamesList);
         }
     }
 
@@ -95,12 +91,15 @@ public class Store {
             cashier.tasks.close();
         }
         this.cashiers.clear();
+
+        this.announcer.leave();
+        this.announcer = null;
     }
 
     public void writeSummary() {
         System.out.println("-----------------------------------");
         System.out.println("\n-----------------------------------");
-        System.out.println("com.FLGS.Games.Games com.FLGS.Actions.Sold and Their Generated Revenue: \n");
+        System.out.println("Sold and Their Generated Revenue: \n");
         for (Games game : Main.wares.getGames()) {
             System.out.println(game.getSold() + " sale(s) of " +
                     game.getGameName() + " occurred, generating $" +

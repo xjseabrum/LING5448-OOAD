@@ -1,24 +1,34 @@
 package com.FLGS.Store;//An example of identity - com.FLGS.Store.Customer.buyGame() passes a com.FLGS.Games.Games object to
-//a com.FLGS.Store.Cashier.CashierTasks object. You can step in further, to see that
+//a com.FLGS.Store.Employees.Cashier.CashierTasks object. You can step in further, to see that
 //the game is then passed further.
 
 
 
 import com.FLGS.Games.Games;
+import com.FLGS.Games.DamageGame;
 import com.FLGS.Main;
 import com.FLGS.Utils.RandomUtils;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 public class Customer {
 
     // Attributes.
-    private String name;
-    private List<Double> shelfPreferenceProbability = new ArrayList<>();
+    private final String name;
+    private final List<Double> shelfPreferenceProbability = new ArrayList<>();
+    private final boolean isCookieMonster = RandomUtils.getRandomDouble()<=0.01;
+    private final double buyProbabilityModifier = 0.0;
+    private int numPurchasedGames = 0; // Num of games a customer buy for a given visit
 
     public Customer(String name){
-        this.name = name;
+        if (this.isCookieMonster){
+            this.name = "Cookie Monster";
+        }
+        else {
+            this.name = name;
+        }
 //        shelfPreferenceProbability.addAll(Arrays.asList(0.8, 0.82, 0.84, 0.86, 0.88, 0.90, 0.92, 0.94, 0.96, 0.98, 1.0));
     }
 
@@ -61,7 +71,52 @@ public class Customer {
         return -1;
     }
 
-    public void buyGame(List<Games> shelf){
+    private void terrorize(){
+        System.out.println("Customer Log : Cookie Monster has arrived to terrorize!");
+        // if there are cookies
+        // eat all the cookies
+        // else leave the store
+        // exit subroutine
+        System.out.println("Customer Log : Cookie Monster has eaten all the cookies!");
+
+        int numGamesToDamage = RandomUtils.getRandomInt(5)+1;
+        DamageGame dg = new DamageGame();
+
+        for (int i=0; i<numGamesToDamage; i++) {
+            // TODO : @Jay The cookie monster needs to give a new message
+            // Would like to add an extra signature for the cookie
+            // monster.
+            dg.damageRandomGame(Main.wares);
+        }
+
+        System.out.println("Customer Log : Cookie Monster has damaged " + numGamesToDamage + " !");
+    }
+
+    private void buyCookie(){
+
+        int numCookies = RandomUtils.getRandomInt(2)+1;
+        // if cookies in cookieJar
+        // buyCookies
+        // adjust buyProbabilityModifier accordingly
+        System.out.println("Customer Log : Customer is trying to buy cookies.");
+    }
+
+    private void buyGames(List<Games> inInventory){
+
+        for (int i = 0; i<=inInventory.size(); i++){
+
+            if (RandomUtils.customerBuysFromShelf(i, this.buyProbabilityModifier)) {
+                System.out.println("Customer Log : Customer " + this.name + " selected " + inInventory.get(i).getGameName() + ".");
+                Main.store.getCashier().tasks.sold(inInventory.get(i), this.getCustomerName(), Main.register);
+                this.numPurchasedGames ++;
+            }
+
+            if (this.numPurchasedGames >= 3){return;}
+        }
+    }
+
+
+    public void visitShop(List<Games> shelf){
 
         List<Games> inInventory = new ArrayList<>();
         // TODO: Weitung/Jay, give me an updated list of games that I can buy from!
@@ -71,14 +126,17 @@ public class Customer {
             }
         }
 
-        for (int i = 0; i<=inInventory.size(); i++){
-
-            if (RandomUtils.customerBuysFromShelf(i)) {
-                System.out.println("com.FLGS.Store.Customer " + this.name + " selected " + inInventory.get(i).getGameName() + ".");
-                Main.store.getCashier().tasks.sold(inInventory.get(i), this.getCustomerName(), Main.register);
-                return;
-            }
+        if (this.isCookieMonster){
+            this.terrorize();
         }
-        System.out.println("com.FLGS.Store.Customer " + this.name + " did not purchase anything and left the store.");
+
+        else{
+            this.buyCookie();
+            this.buyGames(inInventory);
+
+        }
+
+
+        System.out.println("Customer Log : Customer " + this.name + " did has bought" + this.numPurchasedGames + "game(s).");
     }
 }

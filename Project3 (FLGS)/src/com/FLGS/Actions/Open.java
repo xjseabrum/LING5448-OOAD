@@ -1,10 +1,18 @@
 package com.FLGS.Actions;
 
+import com.FLGS.Store.Employees.Cashier;
+
 import java.util.Random;
 
 public class Open{
+
+    Cashier cashier;
+
+    public Open(Cashier cashier){
+        this.cashier = cashier;
+    }
     public void announce() {
-        System.out.println("The store is open for business.");
+        this.cashier.publish("The store is open for business.");
     }
 
     public void doAction() {

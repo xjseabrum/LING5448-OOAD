@@ -1,15 +1,22 @@
 package com.FLGS.Actions;
 
 import com.FLGS.Games.DamageGame;
+import com.FLGS.Store.Employees.Cashier;
 import com.FLGS.Store.Wares;
 
 import java.util.Random;
 
 public class Vacuum {
+
+    Cashier cashier;
+
+    public Vacuum(Cashier cashier){
+        this.cashier = cashier;
+    }
     private DamageGame dg =new DamageGame();
     Random r = new Random();
     public void announce() {
-        System.out.println("Vacuuming... ");
+        this.cashier.publish("Vacuuming... ");
     }
 
     public void doAction(int damageRate, Wares ware) {
