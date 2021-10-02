@@ -6,10 +6,7 @@ public class SpareParts extends SpecialAdd {
 
     public SpareParts(Games g){
         super(g);
-//        this.g = g;
         this.price = 7.00;
-//        this.gameName = g.getGameName();
-//        this.gameType = g.getGameType();
     }
 
     public double getPrice(){

@@ -1,6 +1,10 @@
-package com.FLGS.Store;//An example of encapsulation - com.FLGS.Store.Store.customers and com.FLGS.Store.Store.cashiers are encapsulated and can only be accessed
-//via getter and setter. com.FLGS.Store.Store methods such as doDailyRollCall(), doDailyMaintenance, doDailyBusiness, doDailyClose
-//are all private because they need (and should) not be accessed outside of com.FLGS.Store.Store.simulate().
+package com.FLGS.Store;
+// An example of encapsulation - com.FLGS.Store.Store.customers and
+// com.FLGS.Store.Store.cashiers are encapsulated and can only be accessed
+// via getter and setter. com.FLGS.Store.Store methods such as doDailyRollCall(),
+// doDailyMaintenance, doDailyBusiness, doDailyClose
+// are all private because they need (and should) not be accessed
+// outside of com.FLGS.Store.Store.simulate().
 
 import com.FLGS.Actions.HighestFirstStack;
 import com.FLGS.Actions.Stack;
@@ -75,11 +79,13 @@ public class Store {
 
         int numOfCustomers = RandomUtils.getRandomInt(maxNumCustomers);
 
-        System.out.println("Store Log : " + numOfCustomers+1 + " customer(s) visited the store today.");
+        System.out.println("Store Log: " + (numOfCustomers+1) + " customer(s) visited the store today.");
 
-        for (int c=0; c<=numOfCustomers; c++){
+        for (int c = 0; c <= numOfCustomers; c++){
             Customer customer = new Customer();
-            System.out.println("Store Log : " + "Customer named " + customer.getCustomerName() + " is inspecting the shelves.");
+            System.out.println("Store Log: " + "Customer named " +
+                               customer.getCustomerName() +
+                               " is inspecting the shelves.");
             customer.visitShop(Main.wares.gamesList);
         }
     }
@@ -97,9 +103,9 @@ public class Store {
     }
 
     public void writeSummary() {
-        System.out.println("-----------------------------------");
-        System.out.println("\n-----------------------------------");
-        System.out.println("Sold and Their Generated Revenue: \n");
+        System.out.println("-".repeat(45));
+        System.out.println("-".repeat(45));
+        System.out.println("Items Sold and Their Generated Revenue: \n");
         for (Games game : Main.wares.getGames()) {
             System.out.println(game.getSold() + " sale(s) of " +
                     game.getGameName() + " occurred, generating $" +
@@ -113,6 +119,7 @@ public class Store {
         this.storeUtils();
 
         for (int day = 0; day < days; day++){
+            System.out.println("-".repeat(45));
             this.doDailyRollCall(day);
             this.doDailyMaintainence();
             this.doDailyBusiness(4);

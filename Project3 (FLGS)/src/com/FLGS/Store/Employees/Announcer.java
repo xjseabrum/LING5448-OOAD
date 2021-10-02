@@ -1,7 +1,7 @@
 package com.FLGS.Store.Employees;
 
-import java.util.ArrayList;
-import java.util.List;
+//import java.util.ArrayList;
+//import java.util.List;
 
 public class Announcer extends Employee{
 
@@ -11,7 +11,7 @@ public class Announcer extends Employee{
     }
 
     public void arrive(int numDay){
-        this.publish(this.getName()+ " has arrived on day " + numDay);
+        this.publish(this.getName()+ " has arrived on day " + (numDay+1) + ".");
     }
 
     public void leave(){
@@ -19,7 +19,7 @@ public class Announcer extends Employee{
     }
 
     public void update(String message){
-        System.out.println(this.getName() + " Log : " + message);
+        System.out.println(this.getName() + " Log: " + message);
     }
 
 //  Announcer subscribes to every employee.

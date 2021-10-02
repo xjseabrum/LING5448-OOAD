@@ -1,4 +1,6 @@
-package com.FLGS.Games;// This is the com.FLGS.Games.Games superclass.
+package com.FLGS.Games;
+
+// This is the com.FLGS.Games.Games superclass.
 // This is an abstract class.
 // It forms the base of the inheritance structure,
 // by which com.FLGS.Games.KidsGame, com.FLGS.Games.BoardGame, com.FLGS.Games.CardGame and com.FLGS.Games.FamilyGame
@@ -30,6 +32,7 @@ public abstract class Games {
     public String gameType = "Generic Game Type";
     public double extraBuyChance = 0;
     public Games self;
+//    protected Games g;
 
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////

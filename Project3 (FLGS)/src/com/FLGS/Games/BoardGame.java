@@ -1,4 +1,6 @@
-package com.FLGS.Games;// This is one of com.FLGS.Games.Games subclasses.
+package com.FLGS.Games;
+
+// This is one of com.FLGS.Games.Games subclasses.
 // It is a branch in the hierarchy,
 // under which com.FLGS.Games.KidsGame, com.FLGS.Games.BoardGame, com.FLGS.Games.CardGame and com.FLGS.Games.FamilyGame
 // inherit their shared attributes, functions, and methods.

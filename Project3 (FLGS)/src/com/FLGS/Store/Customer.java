@@ -18,9 +18,9 @@ public class Customer {
     // Attributes.
     private final String name;
     private final List<Double> shelfPreferenceProbability = new ArrayList<>();
-    private final boolean isCookieMonster = RandomUtils.getRandomDouble()<=0.01;
+    private final boolean isCookieMonster = RandomUtils.getRandomDouble() <= 0.01;
     private final double buyProbabilityModifier = 0.0;
-    private int numPurchasedGames = 0; // Num of games a customer buy for a given visit
+    private int numPurchasedGames = 0; // Num of games a customer buys for a given visit
 
     public Customer(String name){
         if (this.isCookieMonster){
@@ -72,12 +72,12 @@ public class Customer {
     }
 
     private void terrorize(){
-        System.out.println("Customer Log : Cookie Monster has arrived to terrorize!");
+        System.out.println("Customer Log: Cookie Monster has arrived to terrorize!");
         // if there are cookies
         // eat all the cookies
         // else leave the store
         // exit subroutine
-        System.out.println("Customer Log : Cookie Monster has eaten all the cookies!");
+        System.out.println("Customer Log: Cookie Monster has eaten all the cookies!");
 
         int numGamesToDamage = RandomUtils.getRandomInt(5)+1;
         DamageGame dg = new DamageGame();
@@ -89,7 +89,9 @@ public class Customer {
             dg.damageRandomGame(Main.wares);
         }
 
-        System.out.println("Customer Log : Cookie Monster has damaged " + numGamesToDamage + " !");
+        System.out.println("Customer Log: Cookie Monster has damaged " +
+                           numGamesToDamage +
+                           " game(s)!");
     }
 
     private void buyCookie(){
@@ -98,7 +100,7 @@ public class Customer {
         // if cookies in cookieJar
         // buyCookies
         // adjust buyProbabilityModifier accordingly
-        System.out.println("Customer Log : Customer is trying to buy cookies.");
+        System.out.println("Customer Log: Customer is trying to buy cookies.");
     }
 
     private void buyGames(List<Games> inInventory){
@@ -106,7 +108,10 @@ public class Customer {
         for (int i = 0; i<=inInventory.size(); i++){
 
             if (RandomUtils.customerBuysFromShelf(i, this.buyProbabilityModifier)) {
-                System.out.println("Customer Log : Customer " + this.name + " selected " + inInventory.get(i).getGameName() + ".");
+                System.out.println("Customer Log: Customer " + this.name +
+                                   " selected " +
+                                   inInventory.get(i).getGameName() + ".");
+
                 Main.store.getCashier().tasks.sold(inInventory.get(i), this.getCustomerName(), Main.register);
                 this.numPurchasedGames ++;
             }
@@ -137,6 +142,8 @@ public class Customer {
         }
 
 
-        System.out.println("Customer Log : Customer " + this.name + " did has bought" + this.numPurchasedGames + "game(s).");
+        System.out.println("Customer Log: Customer " + this.name +
+                           " bought " + this.numPurchasedGames +
+                           " game(s).");
     }
 }

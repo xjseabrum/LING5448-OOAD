@@ -1,9 +1,7 @@
 package com.FLGS;
-
 import com.FLGS.Store.CashRegister;
 import com.FLGS.Store.Store;
 import com.FLGS.Store.Wares;
-
 
 import java.io.FileNotFoundException;
 
@@ -16,6 +14,6 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
 
         store.simulate(30);
-//
+     //  System.out.println("-".repeat(45));
     }
 }

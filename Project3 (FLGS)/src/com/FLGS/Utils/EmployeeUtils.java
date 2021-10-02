@@ -25,7 +25,7 @@ public class EmployeeUtils {
             cashier = new Cashier("Ernie", 5, new HighestFirstStack());
         }
 
-        else{
+        else {
             cashier = new Cashier("Bart", 2, new SingleLastStack());
         }
         cashier.setSubscriber(announcer);

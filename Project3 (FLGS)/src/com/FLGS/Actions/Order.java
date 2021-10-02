@@ -16,7 +16,7 @@ public class Order{
     }
 
     public void announce() {
-        this.cashier.publish("The Cashier" + this.cashier.getName() + " checks to see if games need to be restocked...");
+        this.cashier.publish(this.cashier.getName() + " the Cashier checks to see if games need to be restocked...");
     }
 
     public void doAction(Wares ware, CashRegister cashRegister) {

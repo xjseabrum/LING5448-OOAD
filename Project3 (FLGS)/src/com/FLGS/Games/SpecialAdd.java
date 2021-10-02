@@ -1,15 +1,14 @@
 package com.FLGS.Games;
-
 import com.FLGS.Utils.RandomUtils;
 
 public abstract class SpecialAdd extends Games{
     public double cost = 0;
     public int randRoll;
-    Games g;
+    public Games g;
 
     // How much will we end up mapping to the base?
     public SpecialAdd(Games g){
-        super.self=g;
+        super.self = g;
         this.g = g;
         this.boxHeight = g.getBoxHeight();
         this.boxWidth = g.getBoxWidth();

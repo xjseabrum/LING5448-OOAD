@@ -12,7 +12,7 @@ public class Close{
 
     public void announce() {
         this.cashier.publish(
-                 "The Cashier" + this.cashier.getName() +  "closed the store for the night and went home."
+                 this.cashier.getName() + " the Cashier closed the store for the night and went home."
         );
     }
 

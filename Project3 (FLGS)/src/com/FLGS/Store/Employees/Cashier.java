@@ -1,4 +1,5 @@
-package com.FLGS.Store.Employees;//An example of inheritance - com.FLGS.Store.Employees.Cashier has inherited from com.FLGS.Store.Employees.Employee.
+package com.FLGS.Store.Employees;
+//An example of inheritance - com.FLGS.Store.Employees.Cashier has inherited from com.FLGS.Store.Employees.Employee.
 // You can even see the super() constructor.
 
 // An example of cohesion - The functionality of tasks has been delegated to com.FLGS.Store.Employees.CashierTask,
