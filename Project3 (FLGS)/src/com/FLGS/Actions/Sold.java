@@ -27,12 +27,5 @@ public class Sold {
         this.cashier.publish(customerName + " bought " + gameSold.getGameName() +
                            " for $"+ String.format("%.2f", income) + ".");
     }
-    public void checkCookieJar(CookieJar jar, Baker baker){
-        int cookies=jar.getCookiesInJar();
-        if(cookies>0){
-            baker.deductDeliverPackages();
-        }else{
-            baker.addDeliverPackages();
-        }
-    }
+
 }

@@ -66,7 +66,7 @@ public class CashierTask {
         sold.doAction(gameSold,customerName,cashRegister);
     }
     public void checkCookies(CookieJar jar, Baker baker){
-        sold.checkCookieJar(jar, baker);
+        order.checkCookieJar(jar, baker);
     }
 
 
