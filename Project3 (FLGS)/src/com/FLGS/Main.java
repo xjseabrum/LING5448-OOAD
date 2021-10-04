@@ -1,6 +1,5 @@
 package com.FLGS;
 import com.FLGS.Store.CashRegister;
-import com.FLGS.Store.CookieJar;
 import com.FLGS.Store.Store;
 import com.FLGS.Store.Wares;
 
