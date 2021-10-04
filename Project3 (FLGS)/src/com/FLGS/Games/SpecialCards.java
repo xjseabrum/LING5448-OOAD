@@ -14,7 +14,7 @@ public class SpecialCards extends SpecialAdd{
     }
 
     public String getDesc(){
-        desc = (" They also bought " + numBuy + "custom mini(s) for $" +
+        desc = (" They also bought " + numBuy + " special card pack(s) for $" +
                 String.format("%.2f", addCost) +
                 " for a grand total of $" + totCost + ".");
         return desc;
