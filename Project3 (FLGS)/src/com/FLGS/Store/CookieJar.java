@@ -25,9 +25,11 @@ public class CookieJar {
         register.addCash(cookies * priceCookie);
     }
 
-    public void addDozen(int dozen){
+    public double addDozen(int dozen){
         this.cookiesInJar += (dozen * 12);
-        register.removeCash(dozen * priceDozen * 0.5);
+        double price=dozen * priceDozen * 0.5;
+        register.removeCash(price);
+        return price;
     }
 
     // Cookie Monster!

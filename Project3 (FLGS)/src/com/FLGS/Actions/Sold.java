@@ -2,6 +2,8 @@ package com.FLGS.Actions;
 
 import com.FLGS.Games.Games;
 import com.FLGS.Store.CashRegister;
+import com.FLGS.Store.CookieJar;
+import com.FLGS.Store.Employees.Baker;
 import com.FLGS.Store.Employees.Cashier;
 
 public class Sold {
@@ -17,18 +19,20 @@ public class Sold {
                          CashRegister cashRegister) {
         double income = gameSold.getPrice();
 
-        // TO DO: be sure to reduce the inv of the base and not the deco.
-        // Diff'tiate the deco and the game to do this correctly.
-
-        // gs.g.i()
         gameSold = gameSold.self;
         gameSold.inventory -= 1;
-        // Same here.
         gameSold.sold += 1;
-
 
         cashRegister.addCash(income);
         this.cashier.publish(customerName + " bought " + gameSold.getGameName() +
                            " for $"+ String.format("%.2f", income) + ".");
+    }
+    public void checkCookieJar(CookieJar jar, Baker baker){
+        int cookies=jar.getCookiesInJar();
+        if(cookies>0){
+            baker.deductDeliverPackages();
+        }else{
+            baker.addDeliverPackages();
+        }
     }
 }

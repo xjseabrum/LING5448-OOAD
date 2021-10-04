@@ -7,6 +7,7 @@ package com.FLGS.Store.Employees;
 import com.FLGS.Actions.*;
 import com.FLGS.Games.Games;
 import com.FLGS.Store.CashRegister;
+import com.FLGS.Store.CookieJar;
 import com.FLGS.Store.Wares;
 
 public class CashierTask {
@@ -63,6 +64,9 @@ public class CashierTask {
     }
     public void sold(Games gameSold, String customerName, CashRegister cashRegister){
         sold.doAction(gameSold,customerName,cashRegister);
+    }
+    public void checkCookies(CookieJar jar, Baker baker){
+        sold.checkCookieJar(jar, baker);
     }
 
 
