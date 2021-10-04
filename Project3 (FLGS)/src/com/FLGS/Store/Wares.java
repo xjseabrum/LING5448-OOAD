@@ -26,11 +26,13 @@ public class Wares {
     public List<Games> gamesList = new ArrayList<>();
     public List<Games> damagedList = new ArrayList<>();
     public List<Games> gameOrderedLastNight = new ArrayList<>();
+    public CookieJar cookiejar;
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////
     // Constructor
     public Wares(){
         this.instantiateGames();
+        this.cookiejar = new CookieJar();
     }
 
 
