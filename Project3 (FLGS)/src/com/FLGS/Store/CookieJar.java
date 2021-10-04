@@ -27,7 +27,7 @@ public class CookieJar {
 
     public double addDozen(int dozen){
         this.cookiesInJar += (dozen * 12);
-        double price=dozen * priceDozen * 0.5;
+        double price= dozen * priceDozen * 0.5;
         register.removeCash(price);
         return price;
     }
