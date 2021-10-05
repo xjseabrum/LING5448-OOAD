@@ -112,6 +112,10 @@ public class Store {
                     String.format("%.2f", (float) (game.getSold() *
                             game.getPrice())) + " of revenue.");
         }
+        // From Jay: This is commented out for now until
+        // we can call the number of times that the Cash Fairy visited.
+        //        System.out.println("The Cash Fairy graciously visited the store " +
+//                           count.cashFairyCounter + " time(s).")
     }
 
     public void simulate(int days) throws FileNotFoundException {
