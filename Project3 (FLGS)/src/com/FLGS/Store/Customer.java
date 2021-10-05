@@ -124,7 +124,7 @@ public class Customer {
     }
 
     private void buyGames(List<Games> inInventory){
-        Deco deco = new Deco();
+
         for (int i = 0; i<=inInventory.size(); i++){
 
             if (RandomUtils.customerBuysFromShelf(i, this.buyProbabilityModifier)) {
@@ -137,6 +137,7 @@ public class Customer {
                 // From Jay: implemented the check to see if the customer
                 // buys extra parts.
                 if (RandomUtils.getRandomDouble() < inInventory.get(i).getExtraBuyChance()){
+                    Deco deco = new Deco();
                     System.out.println(deco.decorate(inInventory.get(i), Main.register));
                 }
                 this.numPurchasedGames ++;
