@@ -1,4 +1,6 @@
 package com.FLGS.Store;
+import com.FLGS.Store.CookieJar;
+
 //An example of identity - com.FLGS.Store.Customer.buyGame() passes a com.FLGS.Games.Games object to
 //a com.FLGS.Store.Employees.Cashier.CashierTasks object. You can step in further, to see that
 //the game is then passed further.
@@ -13,6 +15,8 @@ import com.FLGS.Utils.RandomUtils;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+
+import static com.FLGS.Main.wares;
 
 public class Customer {
 
@@ -78,7 +82,14 @@ public class Customer {
         // eat all the cookies
         // else leave the store
         // exit subroutine
-        System.out.println("Customer Log: Cookie Monster has eaten all the cookies!");
+        if(wares.cookiejar.existCookies()){
+            wares.cookiejar.devour();
+            System.out.println("Customer Log: Cookie Monster has eaten all the cookies!");
+        } else {
+            System.out.println("Customer Log: Cookie Monster notices there are" +
+                               " no cookies and leaves dejectedly.");
+        }
+
 
         int numGamesToDamage = RandomUtils.getRandomInt(5)+1;
         DamageGame dg = new DamageGame();
@@ -87,7 +98,7 @@ public class Customer {
             // TODO : @Jay The cookie monster needs to give a new message
             // Would like to add an extra signature for the cookie
             // monster.
-            dg.damageRandomGame(Main.wares);
+            dg.damageRandomGame(wares);
         }
 
         System.out.println("Customer Log: Cookie Monster has damaged " +

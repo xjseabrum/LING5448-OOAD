@@ -32,6 +32,10 @@ public class CookieJar {
         return price;
     }
 
+    public boolean existCookies(){
+        return (this.cookiesInJar > 0);
+    }
+
     // Cookie Monster!
     public void devour(){
         this.cookiesInJar = 0;

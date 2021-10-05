@@ -68,6 +68,10 @@ public abstract class Games {
         return price;
     }
 
+    public String getDesc(){
+        return "";
+    }
+
     public double getBoxHeight(){
         return boxHeight;
     }
