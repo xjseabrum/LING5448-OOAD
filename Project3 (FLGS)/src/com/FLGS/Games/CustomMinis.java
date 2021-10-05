@@ -3,7 +3,7 @@ package com.FLGS.Games;
 public class CustomMinis extends SpecialAdd {
     private int minRoll = 1;
     private int maxRoll = 4;
-    public String desc;
+    public String desc = "";
     private int numBuy;
     private double addCost;
     public double totCost;
@@ -14,17 +14,25 @@ public class CustomMinis extends SpecialAdd {
     }
 
     public String getDesc(){
-        desc = (" They also bought " + numBuy + "custom mini(s) for $" +
-                String.format("%.2f", addCost) +
-                " for a grand total of $" + totCost + ".");
+        desc = " They also bought " + this.getNumBuy() + " custom mini(s) for $" +
+                String.format("%.2f", this.getAddCost()) +
+                " for a grand total of $" + String.format("%.2f", this.getPrice())
+                + ".";
         return desc;
     }
 
+    public int getNumBuy(){
+        this.numBuy = super.getRandRoll(minRoll, maxRoll);
+        return numBuy;
+    }
+
+    public double getAddCost(){
+        this.addCost = this.numBuy * this.price;
+        return addCost;
+    }
 
     public double getPrice(){
-        numBuy = super.getRandRoll(minRoll, maxRoll);
-        addCost = numBuy * this.price;
-        totCost = g.getPrice() + addCost;
+        this.totCost = (g.getPrice() + this.addCost);
         return totCost;
     }
 }

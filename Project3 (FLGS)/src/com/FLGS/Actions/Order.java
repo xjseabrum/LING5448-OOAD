@@ -2,6 +2,8 @@ package com.FLGS.Actions;
 
 import com.FLGS.Games.Games;
 import com.FLGS.Store.CashRegister;
+import com.FLGS.Store.CookieJar;
+import com.FLGS.Store.Employees.Baker;
 import com.FLGS.Store.Employees.Cashier;
 import com.FLGS.Store.Wares;
 
@@ -39,5 +41,13 @@ public class Order{
 
         cashRegister.removeCash(costOfGame);
         //Putting ordered games in com.FLGS.Actions.Arrive object is not a good practice, gonna changed it one day.
+    }
+    public void checkCookieJar(CookieJar jar, Baker baker){
+        int cookies=jar.getCookiesInJar();
+        if(cookies>0){
+            baker.deductDeliverPackages();
+        }else{
+            baker.addDeliverPackages();
+        }
     }
 }

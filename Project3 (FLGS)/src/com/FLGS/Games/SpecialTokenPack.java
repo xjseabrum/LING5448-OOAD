@@ -2,6 +2,7 @@ package com.FLGS.Games;
 
 public class SpecialTokenPack extends SpecialAdd {
     public String desc;
+    private int numBuy;
     private double addCost;
     public double totCost;
 
@@ -11,14 +12,25 @@ public class SpecialTokenPack extends SpecialAdd {
     }
 
     public String getDesc(){
-        desc = (" They also bought 1 special token pack for $" +
-                String.format("%.2f", addCost) +
-                " for a grand total of $" + totCost + ".");
+        desc = " They also bought " + this.getNumBuy() + " special token pack for $" +
+                String.format("%.2f", this.getAddCost()) +
+                " for a grand total of $" + String.format("%.2f", this.getPrice())
+                + ".";
         return desc;
     }
 
+    public int getNumBuy(){
+        this.numBuy = 1;
+        return numBuy;
+    }
+
+    public double getAddCost(){
+        this.addCost = this.numBuy * this.price;
+        return addCost;
+    }
+
     public double getPrice(){
-        totCost = g.getPrice() + this.price;
+        this.totCost = (g.getPrice() + this.addCost);
         return totCost;
     }
 }

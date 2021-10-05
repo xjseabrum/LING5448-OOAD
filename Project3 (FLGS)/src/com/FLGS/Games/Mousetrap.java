@@ -3,7 +3,7 @@ package com.FLGS.Games;
 public class Mousetrap extends KidsGame{
 
     public Mousetrap(){
-        Mousetrap.super.extraBuyChance = 0.3;
+        super.extraBuyChance = 0.3;
         super.setGameName("Mousetrap");
         super.setPrice(24.90);
         super.boxLength = 15.90;

@@ -14,17 +14,25 @@ public class SpecialCards extends SpecialAdd{
     }
 
     public String getDesc(){
-        desc = (" They also bought " + numBuy + " special card pack(s) for $" +
-                String.format("%.2f", addCost) +
-                " for a grand total of $" + totCost + ".");
+        desc = " They also bought " + this.getNumBuy() + " special card(s) for $" +
+                String.format("%.2f", this.getAddCost()) +
+                " for a grand total of $" + String.format("%.2f", this.getPrice())
+                + ".";
         return desc;
     }
 
-    public double getPrice(){
-        numBuy = super.getRandRoll(minRoll, maxRoll);
-        addCost = numBuy * this.price;
-        totCost = g.getPrice() + addCost;
-        return totCost;
+    public int getNumBuy(){
+        this.numBuy = super.getRandRoll(minRoll, maxRoll);
+        return numBuy;
     }
 
+    public double getAddCost(){
+        this.addCost = this.numBuy * this.price;
+        return addCost;
+    }
+
+    public double getPrice(){
+        this.totCost = (g.getPrice() + this.addCost);
+        return totCost;
+    }
 }

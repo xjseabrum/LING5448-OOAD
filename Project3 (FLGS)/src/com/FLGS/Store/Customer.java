@@ -1,4 +1,7 @@
 package com.FLGS.Store;
+import com.FLGS.Games.Deco;
+import com.FLGS.Store.CookieJar;
+
 //An example of identity - com.FLGS.Store.Customer.buyGame() passes a com.FLGS.Games.Games object to
 //a com.FLGS.Store.Employees.Cashier.CashierTasks object. You can step in further, to see that
 //the game is then passed further.
@@ -12,6 +15,8 @@ import com.FLGS.Utils.RandomUtils;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import static com.FLGS.Main.wares;
 
 public class Customer {
 
@@ -78,27 +83,36 @@ public class Customer {
     private void terrorize(CookieJar cookieJar){
         System.out.println("Customer Log: Cookie Monster has arrived to terrorize!");
 
-        if (cookieJar.getCookiesInJar()==0){
-            System.out.println("Customer Log: Cookie Monster leaves sadly as there are no cookies in the jar!");
-        }
+        // if there are cookies
+        // eat all the cookies
+        // else leave the store
+        // exit subroutine
 
-        else {
-            cookieJar.devour();
+        // From Jay: added a boolean to cookiejar called existCookies
+        // that way it's contained in the cookiejar object.
+        // This will determine what CookieMonster does.
+        // Up to you on what to do next.
+
+        if(wares.cookiejar.existCookies()){
+            wares.cookiejar.devour();
             System.out.println("Customer Log: Cookie Monster has eaten all the cookies!");
 
-            int numGamesToDamage = RandomUtils.getRandomInt(5)+1;
-            DamageGame dg = new DamageGame();
+        int numGamesToDamage = RandomUtils.getRandomInt(5)+1;
+        DamageGame dg = new DamageGame();
 
-            for (int i=0; i<numGamesToDamage; i++) {
-                // TODO : @Jay The cookie monster needs to give a new message
-                // Would like to add an extra signature for the cookie
-                // monster.
-                dg.damageRandomGame(Main.wares);
-            }
+        for (int i=0; i<numGamesToDamage; i++) {
+            // TODO : @Jay The cookie monster needs to give a new message
+            // Would like to add an extra signature for the cookie
+            // monster.
+            dg.damageRandomGame(wares);
+        }
 
-            System.out.println("Customer Log: Cookie Monster has damaged " +
-                    numGamesToDamage +
-                    " game(s)!");
+        System.out.println("Customer Log: Cookie Monster has damaged " +
+                           numGamesToDamage +
+                           " game(s)!");
+        } else {
+            System.out.println("Customer Log: Cookie Monster notices there are" +
+                    " no cookies and leaves dejectedly.");
         }
     }
 
@@ -123,7 +137,7 @@ public class Customer {
     }
 
     private void buyGames(List<Games> inInventory){
-
+        Deco deco = new Deco();
         for (int i = 0; i<=inInventory.size(); i++){
 
             if (RandomUtils.customerBuysFromShelf(i, this.buyProbabilityModifier)) {
@@ -134,6 +148,12 @@ public class Customer {
 
 
                 Main.store.getCashier().tasks.sold(inInventory.get(i), this.getCustomerName(), Main.register);
+
+                // From Jay: implemented the check to see if the customer
+                // buys extra parts.
+                if (RandomUtils.getRandomDouble() < inInventory.get(i).getExtraBuyChance()){
+                    System.out.println(deco.decorate(inInventory.get(i), Main.register));
+                }
                 this.numPurchasedGames ++;
             }
 

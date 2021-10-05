@@ -27,14 +27,14 @@ public class CookieJar {
 
     public double addDozen(int dozen){
         this.cookiesInJar += (dozen * 12);
-        double price=dozen * priceDozen * 0.5;
+        double price= dozen * priceDozen * 0.5;
         register.removeCash(price);
         return price;
     }
 
-    public double deliverDozen(int dozen){
-        addDozen(dozen);
-        return dozen * priceDozen * 0.5;
+    public boolean existCookies(){
+        return (this.cookiesInJar > 0);
+
     }
 
     // Cookie Monster!

@@ -68,6 +68,10 @@ public abstract class Games {
         return price;
     }
 
+    public String getDesc(){
+        return "";
+    }
+
     public double getBoxHeight(){
         return boxHeight;
     }
@@ -130,4 +134,7 @@ public abstract class Games {
     }
     public void setExtraBuyChance(double d){this.extraBuyChance = d;}
 
+    public double getAddCost() {
+        return 0;
+    }
 }
