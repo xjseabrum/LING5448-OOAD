@@ -5,6 +5,7 @@ public class Count implements Action {
     // see https://stackoverflow.com/questions/4367347/constructor-parameters-vs-method-parameters
 
     CashRegister cashRegister;
+    public int cashFairyCounter = 0;
 
     public Count(CashRegister register){
         cashRegister = register;
@@ -19,6 +20,7 @@ public class Count implements Action {
         double cash = cashRegister.getCash();
         double moneyAdded = 1000;
         if(cash < 100){
+            this.cashFairyCounter += 1
             cashRegister.addCash(moneyAdded);
             System.out.println(
                     "The Cash Fairy graciously and magically added $" +

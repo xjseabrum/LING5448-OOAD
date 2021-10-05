@@ -14,28 +14,28 @@ public class Deco {
             Games g2 = g;
             g2 = new SpecialTokenPack(g2);
             this.special = g2.getDesc();
-            r.addCash(g2.getPrice());
+            r.addCash(g2.getAddCost());
             return special;
 
         } else if (Objects.equals(g.gameType, "Card Game")) {
             Games g2 = g;
             g2 = new SpecialCards(g2);
             this.special = g2.getDesc();
-            r.addCash(g2.getPrice());
+            r.addCash(g2.getAddCost());
             return special;
 
         } else if (Objects.equals(g.gameName, "Mousetrap")) {
             Games g2 = g;
             g2 = new SpareParts(g2);
             this.special = g2.getDesc();
-            r.addCash(g2.getPrice());
+            r.addCash(g2.getAddCost());
             return special;
 
         } else if (Objects.equals(g.gameName, "Gloomhaven")) {
             Games g2 = g;
             g2 = new CustomMinis(g2);
             this.special = g2.getDesc();
-            r.addCash(g2.getPrice());
+            r.addCash(g2.getAddCost());
             return special;
 
         } else {

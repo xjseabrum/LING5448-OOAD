@@ -134,4 +134,7 @@ public abstract class Games {
     }
     public void setExtraBuyChance(double d){this.extraBuyChance = d;}
 
+    public double getAddCost() {
+        return 0;
+    }
 }

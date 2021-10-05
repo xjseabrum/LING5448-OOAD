@@ -3,6 +3,7 @@ import com.FLGS.Games.*;
 import com.FLGS.Store.CashRegister;
 import com.FLGS.Store.Store;
 import com.FLGS.Store.Wares;
+import com.FLGS.Utils.RandomUtils;
 
 import java.io.FileNotFoundException;
 
@@ -14,13 +15,14 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-//        store.simulate(30);
+        store.simulate(30);
 
 // Testing decorator code.  This is the syntax to call deco:
 //        Games gh = new Gloomhaven();
 //        Games pk = new Pokemon();
 //        Games mt = new Mousetrap();
 //        Games mo = new Monopoly();
+//        System.out.println(RandomUtils.getRandomDouble() < mo.getExtraBuyChance());
 //        Deco deco = new Deco();
 //
 //        String l = deco.decorate(gh);
