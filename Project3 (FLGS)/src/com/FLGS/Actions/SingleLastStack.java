@@ -16,7 +16,7 @@ public class SingleLastStack extends Stack{
         moveToLastByInventory(stack,0);
     }
     private void moveToLastByInventory(List<Games> stack,int num){
-        for(int i=0;i<stack.size();){
+        for(int i=0;i<stack.size();i++){
             if(stack.get(i).inventory==num){
                 stack.add(stack.get(i));
                 stack.remove(i);
