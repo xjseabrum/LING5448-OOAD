@@ -6,7 +6,7 @@ package com.FLGS.Store;
 
 public class CashRegister {
     public double cash = 0;
-
+    public int cashFairyCounter = 0;
     public double getCash(){
         return cash;
     }

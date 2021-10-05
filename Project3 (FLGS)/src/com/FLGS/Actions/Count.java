@@ -8,7 +8,6 @@ public class Count {
     // We should pass information through object
     // rather than method parameter,
     // see https://stackoverflow.com/questions/4367347/constructor-parameters-vs-method-parameters
-    public int cashFairyCounter = 0;
     Cashier cashier;
     public Count(Cashier cashier){
         this.cashier = cashier;
@@ -22,9 +21,9 @@ public class Count {
 
     public void doAction(CashRegister register){
         double cash = register.getCash();
-        double moneyAdded = 1000;
+        double moneyAdded = 100;
         if(cash < 100){
-            this.cashFairyCounter += 1;
+            register.cashFairyCounter += 1;
             register.addCash(moneyAdded);
             this.cashier.publish(
                     "The Cash Fairy graciously and magically added $" +
