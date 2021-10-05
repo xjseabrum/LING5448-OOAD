@@ -1,10 +1,13 @@
 package com.FLGS.Store.Employees;
 import com.FLGS.Store.CookieJar;
 
+import com.FLGS.Store.CookieJar;
+
 public class Baker extends Employee {
 
     private int Pocket = 0;
     private int deliverPackages = 1;
+
     public Baker(String bakerName, Announcer subscriber){
         super(bakerName);
         this.setSubscriber(subscriber);
@@ -14,11 +17,13 @@ public class Baker extends Employee {
         this.publish(this.getName() + " the Baker has arrived on day " + (numDays+1));
     }
 
+
     public void deliverCookies(CookieJar jar){
         double soldPrice=jar.addDozen(deliverPackages);
         this.Pocket+=soldPrice;
 
         this.publish(this.getName() + " the baker has dropped "+deliverPackages+" packages of cookies for $"+soldPrice);
+
     }
 
     public void leave(int numDays){

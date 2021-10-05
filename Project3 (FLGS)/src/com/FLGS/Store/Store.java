@@ -11,6 +11,7 @@ import com.FLGS.Actions.Stack;
 import com.FLGS.Actions.WidestFirstStack;
 import com.FLGS.Games.Games;
 import com.FLGS.Store.Employees.Announcer;
+import com.FLGS.Store.Employees.Baker;
 import com.FLGS.Store.Employees.Cashier;
 import com.FLGS.Utils.*;
 import com.FLGS.Main;
@@ -27,6 +28,7 @@ public class Store {
     private List<Customer> customers = new ArrayList<Customer>();
     private List<Cashier> cashiers = new ArrayList<Cashier>();
     private Announcer announcer;
+    private Baker baker;
 
     // getters and setters
     public Cashier getCashier(){
@@ -57,17 +59,21 @@ public class Store {
         this.announcer = EmployeeUtils.spawnAnnouncer();
         this.announcer.arrive(day);
 
-
         spawnCashiers(this.announcer);
         for (Cashier cashier:this.cashiers){
             cashier.tasks.arrive(cashier.getName(),day, Main.wares);
         }
     }
 
-    private void doDailyMaintainence(){
+    private void doDailyMaintainence(int day){
         // Employees stack and vacuum.
         for (Cashier cashier:this.cashiers){
-            cashier.tasks.count(Main.register);
+            cashier.tasks.count(Main.register);}
+
+        this.baker.arrive(day);
+
+
+        for (Cashier cashier:this.cashiers){
             cashier.tasks.vacuum(Main.wares,cashier.vacuumDamageRate);
             cashier.tasks.stack(Main.wares,cashier.getName());
             cashier.tasks.open();
@@ -86,7 +92,7 @@ public class Store {
             System.out.println("Store Log: " + "Customer named " +
                                customer.getCustomerName() +
                                " is inspecting the shelves.");
-            customer.visitShop(Main.wares.gamesList);
+            customer.visitShop(Main.wares.gamesList, Main.wares.cookieJar);
         }
     }
 
@@ -121,7 +127,7 @@ public class Store {
         for (int day = 0; day < days; day++){
             System.out.println("-".repeat(45));
             this.doDailyRollCall(day);
-            this.doDailyMaintainence();
+            this.doDailyMaintainence(day);
             this.doDailyBusiness(4);
             this.doDailyPunchOut();
         }

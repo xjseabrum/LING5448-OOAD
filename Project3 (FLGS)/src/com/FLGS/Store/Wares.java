@@ -27,6 +27,7 @@ public class Wares {
     public List<Games> damagedList = new ArrayList<>();
     public List<Games> gameOrderedLastNight = new ArrayList<>();
     public CookieJar cookiejar;
+
     //////////////////////////////////////////////////////////////////////////
     //////////////////////////////////////////////////////////////////////////
     // Constructor

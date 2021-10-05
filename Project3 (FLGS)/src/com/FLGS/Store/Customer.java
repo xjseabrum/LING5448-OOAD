@@ -12,7 +12,6 @@ import com.FLGS.Utils.RandomUtils;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 
 public class Customer {
 
@@ -20,7 +19,7 @@ public class Customer {
     private final String name;
     private final List<Double> shelfPreferenceProbability = new ArrayList<>();
     private final boolean isCookieMonster = RandomUtils.getRandomDouble() <= 0.01;
-    private final double buyProbabilityModifier = 0.0;
+    private double buyProbabilityModifier = 0.0;
     private int numPurchasedGames = 0; // Num of games a customer buys for a given visit
 
     public Customer(String name){
@@ -34,9 +33,13 @@ public class Customer {
     }
 
     public Customer(){
-        name = RandomUtils.getRandomName();
 //        shelfPreferenceProbability.addAll(Arrays.asList(0.8, 0.82, 0.84, 0.86, 0.88, 0.90, 0.92, 0.94, 0.96, 0.98, 1.0));
-
+        if (this.isCookieMonster){
+            name = "Cookie Monster";
+        }
+        else {
+            name = RandomUtils.getRandomName();;
+        }
     }
 
     //Getters and Setters.
@@ -72,37 +75,51 @@ public class Customer {
         return -1;
     }
 
-    private void terrorize(){
+    private void terrorize(CookieJar cookieJar){
         System.out.println("Customer Log: Cookie Monster has arrived to terrorize!");
-        // if there are cookies
-        // eat all the cookies
-        // else leave the store
-        // exit subroutine
-        System.out.println("Customer Log: Cookie Monster has eaten all the cookies!");
 
-        int numGamesToDamage = RandomUtils.getRandomInt(5)+1;
-        DamageGame dg = new DamageGame();
-
-        for (int i=0; i<numGamesToDamage; i++) {
-            // TODO : @Jay The cookie monster needs to give a new message
-            // Would like to add an extra signature for the cookie
-            // monster.
-            dg.damageRandomGame(Main.wares);
+        if (cookieJar.getCookiesInJar()==0){
+            System.out.println("Customer Log: Cookie Monster leaves sadly as there are no cookies in the jar!");
         }
 
-        System.out.println("Customer Log: Cookie Monster has damaged " +
-                           numGamesToDamage +
-                           " game(s)!");
+        else {
+            cookieJar.devour();
+            System.out.println("Customer Log: Cookie Monster has eaten all the cookies!");
+
+            int numGamesToDamage = RandomUtils.getRandomInt(5)+1;
+            DamageGame dg = new DamageGame();
+
+            for (int i=0; i<numGamesToDamage; i++) {
+                // TODO : @Jay The cookie monster needs to give a new message
+                // Would like to add an extra signature for the cookie
+                // monster.
+                dg.damageRandomGame(Main.wares);
+            }
+
+            System.out.println("Customer Log: Cookie Monster has damaged " +
+                    numGamesToDamage +
+                    " game(s)!");
+        }
     }
 
-    private void buyCookie(){
+    private void buyCookie(CookieJar cookieJar){
 
         int numCookies = RandomUtils.getRandomInt(2)+1;
-        // if cookies in cookieJar
-        // buyCookies
-        // adjust buyProbabilityModifier accordingly
         System.out.println("Customer Log: Customer " + this.name +
-                           " is trying to buy cookies.");
+                " is trying to buy cookies.");
+
+        if (cookieJar.getCookiesInJar()==0){
+            System.out.println("Customer Log: There are no cookies for "
+                    + this.name + " to buy!");
+            this.buyProbabilityModifier -= 0.10;
+            return;
+        }
+
+        cookieJar.soldCookie(Math.min(numCookies, cookieJar.getCookiesInJar()));
+        System.out.println("Customer Log: Customer "
+                + this.name + " bought " +
+                Math.min(numCookies, cookieJar.getCookiesInJar()));
+        this.buyProbabilityModifier += 0.20;
     }
 
     private void buyGames(List<Games> inInventory){
@@ -114,6 +131,8 @@ public class Customer {
                                    " selected " +
                                    inInventory.get(i).getGameName() + ".");
 
+
+
                 Main.store.getCashier().tasks.sold(inInventory.get(i), this.getCustomerName(), Main.register);
                 this.numPurchasedGames ++;
             }
@@ -123,7 +142,7 @@ public class Customer {
     }
 
 
-    public void visitShop(List<Games> shelf){
+    public void visitShop(List<Games> shelf, CookieJar cookieJar){
 
         List<Games> inInventory = new ArrayList<>();
         // TODO: Weitung/Jay, give me an updated list of games that I can buy from!
@@ -134,15 +153,13 @@ public class Customer {
         }
 
         if (this.isCookieMonster){
-            this.terrorize();
+            this.terrorize(cookieJar);
         }
 
         else{
-            this.buyCookie();
+            this.buyCookie(cookieJar);
             this.buyGames(inInventory);
-
         }
-
 
         System.out.println("Customer Log: Customer " + this.name +
                            " bought " + this.numPurchasedGames +

@@ -32,6 +32,11 @@ public class CookieJar {
         return price;
     }
 
+    public double deliverDozen(int dozen){
+        addDozen(dozen);
+        return dozen * priceDozen * 0.5;
+    }
+
     // Cookie Monster!
     public void devour(){
         this.cookiesInJar = 0;
