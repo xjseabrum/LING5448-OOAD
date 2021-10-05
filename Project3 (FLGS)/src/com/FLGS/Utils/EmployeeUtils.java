@@ -2,6 +2,7 @@ package com.FLGS.Utils;
 
 
 import com.FLGS.Store.Employees.Announcer;
+import com.FLGS.Store.Employees.Baker;
 import com.FLGS.Store.Employees.Cashier;
 import com.FLGS.Actions.WidestFirstStack;
 import com.FLGS.Actions.HighestFirstStack;
@@ -30,6 +31,12 @@ public class EmployeeUtils {
         }
         cashier.setSubscriber(announcer);
         return cashier;
+    }
+
+    public static Baker spawnBaker(Announcer announcer){
+        Baker baker = new Baker("Gonger");
+        baker.setSubscriber(announcer);
+        return baker;
     }
 
 

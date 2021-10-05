@@ -1,16 +1,15 @@
 package com.FLGS.Store.Employees;
+import com.FLGS.Interfaces.Publisher;
 import com.FLGS.Store.CookieJar;
 
-import com.FLGS.Store.CookieJar;
-
-public class Baker extends Employee {
+public class Baker extends Employee implements Publisher {
 
     private int Pocket = 0;
     private int deliverPackages = 1;
+    private Announcer subscriber;
 
-    public Baker(String bakerName, Announcer subscriber){
+    public Baker(String bakerName){
         super(bakerName);
-        this.setSubscriber(subscriber);
     }
 
     public void arrive(int numDays){
@@ -23,11 +22,12 @@ public class Baker extends Employee {
         this.Pocket+=soldPrice;
 
         this.publish(this.getName() + " the baker has dropped "+deliverPackages+" packages of cookies for $"+soldPrice);
+        this.publish(this.getName() + " the baker has earned $"+this.Pocket+" so far!");
 
     }
 
-    public void leave(int numDays){
-        this.publish(this.getName() + " the baker has left for day " + (numDays+1));
+    public void leave(){
+        this.publish(this.getName() + " the baker has left for day ");
     }
     public void addDeliverPackages(){
         deliverPackages=deliverPackages+1;
@@ -37,5 +37,17 @@ public class Baker extends Employee {
         if(deliverPackages>1){
             deliverPackages=deliverPackages-1;
         }
+    }
+
+    public void publish(String message) {
+        this.subscriber.publish(message);
+    }
+
+    public String getSubscriber() {
+        return this.subscriber.getName();
+    }
+
+    public void setSubscriber(Announcer announcer) {
+        this.subscriber = announcer;
     }
 }

@@ -8,14 +8,6 @@ public class RandomUtils {
     public static String getRandomName() {
         Random rand = new Random();
 
-        // Generate a name of random length between 3 and 8 characters long,
-        // endpoints inclusive.
-
-        // The math here is that the range between 3 and 8 is 5 (8-3=5)
-        // and the nextInt function randomly selects between 0 and
-        // the range calculated above plus 1 (as nextInt is exclusive
-        // on the upper bound).  Then translate the sampled space over
-        // 3 units so that the minimum is 3.
 
         int nameLength = rand.nextInt(6) + 3;
 
@@ -77,9 +69,26 @@ public class RandomUtils {
     public static boolean customerBuysFromShelf(int shelfPos, double probModifier) {
         // We can account for modifications to shelf probability if customer buys a cookie.
 
-        double shelfProbability = 0.2 - (0.02 * shelfPos) + probModifier;
-        return getRandomDouble() <= shelfProbability && shelfProbability > 0;
+        double shelfProbability = 0.8 + (0.02 * shelfPos) + probModifier;
 
+        double randomNum = getRandomDouble();
+        boolean valid = randomNum<=shelfProbability;
+        return  randomNum>=shelfProbability  && shelfProbability > 0;
+
+    }
+
+    public static int poissonRandom(double mean){
+        // code is a direct copy from
+        // https://stackoverflow.com/questions/9832919/generate-poisson-arrival-in-java
+
+        double L = Math.exp(-mean);
+        int k = 0;
+        double p = 1.0;
+        do {
+            p = p * rand.nextDouble();
+            k++;
+        } while (p > L);
+        return k - 1;
     }
 
 }

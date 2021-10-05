@@ -20,7 +20,7 @@ Customers can buy
 Cookie obj as decorator (?)
 CookieJar object. 
   CookieJar multiple.  CookieJar com.FLGS.Actions.Count. CookieType.
-com.FLGS.Store.Customer arrive with a poisson dist.
+com.FLGS.Store.StoreVisitors.Customer arrive with a poisson dist.
 com.FLGS.Actions.Order cookies if hit 0. (Read p3 assign.)
 StoreUtils, com.FLGS.Utils.RandomUtils.
 

@@ -1,5 +1,6 @@
 package com.FLGS.Store.Employees;
 
+import com.FLGS.Interfaces.Publisher;
 import com.FLGS.Utils.RandomUtils;
 
 public class Employee {
@@ -30,14 +31,5 @@ public class Employee {
         return this.name;
     }
 
-    public String getSubscriber(){ return this.subscriber.getName(); }
 
-    public void setSubscriber(Announcer announcer){
-        this.subscriber = announcer;
-    }
-
-    // Methods.
-    public void publish(String message){
-        this.subscriber.update(message);
-    }
 }

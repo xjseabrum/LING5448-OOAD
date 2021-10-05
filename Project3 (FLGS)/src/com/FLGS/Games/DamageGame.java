@@ -7,10 +7,9 @@ import java.util.Random;
 public class DamageGame {
     Random r = new Random();
     public String notice = "";
-    public Games damageRandomGame(Wares ware){
+    public Games damageRandomGame(List<Games> gameList){
         //reference https://www.baeldung.com/java-random-list-element
 
-        List<Games> gameList=ware.getGames();
         if(gameList != null && !gameList.isEmpty()){
             Games gameDamaged = gameList.get(r.nextInt(gameList.size()));
             gameDamaged.inventory -= 1;

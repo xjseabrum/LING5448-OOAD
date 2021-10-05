@@ -1,15 +1,441 @@
-Guy Log : Guy has arrived on day 0
-Guy Log : Ernie the Cashier arrived at the store on Day 1.
-Guy Log : The cash register currently has $0.00.
-Guy Log : The Cash Fairy graciously and magically added $1000.00 to the cash register.
-Guy Log : The cash register currently has $1000.00.
-Guy Log : Vacuuming... 
+---------------------------------------------
+Guy has arrived on day 1.
+Burt the Cashier arrived at the store on Day 1.
+The cash register currently has $0.00.
+The Cash Fairy graciously and magically added $1000.00 to the cash register.
+The cash register currently has $1000.00.
+Gonger the Baker has arrived on day 1
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 3 Risk game(s) at shelf position 6.
+Burt stacked 3 Life game(s) at shelf position 7.
+Burt stacked 3 Catan game(s) at shelf position 8.
+Burt stacked 3 Magic game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@6acbcfc0 reports that : 4 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@6acbcfc0 reports that : Customer named Xuwohosa is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@6acbcfc0 reports that : Customer named Rueam is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@6acbcfc0 reports that : Customer named Ziposa is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@6acbcfc0 reports that : Customer named Tunafad is inspecting the shelves.
+Burt the Cashier checks to see if games need to be restocked...
+Burt the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $6 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 2.
+Ernie the Cashier arrived at the store on Day 2.
+The cash register currently has $993.88.
+Gonger the Baker has arrived on day 2
+Vacuuming... 
 Stacking...
 Ernie stacked 3 Pokemon game(s) at shelf position 1.
 Ernie stacked 3 Netrunner game(s) at shelf position 2.
 Ernie stacked 3 Candyland game(s) at shelf position 3.
-Ernie stacked 3 Four game(s) at shelf position 4.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
 Ernie stacked 3 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@3941a79c reports that : 5 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@3941a79c reports that : Customer named Mapuz is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@3941a79c reports that : Customer named Gipidofi is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@3941a79c reports that : Customer named Yufugovi is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@3941a79c reports that : Customer named Euloba is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@3941a79c reports that : Customer named Rul is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $12 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 3.
+Ernie the Cashier arrived at the store on Day 3.
+The cash register currently has $987.76.
+Gonger the Baker has arrived on day 3
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 3 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@506e1b77 reports that : 6 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@506e1b77 reports that : Customer named Lue is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@506e1b77 reports that : Customer named Wedot is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@506e1b77 reports that : Customer named Zehed is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@506e1b77 reports that : Customer named Vilaxud is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@506e1b77 reports that : Customer named Zuqavu is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@506e1b77 reports that : Customer named Sip is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $18 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 4.
+Ernie the Cashier arrived at the store on Day 4.
+The cash register currently has $981.64.
+Gonger the Baker has arrived on day 4
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 3 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@4fca772d reports that : 4 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@4fca772d reports that : Customer named Kamaeano is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@4fca772d reports that : Customer named Fuhoqiw is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@4fca772d reports that : Customer named Wagat is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@4fca772d reports that : Customer named Hiqibak is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $24 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 5.
+Ernie the Cashier arrived at the store on Day 5.
+The cash register currently has $975.52.
+Gonger the Baker has arrived on day 5
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 3 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@9807454 reports that : 1 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@9807454 reports that : Customer named Gezonene is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $30 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 6.
+Ernie the Cashier arrived at the store on Day 6.
+The cash register currently has $969.40.
+Gonger the Baker has arrived on day 6
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 3 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@3d494fbf reports that : 2 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@3d494fbf reports that : Customer named Vum is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@3d494fbf reports that : Customer named Bodu is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $36 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 7.
+Ernie the Cashier arrived at the store on Day 7.
+The cash register currently has $963.28.
+Gonger the Baker has arrived on day 7
+Vacuuming... 
+An in-stock order of Life got damaged while vacuuming!
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@1ddc4ec2 reports that : 1 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@1ddc4ec2 reports that : Customer named Pupokesu is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $42 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 8.
+Burt the Cashier arrived at the store on Day 8.
+The cash register currently has $957.16.
+Gonger the Baker has arrived on day 8
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 3 Risk game(s) at shelf position 6.
+Burt stacked 2 Life game(s) at shelf position 7.
+Burt stacked 3 Magic game(s) at shelf position 8.
+Burt stacked 3 Catan game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@133314b reports that : 5 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@133314b reports that : Customer named Niya is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@133314b reports that : Customer named Fefa is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@133314b reports that : Customer named Povemizo is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@133314b reports that : Customer named Qefez is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@133314b reports that : Customer named Tuteperu is inspecting the shelves.
+Burt the Cashier checks to see if games need to be restocked...
+Burt the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $48 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 9.
+Burt the Cashier arrived at the store on Day 9.
+The cash register currently has $951.04.
+Gonger the Baker has arrived on day 9
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 2 Life game(s) at shelf position 6.
+Burt stacked 3 Risk game(s) at shelf position 7.
+Burt stacked 3 Catan game(s) at shelf position 8.
+Burt stacked 3 Magic game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@b1bc7ed reports that : 3 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@b1bc7ed reports that : Customer named Fimanud is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@b1bc7ed reports that : Customer named Yawawel is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@b1bc7ed reports that : Customer named Fix is inspecting the shelves.
+Burt the Cashier checks to see if games need to be restocked...
+Burt the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $54 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 10.
+Ernie the Cashier arrived at the store on Day 10.
+The cash register currently has $944.92.
+Gonger the Baker has arrived on day 10
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@7cd84586 reports that : 0 customer(s) visited the store today.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $60 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 11.
+Ernie the Cashier arrived at the store on Day 11.
+The cash register currently has $938.80.
+Gonger the Baker has arrived on day 11
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@30dae81 reports that : 4 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@30dae81 reports that : Customer named Eabe is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@30dae81 reports that : Customer named Tuzemo is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@30dae81 reports that : Customer named Foyuheqo is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@30dae81 reports that : Customer named Roxoxawi is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $66 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 12.
+Ernie the Cashier arrived at the store on Day 12.
+The cash register currently has $932.68.
+Gonger the Baker has arrived on day 12
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@1b2c6ec2 reports that : 3 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@1b2c6ec2 reports that : Customer named Ear is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@1b2c6ec2 reports that : Customer named Yizo is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@1b2c6ec2 reports that : Customer named Mosenah is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $72 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 13.
+Ernie the Cashier arrived at the store on Day 13.
+The cash register currently has $926.56.
+Gonger the Baker has arrived on day 13
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@4edde6e5 reports that : 5 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@4edde6e5 reports that : Customer named Gaso is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@4edde6e5 reports that : Customer named Eaqufag is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@4edde6e5 reports that : Customer named Wifuba is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@4edde6e5 reports that : Customer named Yuqedu is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@4edde6e5 reports that : Customer named Luhaweba is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $78 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 14.
+Burt the Cashier arrived at the store on Day 14.
+The cash register currently has $920.44.
+Gonger the Baker has arrived on day 14
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 3 Risk game(s) at shelf position 6.
+Burt stacked 2 Life game(s) at shelf position 7.
+Burt stacked 3 Magic game(s) at shelf position 8.
+Burt stacked 3 Catan game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@70177ecd reports that : 2 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@70177ecd reports that : Customer named Wuqaq is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@70177ecd reports that : Customer named Covuqi is inspecting the shelves.
+Burt the Cashier checks to see if games need to be restocked...
+Burt the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $84 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 15.
+Ernie the Cashier arrived at the store on Day 15.
+The cash register currently has $914.32.
+Gonger the Baker has arrived on day 15
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
 Ernie stacked 3 Risk game(s) at shelf position 6.
 Ernie stacked 3 Clue game(s) at shelf position 7.
 Ernie stacked 3 Monopoly game(s) at shelf position 8.
@@ -17,1092 +443,475 @@ Ernie stacked 3 Magic game(s) at shelf position 9.
 Ernie stacked 3 Catan game(s) at shelf position 10.
 Ernie stacked 3 Mousetrap game(s) at shelf position 11.
 Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 31 customer(s) visited the store today.
-Store Log : Customer named Towiguea is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Towiguea selected Clue.
-Guy Log : Towiguea bought Clue for $19.00.
-Customer Log : Customer Towiguea did has bought1game(s).
-Store Log : Customer named Difokal is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Difokal selected Pokemon.
-Guy Log : Difokal bought Pokemon for $10.00.
-Customer Log : Customer Difokal selected Netrunner.
-Guy Log : Difokal bought Netrunner for $12.00.
-Customer Log : Customer Difokal selected Risk.
-Guy Log : Difokal bought Risk for $31.50.
-Customer Log : Customer Difokal did has bought3game(s).
-Store Log : Customer named Dife is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Dife selected Candyland.
-Guy Log : Dife bought Candyland for $24.40.
-Customer Log : Customer Dife did has bought1game(s).
-Store Log : Customer named Kini is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Kini selected Candyland.
-Guy Log : Kini bought Candyland for $24.40.
-Customer Log : Customer Kini did has bought1game(s).
-Guy Log : The CashierErnie checks to see if games need to be restocked...
-Guy Log : The CashierErnieclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 1
-Guy Log : Ernie the Cashier arrived at the store on Day 2.
-Guy Log : The cash register currently has $1121.30.
-Guy Log : Vacuuming... 
-An in-stock order of Candyland got damaged while vacuuming!
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@1e80bfe8 reports that : 2 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@1e80bfe8 reports that : Customer named Koyi is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@1e80bfe8 reports that : Customer named Muyocahi is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $90 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 16.
+Ernie the Cashier arrived at the store on Day 16.
+The cash register currently has $908.20.
+Gonger the Baker has arrived on day 16
+Vacuuming... 
 Stacking...
-Ernie stacked 2 Pokemon game(s) at shelf position 1.
-Ernie stacked 2 Netrunner game(s) at shelf position 2.
-Ernie stacked 0 Candyland game(s) at shelf position 3.
-Ernie stacked 3 Four game(s) at shelf position 4.
-Ernie stacked 3 Life game(s) at shelf position 5.
-Ernie stacked 2 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
 Ernie stacked 3 Monopoly game(s) at shelf position 8.
 Ernie stacked 3 Magic game(s) at shelf position 9.
 Ernie stacked 3 Catan game(s) at shelf position 10.
 Ernie stacked 3 Mousetrap game(s) at shelf position 11.
 Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 01 customer(s) visited the store today.
-Store Log : Customer named Cavac is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Cavac selected Netrunner.
-Guy Log : Cavac bought Netrunner for $12.00.
-Customer Log : Customer Cavac did has bought1game(s).
-Guy Log : The CashierErnie checks to see if games need to be restocked...
-Guy Log : The CashierErnieclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 2
-Guy Log : Burt the Cashier arrived at the store on Day 3.
-Guy Log : Three new orders of Candyland have arrived.
-Guy Log : The cash register currently has $1096.30.
-Guy Log : Vacuuming... 
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@66a29884 reports that : 4 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@66a29884 reports that : Customer named Pen is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@66a29884 reports that : Customer named Qatekar is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@66a29884 reports that : Customer named Dex is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@66a29884 reports that : Customer named Coyebuh is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $96 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 17.
+Burt the Cashier arrived at the store on Day 17.
+The cash register currently has $902.08.
+Gonger the Baker has arrived on day 17
+Vacuuming... 
 Stacking...
 Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Four game(s) at shelf position 2.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
 Burt stacked 3 Mousetrap game(s) at shelf position 3.
 Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 2 Risk game(s) at shelf position 6.
-Burt stacked 3 Life game(s) at shelf position 7.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 3 Risk game(s) at shelf position 6.
+Burt stacked 2 Life game(s) at shelf position 7.
 Burt stacked 3 Catan game(s) at shelf position 8.
 Burt stacked 3 Magic game(s) at shelf position 9.
 Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 31 customer(s) visited the store today.
-Store Log : Customer named Fepu is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Fepu selected Mousetrap.
-Guy Log : Fepu bought Mousetrap for $24.90.
-Customer Log : Customer Fepu selected Risk.
-Guy Log : Fepu bought Risk for $31.50.
-Customer Log : Customer Fepu did has bought2game(s).
-Store Log : Customer named Kotu is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Kotu did has bought0game(s).
-Store Log : Customer named Bimiyero is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Bimiyero selected Catan.
-Guy Log : Bimiyero bought Catan for $41.90.
-Customer Log : Customer Bimiyero did has bought1game(s).
-Store Log : Customer named Papoq is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Papoq selected Monopoly.
-Guy Log : Papoq bought Monopoly for $28.00.
-Customer Log : Customer Papoq selected Candyland.
-Guy Log : Papoq bought Candyland for $24.40.
-Customer Log : Customer Papoq selected Life.
-Guy Log : Papoq bought Life for $20.00.
-Customer Log : Customer Papoq did has bought3game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 3
-Guy Log : Burt the Cashier arrived at the store on Day 4.
-Guy Log : The cash register currently has $1267.00.
-Guy Log : Vacuuming... 
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@4769b07b reports that : 2 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@4769b07b reports that : Customer named Veeo is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@4769b07b reports that : Customer named Bihata is inspecting the shelves.
+Burt the Cashier checks to see if games need to be restocked...
+Burt the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $102 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 18.
+Ernie the Cashier arrived at the store on Day 18.
+The cash register currently has $895.96.
+Gonger the Baker has arrived on day 18
+Vacuuming... 
 Stacking...
-Burt stacked 2 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
-Burt stacked 2 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 2 Life game(s) at shelf position 6.
-Burt stacked 1 Risk game(s) at shelf position 7.
-Burt stacked 3 Magic game(s) at shelf position 8.
-Burt stacked 2 Catan game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 01 customer(s) visited the store today.
-Store Log : Customer named Repi is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Repi selected Candyland.
-Guy Log : Repi bought Candyland for $24.40.
-Customer Log : Customer Repi did has bought1game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 4
-Guy Log : Burt the Cashier arrived at the store on Day 5.
-Guy Log : The cash register currently has $1291.40.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 2 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
-Burt stacked 1 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 1 Risk game(s) at shelf position 6.
-Burt stacked 2 Life game(s) at shelf position 7.
-Burt stacked 2 Catan game(s) at shelf position 8.
-Burt stacked 3 Magic game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 01 customer(s) visited the store today.
-Store Log : Customer named Puye is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Puye selected Candyland.
-Guy Log : Puye bought Candyland for $24.40.
-Customer Log : Customer Puye did has bought1game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 5
-Guy Log : Burt the Cashier arrived at the store on Day 6.
-Guy Log : Three new orders of Candyland have arrived.
-Guy Log : The cash register currently has $1278.80.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 2 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 2 Life game(s) at shelf position 6.
-Burt stacked 1 Risk game(s) at shelf position 7.
-Burt stacked 3 Magic game(s) at shelf position 8.
-Burt stacked 2 Catan game(s) at shelf position 9.
-Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 11 customer(s) visited the store today.
-Store Log : Customer named Bugi is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Bugi selected Monopoly.
-Guy Log : Bugi bought Monopoly for $28.00.
-Customer Log : Customer Bugi selected Mousetrap.
-Guy Log : Bugi bought Mousetrap for $24.90.
-Customer Log : Customer Bugi did has bought2game(s).
-Store Log : Customer named Sep is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Sep selected Four.
-Guy Log : Sep bought Four for $12.00.
-Customer Log : Customer Sep did has bought1game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 6
-Guy Log : Ernie the Cashier arrived at the store on Day 7.
-Guy Log : The cash register currently has $1343.70.
-Guy Log : Vacuuming... 
-Stacking...
-Ernie stacked 2 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
 Ernie stacked 3 Candyland game(s) at shelf position 3.
-Ernie stacked 2 Four game(s) at shelf position 4.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
 Ernie stacked 2 Life game(s) at shelf position 5.
-Ernie stacked 1 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
-Ernie stacked 1 Monopoly game(s) at shelf position 8.
-Ernie stacked 3 Magic game(s) at shelf position 9.
-Ernie stacked 2 Catan game(s) at shelf position 10.
-Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
 Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 21 customer(s) visited the store today.
-Store Log : Customer named Fiqal is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Fiqal did has bought0game(s).
-Store Log : Customer named Eifoxe is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Eifoxe selected Risk.
-Guy Log : Eifoxe bought Risk for $31.50.
-Customer Log : Customer Eifoxe did has bought1game(s).
-Store Log : Customer named Yokip is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Yokip selected Pokemon.
-Guy Log : Yokip bought Pokemon for $10.00.
-Customer Log : Customer Yokip did has bought1game(s).
-Guy Log : The CashierErnie checks to see if games need to be restocked...
-Guy Log : The CashierErnieclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 7
-Guy Log : Burt the Cashier arrived at the store on Day 8.
-Guy Log : Three new orders of Risk have arrived.
-Guy Log : The cash register currently has $1338.20.
-Guy Log : Vacuuming... 
-An in-stock order of Four got damaged while vacuuming!
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@cc34f4d reports that : 2 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@cc34f4d reports that : Customer named Birehug is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@cc34f4d reports that : Customer named Koqat is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $108 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 19.
+Ernie the Cashier arrived at the store on Day 19.
+The cash register currently has $889.84.
+Gonger the Baker has arrived on day 19
+Vacuuming... 
 Stacking...
-Burt stacked 1 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Four game(s) at shelf position 2.
-Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@17a7cec2 reports that : 4 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@17a7cec2 reports that : Customer named Cum is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@17a7cec2 reports that : Customer named Romareta is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@17a7cec2 reports that : Customer named Mepitof is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@17a7cec2 reports that : Customer named Xefi is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $114 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 20.
+Ernie the Cashier arrived at the store on Day 20.
+The cash register currently has $883.72.
+Gonger the Baker has arrived on day 20
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@65b3120a reports that : 3 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@65b3120a reports that : Customer named Zicadibu is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@65b3120a reports that : Customer named Selo is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@65b3120a reports that : Customer named Pix is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $120 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 21.
+Burt the Cashier arrived at the store on Day 21.
+The cash register currently has $877.60.
+Gonger the Baker has arrived on day 21
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
 Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
+Burt stacked 3 Clue game(s) at shelf position 5.
 Burt stacked 3 Risk game(s) at shelf position 6.
 Burt stacked 2 Life game(s) at shelf position 7.
-Burt stacked 2 Catan game(s) at shelf position 8.
+Burt stacked 3 Magic game(s) at shelf position 8.
+Burt stacked 3 Catan game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@6f539caf reports that : 5 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@6f539caf reports that : Customer named Baxokega is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@6f539caf reports that : Customer named Novo is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@6f539caf reports that : Customer named Wiyevudi is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@6f539caf reports that : Customer named Eukifus is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@6f539caf reports that : Customer named Xawavue is inspecting the shelves.
+Burt the Cashier checks to see if games need to be restocked...
+Burt the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $126 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 22.
+Burt the Cashier arrived at the store on Day 22.
+The cash register currently has $871.48.
+Gonger the Baker has arrived on day 22
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 2 Life game(s) at shelf position 6.
+Burt stacked 3 Risk game(s) at shelf position 7.
+Burt stacked 3 Catan game(s) at shelf position 8.
 Burt stacked 3 Magic game(s) at shelf position 9.
 Burt stacked 3 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 1 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 21 customer(s) visited the store today.
-Store Log : Customer named Rulur is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Rulur selected Catan.
-Guy Log : Rulur bought Catan for $41.90.
-Customer Log : Customer Rulur did has bought1game(s).
-Store Log : Customer named Lewilu is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Lewilu did has bought0game(s).
-Store Log : Customer named Tagoyil is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Tagoyil did has bought0game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 8
-Guy Log : Burt the Cashier arrived at the store on Day 9.
-Guy Log : The cash register currently has $1380.10.
-Guy Log : Vacuuming... 
-An in-stock order of Gloomhaven got damaged while vacuuming!
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@79fc0f2f reports that : 1 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@79fc0f2f reports that : Customer named Lufir is inspecting the shelves.
+Burt the Cashier checks to see if games need to be restocked...
+Burt the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $132 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 23.
+Ernie the Cashier arrived at the store on Day 23.
+The cash register currently has $865.36.
+Gonger the Baker has arrived on day 23
+Vacuuming... 
 Stacking...
-Burt stacked 1 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Four game(s) at shelf position 2.
-Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Catan game(s) at shelf position 9.
+Ernie stacked 3 Magic game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@50040f0c reports that : 2 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@50040f0c reports that : Customer named Hukosexa is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@50040f0c reports that : Customer named Rah is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $138 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 24.
+Burt the Cashier arrived at the store on Day 24.
+The cash register currently has $859.24.
+Gonger the Baker has arrived on day 24
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
 Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 3 Risk game(s) at shelf position 6.
+Burt stacked 2 Life game(s) at shelf position 7.
+Burt stacked 3 Magic game(s) at shelf position 8.
+Burt stacked 3 Catan game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@2dda6444 reports that : 4 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@2dda6444 reports that : Customer named Xilipef is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@2dda6444 reports that : Customer named Bowikabe is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@2dda6444 reports that : Customer named Xed is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@2dda6444 reports that : Customer named Wuy is inspecting the shelves.
+Burt the Cashier checks to see if games need to be restocked...
+Burt the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $144 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 25.
+Ernie the Cashier arrived at the store on Day 25.
+The cash register currently has $853.12.
+Gonger the Baker has arrived on day 25
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@5e9f23b4 reports that : 2 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@5e9f23b4 reports that : Customer named Lilig is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@5e9f23b4 reports that : Customer named Kahos is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $150 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 26.
+Ernie the Cashier arrived at the store on Day 26.
+The cash register currently has $847.00.
+Gonger the Baker has arrived on day 26
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@4783da3f reports that : 2 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@4783da3f reports that : Customer named Gituye is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@4783da3f reports that : Customer named Faeedifu is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $156 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 27.
+Ernie the Cashier arrived at the store on Day 27.
+The cash register currently has $840.88.
+Gonger the Baker has arrived on day 27
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@378fd1ac reports that : 3 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@378fd1ac reports that : Customer named Nibewi is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@378fd1ac reports that : Customer named Nekeda is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@378fd1ac reports that : Customer named Duy is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $162 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 28.
+Ernie the Cashier arrived at the store on Day 28.
+The cash register currently has $834.76.
+Gonger the Baker has arrived on day 28
+Vacuuming... 
+Stacking...
+Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Ernie stacked 3 Candyland game(s) at shelf position 3.
+Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Ernie stacked 2 Life game(s) at shelf position 5.
+Ernie stacked 3 Risk game(s) at shelf position 6.
+Ernie stacked 3 Clue game(s) at shelf position 7.
+Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Ernie stacked 3 Magic game(s) at shelf position 9.
+Ernie stacked 3 Catan game(s) at shelf position 10.
+Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@49097b5d reports that : 3 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@49097b5d reports that : Customer named Yaraguf is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@49097b5d reports that : Customer named Terur is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@49097b5d reports that : Customer named Rev is inspecting the shelves.
+Ernie the Cashier checks to see if games need to be restocked...
+Ernie the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $168 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 29.
+Burt the Cashier arrived at the store on Day 29.
+The cash register currently has $828.64.
+Gonger the Baker has arrived on day 29
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
+Burt stacked 3 Risk game(s) at shelf position 6.
+Burt stacked 2 Life game(s) at shelf position 7.
+Burt stacked 3 Catan game(s) at shelf position 8.
+Burt stacked 3 Magic game(s) at shelf position 9.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Netrunner game(s) at shelf position 11.
+Burt stacked 3 Pokemon game(s) at shelf position 12.
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@6e2c634b reports that : 2 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@6e2c634b reports that : Customer named Dufa is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@6e2c634b reports that : Customer named Gidipeve is inspecting the shelves.
+Burt the Cashier checks to see if games need to be restocked...
+Burt the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $174 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+Guy has arrived on day 30.
+Burt the Cashier arrived at the store on Day 30.
+The cash register currently has $822.52.
+Gonger the Baker has arrived on day 30
+Vacuuming... 
+Stacking...
+Burt stacked 3 Monopoly game(s) at shelf position 1.
+Burt stacked 3 Connect Four game(s) at shelf position 2.
+Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Burt stacked 3 Candyland game(s) at shelf position 4.
+Burt stacked 3 Clue game(s) at shelf position 5.
 Burt stacked 2 Life game(s) at shelf position 6.
 Burt stacked 3 Risk game(s) at shelf position 7.
 Burt stacked 3 Magic game(s) at shelf position 8.
-Burt stacked 1 Catan game(s) at shelf position 9.
-Burt stacked 2 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 1 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 31 customer(s) visited the store today.
-Store Log : Customer named Lufako is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Lufako selected Catan.
-Guy Log : Lufako bought Catan for $41.90.
-Customer Log : Customer Lufako did has bought1game(s).
-Store Log : Customer named Dagoci is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Dagoci did has bought0game(s).
-Store Log : Customer named Damudoro is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Damudoro selected Risk.
-Guy Log : Damudoro bought Risk for $31.50.
-Customer Log : Customer Damudoro did has bought1game(s).
-Store Log : Customer named Gasuv is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Gasuv did has bought0game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 9
-Guy Log : Ernie the Cashier arrived at the store on Day 10.
-Guy Log : Three new orders of Catan have arrived.
-Guy Log : The cash register currently has $1390.50.
-Guy Log : Vacuuming... 
-Stacking...
-Ernie stacked 1 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
-Ernie stacked 3 Candyland game(s) at shelf position 3.
-Ernie stacked 1 Four game(s) at shelf position 4.
-Ernie stacked 2 Life game(s) at shelf position 5.
-Ernie stacked 2 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
-Ernie stacked 1 Monopoly game(s) at shelf position 8.
-Ernie stacked 3 Magic game(s) at shelf position 9.
-Ernie stacked 3 Catan game(s) at shelf position 10.
-Ernie stacked 1 Mousetrap game(s) at shelf position 11.
-Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 11 customer(s) visited the store today.
-Store Log : Customer named Sebulewu is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Sebulewu did has bought0game(s).
-Store Log : Customer named Geqieebu is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Geqieebu selected Pokemon.
-Guy Log : Geqieebu bought Pokemon for $10.00.
-Customer Log : Customer Geqieebu did has bought1game(s).
-Guy Log : The CashierErnie checks to see if games need to be restocked...
-Guy Log : The CashierErnieclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 10
-Guy Log : Burt the Cashier arrived at the store on Day 11.
-Guy Log : Three new orders of Pokemon have arrived.
-Guy Log : The cash register currently has $1385.50.
-Guy Log : Vacuuming... 
-An in-stock order of Life got damaged while vacuuming!
-Stacking...
-Burt stacked 1 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Four game(s) at shelf position 2.
-Burt stacked 1 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 2 Risk game(s) at shelf position 6.
-Burt stacked 1 Life game(s) at shelf position 7.
-Burt stacked 3 Catan game(s) at shelf position 8.
-Burt stacked 3 Magic game(s) at shelf position 9.
-Burt stacked 2 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 01 customer(s) visited the store today.
-Store Log : Customer named Cubi is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Cubi did has bought0game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 11
-Guy Log : Ernie the Cashier arrived at the store on Day 12.
-Guy Log : The cash register currently has $1385.50.
-Guy Log : Vacuuming... 
-Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
-Ernie stacked 3 Candyland game(s) at shelf position 3.
-Ernie stacked 1 Four game(s) at shelf position 4.
-Ernie stacked 1 Life game(s) at shelf position 5.
-Ernie stacked 2 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
-Ernie stacked 1 Monopoly game(s) at shelf position 8.
-Ernie stacked 3 Catan game(s) at shelf position 9.
-Ernie stacked 3 Magic game(s) at shelf position 10.
-Ernie stacked 1 Mousetrap game(s) at shelf position 11.
-Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 21 customer(s) visited the store today.
-Store Log : Customer named Wacinu is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Wacinu did has bought0game(s).
-Store Log : Customer named Kuwiqux is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Kuwiqux did has bought0game(s).
-Store Log : Customer named Getonoy is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Getonoy did has bought0game(s).
-Guy Log : The CashierErnie checks to see if games need to be restocked...
-Guy Log : The CashierErnieclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 12
-Guy Log : Burt the Cashier arrived at the store on Day 13.
-Guy Log : The cash register currently has $1385.50.
-Guy Log : Vacuuming... 
-An in-stock order of Magic got damaged while vacuuming!
-Stacking...
-Burt stacked 1 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Four game(s) at shelf position 2.
-Burt stacked 1 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 2 Risk game(s) at shelf position 6.
-Burt stacked 1 Life game(s) at shelf position 7.
-Burt stacked 2 Magic game(s) at shelf position 8.
 Burt stacked 3 Catan game(s) at shelf position 9.
-Burt stacked 2 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 31 customer(s) visited the store today.
-Store Log : Customer named Wodumee is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Wodumee selected Mousetrap.
-Guy Log : Wodumee bought Mousetrap for $24.90.
-Customer Log : Customer Wodumee selected Candyland.
-Guy Log : Wodumee bought Candyland for $24.40.
-Customer Log : Customer Wodumee selected Clue.
-Guy Log : Wodumee bought Clue for $19.00.
-Customer Log : Customer Wodumee did has bought3game(s).
-Store Log : Customer named Tasizur is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Tasizur selected Four.
-Guy Log : Tasizur bought Four for $12.00.
-Customer Log : Customer Tasizur selected Clue.
-Guy Log : Tasizur bought Clue for $19.00.
-Customer Log : Customer Tasizur selected Magic.
-Guy Log : Tasizur bought Magic for $39.88.
-Customer Log : Customer Tasizur did has bought3game(s).
-Store Log : Customer named Nixoco is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Nixoco selected Candyland.
-Guy Log : Nixoco bought Candyland for $24.40.
-Customer Log : Customer Nixoco did has bought1game(s).
-Store Log : Customer named Fipinoh is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Fipinoh selected Monopoly.
-Guy Log : Fipinoh bought Monopoly for $28.00.
-Customer Log : Customer Fipinoh selected Risk.
-Guy Log : Fipinoh bought Risk for $31.50.
-Customer Log : Customer Fipinoh did has bought2game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 13
-Guy Log : Ernie the Cashier arrived at the store on Day 14.
-Guy Log : Three new orders of Monopoly have arrived.
-Guy Log : Three new orders of Four have arrived.
-Guy Log : Three new orders of Mousetrap have arrived.
-Guy Log : Three new orders of Clue have arrived.
-Guy Log : The cash register currently has $1482.58.
-Guy Log : Vacuuming... 
-An in-stock order of Candyland got damaged while vacuuming!
-Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
-Ernie stacked 0 Candyland game(s) at shelf position 3.
-Ernie stacked 3 Four game(s) at shelf position 4.
-Ernie stacked 1 Life game(s) at shelf position 5.
-Ernie stacked 1 Risk game(s) at shelf position 6.
-Ernie stacked 3 Clue game(s) at shelf position 7.
-Ernie stacked 3 Monopoly game(s) at shelf position 8.
-Ernie stacked 1 Magic game(s) at shelf position 9.
-Ernie stacked 3 Catan game(s) at shelf position 10.
-Ernie stacked 3 Mousetrap game(s) at shelf position 11.
-Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 11 customer(s) visited the store today.
-Store Log : Customer named Roeomeba is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Roeomeba did has bought0game(s).
-Store Log : Customer named Yoq is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Yoq did has bought0game(s).
-Guy Log : The CashierErnie checks to see if games need to be restocked...
-Guy Log : The CashierErnieclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 14
-Guy Log : Burt the Cashier arrived at the store on Day 15.
-Guy Log : Three new orders of Candyland have arrived.
-Guy Log : The cash register currently has $1445.58.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 3 Clue game(s) at shelf position 5.
-Burt stacked 1 Risk game(s) at shelf position 6.
-Burt stacked 1 Life game(s) at shelf position 7.
-Burt stacked 3 Catan game(s) at shelf position 8.
-Burt stacked 1 Magic game(s) at shelf position 9.
-Burt stacked 2 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 21 customer(s) visited the store today.
-Store Log : Customer named Fomake is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Fomake selected Life.
-Guy Log : Fomake bought Life for $20.00.
-Customer Log : Customer Fomake did has bought1game(s).
-Store Log : Customer named Ruqa is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Ruqa did has bought0game(s).
-Store Log : Customer named Zoditof is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Zoditof selected Gloomhaven.
-Guy Log : Zoditof bought Gloomhaven for $50.00.
-Customer Log : Customer Zoditof did has bought1game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 15
-Guy Log : Burt the Cashier arrived at the store on Day 16.
-Guy Log : Three new orders of Life have arrived.
-Guy Log : The cash register currently has $1485.58.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 3 Clue game(s) at shelf position 5.
-Burt stacked 3 Life game(s) at shelf position 6.
-Burt stacked 1 Risk game(s) at shelf position 7.
-Burt stacked 1 Magic game(s) at shelf position 8.
-Burt stacked 3 Catan game(s) at shelf position 9.
-Burt stacked 1 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 21 customer(s) visited the store today.
-Store Log : Customer named Vesom is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Vesom did has bought0game(s).
-Store Log : Customer named Yove is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Yove did has bought0game(s).
-Store Log : Customer named Eohozera is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Eohozera did has bought0game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 16
-Guy Log : Burt the Cashier arrived at the store on Day 17.
-Guy Log : The cash register currently has $1485.58.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 3 Clue game(s) at shelf position 5.
-Burt stacked 1 Risk game(s) at shelf position 6.
-Burt stacked 3 Life game(s) at shelf position 7.
-Burt stacked 3 Catan game(s) at shelf position 8.
-Burt stacked 1 Magic game(s) at shelf position 9.
-Burt stacked 1 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 31 customer(s) visited the store today.
-Store Log : Customer named Qoheva is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Qoheva selected Monopoly.
-Guy Log : Qoheva bought Monopoly for $28.00.
-Customer Log : Customer Qoheva selected Mousetrap.
-Guy Log : Qoheva bought Mousetrap for $24.90.
-Customer Log : Customer Qoheva did has bought2game(s).
-Store Log : Customer named Tawufo is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Tawufo selected Four.
-Guy Log : Tawufo bought Four for $12.00.
-Customer Log : Customer Tawufo did has bought1game(s).
-Store Log : Customer named Xepo is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Xepo selected Catan.
-Guy Log : Xepo bought Catan for $41.90.
-Customer Log : Customer Xepo did has bought1game(s).
-Store Log : Customer named Gue is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Gue selected Clue.
-Guy Log : Gue bought Clue for $19.00.
-Customer Log : Customer Gue did has bought1game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 17
-Guy Log : Ernie the Cashier arrived at the store on Day 18.
-Guy Log : The cash register currently has $1611.38.
-Guy Log : Vacuuming... 
-Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
-Ernie stacked 3 Candyland game(s) at shelf position 3.
-Ernie stacked 2 Four game(s) at shelf position 4.
-Ernie stacked 3 Life game(s) at shelf position 5.
-Ernie stacked 1 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
-Ernie stacked 2 Monopoly game(s) at shelf position 8.
-Ernie stacked 2 Catan game(s) at shelf position 9.
-Ernie stacked 1 Magic game(s) at shelf position 10.
-Ernie stacked 2 Mousetrap game(s) at shelf position 11.
-Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 11 customer(s) visited the store today.
-Store Log : Customer named Vedikis is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Vedikis selected Netrunner.
-Guy Log : Vedikis bought Netrunner for $12.00.
-Customer Log : Customer Vedikis selected Life.
-Guy Log : Vedikis bought Life for $20.00.
-Customer Log : Customer Vedikis did has bought2game(s).
-Store Log : Customer named Zedafa is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Zedafa selected Candyland.
-Guy Log : Zedafa bought Candyland for $24.40.
-Customer Log : Customer Zedafa selected Life.
-Guy Log : Zedafa bought Life for $20.00.
-Customer Log : Customer Zedafa selected Monopoly.
-Guy Log : Zedafa bought Monopoly for $28.00.
-Customer Log : Customer Zedafa did has bought3game(s).
-Guy Log : The CashierErnie checks to see if games need to be restocked...
-Guy Log : The CashierErnieclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 18
-Guy Log : Burt the Cashier arrived at the store on Day 19.
-Guy Log : Three new orders of Netrunner have arrived.
-Guy Log : The cash register currently has $1697.78.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 1 Monopoly game(s) at shelf position 1.
-Burt stacked 2 Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
-Burt stacked 2 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 1 Risk game(s) at shelf position 6.
-Burt stacked 1 Life game(s) at shelf position 7.
-Burt stacked 1 Magic game(s) at shelf position 8.
-Burt stacked 2 Catan game(s) at shelf position 9.
-Burt stacked 1 Gloomhaven game(s) at shelf position 10.
+Burt stacked 3 Gloomhaven game(s) at shelf position 10.
 Burt stacked 3 Netrunner game(s) at shelf position 11.
 Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 11 customer(s) visited the store today.
-Store Log : Customer named Tivavov is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Tivavov did has bought0game(s).
-Store Log : Customer named Mine is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Mine selected Four.
-Guy Log : Mine bought Four for $12.00.
-Customer Log : Customer Mine did has bought1game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 19
-Guy Log : Burt the Cashier arrived at the store on Day 20.
-Guy Log : The cash register currently has $1709.78.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 1 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
-Burt stacked 2 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 1 Life game(s) at shelf position 6.
-Burt stacked 1 Risk game(s) at shelf position 7.
-Burt stacked 2 Catan game(s) at shelf position 8.
-Burt stacked 1 Magic game(s) at shelf position 9.
-Burt stacked 1 Gloomhaven game(s) at shelf position 10.
-Burt stacked 3 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 31 customer(s) visited the store today.
-Store Log : Customer named Xezuw is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Xezuw selected Four.
-Guy Log : Xezuw bought Four for $12.00.
-Customer Log : Customer Xezuw did has bought1game(s).
-Store Log : Customer named Pis is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Pis selected Monopoly.
-Guy Log : Pis bought Monopoly for $28.00.
-Customer Log : Customer Pis did has bought1game(s).
-Store Log : Customer named Eewueapi is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Eewueapi selected Risk.
-Guy Log : Eewueapi bought Risk for $31.50.
-Customer Log : Customer Eewueapi did has bought1game(s).
-Store Log : Customer named Xilideq is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Xilideq did has bought0game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 20
-Guy Log : Burt the Cashier arrived at the store on Day 21.
-Guy Log : Three new orders of Monopoly have arrived.
-Guy Log : Three new orders of Four have arrived.
-Guy Log : Three new orders of Risk have arrived.
-Guy Log : The cash register currently has $1674.28.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
-Burt stacked 2 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 3 Risk game(s) at shelf position 6.
-Burt stacked 1 Life game(s) at shelf position 7.
-Burt stacked 1 Magic game(s) at shelf position 8.
-Burt stacked 2 Catan game(s) at shelf position 9.
-Burt stacked 1 Gloomhaven game(s) at shelf position 10.
-Burt stacked 3 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 31 customer(s) visited the store today.
-Store Log : Customer named Xaxiy is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Xaxiy did has bought0game(s).
-Store Log : Customer named Qog is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Qog selected Monopoly.
-Guy Log : Qog bought Monopoly for $28.00.
-Customer Log : Customer Qog did has bought1game(s).
-Store Log : Customer named Gulazafu is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Gulazafu selected Magic.
-Guy Log : Gulazafu bought Magic for $39.88.
-Customer Log : Customer Gulazafu did has bought1game(s).
-Store Log : Customer named Wifizane is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Wifizane selected Risk.
-Guy Log : Wifizane bought Risk for $31.50.
-Customer Log : Customer Wifizane selected Catan.
-Guy Log : Wifizane bought Catan for $41.90.
-Customer Log : Customer Wifizane did has bought2game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 21
-Guy Log : Burt the Cashier arrived at the store on Day 22.
-Guy Log : Three new orders of Magic have arrived.
-Guy Log : The cash register currently has $1755.56.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 2 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Four game(s) at shelf position 2.
-Burt stacked 2 Mousetrap game(s) at shelf position 3.
-Burt stacked 2 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 1 Life game(s) at shelf position 6.
-Burt stacked 2 Risk game(s) at shelf position 7.
-Burt stacked 1 Catan game(s) at shelf position 8.
-Burt stacked 3 Magic game(s) at shelf position 9.
-Burt stacked 1 Gloomhaven game(s) at shelf position 10.
-Burt stacked 3 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 31 customer(s) visited the store today.
-Store Log : Customer named Tewafo is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Tewafo did has bought0game(s).
-Store Log : Customer named Fohof is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Fohof did has bought0game(s).
-Store Log : Customer named Cihine is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Cihine selected Mousetrap.
-Guy Log : Cihine bought Mousetrap for $24.90.
-Customer Log : Customer Cihine did has bought1game(s).
-Store Log : Customer named Mic is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Mic did has bought0game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 22
-Guy Log : Ernie the Cashier arrived at the store on Day 23.
-Guy Log : The cash register currently has $1780.46.
-Guy Log : Vacuuming... 
-Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1.
-Ernie stacked 3 Netrunner game(s) at shelf position 2.
-Ernie stacked 2 Candyland game(s) at shelf position 3.
-Ernie stacked 3 Four game(s) at shelf position 4.
-Ernie stacked 1 Life game(s) at shelf position 5.
-Ernie stacked 2 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
-Ernie stacked 2 Monopoly game(s) at shelf position 8.
-Ernie stacked 1 Catan game(s) at shelf position 9.
-Ernie stacked 3 Magic game(s) at shelf position 10.
-Ernie stacked 1 Mousetrap game(s) at shelf position 11.
-Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 31 customer(s) visited the store today.
-Store Log : Customer named Hepu is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Hepu did has bought0game(s).
-Store Log : Customer named Laceq is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Laceq did has bought0game(s).
-Store Log : Customer named Dolo is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Dolo did has bought0game(s).
-Store Log : Customer named Fesop is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Fesop selected Four.
-Guy Log : Fesop bought Four for $12.00.
-Customer Log : Customer Fesop did has bought1game(s).
-Guy Log : The CashierErnie checks to see if games need to be restocked...
-Guy Log : The CashierErnieclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 23
-Guy Log : Burt the Cashier arrived at the store on Day 24.
-Guy Log : The cash register currently has $1792.46.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 2 Monopoly game(s) at shelf position 1.
-Burt stacked 2 Four game(s) at shelf position 2.
-Burt stacked 1 Mousetrap game(s) at shelf position 3.
-Burt stacked 2 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 2 Risk game(s) at shelf position 6.
-Burt stacked 1 Life game(s) at shelf position 7.
-Burt stacked 3 Magic game(s) at shelf position 8.
-Burt stacked 1 Catan game(s) at shelf position 9.
-Burt stacked 1 Gloomhaven game(s) at shelf position 10.
-Burt stacked 3 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 11 customer(s) visited the store today.
-Store Log : Customer named Yiq is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Yiq selected Four.
-Guy Log : Yiq bought Four for $12.00.
-Customer Log : Customer Yiq selected Candyland.
-Guy Log : Yiq bought Candyland for $24.40.
-Customer Log : Customer Yiq did has bought2game(s).
-Store Log : Customer named Fucubut is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Fucubut selected Four.
-Guy Log : Fucubut bought Four for $12.00.
-Customer Log : Customer Fucubut selected Risk.
-Guy Log : Fucubut bought Risk for $31.50.
-Customer Log : Customer Fucubut did has bought2game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 24
-Guy Log : Burt the Cashier arrived at the store on Day 25.
-Guy Log : Three new orders of Four have arrived.
-Guy Log : The cash register currently has $1854.36.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 2 Monopoly game(s) at shelf position 1.
-Burt stacked 3 Four game(s) at shelf position 2.
-Burt stacked 1 Mousetrap game(s) at shelf position 3.
-Burt stacked 1 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 1 Life game(s) at shelf position 6.
-Burt stacked 1 Risk game(s) at shelf position 7.
-Burt stacked 1 Catan game(s) at shelf position 8.
-Burt stacked 3 Magic game(s) at shelf position 9.
-Burt stacked 1 Gloomhaven game(s) at shelf position 10.
-Burt stacked 3 Netrunner game(s) at shelf position 11.
-Burt stacked 3 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 11 customer(s) visited the store today.
-Store Log : Customer named Cara is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Cara selected Four.
-Guy Log : Cara bought Four for $12.00.
-Customer Log : Customer Cara did has bought1game(s).
-Store Log : Customer named Yura is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Yura selected Monopoly.
-Guy Log : Yura bought Monopoly for $28.00.
-Customer Log : Customer Yura selected Life.
-Guy Log : Yura bought Life for $20.00.
-Customer Log : Customer Yura did has bought2game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 25
-Guy Log : Ernie the Cashier arrived at the store on Day 26.
-Guy Log : Three new orders of Life have arrived.
-Guy Log : The cash register currently has $1884.36.
-Guy Log : Vacuuming... 
-Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1.
-Ernie stacked 3 Netrunner game(s) at shelf position 2.
-Ernie stacked 1 Candyland game(s) at shelf position 3.
-Ernie stacked 2 Four game(s) at shelf position 4.
-Ernie stacked 3 Life game(s) at shelf position 5.
-Ernie stacked 1 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
-Ernie stacked 1 Monopoly game(s) at shelf position 8.
-Ernie stacked 1 Catan game(s) at shelf position 9.
-Ernie stacked 3 Magic game(s) at shelf position 10.
-Ernie stacked 1 Mousetrap game(s) at shelf position 11.
-Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 11 customer(s) visited the store today.
-Store Log : Customer named Lasef is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Lasef selected Netrunner.
-Guy Log : Lasef bought Netrunner for $12.00.
-Customer Log : Customer Lasef selected Candyland.
-Guy Log : Lasef bought Candyland for $24.40.
-Customer Log : Customer Lasef selected Catan.
-Guy Log : Lasef bought Catan for $41.90.
-Customer Log : Customer Lasef did has bought3game(s).
-Store Log : Customer named Kaf is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Kaf did has bought0game(s).
-Guy Log : The CashierErnie checks to see if games need to be restocked...
-Guy Log : The CashierErnieclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 26
-Guy Log : Ernie the Cashier arrived at the store on Day 27.
-Guy Log : Three new orders of Candyland have arrived.
-Guy Log : Three new orders of Catan have arrived.
-Guy Log : The cash register currently has $1862.66.
-Guy Log : Vacuuming... 
-Stacking...
-Ernie stacked 3 Pokemon game(s) at shelf position 1.
-Ernie stacked 2 Netrunner game(s) at shelf position 2.
-Ernie stacked 3 Candyland game(s) at shelf position 3.
-Ernie stacked 2 Four game(s) at shelf position 4.
-Ernie stacked 3 Life game(s) at shelf position 5.
-Ernie stacked 1 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
-Ernie stacked 1 Monopoly game(s) at shelf position 8.
-Ernie stacked 3 Catan game(s) at shelf position 9.
-Ernie stacked 3 Magic game(s) at shelf position 10.
-Ernie stacked 1 Mousetrap game(s) at shelf position 11.
-Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 31 customer(s) visited the store today.
-Store Log : Customer named Nav is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Nav did has bought0game(s).
-Store Log : Customer named Kurimo is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Kurimo selected Pokemon.
-Guy Log : Kurimo bought Pokemon for $10.00.
-Customer Log : Customer Kurimo selected Netrunner.
-Guy Log : Kurimo bought Netrunner for $12.00.
-Customer Log : Customer Kurimo selected Risk.
-Guy Log : Kurimo bought Risk for $31.50.
-Customer Log : Customer Kurimo did has bought3game(s).
-Store Log : Customer named Guxi is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Guxi did has bought0game(s).
-Store Log : Customer named Rofod is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Rofod did has bought0game(s).
-Guy Log : The CashierErnie checks to see if games need to be restocked...
-Guy Log : The CashierErnieclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 27
-Guy Log : Ernie the Cashier arrived at the store on Day 28.
-Guy Log : Three new orders of Risk have arrived.
-Guy Log : The cash register currently has $1869.16.
-Guy Log : Vacuuming... 
-Stacking...
-Ernie stacked 2 Pokemon game(s) at shelf position 1.
-Ernie stacked 1 Netrunner game(s) at shelf position 2.
-Ernie stacked 3 Candyland game(s) at shelf position 3.
-Ernie stacked 2 Four game(s) at shelf position 4.
-Ernie stacked 3 Life game(s) at shelf position 5.
-Ernie stacked 3 Risk game(s) at shelf position 6.
-Ernie stacked 2 Clue game(s) at shelf position 7.
-Ernie stacked 1 Monopoly game(s) at shelf position 8.
-Ernie stacked 3 Catan game(s) at shelf position 9.
-Ernie stacked 3 Magic game(s) at shelf position 10.
-Ernie stacked 1 Mousetrap game(s) at shelf position 11.
-Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 11 customer(s) visited the store today.
-Store Log : Customer named Gir is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Gir did has bought0game(s).
-Store Log : Customer named Yaqunuv is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Yaqunuv selected Risk.
-Guy Log : Yaqunuv bought Risk for $31.50.
-Customer Log : Customer Yaqunuv selected Monopoly.
-Guy Log : Yaqunuv bought Monopoly for $28.00.
-Customer Log : Customer Yaqunuv did has bought2game(s).
-Guy Log : The CashierErnie checks to see if games need to be restocked...
-Guy Log : The CashierErnieclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 28
-Guy Log : Burt the Cashier arrived at the store on Day 29.
-Guy Log : Three new orders of Monopoly have arrived.
-Guy Log : The cash register currently has $1886.66.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 2 Four game(s) at shelf position 2.
-Burt stacked 1 Mousetrap game(s) at shelf position 3.
-Burt stacked 3 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 2 Risk game(s) at shelf position 6.
-Burt stacked 3 Life game(s) at shelf position 7.
-Burt stacked 3 Magic game(s) at shelf position 8.
-Burt stacked 3 Catan game(s) at shelf position 9.
-Burt stacked 1 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 21 customer(s) visited the store today.
-Store Log : Customer named Fes is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Fes selected Mousetrap.
-Guy Log : Fes bought Mousetrap for $24.90.
-Customer Log : Customer Fes did has bought1game(s).
-Store Log : Customer named Nivesa is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Nivesa selected Four.
-Guy Log : Nivesa bought Four for $12.00.
-Customer Log : Customer Nivesa selected Risk.
-Guy Log : Nivesa bought Risk for $31.50.
-Customer Log : Customer Nivesa did has bought2game(s).
-Store Log : Customer named Batoham is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Batoham selected Candyland.
-Guy Log : Batoham bought Candyland for $24.40.
-Customer Log : Customer Batoham did has bought1game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
-Guy Log : Guy has arrived on day 29
-Guy Log : Burt the Cashier arrived at the store on Day 30.
-Guy Log : Three new orders of Mousetrap have arrived.
-Guy Log : The cash register currently has $1942.46.
-Guy Log : Vacuuming... 
-Stacking...
-Burt stacked 3 Monopoly game(s) at shelf position 1.
-Burt stacked 1 Four game(s) at shelf position 2.
-Burt stacked 3 Mousetrap game(s) at shelf position 3.
-Burt stacked 2 Candyland game(s) at shelf position 4.
-Burt stacked 2 Clue game(s) at shelf position 5.
-Burt stacked 3 Life game(s) at shelf position 6.
-Burt stacked 1 Risk game(s) at shelf position 7.
-Burt stacked 3 Catan game(s) at shelf position 8.
-Burt stacked 3 Magic game(s) at shelf position 9.
-Burt stacked 1 Gloomhaven game(s) at shelf position 10.
-Burt stacked 1 Netrunner game(s) at shelf position 11.
-Burt stacked 2 Pokemon game(s) at shelf position 12.
-Guy Log : The store is open for business.
-Store Log : 31 customer(s) visited the store today.
-Store Log : Customer named Cawu is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Cawu did has bought0game(s).
-Store Log : Customer named Gezox is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Gezox did has bought0game(s).
-Store Log : Customer named Eomadu is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Eomadu did has bought0game(s).
-Store Log : Customer named Dub is inspecting the shelves.
-Customer Log : Customer is trying to buy cookies.
-Customer Log : Customer Dub did has bought0game(s).
-Guy Log : The CashierBurt checks to see if games need to be restocked...
-Guy Log : The CashierBurtclosed the store for the night and went home.
-Guy Log : Guy has left for the day 
------------------------------------
+The store is open for business.
+Cashier com.FLGS.Store.Employees.Cashier@37a71e93 reports that : 2 customer(s) visited the store today.
+Cashier com.FLGS.Store.Employees.Cashier@37a71e93 reports that : Customer named Sirar is inspecting the shelves.
+Cashier com.FLGS.Store.Employees.Cashier@37a71e93 reports that : Customer named Eaz is inspecting the shelves.
+Burt the Cashier checks to see if games need to be restocked...
+Burt the Cashier closed the store for the night and went home.
+Gonger the baker has dropped 1 packages of cookies for $6.12
+Gonger the baker has earned $180 so far!
+Gonger the baker has left for day 
+Guy has left for the day 
+---------------------------------------------
+---------------------------------------------
+Items Sold and Their Generated Revenue: 
 
------------------------------------
-Sold and Their Generated Revenue: 
-
-9 sale(s) of Monopoly occurred, generating $252.00 of revenue.
-10 sale(s) of Four occurred, generating $120.00 of revenue.
-6 sale(s) of Mousetrap occurred, generating $149.40 of revenue.
-11 sale(s) of Candyland occurred, generating $268.40 of revenue.
-4 sale(s) of Clue occurred, generating $76.00 of revenue.
-5 sale(s) of Life occurred, generating $100.00 of revenue.
-11 sale(s) of Risk occurred, generating $346.50 of revenue.
-6 sale(s) of Catan occurred, generating $251.40 of revenue.
-2 sale(s) of Magic occurred, generating $79.76 of revenue.
-1 sale(s) of Gloomhaven occurred, generating $50.00 of revenue.
-5 sale(s) of Netrunner occurred, generating $60.00 of revenue.
-4 sale(s) of Pokemon occurred, generating $40.00 of revenue.
+0 sale(s) of Monopoly occurred, generating $0.00 of revenue.
+0 sale(s) of Connect Four occurred, generating $0.00 of revenue.
+0 sale(s) of Mousetrap occurred, generating $0.00 of revenue.
+0 sale(s) of Candyland occurred, generating $0.00 of revenue.
+0 sale(s) of Clue occurred, generating $0.00 of revenue.
+0 sale(s) of Life occurred, generating $0.00 of revenue.
+0 sale(s) of Risk occurred, generating $0.00 of revenue.
+0 sale(s) of Magic occurred, generating $0.00 of revenue.
+0 sale(s) of Catan occurred, generating $0.00 of revenue.
+0 sale(s) of Gloomhaven occurred, generating $0.00 of revenue.
+0 sale(s) of Netrunner occurred, generating $0.00 of revenue.
+0 sale(s) of Pokemon occurred, generating $0.00 of revenue.

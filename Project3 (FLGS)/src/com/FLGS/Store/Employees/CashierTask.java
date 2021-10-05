@@ -1,6 +1,6 @@
 package com.FLGS.Store.Employees;
 //An example of identity - CashierTasks receives a com.FLGS.Games.Games object from
-//com.FLGS.Store.Customer.buyGame(). It then passes it to com.FLGS.Actions.Sold.doAction() where it
+//com.FLGS.Store.StoreVisitors.Customer.buyGame(). It then passes it to com.FLGS.Actions.Sold.doAction() where it
 //updates the com.FLGS.Games.Games object.
 
 
@@ -33,7 +33,7 @@ public class CashierTask {
         this.sold = new Sold(this.cashier);
 
     }
-    public void arrive(String employeeName, int arriveDay, Wares ware){
+    public void arrive(int arriveDay, Wares ware){
         arrive.announce(arriveDay);
         arrive.doAction(ware);
     }

@@ -25,7 +25,7 @@ public class Vacuum {
         int num=r.nextInt(100);
 
         if(num<=damageRate){
-            Games gameDamaged =dg.damageRandomGame(ware);
+            Games gameDamaged =dg.damageRandomGame(ware.getGames());
             if(gameDamaged!=null){
                 this.cashier.publish("An in-stock order of " +
                         gameDamaged.getGameName() +
