@@ -3,6 +3,7 @@ package com.FLGS.Actions;
 import com.FLGS.Games.Games;
 import com.FLGS.Store.Wares;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class SingleLastStack extends Stack{
@@ -16,11 +17,13 @@ public class SingleLastStack extends Stack{
         moveToLastByInventory(stack,0);
     }
     private void moveToLastByInventory(List<Games> stack,int num){
-        for(int i=0;i<stack.size();){
-            if(stack.get(i).inventory==num){
-                stack.add(stack.get(i));
-                stack.remove(i);
-            }else{i+=1;}
+        List<Games> OneInventoryGames=new ArrayList<>();
+        for(Games g:stack){
+            if(g.inventory==num){
+                OneInventoryGames.add(g);
+            }
         }
+        stack.removeIf(x->x.inventory==num);
+        stack.addAll(OneInventoryGames);
     }
 }

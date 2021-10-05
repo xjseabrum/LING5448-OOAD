@@ -14,7 +14,7 @@ public class EmployeeUtils {
     }
 
     public static Cashier spawnCashier(Announcer announcer){
-        int cashierSelector = RandomUtils.getRandomInt(2)+1;
+        int cashierSelector = RandomUtils.getRandomInt(3)+1;
         Cashier cashier;
 
         if (cashierSelector==1){
