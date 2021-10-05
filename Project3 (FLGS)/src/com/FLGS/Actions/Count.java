@@ -21,7 +21,7 @@ public class Count {
 
     public void doAction(CashRegister register){
         double cash = register.getCash();
-        double moneyAdded = 100;
+        double moneyAdded = 1000;
         if(cash < 100){
             register.cashFairyCounter += 1;
             register.addCash(moneyAdded);
