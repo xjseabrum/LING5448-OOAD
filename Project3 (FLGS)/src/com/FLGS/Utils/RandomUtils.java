@@ -69,17 +69,18 @@ public class RandomUtils {
     public static boolean customerBuysFromShelf(int shelfPos, double probModifier) {
         // We can account for modifications to shelf probability if customer buys a cookie.
 
-        double shelfProbability = 0.8 + (0.02 * shelfPos) + probModifier;
+        double shelfProbability = 0.8 + (0.02 * shelfPos) ;
 
-        double randomNum = getRandomDouble();
-        boolean valid = randomNum<=shelfProbability;
-        return  randomNum>=shelfProbability  && shelfProbability > 0;
+        double randomNum = getRandomDouble() + probModifier;
+//        boolean valid = randomNum<=shelfProbability;
+        return  randomNum>=shelfProbability ;
 
     }
 
     public static int poissonRandom(double mean){
         // code is a direct copy from
         // https://stackoverflow.com/questions/9832919/generate-poisson-arrival-in-java
+        // removed the -1 on the return, because there should at least be 1 customer
 
         double L = Math.exp(-mean);
         int k = 0;
@@ -88,7 +89,7 @@ public class RandomUtils {
             p = p * rand.nextDouble();
             k++;
         } while (p > L);
-        return k - 1;
+        return k;
     }
 
 }

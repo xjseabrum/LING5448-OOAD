@@ -18,7 +18,17 @@ public class Baker extends Employee implements Publisher {
 
 
     public void deliverCookies(CookieJar jar){
+
+        if (!jar.existCookies()){
+            addDeliverPackages();
+        }
+        else {
+            deductDeliverPackages();
+        }
+
         double soldPrice=jar.addDozen(deliverPackages);
+
+
         this.Pocket+=soldPrice;
 
         this.publish(this.getName() + " the baker has dropped "+deliverPackages+" packages of cookies for $"+soldPrice);

@@ -35,24 +35,25 @@ public class CookieMonster implements StoreVisitor {
 
             else {
                 cashier.publish("COOKIEMONSTERALERT!!! Cashier " + cashier.getName() + " reports  : " +
-                        "Cookie monster ");
+                        "Cookie monster has damaged Game : " + damagedGame.getGameName());
             }
         }
     }
 
     private boolean terrorize(CookieJar cookiejar, Cashier cashier){
-        cashier.publish("Customer Log: Cookie Monster has arrived to terrorize!");
+        cashier.publish("COOKIEMONSTERALERT!!! Cashier " + cashier.getName() + " reports  : " +
+                "Cookie Monster has arrived to terrorize!");
 
         if(!cookiejar.existCookies()) {
             cashier.publish("COOKIEMONSTERALERT!!! Cashier " + cashier.getName() + " reports  : " +
-                    "Customer Log: Cookie Monster notices there are no cookies and leaves dejectedly.");
+                    "Cookie Monster notices there are no cookies and leaves dejectedly.");
             return false;
         }
 
         else {
             cookiejar.devour();
             cashier.publish("COOKIEMONSTERALERT!!! Cashier " + cashier.getName() + " reports  : " +
-                    "Customer Log: Cookie Monster has eaten all the cookies!");
+                    "Cookie Monster has eaten all the cookies!");
             return true;
         }
     }
