@@ -108,6 +108,94 @@ public class CustomMinis extends SpecialAdd {
 
 
 ### 3. Strategy
+
+a set of behaviors of cashier is turned into a sets of objects. So, the behaviors of cashierTask is interchangeable, for example, the stack method can be change with HighestFirst or WidestFirst.
+```java
+public class CashierTask {
+    Arrive arrive;
+    Close close;
+    Count count;
+    Open open;
+    Order order;
+    Stack stack;
+    Vacuum vacuum;
+    Sold sold;
+    Cashier cashier;
+
+    public CashierTask(Stack stack, Cashier cashier) {
+        this.cashier = cashier;
+        this.arrive = new Arrive(this.cashier);
+        this.close = new Close(this.cashier);
+        this.count = new Count(this.cashier);
+        this.open = new Open(this.cashier);
+        this.stack = stack;
+        this.vacuum = new Vacuum(this.cashier);
+        this.order = new Order(this.cashier);
+        this.sold = new Sold(this.cashier);
+
+    }
+    public void arrive(int arriveDay, Wares ware){
+        arrive.announce(arriveDay);
+        arrive.doAction(ware);
+    }
+    public void count(CashRegister register){
+        count.announce(register);
+        count.doAction(register);
+    }
+    public void close(){
+        close.announce();
+        close.doAction();
+    }
+    public void open(){
+        open.announce();
+        open.doAction();
+    }
+    public void order(Wares ware,CashRegister register){
+        order.announce();
+        order.doAction(ware,register);
+    }
+    public void stack(Wares ware,String employeeName){
+        stack.announce(this.cashier);
+        stack.doAction(ware);
+        stack.announceStackOrder(ware,employeeName,this.cashier);
+    }
+    public void vacuum(Wares ware,int damageRate){
+        vacuum.announce();
+        vacuum.doAction(damageRate,ware);
+    }
+    public void sold(Games gameSold, String customerName, CashRegister cashRegister){
+        sold.doAction(gameSold,customerName,cashRegister);
+    }
+```
+```java
+public class HighestFirstStack extends Stack{
+
+    public void doAction(Wares ware) {
+        // reference https://stackoverflow.com/questions/33487063/java-8-sort-list-of-objects-by-attribute-without-custom-comparator
+        List<Games> stack = ware.getGames();
+        if(stack != null && !stack.isEmpty()) {
+            stack.sort(Comparator.comparing(a -> a.getBoxHeight()));
+            }
+        }
+    }
+```
+```java
+public class WidestFirstStack extends Stack{
+
+    public void doAction(Wares ware) {
+
+        //reference https://stackoverflow.com/questions/33487063/java-8-sort-list-of-objects-by-attribute-without-custom-comparator
+        List<Games> stack = ware.getGames();
+        if( stack!=null && !stack.isEmpty()) {
+            stack.sort(Comparator.comparing(a -> a.getBoxWidth()));
+            Collections.reverse(stack);
+
+        }
+
+    }
+}
+```
+
 The following helper class (Deco) helps to assign the correct decorator given the game that is inputted.  This is just one of the ways Strategy is used in the project (the other main examples can be found in: RandomUtils, StoreUtils, EmployeeUtils, PublishUtils).  Coincidentally, Deco is also a Simple Factory.
 ```java
 
