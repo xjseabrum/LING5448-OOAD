@@ -54,9 +54,9 @@ public class CashierTask {
         order.doAction(ware,register);
     }
     public void stack(Wares ware,String employeeName){
-        stack.announce();
+        stack.announce(this.cashier);
         stack.doAction(ware);
-        stack.announceStackOrder(ware,employeeName);
+        stack.announceStackOrder(ware,employeeName,this.cashier);
     }
     public void vacuum(Wares ware,int damageRate){
         vacuum.announce();
