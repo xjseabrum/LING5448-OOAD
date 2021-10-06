@@ -1,0 +1,2032 @@
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 1.
+Guy says: Burt the Cashier arrived at the store on Day 1.
+Guy says: The cash register currently has $0.00.
+Guy says: The Cash Fairy graciously and magically added $1000.00 to the cash register.
+Guy says: The cash register currently has $1000.00.
+Guy says: Gonger the Baker arrived on Day 1.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $6.12 so far! The cookie jar now has 12 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 3 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 3 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 3 Risk game(s) at shelf position 6.
+Guy says: Burt stacked 3 Life game(s) at shelf position 7.
+Guy says: Burt stacked 3 Catan game(s) at shelf position 8.
+Guy says: Burt stacked 3 Magic game(s) at shelf position 9.
+Guy says: Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 3 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 6 customer(s) visited the store today.
+Guy says: Cashier Burt reports: Customer named Xep is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Xep is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Xep bought 3 cookie(s).
+Guy says: Cashier Burt reports: Customer Xep selected Connect Four.
+Guy says: Xep bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Xep selected Risk.
+Guy says: Xep bought Risk for $31.50.
+Guy says: Cashier Burt reports: Customer Xep bought 2 game(s).
+Guy says: Cashier Burt reports: Customer named Ceyik is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Ceyik is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Ceyik bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Ceyik selected Clue.
+Guy says: Ceyik bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Ceyik bought 1 game(s).
+Guy says: Cashier Burt reports: Customer named Pol is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Pol is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Pol bought 3 cookie(s).
+Guy says: Cashier Burt reports: Customer Pol selected Connect Four.
+Guy says: Pol bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Pol selected Risk.
+Guy says: Pol bought Risk for $31.50.
+Guy says: Cashier Burt reports: Customer Pol selected Life.
+Guy says: Pol bought Life for $20.00.
+Guy says: Cashier Burt reports: Customer Pol bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Fupim is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Fupim is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Fupim bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Fupim selected Monopoly.
+Guy says: Fupim bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Customer Fupim selected Mousetrap.
+Guy says: Fupim bought Mousetrap for $24.90.
+Guy says: Cashier Burt reports: Customer Fupim selected Clue.
+Guy says: Fupim bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Fupim bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Xitelo is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Xitelo is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Xitelo bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Xitelo selected Monopoly.
+Guy says: Xitelo bought Monopoly for $28.00.
+Guy says: Cashier Burt reports: Customer Xitelo selected Catan.
+Guy says: Xitelo bought Catan for $41.90.
+Guy says: Cashier Burt reports: Customer Xitelo selected Magic.
+Guy says: Xitelo bought Magic for $39.88.
+Guy says: Cashier Burt reports: Customer Xitelo bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Xeea is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Xeea is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Xeea bought 3 cookie(s).
+Guy says: Cashier Burt reports: Customer Xeea selected Risk.
+Guy says: Xeea bought Risk for $31.50.
+Guy says: Cashier Burt reports: Customer Xeea selected Pokemon.
+Guy says: Xeea bought Pokemon for $10.00.
+Guy says: Cashier Burt reports: Customer Xeea bought 2 game(s).
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 12 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are NO cookies left at the end of the day, and will increase delivery to 2-dozen cookies.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 2.
+Guy says: Ernie the Cashier arrived at the store on Day 2.
+Guy says: Three new orders of Risk have arrived.
+Guy says: The cash register currently has $1314.30.
+Guy says: Gonger the Baker arrived on Day 2.
+Guy says: Gonger the Baker dropped off 2-dozen chocolate chip cookies for $12.24.
+Guy says: Gonger the Baker has earned $18.36 so far! The cookie jar now has 24 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Guy says: Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Guy says: Ernie stacked 3 Candyland game(s) at shelf position 3.
+Guy says: Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy says: Ernie stacked 2 Life game(s) at shelf position 5.
+Guy says: Ernie stacked 3 Risk game(s) at shelf position 6.
+Guy says: Ernie stacked 1 Clue game(s) at shelf position 7.
+Guy says: Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Guy says: Ernie stacked 2 Catan game(s) at shelf position 9.
+Guy says: Ernie stacked 2 Magic game(s) at shelf position 10.
+Guy says: Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Guy says: Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Ernie reports: 4 customer(s) visited the store today.
+Guy says: Cashier Ernie reports: Customer named Penofiru is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Penofiru is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Penofiru bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Penofiru selected Netrunner.
+Guy says: Penofiru bought Netrunner for $12.00.
+Guy says: Cashier Ernie reports: Customer Penofiru bought 1 game(s).
+Guy says: Cashier Ernie reports: Customer named Duwel is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Duwel is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Duwel bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Duwel selected Pokemon.
+Guy says: Duwel bought Pokemon for $10.00.
+Guy says: Cashier Ernie reports: Customer Duwel selected Netrunner.
+Guy says: Duwel bought Netrunner for $12.00.
+Guy says: Cashier Ernie reports: Customer Duwel selected Candyland.
+Guy says: Duwel bought Candyland for $24.40.
+Guy says: Cashier Ernie reports: Customer Duwel bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Gih is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Gih is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Gih bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Gih selected Connect Four.
+Guy says: Gih bought Connect Four for $12.00.
+Guy says: Cashier Ernie reports: Customer Gih selected Life.
+Guy says: Gih bought Life for $20.00.
+Guy says: Cashier Ernie reports: Customer Gih selected Catan.
+Guy says: Gih bought Catan for $41.90.
+Guy says: Cashier Ernie reports: Customer Gih bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Yeeu is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Yeeu is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Yeeu bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Yeeu selected Candyland.
+Guy says: Yeeu bought Candyland for $24.40.
+Guy says: Cashier Ernie reports: Customer Yeeu bought 1 game(s).
+Guy says: Ernie the Cashier checks to see if games need to be restocked...
+Guy says: Ernie the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 4 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 3.
+Guy says: Burt the Cashier arrived at the store on Day 3.
+Guy says: Three new orders of Connect Four have arrived.
+Guy says: The cash register currently has $1444.84.
+Guy says: Gonger the Baker arrived on Day 3.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $24.48 so far! The cookie jar now has 32 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 1 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 1 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 1 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 3 Risk game(s) at shelf position 6.
+Guy says: Burt stacked 1 Life game(s) at shelf position 7.
+Guy says: Burt stacked 2 Magic game(s) at shelf position 8.
+Guy says: Burt stacked 1 Catan game(s) at shelf position 9.
+Guy says: Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 1 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 1 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 6 customer(s) visited the store today.
+Guy says: Cashier Burt reports: Customer named Sogukazu is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Sogukazu is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Sogukazu bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Sogukazu selected Monopoly.
+Guy says: Sogukazu bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Customer Sogukazu selected Candyland.
+Guy says: Sogukazu bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Customer Sogukazu selected Risk.
+Guy says: Sogukazu bought Risk for $31.50.
+Guy says: Cashier Burt reports: Customer Sogukazu bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Tagovuvo is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Tagovuvo is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Tagovuvo bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Tagovuvo selected Connect Four.
+Guy says: Tagovuvo bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Tagovuvo selected Clue.
+Guy says: Tagovuvo bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Tagovuvo selected Risk.
+Guy says: Tagovuvo bought Risk for $31.50.
+Guy says: Cashier Burt reports: Customer Tagovuvo bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Dipixafi is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Dipixafi is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Dipixafi bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Dipixafi selected Connect Four.
+Guy says: Dipixafi bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Dipixafi selected Gloomhaven.
+Guy says: Dipixafi bought Gloomhaven for $50.00.
+Guy says: They also bought 4 custom mini(s) for $199.92 for a grand total of $249.92.
+Guy says: Cashier Burt reports: Customer Dipixafi bought 2 game(s).
+Guy says: Cashier Burt reports: Customer named Pagu is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Pagu is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Pagu bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Pagu selected Risk.
+Guy says: Pagu bought Risk for $31.50.
+Guy says: Cashier Burt reports: Customer Pagu selected Magic.
+Guy says: Pagu bought Magic for $39.88.
+Guy says: Cashier Burt reports: Customer Pagu bought 2 game(s).
+Guy says: Cashier Burt reports: Customer named Hedee is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Hedee is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Hedee bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Hedee selected Netrunner.
+Guy says: Hedee bought Netrunner for $12.00.
+Guy says: Cashier Burt reports: Customer Hedee selected Pokemon.
+Guy says: Hedee bought Pokemon for $10.00.
+Guy says: They also bought 5 special card(s) for $15.00 for a grand total of $25.00.
+Guy says: Cashier Burt reports: Customer Hedee bought 2 game(s).
+Guy says: Cashier Burt reports: Customer named Bos is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Bos is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Bos bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Bos selected Connect Four.
+Guy says: Bos bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Bos selected Life.
+Guy says: Bos bought Life for $20.00.
+Guy says: Cashier Burt reports: Customer Bos bought 2 game(s).
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 9 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 4.
+Guy says: Bart the Cashier arrived at the store on Day 4.
+Guy says: Three new orders of Monopoly have arrived.
+Guy says: Three new orders of Connect Four have arrived.
+Guy says: Three new orders of Candyland have arrived.
+Guy says: Three new orders of Clue have arrived.
+Guy says: Three new orders of Risk have arrived.
+Guy says: Three new orders of Life have arrived.
+Guy says: Three new orders of Netrunner have arrived.
+Guy says: Three new orders of Pokemon have arrived.
+Guy says: The cash register currently has $1766.60.
+Guy says: Gonger the Baker arrived on Day 4.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $30.60 so far! The cookie jar now has 35 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Bart stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Bart stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Bart stacked 2 Mousetrap game(s) at shelf position 3.
+Guy says: Bart stacked 3 Candyland game(s) at shelf position 4.
+Guy says: Bart stacked 3 Clue game(s) at shelf position 5.
+Guy says: Bart stacked 3 Life game(s) at shelf position 6.
+Guy says: Bart stacked 3 Risk game(s) at shelf position 7.
+Guy says: Bart stacked 2 Gloomhaven game(s) at shelf position 8.
+Guy says: Bart stacked 3 Netrunner game(s) at shelf position 9.
+Guy says: Bart stacked 3 Pokemon game(s) at shelf position 10.
+Guy says: Bart stacked 1 Catan game(s) at shelf position 11.
+Guy says: Bart stacked 1 Magic game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 3 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Customer named Mef is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Mef is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Mef bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Mef selected Monopoly.
+Guy says: Mef bought Monopoly for $28.00.
+Guy says: Cashier Bart reports: Customer Mef selected Mousetrap.
+Guy says: Mef bought Mousetrap for $24.90.
+Guy says: Cashier Bart reports: Customer Mef selected Netrunner.
+Guy says: Mef bought Netrunner for $12.00.
+Guy says: Cashier Bart reports: Customer Mef bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Xuxayeb is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Xuxayeb is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Xuxayeb bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Xuxayeb selected Connect Four.
+Guy says: Xuxayeb bought Connect Four for $12.00.
+Guy says: Cashier Bart reports: Customer Xuxayeb selected Mousetrap.
+Guy says: Xuxayeb bought Mousetrap for $24.90.
+Guy says: Cashier Bart reports: Customer Xuxayeb selected Clue.
+Guy says: Xuxayeb bought Clue for $19.00.
+Guy says: Cashier Bart reports: Customer Xuxayeb bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Yiwal is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Yiwal is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Yiwal bought 1 cookie(s).
+Guy says: Cashier Bart reports: Customer Yiwal selected Monopoly.
+Guy says: Yiwal bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Bart reports: Customer Yiwal selected Connect Four.
+Guy says: Yiwal bought Connect Four for $12.00.
+Guy says: Cashier Bart reports: Customer Yiwal selected Life.
+Guy says: Yiwal bought Life for $20.00.
+Guy says: Cashier Bart reports: Customer Yiwal bought 3 game(s).
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 5 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 5.
+Guy says: Burt the Cashier arrived at the store on Day 5.
+Guy says: Three new orders of Mousetrap have arrived.
+Guy says: The cash register currently has $1915.38.
+Guy says: Gonger the Baker arrived on Day 5.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $36.72 so far! The cookie jar now has 42 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 1 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 1 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 3 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 2 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 3 Risk game(s) at shelf position 6.
+Guy says: Burt stacked 2 Life game(s) at shelf position 7.
+Guy says: Burt stacked 1 Magic game(s) at shelf position 8.
+Guy says: Burt stacked 1 Catan game(s) at shelf position 9.
+Guy says: Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 2 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 2 customer(s) visited the store today.
+Guy says: Cashier Burt reports: Customer named Tofinez is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Tofinez is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Tofinez bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Tofinez selected Monopoly.
+Guy says: Tofinez bought Monopoly for $28.00.
+Guy says: Cashier Burt reports: Customer Tofinez selected Clue.
+Guy says: Tofinez bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Tofinez selected Magic.
+Guy says: Tofinez bought Magic for $39.88.
+Guy says: They also bought 3 special card(s) for $9.00 for a grand total of $48.88.
+Guy says: Cashier Burt reports: Customer Tofinez bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Zunutimo is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Zunutimo is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Zunutimo bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Zunutimo selected Connect Four.
+Guy says: Zunutimo bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Zunutimo selected Candyland.
+Guy says: Zunutimo bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Customer Zunutimo selected Gloomhaven.
+Guy says: Zunutimo bought Gloomhaven for $50.00.
+Guy says: They also bought 2 custom mini(s) for $99.96 for a grand total of $149.96.
+Guy says: Cashier Burt reports: Customer Zunutimo bought 3 game(s).
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 3 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 6.
+Guy says: Ernie the Cashier arrived at the store on Day 6.
+Guy says: Three new orders of Monopoly have arrived.
+Guy says: Three new orders of Connect Four have arrived.
+Guy says: Three new orders of Magic have arrived.
+Guy says: The cash register currently has $2074.56.
+Guy says: Gonger the Baker arrived on Day 6.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $42.84 so far! The cookie jar now has 51 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Guy says: Ernie stacked 2 Netrunner game(s) at shelf position 2.
+Guy says: Ernie stacked 2 Candyland game(s) at shelf position 3.
+Guy says: Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Guy says: Ernie stacked 2 Life game(s) at shelf position 5.
+Guy says: Ernie stacked 3 Risk game(s) at shelf position 6.
+Guy says: Ernie stacked 1 Clue game(s) at shelf position 7.
+Guy says: Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Guy says: Ernie stacked 3 Magic game(s) at shelf position 9.
+Guy says: Ernie stacked 1 Catan game(s) at shelf position 10.
+Guy says: Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Guy says: Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Ernie reports: 6 customer(s) visited the store today.
+Guy says: Cashier Ernie reports: Customer named Kofiqa is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Kofiqa is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Kofiqa bought 2 cookie(s).
+Guy says: Cashier Ernie reports: Customer Kofiqa selected Netrunner.
+Guy says: Kofiqa bought Netrunner for $12.00.
+Guy says: Cashier Ernie reports: Customer Kofiqa selected Connect Four.
+Guy says: Kofiqa bought Connect Four for $12.00.
+Guy says: Cashier Ernie reports: Customer Kofiqa selected Risk.
+Guy says: Kofiqa bought Risk for $31.50.
+Guy says: Cashier Ernie reports: Customer Kofiqa bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Wanive is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Wanive is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Wanive bought 3 cookie(s).
+Guy says: Cashier Ernie reports: Customer Wanive selected Pokemon.
+Guy says: Wanive bought Pokemon for $10.00.
+Guy says: They also bought 4 special card(s) for $12.00 for a grand total of $22.00.
+Guy says: Cashier Ernie reports: Customer Wanive selected Connect Four.
+Guy says: Wanive bought Connect Four for $12.00.
+Guy says: Cashier Ernie reports: Customer Wanive selected Monopoly.
+Guy says: Wanive bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Ernie reports: Customer Wanive bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Quco is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Quco is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Quco bought 3 cookie(s).
+Guy says: Cashier Ernie reports: Customer Quco selected Candyland.
+Guy says: Quco bought Candyland for $24.40.
+Guy says: Cashier Ernie reports: Customer Quco selected Risk.
+Guy says: Quco bought Risk for $31.50.
+Guy says: Cashier Ernie reports: Customer Quco selected Clue.
+Guy says: Quco bought Clue for $19.00.
+Guy says: Cashier Ernie reports: Customer Quco bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Xoli is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Xoli is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Xoli bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Xoli selected Monopoly.
+Guy says: Xoli bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Ernie reports: Customer Xoli selected Mousetrap.
+Guy says: Xoli bought Mousetrap for $24.90.
+Guy says: Cashier Ernie reports: Customer Xoli selected Gloomhaven.
+Guy says: Xoli bought Gloomhaven for $50.00.
+Guy says: Cashier Ernie reports: Customer Xoli bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Necas is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Necas is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Necas bought 2 cookie(s).
+Guy says: Cashier Ernie reports: Customer Necas selected Netrunner.
+Guy says: Necas bought Netrunner for $12.00.
+Guy says: They also bought 4 special card(s) for $12.00 for a grand total of $24.00.
+Guy says: Cashier Ernie reports: Customer Necas selected Candyland.
+Guy says: Necas bought Candyland for $24.40.
+Guy says: Cashier Ernie reports: Customer Necas selected Connect Four.
+Guy says: Necas bought Connect Four for $12.00.
+Guy says: Cashier Ernie reports: Customer Necas bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Covakud is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Covakud is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Covakud bought 2 cookie(s).
+Guy says: Cashier Ernie reports: Customer Covakud selected Magic.
+Guy says: Covakud bought Magic for $39.88.
+Guy says: Cashier Ernie reports: Customer Covakud bought 1 game(s).
+Guy says: Ernie the Cashier checks to see if games need to be restocked...
+Guy says: Ernie the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 13 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 7.
+Guy says: Bart the Cashier arrived at the store on Day 7.
+Guy says: Three new orders of Netrunner have arrived.
+Guy says: Three new orders of Candyland have arrived.
+Guy says: Three new orders of Connect Four have arrived.
+Guy says: Three new orders of Clue have arrived.
+Guy says: Three new orders of Gloomhaven have arrived.
+Guy says: The cash register currently has $2312.28.
+Guy says: Gonger the Baker arrived on Day 7.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $48.96 so far! The cookie jar now has 50 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Bart stacked 3 Connect Four game(s) at shelf position 1.
+Guy says: Bart stacked 2 Mousetrap game(s) at shelf position 2.
+Guy says: Bart stacked 3 Candyland game(s) at shelf position 3.
+Guy says: Bart stacked 3 Clue game(s) at shelf position 4.
+Guy says: Bart stacked 2 Life game(s) at shelf position 5.
+Guy says: Bart stacked 2 Magic game(s) at shelf position 6.
+Guy says: Bart stacked 3 Gloomhaven game(s) at shelf position 7.
+Guy says: Bart stacked 3 Netrunner game(s) at shelf position 8.
+Guy says: Bart stacked 2 Pokemon game(s) at shelf position 9.
+Guy says: Bart stacked 1 Monopoly game(s) at shelf position 10.
+Guy says: Bart stacked 1 Risk game(s) at shelf position 11.
+Guy says: Bart stacked 1 Catan game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 2 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Customer named Pirim is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Pirim is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Pirim bought 1 cookie(s).
+Guy says: Cashier Bart reports: Customer Pirim selected Mousetrap.
+Guy says: Pirim bought Mousetrap for $24.90.
+Guy says: They also bought 2 spare parts kit(s) for $14.00 for a grand total of $38.90.
+Guy says: Cashier Bart reports: Customer Pirim selected Clue.
+Guy says: Pirim bought Clue for $19.00.
+Guy says: Cashier Bart reports: Customer Pirim selected Risk.
+Guy says: Pirim bought Risk for $31.50.
+Guy says: Cashier Bart reports: Customer Pirim bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Yovomaku is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Yovomaku is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Yovomaku bought 3 cookie(s).
+Guy says: Cashier Bart reports: Customer Yovomaku selected Candyland.
+Guy says: Yovomaku bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Customer Yovomaku selected Pokemon.
+Guy says: Yovomaku bought Pokemon for $10.00.
+Guy says: Cashier Bart reports: Customer Yovomaku bought 2 game(s).
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 4 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 8.
+Guy says: Bart the Cashier arrived at the store on Day 8.
+Guy says: Three new orders of Risk have arrived.
+Guy says: The cash register currently has $2387.04.
+Guy says: Gonger the Baker arrived on Day 8.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $55.08 so far! The cookie jar now has 58 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Bart stacked 3 Connect Four game(s) at shelf position 1.
+Guy says: Bart stacked 2 Candyland game(s) at shelf position 2.
+Guy says: Bart stacked 2 Clue game(s) at shelf position 3.
+Guy says: Bart stacked 3 Risk game(s) at shelf position 4.
+Guy says: Bart stacked 2 Life game(s) at shelf position 5.
+Guy says: Bart stacked 2 Magic game(s) at shelf position 6.
+Guy says: Bart stacked 3 Gloomhaven game(s) at shelf position 7.
+Guy says: Bart stacked 3 Netrunner game(s) at shelf position 8.
+Guy says: Bart stacked 1 Monopoly game(s) at shelf position 9.
+Guy says: Bart stacked 1 Mousetrap game(s) at shelf position 10.
+Guy says: Bart stacked 1 Catan game(s) at shelf position 11.
+Guy says: Bart stacked 1 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 3 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Customer named Xawu is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Xawu is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Xawu bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Xawu selected Clue.
+Guy says: Xawu bought Clue for $19.00.
+Guy says: Cashier Bart reports: Customer Xawu selected Gloomhaven.
+Guy says: Xawu bought Gloomhaven for $50.00.
+Guy says: Cashier Bart reports: Customer Xawu selected Netrunner.
+Guy says: Xawu bought Netrunner for $12.00.
+Guy says: They also bought 6 special card(s) for $18.00 for a grand total of $30.00.
+Guy says: Cashier Bart reports: Customer Xawu bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Xuguvik is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Xuguvik is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Xuguvik bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Xuguvik selected Connect Four.
+Guy says: Xuguvik bought Connect Four for $12.00.
+Guy says: Cashier Bart reports: Customer Xuguvik selected Candyland.
+Guy says: Xuguvik bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Customer Xuguvik selected Netrunner.
+Guy says: Xuguvik bought Netrunner for $12.00.
+Guy says: Cashier Bart reports: Customer Xuguvik bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Savel is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Savel is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Savel bought 3 cookie(s).
+Guy says: Cashier Bart reports: Customer Savel selected Risk.
+Guy says: Savel bought Risk for $31.50.
+Guy says: Cashier Bart reports: Customer Savel selected Magic.
+Guy says: Savel bought Magic for $39.88.
+Guy says: Cashier Bart reports: Customer Savel bought 2 game(s).
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 7 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 9.
+Guy says: Ernie the Cashier arrived at the store on Day 9.
+Guy says: The cash register currently has $2606.84.
+Guy says: Gonger the Baker arrived on Day 9.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $61.20 so far! The cookie jar now has 63 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Guy says: Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Guy says: Ernie stacked 1 Candyland game(s) at shelf position 3.
+Guy says: Ernie stacked 2 Connect Four game(s) at shelf position 4.
+Guy says: Ernie stacked 2 Life game(s) at shelf position 5.
+Guy says: Ernie stacked 2 Risk game(s) at shelf position 6.
+Guy says: Ernie stacked 1 Clue game(s) at shelf position 7.
+Guy says: Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Guy says: Ernie stacked 1 Magic game(s) at shelf position 9.
+Guy says: Ernie stacked 1 Catan game(s) at shelf position 10.
+Guy says: Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Guy says: Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Ernie reports: 3 customer(s) visited the store today.
+Guy says: Cashier Ernie reports: Customer named Biyaxul is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Biyaxul is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Biyaxul bought 2 cookie(s).
+Guy says: Cashier Ernie reports: Customer Biyaxul selected Pokemon.
+Guy says: Biyaxul bought Pokemon for $10.00.
+Guy says: Cashier Ernie reports: Customer Biyaxul selected Risk.
+Guy says: Biyaxul bought Risk for $31.50.
+Guy says: Cashier Ernie reports: Customer Biyaxul bought 2 game(s).
+Guy says: Cashier Ernie reports: Customer named Pug is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Pug is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Pug bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Pug selected Life.
+Guy says: Pug bought Life for $20.00.
+Guy says: Cashier Ernie reports: Customer Pug selected Risk.
+Guy says: Pug bought Risk for $31.50.
+Guy says: Cashier Ernie reports: Customer Pug bought 2 game(s).
+Guy says: Cashier Ernie reports: Customer named Ficir is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Ficir is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Ficir bought 3 cookie(s).
+Guy says: Cashier Ernie reports: Customer Ficir selected Netrunner.
+Guy says: Ficir bought Netrunner for $12.00.
+Guy says: Cashier Ernie reports: Customer Ficir selected Life.
+Guy says: Ficir bought Life for $20.00.
+Guy says: Cashier Ernie reports: Customer Ficir selected Monopoly.
+Guy says: Ficir bought Monopoly for $28.00.
+Guy says: Cashier Ernie reports: Customer Ficir bought 3 game(s).
+Guy says: Ernie the Cashier checks to see if games need to be restocked...
+Guy says: Ernie the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 6 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 10.
+Guy says: Burt the Cashier arrived at the store on Day 10.
+Guy says: Three new orders of Pokemon have arrived.
+Guy says: Three new orders of Netrunner have arrived.
+Guy says: Three new orders of Life have arrived.
+Guy says: Three new orders of Risk have arrived.
+Guy says: Three new orders of Monopoly have arrived.
+Guy says: The cash register currently has $2607.84.
+Guy says: Gonger the Baker arrived on Day 10.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $67.32 so far! The cookie jar now has 69 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 2 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 1 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 1 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 3 Risk game(s) at shelf position 6.
+Guy says: Burt stacked 3 Life game(s) at shelf position 7.
+Guy says: Burt stacked 1 Catan game(s) at shelf position 8.
+Guy says: Burt stacked 1 Magic game(s) at shelf position 9.
+Guy says: Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 3 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 2 customer(s) visited the store today.
+Guy says: Cashier Burt reports: Customer named Zoxi is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Zoxi is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Zoxi bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Zoxi selected Monopoly.
+Guy says: Zoxi bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Customer Zoxi selected Connect Four.
+Guy says: Zoxi bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Zoxi selected Life.
+Guy says: Zoxi bought Life for $20.00.
+Guy says: Cashier Burt reports: Customer Zoxi bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Fifo is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Fifo is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Fifo bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Fifo selected Monopoly.
+Guy says: Fifo bought Monopoly for $28.00.
+Guy says: Cashier Burt reports: Customer Fifo selected Mousetrap.
+Guy says: Fifo bought Mousetrap for $24.90.
+Guy says: Cashier Burt reports: Customer Fifo selected Clue.
+Guy says: Fifo bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Fifo bought 3 game(s).
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 4 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 11.
+Guy says: Ernie the Cashier arrived at the store on Day 11.
+Guy says: Three new orders of Mousetrap have arrived.
+Guy says: Three new orders of Clue have arrived.
+Guy says: The cash register currently has $2677.70.
+Guy says: Gonger the Baker arrived on Day 11.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $73.44 so far! The cookie jar now has 77 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Guy says: Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Guy says: Ernie stacked 1 Candyland game(s) at shelf position 3.
+Guy says: Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy says: Ernie stacked 2 Life game(s) at shelf position 5.
+Guy says: Ernie stacked 3 Risk game(s) at shelf position 6.
+Guy says: Ernie stacked 3 Clue game(s) at shelf position 7.
+Guy says: Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Guy says: Ernie stacked 1 Catan game(s) at shelf position 9.
+Guy says: Ernie stacked 1 Magic game(s) at shelf position 10.
+Guy says: Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Guy says: Ernie stacked 2 Gloomhaven game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Ernie reports: 5 customer(s) visited the store today.
+Guy says: Cashier Ernie reports: Customer named Bawo is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Bawo is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Bawo bought 3 cookie(s).
+Guy says: Cashier Ernie reports: Customer Bawo selected Pokemon.
+Guy says: Bawo bought Pokemon for $10.00.
+Guy says: They also bought 5 special card(s) for $15.00 for a grand total of $25.00.
+Guy says: Cashier Ernie reports: Customer Bawo selected Netrunner.
+Guy says: Bawo bought Netrunner for $12.00.
+Guy says: Cashier Ernie reports: Customer Bawo selected Candyland.
+Guy says: Bawo bought Candyland for $24.40.
+Guy says: Cashier Ernie reports: Customer Bawo bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Kosuwo is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Kosuwo is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Kosuwo bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Kosuwo selected Pokemon.
+Guy says: Kosuwo bought Pokemon for $10.00.
+Guy says: Cashier Ernie reports: Customer Kosuwo selected Connect Four.
+Guy says: Kosuwo bought Connect Four for $12.00.
+Guy says: Cashier Ernie reports: Customer Kosuwo selected Clue.
+Guy says: Kosuwo bought Clue for $19.00.
+Guy says: Cashier Ernie reports: Customer Kosuwo bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Ganu is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Ganu is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Ganu bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Ganu selected Risk.
+Guy says: Ganu bought Risk for $31.50.
+Guy says: Cashier Ernie reports: Customer Ganu selected Clue.
+Guy says: Ganu bought Clue for $19.00.
+Guy says: Cashier Ernie reports: Customer Ganu selected Monopoly.
+Guy says: Ganu bought Monopoly for $28.00.
+Guy says: Cashier Ernie reports: Customer Ganu bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Sasexi is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Sasexi is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Sasexi bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Sasexi selected Netrunner.
+Guy says: Sasexi bought Netrunner for $12.00.
+Guy says: Cashier Ernie reports: Customer Sasexi selected Magic.
+Guy says: Sasexi bought Magic for $39.88.
+Guy says: They also bought 5 special card(s) for $15.00 for a grand total of $54.88.
+Guy says: Cashier Ernie reports: Customer Sasexi bought 2 game(s).
+Guy says: Cashier Ernie reports: Customer named Bidaee is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Bidaee is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Bidaee bought 3 cookie(s).
+Guy says: Cashier Ernie reports: Customer Bidaee selected Mousetrap.
+Guy says: Bidaee bought Mousetrap for $24.90.
+Guy says: Cashier Ernie reports: Customer Bidaee bought 1 game(s).
+Guy says: Ernie the Cashier checks to see if games need to be restocked...
+Guy says: Ernie the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 9 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 12.
+Guy says: Burt the Cashier arrived at the store on Day 12.
+Guy says: Three new orders of Candyland have arrived.
+Guy says: Three new orders of Connect Four have arrived.
+Guy says: Three new orders of Monopoly have arrived.
+Guy says: Three new orders of Magic have arrived.
+Guy says: The cash register currently has $2796.44.
+Guy says: Gonger the Baker arrived on Day 12.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $79.56 so far! The cookie jar now has 80 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 3 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 1 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 2 Risk game(s) at shelf position 6.
+Guy says: Burt stacked 2 Life game(s) at shelf position 7.
+Guy says: Burt stacked 3 Magic game(s) at shelf position 8.
+Guy says: Burt stacked 1 Catan game(s) at shelf position 9.
+Guy says: Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 1 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 1 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 3 customer(s) visited the store today.
+Guy says: Cashier Burt reports: Customer named Vesivoho is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Vesivoho is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Vesivoho bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Vesivoho selected Life.
+Guy says: Vesivoho bought Life for $20.00.
+Guy says: Cashier Burt reports: Customer Vesivoho selected Magic.
+Guy says: Vesivoho bought Magic for $39.88.
+Guy says: Cashier Burt reports: Customer Vesivoho selected Catan.
+Guy says: Vesivoho bought Catan for $41.90.
+Guy says: Cashier Burt reports: Customer Vesivoho bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Euduha is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Euduha is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Euduha bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Euduha selected Mousetrap.
+Guy says: Euduha bought Mousetrap for $24.90.
+Guy says: Cashier Burt reports: Customer Euduha selected Candyland.
+Guy says: Euduha bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Customer Euduha selected Netrunner.
+Guy says: Euduha bought Netrunner for $12.00.
+Guy says: Cashier Burt reports: Customer Euduha bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Zer is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Zer is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Zer bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Zer selected Monopoly.
+Guy says: Zer bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Customer Zer selected Connect Four.
+Guy says: Zer bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Zer selected Magic.
+Guy says: Zer bought Magic for $39.88.
+Guy says: They also bought 2 special card(s) for $6.00 for a grand total of $45.88.
+Guy says: Cashier Burt reports: Customer Zer bought 3 game(s).
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 4 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 13.
+Guy says: Burt the Cashier arrived at the store on Day 13.
+Guy says: Three new orders of Catan have arrived.
+Guy says: Three new orders of Netrunner have arrived.
+Guy says: The cash register currently has $2968.36.
+Guy says: Gonger the Baker arrived on Day 13.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $85.68 so far! The cookie jar now has 88 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 2 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 2 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 2 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 1 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 1 Life game(s) at shelf position 6.
+Guy says: Burt stacked 2 Risk game(s) at shelf position 7.
+Guy says: Burt stacked 3 Catan game(s) at shelf position 8.
+Guy says: Burt stacked 1 Magic game(s) at shelf position 9.
+Guy says: Burt stacked 2 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 3 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 1 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 5 customer(s) visited the store today.
+Guy says: Cashier Burt reports: Customer named Dipivete is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Dipivete is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Dipivete bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Dipivete selected Connect Four.
+Guy says: Dipivete bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Dipivete selected Candyland.
+Guy says: Dipivete bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Customer Dipivete selected Risk.
+Guy says: Dipivete bought Risk for $31.50.
+Guy says: Cashier Burt reports: Customer Dipivete bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Kowu is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Kowu is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Kowu bought 3 cookie(s).
+Guy says: Cashier Burt reports: Customer Kowu selected Monopoly.
+Guy says: Kowu bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Customer Kowu selected Connect Four.
+Guy says: Kowu bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Kowu selected Candyland.
+Guy says: Kowu bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Customer Kowu bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Viy is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Viy is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Viy bought 3 cookie(s).
+Guy says: Cashier Burt reports: Customer Viy selected Monopoly.
+Guy says: Viy bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Customer Viy selected Clue.
+Guy says: Viy bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Viy selected Life.
+Guy says: Viy bought Life for $20.00.
+Guy says: Cashier Burt reports: Customer Viy bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Hadecuxo is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Hadecuxo is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Hadecuxo bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Hadecuxo selected Mousetrap.
+Guy says: Hadecuxo bought Mousetrap for $24.90.
+Guy says: Cashier Burt reports: Customer Hadecuxo selected Gloomhaven.
+Guy says: Hadecuxo bought Gloomhaven for $50.00.
+Guy says: Cashier Burt reports: Customer Hadecuxo bought 2 game(s).
+Guy says: Cashier Burt reports: Customer named Bapisu is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Bapisu is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Bapisu bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Bapisu selected Netrunner.
+Guy says: Bapisu bought Netrunner for $12.00.
+Guy says: Cashier Burt reports: Customer Bapisu bought 1 game(s).
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 11 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 14.
+Guy says: Ernie the Cashier arrived at the store on Day 14.
+Guy says: Three new orders of Monopoly have arrived.
+Guy says: Three new orders of Connect Four have arrived.
+Guy says: Three new orders of Mousetrap have arrived.
+Guy says: Three new orders of Candyland have arrived.
+Guy says: Three new orders of Clue have arrived.
+Guy says: Three new orders of Life have arrived.
+Guy says: The cash register currently has $3078.66.
+Guy says: Gonger the Baker arrived on Day 14.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $91.80 so far! The cookie jar now has 89 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Guy says: Ernie stacked 2 Netrunner game(s) at shelf position 2.
+Guy says: Ernie stacked 3 Candyland game(s) at shelf position 3.
+Guy says: Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Guy says: Ernie stacked 3 Life game(s) at shelf position 5.
+Guy says: Ernie stacked 1 Risk game(s) at shelf position 6.
+Guy says: Ernie stacked 3 Clue game(s) at shelf position 7.
+Guy says: Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Guy says: Ernie stacked 3 Catan game(s) at shelf position 9.
+Guy says: Ernie stacked 1 Magic game(s) at shelf position 10.
+Guy says: Ernie stacked 3 Mousetrap game(s) at shelf position 11.
+Guy says: Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Ernie reports: 2 customer(s) visited the store today.
+Guy says: Cashier Ernie reports: Customer named Xovawuw is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Xovawuw is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Xovawuw bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Xovawuw selected Pokemon.
+Guy says: Xovawuw bought Pokemon for $10.00.
+Guy says: Cashier Ernie reports: Customer Xovawuw selected Candyland.
+Guy says: Xovawuw bought Candyland for $24.40.
+Guy says: Cashier Ernie reports: Customer Xovawuw selected Risk.
+Guy says: Xovawuw bought Risk for $31.50.
+Guy says: Cashier Ernie reports: Customer Xovawuw bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Nutomuv is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Nutomuv is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Nutomuv bought 2 cookie(s).
+Guy says: Cashier Ernie reports: Customer Nutomuv selected Life.
+Guy says: Nutomuv bought Life for $20.00.
+Guy says: Cashier Ernie reports: Customer Nutomuv selected Magic.
+Guy says: Nutomuv bought Magic for $39.88.
+Guy says: Cashier Ernie reports: Customer Nutomuv bought 2 game(s).
+Guy says: Ernie the Cashier checks to see if games need to be restocked...
+Guy says: Ernie the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 3 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 15.
+Guy says: Burt the Cashier arrived at the store on Day 15.
+Guy says: Three new orders of Pokemon have arrived.
+Guy says: Three new orders of Risk have arrived.
+Guy says: Three new orders of Magic have arrived.
+Guy says: The cash register currently has $3079.38.
+Guy says: Gonger the Baker arrived on Day 15.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $97.92 so far! The cookie jar now has 98 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 2 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 3 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 3 Risk game(s) at shelf position 6.
+Guy says: Burt stacked 2 Life game(s) at shelf position 7.
+Guy says: Burt stacked 3 Magic game(s) at shelf position 8.
+Guy says: Burt stacked 3 Catan game(s) at shelf position 9.
+Guy says: Burt stacked 1 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 2 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 5 customer(s) visited the store today.
+Guy says: Cashier Burt reports: Customer named Yid is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Yid is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Yid bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Yid selected Clue.
+Guy says: Yid bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Yid selected Life.
+Guy says: Yid bought Life for $20.00.
+Guy says: Cashier Burt reports: Customer Yid bought 2 game(s).
+Guy says: Cashier Burt reports: Customer named Wukegiwi is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Wukegiwi is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Wukegiwi bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Wukegiwi selected Monopoly.
+Guy says: Wukegiwi bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Customer Wukegiwi selected Candyland.
+Guy says: Wukegiwi bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Customer Wukegiwi selected Clue.
+Guy says: Wukegiwi bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Wukegiwi bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Toxotey is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Toxotey is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Toxotey bought 3 cookie(s).
+Guy says: Cashier Burt reports: Customer Toxotey selected Monopoly.
+Guy says: Toxotey bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Customer Toxotey selected Magic.
+Guy says: Toxotey bought Magic for $39.88.
+Guy says: They also bought 5 special card(s) for $15.00 for a grand total of $54.88.
+Guy says: Cashier Burt reports: Customer Toxotey selected Netrunner.
+Guy says: Toxotey bought Netrunner for $12.00.
+Guy says: Cashier Burt reports: Customer Toxotey bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Wiruce is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Wiruce is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Wiruce bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Wiruce selected Mousetrap.
+Guy says: Wiruce bought Mousetrap for $24.90.
+Guy says: Cashier Burt reports: Customer Wiruce selected Candyland.
+Guy says: Wiruce bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Customer Wiruce selected Magic.
+Guy says: Wiruce bought Magic for $39.88.
+Guy says: They also bought 1 special card(s) for $3.00 for a grand total of $42.88.
+Guy says: Cashier Burt reports: Customer Wiruce bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Dohebi is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Dohebi is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Dohebi bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Dohebi selected Monopoly.
+Guy says: Dohebi bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Customer Dohebi selected Connect Four.
+Guy says: Dohebi bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Dohebi selected Clue.
+Guy says: Dohebi bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Dohebi bought 3 game(s).
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 10 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 16.
+Guy says: Bart the Cashier arrived at the store on Day 16.
+Guy says: Three new orders of Monopoly have arrived.
+Guy says: Three new orders of Candyland have arrived.
+Guy says: Three new orders of Clue have arrived.
+Guy says: The cash register currently has $3349.92.
+Guy says: Gonger the Baker arrived on Day 16.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $104.04 so far! The cookie jar now has 100 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Bart stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Bart stacked 2 Connect Four game(s) at shelf position 2.
+Guy says: Bart stacked 2 Mousetrap game(s) at shelf position 3.
+Guy says: Bart stacked 3 Candyland game(s) at shelf position 4.
+Guy says: Bart stacked 3 Clue game(s) at shelf position 5.
+Guy says: Bart stacked 3 Risk game(s) at shelf position 6.
+Guy says: Bart stacked 3 Catan game(s) at shelf position 7.
+Guy says: Bart stacked 3 Pokemon game(s) at shelf position 8.
+Guy says: Bart stacked 1 Life game(s) at shelf position 9.
+Guy says: Bart stacked 1 Magic game(s) at shelf position 10.
+Guy says: Bart stacked 1 Gloomhaven game(s) at shelf position 11.
+Guy says: Bart stacked 1 Netrunner game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 3 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Customer named Nov is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Nov is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Nov bought 3 cookie(s).
+Guy says: Cashier Bart reports: Customer Nov selected Monopoly.
+Guy says: Nov bought Monopoly for $28.00.
+Guy says: Cashier Bart reports: Customer Nov selected Clue.
+Guy says: Nov bought Clue for $19.00.
+Guy says: Cashier Bart reports: Customer Nov selected Pokemon.
+Guy says: Nov bought Pokemon for $10.00.
+Guy says: Cashier Bart reports: Customer Nov bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Kohik is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Kohik is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Kohik bought 3 cookie(s).
+Guy says: Cashier Bart reports: Customer Kohik selected Mousetrap.
+Guy says: Kohik bought Mousetrap for $24.90.
+Guy says: Cashier Bart reports: Customer Kohik selected Risk.
+Guy says: Kohik bought Risk for $31.50.
+Guy says: Cashier Bart reports: Customer Kohik selected Pokemon.
+Guy says: Kohik bought Pokemon for $10.00.
+Guy says: Cashier Bart reports: Customer Kohik bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Yelecore is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Yelecore is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Yelecore bought 1 cookie(s).
+Guy says: Cashier Bart reports: Customer Yelecore selected Monopoly.
+Guy says: Yelecore bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Bart reports: Customer Yelecore selected Connect Four.
+Guy says: Yelecore bought Connect Four for $12.00.
+Guy says: Cashier Bart reports: Customer Yelecore selected Candyland.
+Guy says: Yelecore bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Customer Yelecore bought 3 game(s).
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 7 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 17.
+Guy says: Bart the Cashier arrived at the store on Day 17.
+Guy says: The cash register currently has $3544.74.
+Guy says: Gonger the Baker arrived on Day 17.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $110.16 so far! The cookie jar now has 105 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Bart stacked 2 Candyland game(s) at shelf position 1.
+Guy says: Bart stacked 2 Clue game(s) at shelf position 2.
+Guy says: Bart stacked 2 Risk game(s) at shelf position 3.
+Guy says: Bart stacked 3 Catan game(s) at shelf position 4.
+Guy says: Bart stacked 1 Monopoly game(s) at shelf position 5.
+Guy says: Bart stacked 1 Connect Four game(s) at shelf position 6.
+Guy says: Bart stacked 1 Mousetrap game(s) at shelf position 7.
+Guy says: Bart stacked 1 Life game(s) at shelf position 8.
+Guy says: Bart stacked 1 Magic game(s) at shelf position 9.
+Guy says: Bart stacked 1 Gloomhaven game(s) at shelf position 10.
+Guy says: Bart stacked 1 Netrunner game(s) at shelf position 11.
+Guy says: Bart stacked 1 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 2 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Customer named Yuca is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Yuca is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Yuca bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Yuca selected Candyland.
+Guy says: Yuca bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Customer Yuca selected Clue.
+Guy says: Yuca bought Clue for $19.00.
+Guy says: Cashier Bart reports: Customer Yuca selected Risk.
+Guy says: Yuca bought Risk for $31.50.
+Guy says: Cashier Bart reports: Customer Yuca bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Reselol is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Reselol is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Reselol bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Reselol selected Life.
+Guy says: Reselol bought Life for $20.00.
+Guy says: Cashier Bart reports: Customer Reselol bought 1 game(s).
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 4 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 18.
+Guy says: Ernie the Cashier arrived at the store on Day 18.
+Guy says: Three new orders of Life have arrived.
+Guy says: The cash register currently has $3607.60.
+Guy says: Gonger the Baker arrived on Day 18.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $116.28 so far! The cookie jar now has 113 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Guy says: Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Guy says: Ernie stacked 1 Candyland game(s) at shelf position 3.
+Guy says: Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy says: Ernie stacked 3 Life game(s) at shelf position 5.
+Guy says: Ernie stacked 1 Risk game(s) at shelf position 6.
+Guy says: Ernie stacked 1 Clue game(s) at shelf position 7.
+Guy says: Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Guy says: Ernie stacked 3 Catan game(s) at shelf position 9.
+Guy says: Ernie stacked 1 Magic game(s) at shelf position 10.
+Guy says: Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Guy says: Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Ernie reports: 3 customer(s) visited the store today.
+Guy says: Cashier Ernie reports: Customer named Vafisu is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Vafisu is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Vafisu bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Vafisu selected Pokemon.
+Guy says: Vafisu bought Pokemon for $10.00.
+Guy says: Cashier Ernie reports: Customer Vafisu selected Netrunner.
+Guy says: Vafisu bought Netrunner for $12.00.
+Guy says: They also bought 5 special card(s) for $15.00 for a grand total of $27.00.
+Guy says: Cashier Ernie reports: Customer Vafisu selected Candyland.
+Guy says: Vafisu bought Candyland for $24.40.
+Guy says: Cashier Ernie reports: Customer Vafisu bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Kuhu is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Kuhu is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Kuhu bought 3 cookie(s).
+Guy says: Cashier Ernie reports: Customer Kuhu selected Magic.
+Guy says: Kuhu bought Magic for $39.88.
+Guy says: Cashier Ernie reports: Customer Kuhu selected Gloomhaven.
+Guy says: Kuhu bought Gloomhaven for $50.00.
+Guy says: They also bought 3 custom mini(s) for $149.94 for a grand total of $199.94.
+Guy says: Cashier Ernie reports: Customer Kuhu bought 2 game(s).
+Guy says: Cashier Ernie reports: Customer named Dominiqi is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Dominiqi is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Dominiqi bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Dominiqi selected Risk.
+Guy says: Dominiqi bought Risk for $31.50.
+Guy says: Cashier Ernie reports: Customer Dominiqi selected Clue.
+Guy says: Dominiqi bought Clue for $19.00.
+Guy says: Cashier Ernie reports: Customer Dominiqi bought 2 game(s).
+Guy says: Ernie the Cashier checks to see if games need to be restocked...
+Guy says: Ernie the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 5 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 19.
+Guy says: Ernie the Cashier arrived at the store on Day 19.
+Guy says: Three new orders of Pokemon have arrived.
+Guy says: Three new orders of Netrunner have arrived.
+Guy says: Three new orders of Candyland have arrived.
+Guy says: Three new orders of Risk have arrived.
+Guy says: Three new orders of Clue have arrived.
+Guy says: Three new orders of Magic have arrived.
+Guy says: Three new orders of Gloomhaven have arrived.
+Guy says: The cash register currently has $3677.30.
+Guy says: Gonger the Baker arrived on Day 19.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $122.40 so far! The cookie jar now has 120 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Guy says: Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Guy says: Ernie stacked 3 Candyland game(s) at shelf position 3.
+Guy says: Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy says: Ernie stacked 3 Life game(s) at shelf position 5.
+Guy says: Ernie stacked 3 Risk game(s) at shelf position 6.
+Guy says: Ernie stacked 3 Clue game(s) at shelf position 7.
+Guy says: Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Guy says: Ernie stacked 3 Catan game(s) at shelf position 9.
+Guy says: Ernie stacked 3 Magic game(s) at shelf position 10.
+Guy says: Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Guy says: Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Ernie reports: 2 customer(s) visited the store today.
+Guy says: Cashier Ernie reports: Customer named Loc is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Loc is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Loc bought 3 cookie(s).
+Guy says: Cashier Ernie reports: Customer Loc selected Pokemon.
+Guy says: Loc bought Pokemon for $10.00.
+Guy says: Cashier Ernie reports: Customer Loc bought 1 game(s).
+Guy says: Cashier Ernie reports: Customer named Niqi is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Niqi is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Niqi bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Niqi selected Pokemon.
+Guy says: Niqi bought Pokemon for $10.00.
+Guy says: Cashier Ernie reports: Customer Niqi selected Candyland.
+Guy says: Niqi bought Candyland for $24.40.
+Guy says: Cashier Ernie reports: Customer Niqi selected Clue.
+Guy says: Niqi bought Clue for $19.00.
+Guy says: Cashier Ernie reports: Customer Niqi bought 3 game(s).
+Guy says: Ernie the Cashier checks to see if games need to be restocked...
+Guy says: Ernie the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 4 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 20.
+Guy says: Ernie the Cashier arrived at the store on Day 20.
+Guy says: The cash register currently has $3738.66.
+Guy says: Gonger the Baker arrived on Day 20.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $128.52 so far! The cookie jar now has 128 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Guy says: Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Guy says: Ernie stacked 2 Candyland game(s) at shelf position 3.
+Guy says: Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy says: Ernie stacked 3 Life game(s) at shelf position 5.
+Guy says: Ernie stacked 3 Risk game(s) at shelf position 6.
+Guy says: Ernie stacked 2 Clue game(s) at shelf position 7.
+Guy says: Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Guy says: Ernie stacked 3 Catan game(s) at shelf position 9.
+Guy says: Ernie stacked 3 Magic game(s) at shelf position 10.
+Guy says: Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Guy says: Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Ernie reports: 4 customer(s) visited the store today.
+Guy says: Cashier Ernie reports: Customer named Luwefadu is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Luwefadu is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Luwefadu bought 2 cookie(s).
+Guy says: Cashier Ernie reports: Customer Luwefadu selected Netrunner.
+Guy says: Luwefadu bought Netrunner for $12.00.
+Guy says: Cashier Ernie reports: Customer Luwefadu selected Candyland.
+Guy says: Luwefadu bought Candyland for $24.40.
+Guy says: Cashier Ernie reports: Customer Luwefadu selected Life.
+Guy says: Luwefadu bought Life for $20.00.
+Guy says: Cashier Ernie reports: Customer Luwefadu bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Suwapiz is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Suwapiz is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Suwapiz bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Suwapiz selected Risk.
+Guy says: Suwapiz bought Risk for $31.50.
+Guy says: Cashier Ernie reports: Customer Suwapiz selected Clue.
+Guy says: Suwapiz bought Clue for $19.00.
+Guy says: Cashier Ernie reports: Customer Suwapiz bought 2 game(s).
+Guy says: Cashier Ernie reports: Customer named Xic is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Xic is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Xic bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Xic selected Pokemon.
+Guy says: Xic bought Pokemon for $10.00.
+Guy says: They also bought 3 special card(s) for $9.00 for a grand total of $19.00.
+Guy says: Cashier Ernie reports: Customer Xic selected Connect Four.
+Guy says: Xic bought Connect Four for $12.00.
+Guy says: Cashier Ernie reports: Customer Xic selected Catan.
+Guy says: Xic bought Catan for $41.90.
+Guy says: Cashier Ernie reports: Customer Xic bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Vapalu is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Vapalu is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Vapalu bought 3 cookie(s).
+Guy says: Cashier Ernie reports: Customer Vapalu selected Risk.
+Guy says: Vapalu bought Risk for $31.50.
+Guy says: Cashier Ernie reports: Customer Vapalu selected Gloomhaven.
+Guy says: Vapalu bought Gloomhaven for $50.00.
+Guy says: They also bought 1 custom mini(s) for $49.98 for a grand total of $99.98.
+Guy says: Cashier Ernie reports: Customer Vapalu bought 2 game(s).
+Guy says: Ernie the Cashier checks to see if games need to be restocked...
+Guy says: Ernie the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 7 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 21.
+Guy says: Bart the Cashier arrived at the store on Day 21.
+Guy says: Three new orders of Pokemon have arrived.
+Guy says: Three new orders of Connect Four have arrived.
+Guy says: The cash register currently has $4017.96.
+Guy says: Gonger the Baker arrived on Day 21.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $134.64 so far! The cookie jar now has 133 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Bart stacked 3 Connect Four game(s) at shelf position 1.
+Guy says: Bart stacked 2 Life game(s) at shelf position 2.
+Guy says: Bart stacked 3 Magic game(s) at shelf position 3.
+Guy says: Bart stacked 2 Catan game(s) at shelf position 4.
+Guy says: Bart stacked 2 Gloomhaven game(s) at shelf position 5.
+Guy says: Bart stacked 2 Netrunner game(s) at shelf position 6.
+Guy says: Bart stacked 3 Pokemon game(s) at shelf position 7.
+Guy says: Bart stacked 1 Monopoly game(s) at shelf position 8.
+Guy says: Bart stacked 1 Mousetrap game(s) at shelf position 9.
+Guy says: Bart stacked 1 Candyland game(s) at shelf position 10.
+Guy says: Bart stacked 1 Clue game(s) at shelf position 11.
+Guy says: Bart stacked 1 Risk game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 5 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Customer named Huvie is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Huvie is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Huvie bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Huvie selected Life.
+Guy says: Huvie bought Life for $20.00.
+Guy says: Cashier Bart reports: Customer Huvie selected Catan.
+Guy says: Huvie bought Catan for $41.90.
+Guy says: Cashier Bart reports: Customer Huvie bought 2 game(s).
+Guy says: Cashier Bart reports: Customer named Pul is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Pul is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Pul bought 3 cookie(s).
+Guy says: Cashier Bart reports: Customer Pul selected Gloomhaven.
+Guy says: Pul bought Gloomhaven for $50.00.
+Guy says: Cashier Bart reports: Customer Pul selected Netrunner.
+Guy says: Pul bought Netrunner for $12.00.
+Guy says: Cashier Bart reports: Customer Pul selected Monopoly.
+Guy says: Pul bought Monopoly for $28.00.
+Guy says: Cashier Bart reports: Customer Pul bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Suraeube is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Suraeube is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Suraeube bought 3 cookie(s).
+Guy says: Cashier Bart reports: Customer Suraeube selected Connect Four.
+Guy says: Suraeube bought Connect Four for $12.00.
+Guy says: Cashier Bart reports: Customer Suraeube selected Life.
+Guy says: Suraeube bought Life for $20.00.
+Guy says: Cashier Bart reports: Customer Suraeube selected Magic.
+Guy says: Suraeube bought Magic for $39.88.
+Guy says: They also bought 2 special card(s) for $6.00 for a grand total of $45.88.
+Guy says: Cashier Bart reports: Customer Suraeube bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Kunic is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Kunic is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Kunic bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Kunic selected Gloomhaven.
+Guy says: Kunic bought Gloomhaven for $50.00.
+Guy says: Cashier Bart reports: Customer Kunic selected Netrunner.
+Guy says: Kunic bought Netrunner for $12.00.
+Guy says: Cashier Bart reports: Customer Kunic selected Pokemon.
+Guy says: Kunic bought Pokemon for $10.00.
+Guy says: They also bought 3 special card(s) for $9.00 for a grand total of $19.00.
+Guy says: Cashier Bart reports: Customer Kunic bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Wowa is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Wowa is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Wowa bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Wowa selected Pokemon.
+Guy says: Wowa bought Pokemon for $10.00.
+Guy says: Cashier Bart reports: Customer Wowa bought 1 game(s).
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 12 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 22.
+Guy says: Burt the Cashier arrived at the store on Day 22.
+Guy says: Three new orders of Life have arrived.
+Guy says: Three new orders of Gloomhaven have arrived.
+Guy says: Three new orders of Netrunner have arrived.
+Guy says: Three new orders of Monopoly have arrived.
+Guy says: The cash register currently has $4179.86.
+Guy says: Gonger the Baker arrived on Day 22.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $140.76 so far! The cookie jar now has 133 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 2 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 1 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 1 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 1 Risk game(s) at shelf position 6.
+Guy says: Burt stacked 3 Life game(s) at shelf position 7.
+Guy says: Burt stacked 1 Catan game(s) at shelf position 8.
+Guy says: Burt stacked 2 Magic game(s) at shelf position 9.
+Guy says: Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 3 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 1 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 3 customer(s) visited the store today.
+Guy says: 		COOKIE MONSTER ALERT!!! 
+	Cashier Burt reports: Cookie Monster has arrived to terrorize!
+Guy says: 		COOKIE MONSTER ALERT!!! 
+	Cashier Burt reports: Cookie Monster has eaten all the cookies!
+Guy says: 		COOKIE MONSTER ALERT!!! 
+	Cashier Burt reports: Cookie Monster wants to damage 5 game(s)!
+Guy says: 		COOKIE MONSTER ALERT!!! 
+	Cashier Burt reports: Cookie monster damaged an in-stock copy of Netrunner.
+Guy says: 		COOKIE MONSTER ALERT!!! 
+	Cashier Burt reports: Cookie monster damaged an in-stock copy of Netrunner.
+Guy says: 		COOKIE MONSTER ALERT!!! 
+	Cashier Burt reports: Cookie monster damaged an in-stock copy of Catan.
+Guy says: 		COOKIE MONSTER ALERT!!! 
+	Cashier Burt reports: Cookie monster damaged an in-stock copy of Gloomhaven.
+Guy says: 		COOKIE MONSTER ALERT!!! 
+	Cashier Burt reports: Cookie monster damaged an in-stock copy of Pokemon.
+Guy says: Cashier Burt reports: Customer named Kitapo is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Kitapo is trying to buy cookies.
+Guy says: Cashier Burt reports: There are no cookies for Kitapo to buy!
+Guy says: Cashier Burt reports: Customer Kitapo bought 0 game(s).
+Guy says: Cashier Burt reports: Customer named Coxie is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Coxie is trying to buy cookies.
+Guy says: Cashier Burt reports: There are no cookies for Coxie to buy!
+Guy says: Cashier Burt reports: Customer Coxie bought 0 game(s).
+Guy says: Cashier Burt reports: Customer named Munoxu is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Munoxu is trying to buy cookies.
+Guy says: Cashier Burt reports: There are no cookies for Munoxu to buy!
+Guy says: Cashier Burt reports: Customer Munoxu selected Connect Four.
+Guy says: Munoxu bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Munoxu bought 1 game(s).
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 0 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 133 cookie(s) today.
+Guy says: Gonger the Baker says there are NO cookies left at the end of the day, and will increase delivery to 2-dozen cookies.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 23.
+Guy says: Bart the Cashier arrived at the store on Day 23.
+Guy says: Three new orders of Catan have arrived.
+Guy says: Three new orders of Pokemon have arrived.
+Guy says: The cash register currently has $4107.74.
+Guy says: Gonger the Baker arrived on Day 23.
+Guy says: Gonger the Baker dropped off 2-dozen chocolate chip cookies for $12.24.
+Guy says: Gonger the Baker has earned $153.00 so far! The cookie jar now has 24 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Bart stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Bart stacked 3 Life game(s) at shelf position 2.
+Guy says: Bart stacked 2 Magic game(s) at shelf position 3.
+Guy says: Bart stacked 3 Catan game(s) at shelf position 4.
+Guy says: Bart stacked 2 Gloomhaven game(s) at shelf position 5.
+Guy says: Bart stacked 3 Pokemon game(s) at shelf position 6.
+Guy says: Bart stacked 1 Connect Four game(s) at shelf position 7.
+Guy says: Bart stacked 1 Mousetrap game(s) at shelf position 8.
+Guy says: Bart stacked 1 Candyland game(s) at shelf position 9.
+Guy says: Bart stacked 1 Clue game(s) at shelf position 10.
+Guy says: Bart stacked 1 Risk game(s) at shelf position 11.
+Guy says: Bart stacked 1 Netrunner game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 4 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Customer named Luvani is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Luvani is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Luvani bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Luvani selected Monopoly.
+Guy says: Luvani bought Monopoly for $28.00.
+Guy says: Cashier Bart reports: Customer Luvani selected Candyland.
+Guy says: Luvani bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Customer Luvani bought 2 game(s).
+Guy says: Cashier Bart reports: Customer named Segumev is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Segumev is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Segumev bought 3 cookie(s).
+Guy says: Cashier Bart reports: Customer Segumev selected Monopoly.
+Guy says: Segumev bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Bart reports: Customer Segumev selected Magic.
+Guy says: Segumev bought Magic for $39.88.
+Guy says: Cashier Bart reports: Customer Segumev selected Gloomhaven.
+Guy says: Segumev bought Gloomhaven for $50.00.
+Guy says: Cashier Bart reports: Customer Segumev bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Kat is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Kat is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Kat bought 3 cookie(s).
+Guy says: Cashier Bart reports: Customer Kat selected Monopoly.
+Guy says: Kat bought Monopoly for $28.00.
+Guy says: Cashier Bart reports: Customer Kat selected Magic.
+Guy says: Kat bought Magic for $39.88.
+Guy says: Cashier Bart reports: Customer Kat selected Gloomhaven.
+Guy says: Kat bought Gloomhaven for $50.00.
+Guy says: They also bought 4 custom mini(s) for $199.92 for a grand total of $249.92.
+Guy says: Cashier Bart reports: Customer Kat bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Zepi is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Zepi is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Zepi bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Zepi selected Life.
+Guy says: Zepi bought Life for $20.00.
+Guy says: Cashier Bart reports: Customer Zepi selected Connect Four.
+Guy says: Zepi bought Connect Four for $12.00.
+Guy says: Cashier Bart reports: Customer Zepi selected Mousetrap.
+Guy says: Zepi bought Mousetrap for $24.90.
+Guy says: Cashier Bart reports: Customer Zepi bought 3 game(s).
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 10 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 24.
+Guy says: Bart the Cashier arrived at the store on Day 24.
+Guy says: Three new orders of Monopoly have arrived.
+Guy says: Three new orders of Magic have arrived.
+Guy says: Three new orders of Gloomhaven have arrived.
+Guy says: Three new orders of Connect Four have arrived.
+Guy says: Three new orders of Mousetrap have arrived.
+Guy says: Three new orders of Candyland have arrived.
+Guy says: The cash register currently has $4387.68.
+Guy says: Gonger the Baker arrived on Day 24.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $159.12 so far! The cookie jar now has 26 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Bart stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Bart stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Bart stacked 3 Mousetrap game(s) at shelf position 3.
+Guy says: Bart stacked 3 Candyland game(s) at shelf position 4.
+Guy says: Bart stacked 2 Life game(s) at shelf position 5.
+Guy says: Bart stacked 3 Catan game(s) at shelf position 6.
+Guy says: Bart stacked 3 Magic game(s) at shelf position 7.
+Guy says: Bart stacked 3 Gloomhaven game(s) at shelf position 8.
+Guy says: Bart stacked 3 Pokemon game(s) at shelf position 9.
+Guy says: Bart stacked 1 Clue game(s) at shelf position 10.
+Guy says: Bart stacked 1 Risk game(s) at shelf position 11.
+Guy says: Bart stacked 1 Netrunner game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 3 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Customer named Xeka is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Xeka is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Xeka bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Xeka selected Mousetrap.
+Guy says: Xeka bought Mousetrap for $24.90.
+Guy says: Cashier Bart reports: Customer Xeka selected Candyland.
+Guy says: Xeka bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Customer Xeka selected Catan.
+Guy says: Xeka bought Catan for $41.90.
+Guy says: Cashier Bart reports: Customer Xeka bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Zof is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Zof is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Zof bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Zof selected Candyland.
+Guy says: Zof bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Customer Zof selected Gloomhaven.
+Guy says: Zof bought Gloomhaven for $50.00.
+Guy says: Cashier Bart reports: Customer Zof selected Pokemon.
+Guy says: Zof bought Pokemon for $10.00.
+Guy says: Cashier Bart reports: Customer Zof bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Yorahiyo is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Yorahiyo is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Yorahiyo bought 3 cookie(s).
+Guy says: Cashier Bart reports: Customer Yorahiyo selected Monopoly.
+Guy says: Yorahiyo bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Bart reports: Customer Yorahiyo selected Life.
+Guy says: Yorahiyo bought Life for $20.00.
+Guy says: Cashier Bart reports: Customer Yorahiyo selected Gloomhaven.
+Guy says: Yorahiyo bought Gloomhaven for $50.00.
+Guy says: They also bought 4 custom mini(s) for $199.92 for a grand total of $249.92.
+Guy says: Cashier Bart reports: Customer Yorahiyo bought 3 game(s).
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 7 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 25.
+Guy says: Bart the Cashier arrived at the store on Day 25.
+Guy says: The cash register currently has $4868.22.
+Guy says: Gonger the Baker arrived on Day 25.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $165.24 so far! The cookie jar now has 31 cookie(s).
+Guy says: Vacuuming... 
+Guy says: An in-stock order of Mousetrap got damaged while vacuuming!
+Guy says: Stacking...
+Guy says: Bart stacked 2 Monopoly game(s) at shelf position 1.
+Guy says: Bart stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Bart stacked 3 Magic game(s) at shelf position 3.
+Guy says: Bart stacked 2 Catan game(s) at shelf position 4.
+Guy says: Bart stacked 2 Pokemon game(s) at shelf position 5.
+Guy says: Bart stacked 1 Mousetrap game(s) at shelf position 6.
+Guy says: Bart stacked 1 Candyland game(s) at shelf position 7.
+Guy says: Bart stacked 1 Clue game(s) at shelf position 8.
+Guy says: Bart stacked 1 Risk game(s) at shelf position 9.
+Guy says: Bart stacked 1 Life game(s) at shelf position 10.
+Guy says: Bart stacked 1 Gloomhaven game(s) at shelf position 11.
+Guy says: Bart stacked 1 Netrunner game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 6 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Customer named Yel is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Yel is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Yel bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Yel selected Magic.
+Guy says: Yel bought Magic for $39.88.
+Guy says: Cashier Bart reports: Customer Yel selected Catan.
+Guy says: Yel bought Catan for $41.90.
+Guy says: Cashier Bart reports: Customer Yel selected Risk.
+Guy says: Yel bought Risk for $31.50.
+Guy says: Cashier Bart reports: Customer Yel bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Vahati is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Vahati is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Vahati bought 1 cookie(s).
+Guy says: Cashier Bart reports: Customer Vahati selected Monopoly.
+Guy says: Vahati bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Bart reports: Customer Vahati selected Pokemon.
+Guy says: Vahati bought Pokemon for $10.00.
+Guy says: Cashier Bart reports: Customer Vahati selected Mousetrap.
+Guy says: Vahati bought Mousetrap for $24.90.
+Guy says: They also bought 1 spare parts kit(s) for $7.00 for a grand total of $31.90.
+Guy says: Cashier Bart reports: Customer Vahati bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Pasaxuk is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Pasaxuk is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Pasaxuk bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Pasaxuk selected Monopoly.
+Guy says: Pasaxuk bought Monopoly for $28.00.
+Guy says: Cashier Bart reports: Customer Pasaxuk selected Catan.
+Guy says: Pasaxuk bought Catan for $41.90.
+Guy says: Cashier Bart reports: Customer Pasaxuk bought 2 game(s).
+Guy says: Cashier Bart reports: Customer named Leweto is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Leweto is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Leweto bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Leweto selected Pokemon.
+Guy says: Leweto bought Pokemon for $10.00.
+Guy says: They also bought 2 special card(s) for $6.00 for a grand total of $16.00.
+Guy says: Cashier Bart reports: Customer Leweto selected Candyland.
+Guy says: Leweto bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Customer Leweto bought 2 game(s).
+Guy says: Cashier Bart reports: Customer named Gusi is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Gusi is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Gusi bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Gusi selected Life.
+Guy says: Gusi bought Life for $20.00.
+Guy says: Cashier Bart reports: Customer Gusi bought 1 game(s).
+Guy says: Cashier Bart reports: Customer named Zata is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Zata is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Zata bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Zata selected Magic.
+Guy says: Zata bought Magic for $39.88.
+Guy says: Cashier Bart reports: Customer Zata selected Clue.
+Guy says: Zata bought Clue for $19.00.
+Guy says: Cashier Bart reports: Customer Zata selected Gloomhaven.
+Guy says: Zata bought Gloomhaven for $50.00.
+Guy says: Cashier Bart reports: Customer Zata bought 3 game(s).
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 11 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 26.
+Guy says: Burt the Cashier arrived at the store on Day 26.
+Guy says: Three new orders of Monopoly have arrived.
+Guy says: Three new orders of Catan have arrived.
+Guy says: Three new orders of Pokemon have arrived.
+Guy says: Three new orders of Mousetrap have arrived.
+Guy says: Three new orders of Candyland have arrived.
+Guy says: Three new orders of Clue have arrived.
+Guy says: Three new orders of Risk have arrived.
+Guy says: Three new orders of Life have arrived.
+Guy says: Three new orders of Gloomhaven have arrived.
+Guy says: The cash register currently has $4926.68.
+Guy says: Gonger the Baker arrived on Day 26.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $171.36 so far! The cookie jar now has 32 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 3 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 3 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 3 Life game(s) at shelf position 6.
+Guy says: Burt stacked 3 Risk game(s) at shelf position 7.
+Guy says: Burt stacked 3 Catan game(s) at shelf position 8.
+Guy says: Burt stacked 1 Magic game(s) at shelf position 9.
+Guy says: Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 1 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 2 customer(s) visited the store today.
+Guy says: Cashier Burt reports: Customer named Giruneku is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Giruneku is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Giruneku bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Giruneku selected Connect Four.
+Guy says: Giruneku bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Giruneku selected Candyland.
+Guy says: Giruneku bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Customer Giruneku selected Clue.
+Guy says: Giruneku bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Giruneku bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Qekunus is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Qekunus is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Qekunus bought 2 cookie(s).
+Guy says: Cashier Burt reports: Customer Qekunus selected Monopoly.
+Guy says: Qekunus bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Customer Qekunus selected Connect Four.
+Guy says: Qekunus bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Qekunus selected Mousetrap.
+Guy says: Qekunus bought Mousetrap for $24.90.
+Guy says: They also bought 1 spare parts kit(s) for $7.00 for a grand total of $31.90.
+Guy says: Cashier Burt reports: Customer Qekunus bought 3 game(s).
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 4 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 27.
+Guy says: Ernie the Cashier arrived at the store on Day 27.
+Guy says: The cash register currently has $5057.94.
+Guy says: Gonger the Baker arrived on Day 27.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $177.48 so far! The cookie jar now has 40 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Guy says: Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Guy says: Ernie stacked 2 Candyland game(s) at shelf position 3.
+Guy says: Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy says: Ernie stacked 3 Life game(s) at shelf position 5.
+Guy says: Ernie stacked 3 Risk game(s) at shelf position 6.
+Guy says: Ernie stacked 2 Clue game(s) at shelf position 7.
+Guy says: Ernie stacked 2 Monopoly game(s) at shelf position 8.
+Guy says: Ernie stacked 3 Catan game(s) at shelf position 9.
+Guy says: Ernie stacked 1 Magic game(s) at shelf position 10.
+Guy says: Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Guy says: Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Ernie reports: 3 customer(s) visited the store today.
+Guy says: Cashier Ernie reports: Customer named Panufit is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Panufit is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Panufit bought 3 cookie(s).
+Guy says: Cashier Ernie reports: Customer Panufit selected Netrunner.
+Guy says: Panufit bought Netrunner for $12.00.
+Guy says: Cashier Ernie reports: Customer Panufit selected Candyland.
+Guy says: Panufit bought Candyland for $24.40.
+Guy says: Cashier Ernie reports: Customer Panufit selected Risk.
+Guy says: Panufit bought Risk for $31.50.
+Guy says: Cashier Ernie reports: Customer Panufit bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Hupel is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Hupel is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Hupel bought 1 cookie(s).
+Guy says: Cashier Ernie reports: Customer Hupel selected Candyland.
+Guy says: Hupel bought Candyland for $24.40.
+Guy says: Cashier Ernie reports: Customer Hupel selected Risk.
+Guy says: Hupel bought Risk for $31.50.
+Guy says: Cashier Ernie reports: Customer Hupel selected Clue.
+Guy says: Hupel bought Clue for $19.00.
+Guy says: Cashier Ernie reports: Customer Hupel bought 3 game(s).
+Guy says: Cashier Ernie reports: Customer named Eezugo is inspecting the shelves.
+Guy says: Cashier Ernie reports: Customer Eezugo is trying to buy cookies.
+Guy says: Cashier Ernie reports: Customer Eezugo bought 2 cookie(s).
+Guy says: Cashier Ernie reports: Customer Eezugo selected Connect Four.
+Guy says: Eezugo bought Connect Four for $12.00.
+Guy says: Cashier Ernie reports: Customer Eezugo selected Catan.
+Guy says: Eezugo bought Catan for $41.90.
+Guy says: Cashier Ernie reports: Customer Eezugo selected Mousetrap.
+Guy says: Eezugo bought Mousetrap for $24.90.
+Guy says: Cashier Ernie reports: Customer Eezugo bought 3 game(s).
+Guy says: Ernie the Cashier checks to see if games need to be restocked...
+Guy says: Ernie the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 6 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 28.
+Guy says: Bart the Cashier arrived at the store on Day 28.
+Guy says: Three new orders of Netrunner have arrived.
+Guy says: Three new orders of Candyland have arrived.
+Guy says: Three new orders of Connect Four have arrived.
+Guy says: The cash register currently has $5206.54.
+Guy says: Gonger the Baker arrived on Day 28.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $183.60 so far! The cookie jar now has 46 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Bart stacked 2 Monopoly game(s) at shelf position 1.
+Guy says: Bart stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Bart stacked 3 Candyland game(s) at shelf position 3.
+Guy says: Bart stacked 3 Life game(s) at shelf position 4.
+Guy says: Bart stacked 2 Catan game(s) at shelf position 5.
+Guy says: Bart stacked 3 Gloomhaven game(s) at shelf position 6.
+Guy says: Bart stacked 3 Netrunner game(s) at shelf position 7.
+Guy says: Bart stacked 3 Pokemon game(s) at shelf position 8.
+Guy says: Bart stacked 1 Mousetrap game(s) at shelf position 9.
+Guy says: Bart stacked 1 Clue game(s) at shelf position 10.
+Guy says: Bart stacked 1 Risk game(s) at shelf position 11.
+Guy says: Bart stacked 1 Magic game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 2 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Customer named Hivinawa is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Hivinawa is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Hivinawa bought 2 cookie(s).
+Guy says: Cashier Bart reports: Customer Hivinawa selected Candyland.
+Guy says: Hivinawa bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Customer Hivinawa selected Netrunner.
+Guy says: Hivinawa bought Netrunner for $12.00.
+Guy says: Cashier Bart reports: Customer Hivinawa selected Pokemon.
+Guy says: Hivinawa bought Pokemon for $10.00.
+Guy says: They also bought 4 special card(s) for $12.00 for a grand total of $22.00.
+Guy says: Cashier Bart reports: Customer Hivinawa bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Eifa is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Eifa is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Eifa bought 3 cookie(s).
+Guy says: Cashier Bart reports: Customer Eifa selected Candyland.
+Guy says: Eifa bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Customer Eifa selected Life.
+Guy says: Eifa bought Life for $20.00.
+Guy says: Cashier Bart reports: Customer Eifa bought 2 game(s).
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 5 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 29.
+Guy says: Bart the Cashier arrived at the store on Day 29.
+Guy says: The cash register currently has $5308.32.
+Guy says: Gonger the Baker arrived on Day 29.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $189.72 so far! The cookie jar now has 53 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Bart stacked 2 Monopoly game(s) at shelf position 1.
+Guy says: Bart stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Bart stacked 2 Life game(s) at shelf position 3.
+Guy says: Bart stacked 2 Catan game(s) at shelf position 4.
+Guy says: Bart stacked 3 Gloomhaven game(s) at shelf position 5.
+Guy says: Bart stacked 2 Netrunner game(s) at shelf position 6.
+Guy says: Bart stacked 2 Pokemon game(s) at shelf position 7.
+Guy says: Bart stacked 1 Mousetrap game(s) at shelf position 8.
+Guy says: Bart stacked 1 Candyland game(s) at shelf position 9.
+Guy says: Bart stacked 1 Clue game(s) at shelf position 10.
+Guy says: Bart stacked 1 Risk game(s) at shelf position 11.
+Guy says: Bart stacked 1 Magic game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 3 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Customer named Yiqi is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Yiqi is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Yiqi bought 3 cookie(s).
+Guy says: Cashier Bart reports: Customer Yiqi selected Monopoly.
+Guy says: Yiqi bought Monopoly for $28.00.
+Guy says: Cashier Bart reports: Customer Yiqi selected Connect Four.
+Guy says: Yiqi bought Connect Four for $12.00.
+Guy says: Cashier Bart reports: Customer Yiqi selected Candyland.
+Guy says: Yiqi bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Customer Yiqi bought 3 game(s).
+Guy says: Cashier Bart reports: Customer named Setu is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Setu is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Setu bought 1 cookie(s).
+Guy says: Cashier Bart reports: Customer Setu selected Pokemon.
+Guy says: Setu bought Pokemon for $10.00.
+Guy says: Cashier Bart reports: Customer Setu selected Clue.
+Guy says: Setu bought Clue for $19.00.
+Guy says: Cashier Bart reports: Customer Setu bought 2 game(s).
+Guy says: Cashier Bart reports: Customer named Posilob is inspecting the shelves.
+Guy says: Cashier Bart reports: Customer Posilob is trying to buy cookies.
+Guy says: Cashier Bart reports: Customer Posilob bought 1 cookie(s).
+Guy says: Cashier Bart reports: Customer Posilob selected Connect Four.
+Guy says: Posilob bought Connect Four for $12.00.
+Guy says: Cashier Bart reports: Customer Posilob selected Pokemon.
+Guy says: Posilob bought Pokemon for $10.00.
+Guy says: Cashier Bart reports: Customer Posilob selected Risk.
+Guy says: Posilob bought Risk for $31.50.
+Guy says: Cashier Bart reports: Customer Posilob bought 3 game(s).
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 5 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 30.
+Guy says: Burt the Cashier arrived at the store on Day 30.
+Guy says: Three new orders of Pokemon have arrived.
+Guy says: Three new orders of Candyland have arrived.
+Guy says: Three new orders of Clue have arrived.
+Guy says: Three new orders of Risk have arrived.
+Guy says: The cash register currently has $5326.20.
+Guy says: Gonger the Baker arrived on Day 30.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $195.84 so far! The cookie jar now has 60 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 1 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 1 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 3 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 3 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 3 Risk game(s) at shelf position 6.
+Guy says: Burt stacked 2 Life game(s) at shelf position 7.
+Guy says: Burt stacked 1 Magic game(s) at shelf position 8.
+Guy says: Burt stacked 2 Catan game(s) at shelf position 9.
+Guy says: Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 2 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 4 customer(s) visited the store today.
+Guy says: Cashier Burt reports: Customer named Yorune is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Yorune is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Yorune bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Yorune selected Connect Four.
+Guy says: Yorune bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Customer Yorune selected Mousetrap.
+Guy says: Yorune bought Mousetrap for $24.90.
+Guy says: Cashier Burt reports: Customer Yorune selected Clue.
+Guy says: Yorune bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Yorune bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Dof is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Dof is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Dof bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Dof selected Candyland.
+Guy says: Dof bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Customer Dof selected Risk.
+Guy says: Dof bought Risk for $31.50.
+Guy says: Cashier Burt reports: Customer Dof selected Magic.
+Guy says: Dof bought Magic for $39.88.
+Guy says: They also bought 1 special card(s) for $3.00 for a grand total of $42.88.
+Guy says: Cashier Burt reports: Customer Dof bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Bafi is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Bafi is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Bafi bought 1 cookie(s).
+Guy says: Cashier Burt reports: Customer Bafi selected Monopoly.
+Guy says: Bafi bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Customer Bafi selected Candyland.
+Guy says: Bafi bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Customer Bafi selected Clue.
+Guy says: Bafi bought Clue for $19.00.
+Guy says: Cashier Burt reports: Customer Bafi bought 3 game(s).
+Guy says: Cashier Burt reports: Customer named Qoq is inspecting the shelves.
+Guy says: Cashier Burt reports: Customer Qoq is trying to buy cookies.
+Guy says: Cashier Burt reports: Customer Qoq bought 3 cookie(s).
+Guy says: Cashier Burt reports: Customer Qoq selected Risk.
+Guy says: Qoq bought Risk for $31.50.
+Guy says: Cashier Burt reports: Customer Qoq bought 1 game(s).
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 6 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Event Summary:
+The Cash Fairy graciously visited the store 1 time(s).
+Gonger the Baker made a racket of $195.84.
+
+Item Summary:
+The cookie monster devoured a total of 133 cookie(s).
+197 sale(s) of cookies occurred, generating $200.94 of revenue.
+30 sale(s) of Monopoly occurred, generating $840.00 of revenue.
+30 sale(s) of Connect Four occurred, generating $360.00 of revenue.
+17 sale(s) of Mousetrap occurred, generating $423.30 of revenue.
+32 sale(s) of Candyland occurred, generating $780.80 of revenue.
+26 sale(s) of Clue occurred, generating $494.00 of revenue.
+26 sale(s) of Risk occurred, generating $819.00 of revenue.
+19 sale(s) of Life occurred, generating $380.00 of revenue.
+18 sale(s) of Magic occurred, generating $717.84 of revenue.
+9 sale(s) of Catan occurred, generating $377.10 of revenue.
+14 sale(s) of Gloomhaven occurred, generating $700.00 of revenue.
+20 sale(s) of Netrunner occurred, generating $240.00 of revenue.
+23 sale(s) of Pokemon occurred, generating $230.00 of revenue.
+
+0 order(s) of Monopoly got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Connect Four got damaged, costing the store $0.00 in replacement costs.
+1 order(s) of Mousetrap got damaged, costing the store $12.45 in replacement costs.
+0 order(s) of Candyland got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Clue got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Risk got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Life got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Magic got damaged, costing the store $0.00 in replacement costs.
+1 order(s) of Catan got damaged, costing the store $20.95 in replacement costs.
+1 order(s) of Gloomhaven got damaged, costing the store $25.00 in replacement costs.
+2 order(s) of Netrunner got damaged, costing the store $12.00 in replacement costs.
+1 order(s) of Pokemon got damaged, costing the store $5.00 in replacement costs.
