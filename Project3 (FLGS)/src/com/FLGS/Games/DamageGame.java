@@ -11,7 +11,9 @@ public class DamageGame {
         //reference https://www.baeldung.com/java-random-list-element
 
         if(gameList != null && !gameList.isEmpty()){
-            Games gameDamaged = gameList.get(r.nextInt(gameList.size()));
+            List<Games> gameInStock=gameList;
+            gameInStock.removeIf(x->x.inventory==0);
+            Games gameDamaged = gameInStock.get(r.nextInt(gameInStock.size()));
             gameDamaged.inventory -= 1;
             return gameDamaged;
         }else{
