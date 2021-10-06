@@ -4,7 +4,7 @@ import com.FLGS.Store.CookieJar;
 
 public class Baker extends Employee implements Publisher {
 
-    private double Pocket = 0;
+    public double Pocket = 0;
     private int deliverPackages = 1;
     private Announcer subscriber;
 
@@ -24,25 +24,30 @@ public class Baker extends Employee implements Publisher {
         this.Pocket+=soldPrice;
 
         this.publish(this.getName() + " the Baker dropped off " +
-                     deliverPackages + " packages of chocolate chip " +
+                     deliverPackages + "-dozen chocolate chip " +
                      "cookies for $" +
                      String.format("%.2f", soldPrice) + ".");
 
         this.publish(this.getName() + " the Baker has earned $" +
-                     String.format("%.2f", this.Pocket) + " so far!");
+                     String.format("%.2f", this.Pocket) + " so far!" +
+                     " The cookie jar now has " + jar.getCookiesInJar() +
+                     " cookie(s).");
 
     }
 
     public void updateCookieRequirements(CookieJar jar){
+        this.publish(this.name + " the Baker says that " +
+                     jar.getTotCookiesSoldToday() +
+                     " cookie sale(s) happened today.");
         if (!jar.existCookies()){
             addDeliverPackages();
             this.publish(this.name + " the Baker says there are NO cookies left at the end of the day, " +
-                    "and will increase delivery to " + this.deliverPackages + " dozens.");
+                    "and will increase delivery to " + this.deliverPackages + "-dozen cookies.");
         }
         else {
             deductDeliverPackages();
             this.publish(this.name + " the Baker says there are still cookies left at the end of the day, " +
-                    "and will deliver " + this.deliverPackages + " dozens the next day.");
+                    "and will deliver " + this.deliverPackages + "-dozen cookies the next day.");
         }
     }
 
@@ -53,6 +58,10 @@ public class Baker extends Employee implements Publisher {
 
     public void addDeliverPackages(){
         deliverPackages=deliverPackages+1;
+    }
+
+    public double getPocket(){
+        return this.Pocket;
     }
 
     public void deductDeliverPackages(){

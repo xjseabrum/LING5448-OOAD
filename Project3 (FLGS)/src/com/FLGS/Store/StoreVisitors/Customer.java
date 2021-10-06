@@ -53,7 +53,7 @@ public class Customer implements StoreVisitor {
         cookieJar.soldCookie(numCookies);
 
         cashier.publish("Cashier " + cashier.getName() + " reports: " +
-                "Customer " + this.name + " bought " + numCookies + "cookies");
+                "Customer " + this.name + " bought " + numCookies + " cookie(s).");
 
         this.buyProbabilityModifier += 0.20;
     }
