@@ -3,6 +3,9 @@ package com.FLGS.Store.Employees;
 //com.FLGS.Store.StoreVisitors.Customer.buyGame(). It then passes it to com.FLGS.Actions.Sold.doAction() where it
 //updates the com.FLGS.Games.Games object.
 
+//An exmaple of strategy - a set of behaviors of cashier is turned into a sets of objects.
+//So, the behaviors here is interchangeable, for example, the stack method can be change with HighestFirst or WidestFirst.
+
 
 import com.FLGS.Actions.*;
 import com.FLGS.Games.Games;
