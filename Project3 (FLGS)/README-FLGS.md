@@ -109,7 +109,8 @@ public class CustomMinis extends SpecialAdd {
 
 ### 3. Strategy
 
-a set of behaviors of cashier is turned into a sets of objects. So, the behaviors of cashierTask is interchangeable, for example, the stack method can be change with HighestFirst or WidestFirst.
+A set of Cashier behaviors is turned into sets of objects. So, the behaviors of cashierTask is interchangeable. For example, the stack method can be changed with HighestFirst or WidestFirst.
+
 ```java
 public class CashierTask {
     Arrive arrive;
@@ -167,6 +168,8 @@ public class CashierTask {
         sold.doAction(gameSold,customerName,cashRegister);
     }
 ```
+
+
 ```java
 public class HighestFirstStack extends Stack{
 
@@ -179,6 +182,8 @@ public class HighestFirstStack extends Stack{
         }
     }
 ```
+
+
 ```java
 public class WidestFirstStack extends Stack{
 
@@ -195,6 +200,7 @@ public class WidestFirstStack extends Stack{
     }
 }
 ```
+
 
 The following helper class (Deco) helps to assign the correct decorator given the game that is inputted.  This is just one of the ways Strategy is used in the project (the other main examples can be found in: RandomUtils, StoreUtils, EmployeeUtils, PublishUtils).  Coincidentally, Deco is also a Simple Factory.
 ```java
