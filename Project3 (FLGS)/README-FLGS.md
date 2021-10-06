@@ -3,7 +3,11 @@ Team members (along with version of Java that each is using):
 
 - Jay Seabrum (using Java JDK 16)
 - Weitung Liao (using Java JDK 16)
-- Dananjay Srinivas (using com.FLGS.Actions.Open SDK 16)
+- Dananjay Srinivas (using com.FLGS.Actions.Open SDK 16
+
+## UML Diagram is here: Project3 (FLGS)/Proj3UML.png
+## Output file is here: Project 3 (FLGS)/Output.txt
+## Code can be found in various folders here:  Project 3 (FLGS)/src/com/FLGS/
 
 # Examples of Design Patterns 
 
@@ -57,6 +61,115 @@ public interface Subscriber{
 
 
 *Please note: currently, we are not actively calling methods* `addPublisher()`, `removePublisher()` and `removeAllPublisher()` *becuase there is no requirement for the subscriber to have a reference to the publisher. The same is the case with* `getSubscriber()` - *there is no requirement to find the subscriber of a given publisher (always Guy)*
+
+### 2. Decorator Pattern
+Decorators (CustomMinis, SpecialTokenPack, SpecialCards, SpareParts) inherit from their abstract class (SpecialAdd) which inherits from the base abstrat class Games.  These decorators are assigned to their appropriate game or game type via delegating to a helper class (described below under Strategy).  Below is the code for CustomMinis which shows that it takes in a Games object and outputs different things depending on the getter:
+
+```java
+public class CustomMinis extends SpecialAdd {
+    private int minRoll = 1;
+    private int maxRoll = 4;
+    public String desc = "";
+    private int numBuy;
+    private double addCost;
+    public double totCost;
+
+    public CustomMinis(Games g){
+        super(g);
+        this.price = 49.98;
+    }
+
+    public String getDesc(){
+        desc = "They also bought " + this.getNumBuy() + " custom mini(s) for $" +
+                String.format("%.2f", this.getAddCost()) +
+                " for a grand total of $" + String.format("%.2f", this.getPrice())
+                + ".";
+        return desc;
+    }
+
+    public int getNumBuy(){
+        this.numBuy = super.getRandRoll(minRoll, maxRoll);
+        return numBuy;
+    }
+
+    public double getAddCost(){
+        this.addCost = this.numBuy * this.price;
+        return addCost;
+    }
+
+    public double getPrice(){
+        this.totCost = (g.getPrice() + this.addCost);
+        return totCost;
+    }
+}
+
+```
+
+
+
+### 3. Strategy
+The following helper class (Deco) helps to assign the correct decorator given the game that is inputted.  This is just one of four different ways strategy is used in the project (the other main examples can be found in: RandomUtils, StoreUtils, EmployeeUtils, PublishUtils).  
+```java
+
+public class Deco {
+    public String special = "";
+
+    public Deco() {
+    }
+
+    public String decorate(Games g, CashRegister r) {
+
+        if (Objects.equals(g.gameName, "Monopoly")) {
+            Games g2 = g;
+            g2 = new SpecialTokenPack(g2);
+            this.special = g2.getDesc();
+            r.addCash(g2.getAddCost());
+            return special;
+
+        } else if (Objects.equals(g.gameType, "Card Game")) {
+            Games g2 = g;
+            g2 = new SpecialCards(g2);
+            this.special = g2.getDesc();
+            r.addCash(g2.getAddCost());
+            return special;
+
+        } else if (Objects.equals(g.gameName, "Mousetrap")) {
+            Games g2 = g;
+            g2 = new SpareParts(g2);
+            this.special = g2.getDesc();
+            r.addCash(g2.getAddCost());
+            return special;
+
+        } else if (Objects.equals(g.gameName, "Gloomhaven")) {
+            Games g2 = g;
+            g2 = new CustomMinis(g2);
+            this.special = g2.getDesc();
+            r.addCash(g2.getAddCost());
+            return special;
+
+        } else {
+            this.special = "";
+            r.addCash(0);
+            return special;
+        }
+    }
+}
+```
+
+Now, where is Deco called so that Strategy may be used?  It is called here, under the buyGames() method in Customer.java:
+_(Note: code is truncated here just to show the main point.  Truncated code is represented with [...])_
+```java
+private void buyGames(List<Games> inInventory, Cashier cashier){
+        Deco deco = new Deco();
+        for (int i = 0; i<inInventory.size(); i++){
+            [...]
+                    // Here, delegation to deco occurs.
+                    // allowing it to assign the correct decorator
+                    // to the game that the customer buys.
+                    cashier.publish(deco.decorate(inInventory.get(i), Main.register));
+            [...]
+    }
+```
 
 # Previous considerations
 This was a conservative bet on what can be delivered in the 8 days that we actually worked on this project (the rest was divided between design and Project 1 submission). 
