@@ -16,15 +16,7 @@ public class Baker extends Employee implements Publisher {
         this.publish(this.getName() + " the Baker arrived on Day " + (numDays+1) + ".");
     }
 
-
     public void deliverCookies(CookieJar jar){
-
-        if (!jar.existCookies()){
-            addDeliverPackages();
-        }
-        else {
-            deductDeliverPackages();
-        }
 
         double soldPrice=jar.addDozen(deliverPackages);
 
@@ -41,12 +33,28 @@ public class Baker extends Employee implements Publisher {
 
     }
 
+    public void updateCookieRequirements(CookieJar jar){
+        if (!jar.existCookies()){
+            addDeliverPackages();
+            this.publish(this.name + " the Baker says there are NO cookies left at the end of the day, " +
+                    "and will increase delivery to " + this.deliverPackages + " dozens.");
+        }
+        else {
+            deductDeliverPackages();
+            this.publish(this.name + " the Baker says there are still cookies left at the end of the day, " +
+                    "and will deliver " + this.deliverPackages + " dozens the next day.");
+        }
+    }
+
+
     public void leave(){
         this.publish(this.getName() + " the Baker has left for day.");
     }
+
     public void addDeliverPackages(){
         deliverPackages=deliverPackages+1;
     }
+
     public void deductDeliverPackages(){
         //baker has a minimum of 1 package delivered)
         if(deliverPackages>1){

@@ -21,7 +21,7 @@ public class StoreUtils {
     }
 
     public static CookieMonster spawnCookieMonster(){
-        if (RandomUtils.getRandomDouble() >= 0.01){
+        if (RandomUtils.getRandomDouble() >= 0.99){
             return new CookieMonster();
         }
         return null;

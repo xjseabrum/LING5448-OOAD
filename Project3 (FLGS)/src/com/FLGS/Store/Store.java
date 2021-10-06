@@ -23,8 +23,8 @@ public class Store {
     // attributes
     private List<Customer> customers = new ArrayList<Customer>();
     private List<Cashier> cashiers = new ArrayList<Cashier>();
-    private Announcer announcer = EmployeeUtils.spawnAnnouncer();;
-    private Baker baker = EmployeeUtils.spawnBaker(announcer);
+    private final Announcer announcer = EmployeeUtils.spawnAnnouncer();;
+    private final Baker baker = EmployeeUtils.spawnBaker(announcer);
 
     // getters and setters
     public Cashier getCashier(){
@@ -55,6 +55,7 @@ public class Store {
             cashier.tasks.count(Main.register);}
 
         this.baker.arrive(day);
+        this.baker.deliverCookies(Main.wares.cookiejar);
 
         for (Cashier cashier:this.cashiers){
             cashier.tasks.vacuum(Main.wares,cashier.vacuumDamageRate);
@@ -91,10 +92,11 @@ public class Store {
             cashier.tasks.close();
         }
 
-        this.baker.deliverCookies(Main.wares.cookiejar);
+        this.baker.updateCookieRequirements(Main.wares.cookiejar);
+        this.baker.leave();
 
         this.cashiers.clear();
-        this.baker.leave();
+
         this.announcer.leave();
     }
 
