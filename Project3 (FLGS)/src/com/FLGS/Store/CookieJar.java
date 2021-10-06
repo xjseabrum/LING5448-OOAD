@@ -13,6 +13,11 @@ public class CookieJar {
     public double priceDozen = 12.24;
     public double priceCookie = 1.02;
     public int cookiesInJar = 0;
+    public int totCookiesSold = 0;
+    public int totCookiesSoldToday = 0;
+    public int totCMAte = 0;
+    public int totCMAteToday = 0;
+
 
     public int getCookiesInJar() {
         return cookiesInJar;
@@ -22,7 +27,29 @@ public class CookieJar {
     // method.
     public void soldCookie(int cookies) {
         this.cookiesInJar -= cookies;
+        this.totCookiesSold += cookies;
+        this.totCookiesSoldToday += cookies;
         register.addCash(cookies * priceCookie);
+    }
+
+    public int getTotCookiesSold(){
+        return this.totCookiesSold;
+    }
+
+    public int getTotCMAte(){
+        return this.totCMAte;
+    }
+
+    public int getTotCookiesSoldToday(){
+        int soldToday = this.totCookiesSoldToday;
+        this.totCookiesSoldToday = 0;
+        return soldToday;
+    }
+
+    public int getTotCMAteToday(){
+        int cmAte = this.totCMAteToday;
+        this.totCMAteToday = 0;
+        return cmAte;
     }
 
     public double addDozen(int dozen){
@@ -40,5 +67,7 @@ public class CookieJar {
     // Cookie Monster!
     public void devour(){
         this.cookiesInJar = 0;
+        this.totCMAte += this.getCookiesInJar();
+        this.totCMAteToday += this.getCookiesInJar();
     }
 }
