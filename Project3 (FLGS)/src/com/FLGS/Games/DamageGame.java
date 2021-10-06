@@ -6,7 +6,6 @@ import java.util.Random;
 
 public class DamageGame {
     Random r = new Random();
-    public String notice = "";
     public Games damageRandomGame(List<Games> gameList){
         //reference https://www.baeldung.com/java-random-list-element
 
@@ -15,8 +14,9 @@ public class DamageGame {
             gameInStock.removeIf(x->x.inventory==0);
             Games gameDamaged = gameInStock.get(r.nextInt(gameInStock.size()));
             gameDamaged.inventory -= 1;
+            gameDamaged.setDamageContainer(1);
             return gameDamaged;
-        }else{
+        } else {
             return null;
         }
     }

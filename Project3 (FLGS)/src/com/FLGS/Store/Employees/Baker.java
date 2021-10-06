@@ -39,6 +39,11 @@ public class Baker extends Employee implements Publisher {
         this.publish(this.name + " the Baker says that " +
                      jar.getTotCookiesSoldToday() +
                      " cookie sale(s) happened today.");
+
+        this.publish(this.name + " the Baker says that the Cookie Monster devoured " +
+                jar.getTotCMAteToday() +
+                " cookie(s) today.");
+
         if (!jar.existCookies()){
             addDeliverPackages();
             this.publish(this.name + " the Baker says there are NO cookies left at the end of the day, " +
@@ -53,7 +58,7 @@ public class Baker extends Employee implements Publisher {
 
 
     public void leave(){
-        this.publish(this.getName() + " the Baker has left for day.");
+        this.publish(this.getName() + " the Baker has left for the day.");
     }
 
     public void addDeliverPackages(){

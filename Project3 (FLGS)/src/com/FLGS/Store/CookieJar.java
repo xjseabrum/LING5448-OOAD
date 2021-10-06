@@ -66,8 +66,8 @@ public class CookieJar {
 
     // Cookie Monster!
     public void devour(){
-        this.cookiesInJar = 0;
         this.totCMAte += this.getCookiesInJar();
         this.totCMAteToday += this.getCookiesInJar();
+        this.cookiesInJar = 0;
     }
 }

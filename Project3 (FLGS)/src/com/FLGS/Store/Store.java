@@ -31,6 +31,10 @@ public class Store {
         return this.cashiers.get(0);
     }
 
+    public Baker getBaker(){
+        return this.baker;
+    }
+
     public void spawnCustomer(){
         this.customers = StoreUtils.spawnCustomers();
     }
@@ -38,6 +42,7 @@ public class Store {
     public void spawnCashiers(Announcer announcer){
         cashiers.add(EmployeeUtils.spawnCashier(announcer));
     }
+
 
     private void doDailyRollCall(int day){
 

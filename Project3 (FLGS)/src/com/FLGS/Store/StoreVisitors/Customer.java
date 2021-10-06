@@ -38,7 +38,7 @@ public class Customer implements StoreVisitor {
 
     private void buyCookie(CookieJar cookieJar, Cashier cashier){
 
-        int numCookies = RandomUtils.getRandomInt(2)+1;
+        int numCookies = RandomUtils.getRandomInt(3)+1;
         cashier.publish("Cashier " + cashier.getName() + " reports: " +
                 "Customer " + this.name + " is trying to buy cookies.");
 

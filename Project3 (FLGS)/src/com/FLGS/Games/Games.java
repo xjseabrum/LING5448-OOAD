@@ -130,7 +130,7 @@ public abstract class Games {
     }
 
     public void setDamageContainer(int numDmg){
-        this.damageContainer = numDmg;
+        this.damageContainer += numDmg;
     }
     public void setExtraBuyChance(double d){this.extraBuyChance = d;}
 
