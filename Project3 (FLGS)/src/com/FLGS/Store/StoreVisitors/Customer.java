@@ -69,6 +69,9 @@ public class Customer implements StoreVisitor {
                 cashier.tasks.sold(inInventory.get(i), this.getCustomerName(), Main.register);
 
                 if (RandomUtils.getRandomDouble() < inInventory.get(i).getExtraBuyChance()){
+                    // Here, delegation to deco occurs.
+                    // allowing it to assign the correct decorator
+                    // to the game that the customer buys.
                     cashier.publish(deco.decorate(inInventory.get(i), Main.register));
                 }
                 this.numPurchasedGames ++;

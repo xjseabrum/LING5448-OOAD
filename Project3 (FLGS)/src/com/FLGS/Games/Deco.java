@@ -2,6 +2,10 @@ package com.FLGS.Games;
 import java.util.Objects;
 import com.FLGS.Store.CashRegister;
 
+// A simple factory.
+// This is a helper class that is delegated to, so that the right
+// decorator is assigned to the correct game name or game type.
+
 public class Deco {
     public String special = "";
 
