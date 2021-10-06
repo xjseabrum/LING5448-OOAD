@@ -1,0 +1,1865 @@
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 1.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 1.
+Guy's Announcement : The cash register currently has $0.00.
+Guy's Announcement : The Cash Fairy graciously and magically added $1000.00 to the cash register.
+Guy's Announcement : The cash register currently has $1000.00.
+Guy's Announcement : Gonger the Baker has arrived on Day 1
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 3 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 3 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 3 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked 3 Risk game(s) at shelf position 6.
+Guy's Announcement : Burt stacked 3 Life game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 3 Catan game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 3 Magic game(s) at shelf position 9.
+Guy's Announcement : Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked 3 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 4 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster notices there are no cookies and leaves dejectedly.
+Guy's Announcement : Cashier Burt reports that : Customer named Cihukem is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Cihukem is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Cihukem to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Cihukem bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Mopike is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Mopike is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Mopike to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Mopike bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Poy is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Poy is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Poy to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Poy bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Rolicav is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Rolicav is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Rolicav to buy!
+Guy's Announcement : Cashier Burt reports  : Customer Rolicav selected Monopoly.
+Guy's Announcement : Rolicav bought Monopoly for $28.00.
+Guy's Announcement :  They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy's Announcement : Cashier Burt reports  :  Customer Rolicav bought 1 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 2 packages of cookies for $12.24
+Guy's Announcement : Gonger the baker has earned $12 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 2.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 2.
+Guy's Announcement : The cash register currently has $1021.76.
+Guy's Announcement : Gonger the Baker has arrived on Day 2
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 2 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 3 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 3 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked 3 Life game(s) at shelf position 6.
+Guy's Announcement : Burt stacked 3 Risk game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 3 Magic game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 3 Catan game(s) at shelf position 9.
+Guy's Announcement : Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked 3 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 5 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster wants to damage 2 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Candyland
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : Cashier Burt reports that : Customer named Euyis is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Euyis is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Euyis to buy!
+Guy's Announcement : Cashier Burt reports  : Customer Euyis selected Mousetrap.
+Guy's Announcement : Euyis bought Mousetrap for $24.90.
+Guy's Announcement :  They also bought 2 spare parts kit(s) for $14.00 for a grand total of $38.90.
+Guy's Announcement : Cashier Burt reports  :  Customer Euyis bought 1 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Mev is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Mev is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Mev to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Mev bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Ronu is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Ronu is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Ronu to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Ronu bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Bumiboh is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Bumiboh is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Bumiboh to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Bumiboh bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Lumunita is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Lumunita is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Lumunita to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Lumunita bought 0 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 3 packages of cookies for $18.36
+Guy's Announcement : Gonger the baker has earned $30 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 3.
+Guy's Announcement : Ernie the Cashier arrived at the store on Day 3.
+Guy's Announcement : The cash register currently has $1042.30.
+Guy's Announcement : Gonger the Baker has arrived on Day 3
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Guy's Announcement : Ernie stacked 2 Netrunner game(s) at shelf position 2.
+Guy's Announcement : Ernie stacked 2 Candyland game(s) at shelf position 3.
+Guy's Announcement : Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Guy's Announcement : Ernie stacked 3 Life game(s) at shelf position 5.
+Guy's Announcement : Ernie stacked 3 Risk game(s) at shelf position 6.
+Guy's Announcement : Ernie stacked 3 Clue game(s) at shelf position 7.
+Guy's Announcement : Ernie stacked 2 Monopoly game(s) at shelf position 8.
+Guy's Announcement : Ernie stacked 3 Magic game(s) at shelf position 9.
+Guy's Announcement : Ernie stacked 3 Catan game(s) at shelf position 10.
+Guy's Announcement : Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Guy's Announcement : Ernie stacked 3 Gloomhaven game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Ernie reports that : 6 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster wants to damage 4 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Monopoly
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Risk
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Clue
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Life
+Guy's Announcement : Cashier Ernie reports that : Customer named Kupar is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Kupar is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Kupar to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Kupar bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Beti is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Beti is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Beti to buy!
+Guy's Announcement : Cashier Ernie reports  : Customer Beti selected Pokemon.
+Guy's Announcement : Beti bought Pokemon for $10.00.
+Guy's Announcement : Cashier Ernie reports  :  Customer Beti bought 1 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Wepof is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Wepof is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Wepof to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Wepof bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Bihobu is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Bihobu is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Bihobu to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Bihobu bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Kaza is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Kaza is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Kaza to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Kaza bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Vexe is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Vexe is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Vexe to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Vexe bought 0 game(s).
+Guy's Announcement : Ernie the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Ernie the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 4 packages of cookies for $24.48
+Guy's Announcement : Gonger the baker has earned $54 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 4.
+Guy's Announcement : Bart the Cashier arrived at the store on Day 4.
+Guy's Announcement : The cash register currently has $1027.82.
+Guy's Announcement : Gonger the Baker has arrived on Day 4
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : An in-stock order of Mousetrap got damaged while vacuuming!
+Guy's Announcement : Stacking...
+Guy's Announcement : Bart stacked 3 Connect Four game(s) at shelf position 1.
+Guy's Announcement : Bart stacked 2 Candyland game(s) at shelf position 2.
+Guy's Announcement : Bart stacked 2 Clue game(s) at shelf position 3.
+Guy's Announcement : Bart stacked 2 Risk game(s) at shelf position 4.
+Guy's Announcement : Bart stacked 2 Life game(s) at shelf position 5.
+Guy's Announcement : Bart stacked 3 Catan game(s) at shelf position 6.
+Guy's Announcement : Bart stacked 3 Magic game(s) at shelf position 7.
+Guy's Announcement : Bart stacked 3 Gloomhaven game(s) at shelf position 8.
+Guy's Announcement : Bart stacked 2 Netrunner game(s) at shelf position 9.
+Guy's Announcement : Bart stacked 2 Pokemon game(s) at shelf position 10.
+Guy's Announcement : Bart stacked 1 Monopoly game(s) at shelf position 11.
+Guy's Announcement : Bart stacked 1 Mousetrap game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Bart reports that : 5 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster wants to damage 2 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Gloomhaven
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Mousetrap
+Guy's Announcement : Cashier Bart reports that : Customer named Woviqu is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Woviqu is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Woviqu to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Woviqu bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Giwe is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Giwe is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Giwe to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Giwe bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Bupeva is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Bupeva is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Bupeva to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Bupeva bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Xen is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Xen is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Xen to buy!
+Guy's Announcement : Cashier Bart reports  : Customer Xen selected Clue.
+Guy's Announcement : Xen bought Clue for $19.00.
+Guy's Announcement : Cashier Bart reports  :  Customer Xen bought 1 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Kagabud is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Kagabud is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Kagabud to buy!
+Guy's Announcement : Cashier Bart reports  : Customer Kagabud selected Clue.
+Guy's Announcement : Kagabud bought Clue for $19.00.
+Guy's Announcement : Cashier Bart reports  :  Customer Kagabud bought 1 game(s).
+Guy's Announcement : Bart the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Bart the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 5 packages of cookies for $30.6
+Guy's Announcement : Gonger the baker has earned $84 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 5.
+Guy's Announcement : Bart the Cashier arrived at the store on Day 5.
+Guy's Announcement : Three new orders of Clue have arrived.
+Guy's Announcement : Three new orders of Mousetrap have arrived.
+Guy's Announcement : The cash register currently has $969.22.
+Guy's Announcement : Gonger the Baker has arrived on Day 5
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Bart stacked 3 Connect Four game(s) at shelf position 1.
+Guy's Announcement : Bart stacked 3 Mousetrap game(s) at shelf position 2.
+Guy's Announcement : Bart stacked 2 Candyland game(s) at shelf position 3.
+Guy's Announcement : Bart stacked 3 Clue game(s) at shelf position 4.
+Guy's Announcement : Bart stacked 2 Life game(s) at shelf position 5.
+Guy's Announcement : Bart stacked 2 Risk game(s) at shelf position 6.
+Guy's Announcement : Bart stacked 3 Magic game(s) at shelf position 7.
+Guy's Announcement : Bart stacked 3 Catan game(s) at shelf position 8.
+Guy's Announcement : Bart stacked 2 Gloomhaven game(s) at shelf position 9.
+Guy's Announcement : Bart stacked 2 Netrunner game(s) at shelf position 10.
+Guy's Announcement : Bart stacked 2 Pokemon game(s) at shelf position 11.
+Guy's Announcement : Bart stacked 1 Monopoly game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Bart reports that : 4 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster wants to damage 4 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Gloomhaven
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Risk
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Monopoly
+Guy's Announcement : Cashier Bart reports that : Customer named Pese is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Pese is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Pese to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Pese bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Xetuheh is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Xetuheh is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Xetuheh to buy!
+Guy's Announcement : Cashier Bart reports  : Customer Xetuheh selected Clue.
+Guy's Announcement : Xetuheh bought Clue for $19.00.
+Guy's Announcement : Cashier Bart reports  :  Customer Xetuheh bought 1 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Eeqoze is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Eeqoze is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Eeqoze to buy!
+Guy's Announcement : Cashier Bart reports  : Customer Eeqoze selected Mousetrap.
+Guy's Announcement : Eeqoze bought Mousetrap for $24.90.
+Guy's Announcement :  They also bought 1 spare parts kit(s) for $7.00 for a grand total of $31.90.
+Guy's Announcement : Cashier Bart reports  :  Customer Eeqoze bought 1 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Lim is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Lim is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Lim to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Lim bought 0 game(s).
+Guy's Announcement : Bart the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Bart the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 6 packages of cookies for $36.72
+Guy's Announcement : Gonger the baker has earned $120 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 6.
+Guy's Announcement : Ernie the Cashier arrived at the store on Day 6.
+Guy's Announcement : Three new orders of Monopoly have arrived.
+Guy's Announcement : The cash register currently has $941.40.
+Guy's Announcement : Gonger the Baker has arrived on Day 6
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Guy's Announcement : Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Guy's Announcement : Ernie stacked 2 Candyland game(s) at shelf position 3.
+Guy's Announcement : Ernie stacked 3 Connect Four game(s) at shelf position 4.
+Guy's Announcement : Ernie stacked 2 Life game(s) at shelf position 5.
+Guy's Announcement : Ernie stacked 1 Risk game(s) at shelf position 6.
+Guy's Announcement : Ernie stacked 2 Clue game(s) at shelf position 7.
+Guy's Announcement : Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Guy's Announcement : Ernie stacked 3 Magic game(s) at shelf position 9.
+Guy's Announcement : Ernie stacked 3 Catan game(s) at shelf position 10.
+Guy's Announcement : Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Guy's Announcement : Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Ernie reports that : 4 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster wants to damage 5 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Monopoly
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Risk
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Connect Four
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Risk
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Clue
+Guy's Announcement : Cashier Ernie reports that : Customer named Bubap is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Bubap is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Bubap to buy!
+Guy's Announcement : Cashier Ernie reports  : Customer Bubap selected Netrunner.
+Guy's Announcement : Bubap bought Netrunner for $12.00.
+Guy's Announcement : Cashier Ernie reports  : Customer Bubap selected Connect Four.
+Guy's Announcement : Bubap bought Connect Four for $12.00.
+Guy's Announcement : Cashier Ernie reports  :  Customer Bubap bought 2 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Karepoho is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Karepoho is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Karepoho to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Karepoho bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Gonuz is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Gonuz is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Gonuz to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Gonuz bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Suluri is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Suluri is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Suluri to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Suluri bought 0 game(s).
+Guy's Announcement : Ernie the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Ernie the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 7 packages of cookies for $42.84
+Guy's Announcement : Gonger the baker has earned $162 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 7.
+Guy's Announcement : Ernie the Cashier arrived at the store on Day 7.
+Guy's Announcement : Three new orders of Netrunner have arrived.
+Guy's Announcement : The cash register currently has $904.56.
+Guy's Announcement : Gonger the Baker has arrived on Day 7
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Guy's Announcement : Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Guy's Announcement : Ernie stacked 2 Candyland game(s) at shelf position 3.
+Guy's Announcement : Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy's Announcement : Ernie stacked 2 Life game(s) at shelf position 5.
+Guy's Announcement : Ernie stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Ernie stacked 1 Clue game(s) at shelf position 7.
+Guy's Announcement : Ernie stacked 2 Monopoly game(s) at shelf position 8.
+Guy's Announcement : Ernie stacked 3 Magic game(s) at shelf position 9.
+Guy's Announcement : Ernie stacked 3 Catan game(s) at shelf position 10.
+Guy's Announcement : Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Guy's Announcement : Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Ernie reports that : 5 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster wants to damage 2 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Pokemon
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : Cashier Ernie reports that : Customer named Hoque is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Hoque is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Hoque to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Hoque bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Wanobiv is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Wanobiv is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Wanobiv to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Wanobiv bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Zig is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Zig is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Zig to buy!
+Guy's Announcement : Cashier Ernie reports  : Customer Zig selected Pokemon.
+Guy's Announcement : Zig bought Pokemon for $10.00.
+Guy's Announcement : Cashier Ernie reports  :  Customer Zig bought 1 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Decad is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Decad is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Decad to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Decad bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Nosi is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Nosi is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Nosi to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Nosi bought 0 game(s).
+Guy's Announcement : Ernie the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Ernie the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 8 packages of cookies for $48.96
+Guy's Announcement : Gonger the baker has earned $210 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 8.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 8.
+Guy's Announcement : Three new orders of Pokemon have arrived.
+Guy's Announcement : The cash register currently has $850.60.
+Guy's Announcement : Gonger the Baker has arrived on Day 8
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 2 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 1 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 2 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 1 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Burt stacked 2 Life game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 3 Catan game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 3 Magic game(s) at shelf position 9.
+Guy's Announcement : Burt stacked 1 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked 2 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 4 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster wants to damage 2 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : Cashier Burt reports that : Customer named Puw is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Puw is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Puw to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Puw bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Eifoy is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Eifoy is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Eifoy to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Eifoy bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Gagel is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Gagel is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Gagel to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Gagel bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Yoy is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Yoy is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Yoy to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Yoy bought 0 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 9 packages of cookies for $55.08
+Guy's Announcement : Gonger the baker has earned $265 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 9.
+Guy's Announcement : Ernie the Cashier arrived at the store on Day 9.
+Guy's Announcement : Three new orders of Netrunner have arrived.
+Guy's Announcement : The cash register currently has $777.52.
+Guy's Announcement : Gonger the Baker has arrived on Day 9
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Guy's Announcement : Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Guy's Announcement : Ernie stacked 2 Candyland game(s) at shelf position 3.
+Guy's Announcement : Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy's Announcement : Ernie stacked 2 Life game(s) at shelf position 5.
+Guy's Announcement : Ernie stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Ernie stacked 1 Clue game(s) at shelf position 7.
+Guy's Announcement : Ernie stacked 2 Monopoly game(s) at shelf position 8.
+Guy's Announcement : Ernie stacked 3 Catan game(s) at shelf position 9.
+Guy's Announcement : Ernie stacked 3 Magic game(s) at shelf position 10.
+Guy's Announcement : Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Guy's Announcement : Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Ernie reports that : 3 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster wants to damage 1 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : Cashier Ernie reports that : Customer named Nalaeidi is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Nalaeidi is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Nalaeidi to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Nalaeidi bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Nic is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Nic is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Nic to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Nic bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Cozutoya is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Cozutoya is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Cozutoya to buy!
+Guy's Announcement : Cashier Ernie reports  : Customer Cozutoya selected Pokemon.
+Guy's Announcement : Cozutoya bought Pokemon for $10.00.
+Guy's Announcement : Cashier Ernie reports  :  Customer Cozutoya bought 1 game(s).
+Guy's Announcement : Ernie the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Ernie the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 10 packages of cookies for $61.2
+Guy's Announcement : Gonger the baker has earned $326 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 10.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 10.
+Guy's Announcement : The cash register currently has $726.32.
+Guy's Announcement : Gonger the Baker has arrived on Day 10
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 2 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 1 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 2 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 1 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Burt stacked 2 Life game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 3 Magic game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 3 Catan game(s) at shelf position 9.
+Guy's Announcement : Burt stacked 1 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked 2 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 2 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 4 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster wants to damage 1 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : Cashier Burt reports that : Customer named Leciqeki is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Leciqeki is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Leciqeki to buy!
+Guy's Announcement : Cashier Burt reports  : Customer Leciqeki selected Monopoly.
+Guy's Announcement : Leciqeki bought Monopoly for $28.00.
+Guy's Announcement : Cashier Burt reports  :  Customer Leciqeki bought 1 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Giliqiwe is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Giliqiwe is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Giliqiwe to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Giliqiwe bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Qezece is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Qezece is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Qezece to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Qezece bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Miru is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Miru is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Miru to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Miru bought 0 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 11 packages of cookies for $67.32000000000001
+Guy's Announcement : Gonger the baker has earned $393 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 11.
+Guy's Announcement : Ernie the Cashier arrived at the store on Day 11.
+Guy's Announcement : The cash register currently has $687.00.
+Guy's Announcement : Gonger the Baker has arrived on Day 11
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Guy's Announcement : Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Guy's Announcement : Ernie stacked 2 Candyland game(s) at shelf position 3.
+Guy's Announcement : Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy's Announcement : Ernie stacked 2 Life game(s) at shelf position 5.
+Guy's Announcement : Ernie stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Ernie stacked 1 Clue game(s) at shelf position 7.
+Guy's Announcement : Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Guy's Announcement : Ernie stacked 3 Magic game(s) at shelf position 9.
+Guy's Announcement : Ernie stacked 3 Catan game(s) at shelf position 10.
+Guy's Announcement : Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Guy's Announcement : Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Ernie reports that : 1 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster wants to damage 1 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Monopoly
+Guy's Announcement : Cashier Ernie reports that : Customer named Poc is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Poc is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Poc to buy!
+Guy's Announcement : Cashier Ernie reports  : Customer Poc selected Candyland.
+Guy's Announcement : Poc bought Candyland for $24.40.
+Guy's Announcement : Cashier Ernie reports  :  Customer Poc bought 1 game(s).
+Guy's Announcement : Ernie the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Ernie the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 12 packages of cookies for $73.44
+Guy's Announcement : Gonger the baker has earned $466 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 12.
+Guy's Announcement : Ernie the Cashier arrived at the store on Day 12.
+Guy's Announcement : Three new orders of Monopoly have arrived.
+Guy's Announcement : The cash register currently has $595.96.
+Guy's Announcement : Gonger the Baker has arrived on Day 12
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Ernie stacked 2 Pokemon game(s) at shelf position 1.
+Guy's Announcement : Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Guy's Announcement : Ernie stacked 1 Candyland game(s) at shelf position 3.
+Guy's Announcement : Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy's Announcement : Ernie stacked 2 Life game(s) at shelf position 5.
+Guy's Announcement : Ernie stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Ernie stacked 1 Clue game(s) at shelf position 7.
+Guy's Announcement : Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Guy's Announcement : Ernie stacked 3 Magic game(s) at shelf position 9.
+Guy's Announcement : Ernie stacked 3 Catan game(s) at shelf position 10.
+Guy's Announcement : Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Guy's Announcement : Ernie stacked 1 Gloomhaven game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Ernie reports that : 2 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster wants to damage 3 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Gloomhaven
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Gloomhaven
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Gloomhaven
+Guy's Announcement : Cashier Ernie reports that : Customer named Bovem is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Bovem is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Bovem to buy!
+Guy's Announcement : Cashier Ernie reports  : Customer Bovem selected Connect Four.
+Guy's Announcement : Bovem bought Connect Four for $12.00.
+Guy's Announcement : Cashier Ernie reports  :  Customer Bovem bought 1 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Wolu is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Wolu is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Wolu to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Wolu bought 0 game(s).
+Guy's Announcement : Ernie the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Ernie the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 13 packages of cookies for $79.56
+Guy's Announcement : Gonger the baker has earned $545 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 13.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 13.
+Guy's Announcement : Three new orders of Connect Four have arrived.
+Guy's Announcement : The cash register currently has $510.40.
+Guy's Announcement : Gonger the Baker has arrived on Day 13
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 3 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 2 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 1 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 1 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Burt stacked 2 Life game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 3 Catan game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 3 Magic game(s) at shelf position 9.
+Guy's Announcement : Burt stacked -2 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked 1 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 2 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 5 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster wants to damage 4 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Monopoly
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Clue
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Life
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Mousetrap
+Guy's Announcement : Cashier Burt reports that : Customer named Puf is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Puf is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Puf to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Puf bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Tezave is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Tezave is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Tezave to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Tezave bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Taniwefo is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Taniwefo is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Taniwefo to buy!
+Guy's Announcement : Cashier Burt reports  : Customer Taniwefo selected Connect Four.
+Guy's Announcement : Taniwefo bought Connect Four for $12.00.
+Guy's Announcement : Cashier Burt reports  :  Customer Taniwefo bought 1 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Xemayur is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Xemayur is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Xemayur to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Xemayur bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Kakusoli is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Kakusoli is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Kakusoli to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Kakusoli bought 0 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 14 packages of cookies for $85.68
+Guy's Announcement : Gonger the baker has earned $630 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 14.
+Guy's Announcement : Bart the Cashier arrived at the store on Day 14.
+Guy's Announcement : Three new orders of Clue have arrived.
+Guy's Announcement : The cash register currently has $407.72.
+Guy's Announcement : Gonger the Baker has arrived on Day 14
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Bart stacked 2 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Bart stacked 2 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Bart stacked 3 Clue game(s) at shelf position 3.
+Guy's Announcement : Bart stacked -1 Risk game(s) at shelf position 4.
+Guy's Announcement : Bart stacked 3 Magic game(s) at shelf position 5.
+Guy's Announcement : Bart stacked 3 Catan game(s) at shelf position 6.
+Guy's Announcement : Bart stacked -2 Gloomhaven game(s) at shelf position 7.
+Guy's Announcement : Bart stacked 2 Pokemon game(s) at shelf position 8.
+Guy's Announcement : Bart stacked 1 Mousetrap game(s) at shelf position 9.
+Guy's Announcement : Bart stacked 1 Candyland game(s) at shelf position 10.
+Guy's Announcement : Bart stacked 1 Life game(s) at shelf position 11.
+Guy's Announcement : Bart stacked 1 Netrunner game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Bart reports that : 4 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster wants to damage 2 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Magic
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Pokemon
+Guy's Announcement : Cashier Bart reports that : Customer named Mekuroze is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Mekuroze is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Mekuroze to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Mekuroze bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Tiha is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Tiha is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Tiha to buy!
+Guy's Announcement : Cashier Bart reports  : Customer Tiha selected Clue.
+Guy's Announcement : Tiha bought Clue for $19.00.
+Guy's Announcement : Cashier Bart reports  :  Customer Tiha bought 1 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Nuvoqef is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Nuvoqef is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Nuvoqef to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Nuvoqef bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Toguxes is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Toguxes is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Toguxes to buy!
+Guy's Announcement : Cashier Bart reports  : Customer Toguxes selected Clue.
+Guy's Announcement : Toguxes bought Clue for $19.00.
+Guy's Announcement : Cashier Bart reports  :  Customer Toguxes bought 1 game(s).
+Guy's Announcement : Bart the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Bart the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 15 packages of cookies for $91.8
+Guy's Announcement : Gonger the baker has earned $721 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 15.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 15.
+Guy's Announcement : The cash register currently has $353.92.
+Guy's Announcement : Gonger the Baker has arrived on Day 15
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 2 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 2 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 1 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 1 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked 1 Life game(s) at shelf position 6.
+Guy's Announcement : Burt stacked -1 Risk game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 3 Catan game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 2 Magic game(s) at shelf position 9.
+Guy's Announcement : Burt stacked -2 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked 1 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 1 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 1 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster wants to damage 1 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Candyland
+Guy's Announcement : Cashier Burt reports that : Customer named Sahayuxa is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Sahayuxa is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Sahayuxa to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Sahayuxa bought 0 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 16 packages of cookies for $97.92
+Guy's Announcement : Gonger the baker has earned $818 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 16.
+Guy's Announcement : Ernie the Cashier arrived at the store on Day 16.
+Guy's Announcement : Three new orders of Candyland have arrived.
+Guy's Announcement : The cash register currently has $219.00.
+Guy's Announcement : Gonger the Baker has arrived on Day 16
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Guy's Announcement : Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Guy's Announcement : Ernie stacked 3 Candyland game(s) at shelf position 3.
+Guy's Announcement : Ernie stacked 2 Connect Four game(s) at shelf position 4.
+Guy's Announcement : Ernie stacked 1 Life game(s) at shelf position 5.
+Guy's Announcement : Ernie stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Ernie stacked 1 Clue game(s) at shelf position 7.
+Guy's Announcement : Ernie stacked 2 Monopoly game(s) at shelf position 8.
+Guy's Announcement : Ernie stacked 3 Catan game(s) at shelf position 9.
+Guy's Announcement : Ernie stacked 2 Magic game(s) at shelf position 10.
+Guy's Announcement : Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Guy's Announcement : Ernie stacked -2 Gloomhaven game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Ernie reports that : 2 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster wants to damage 2 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Magic
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Pokemon
+Guy's Announcement : Cashier Ernie reports that : Customer named Rekanola is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Rekanola is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Rekanola to buy!
+Guy's Announcement : Cashier Ernie reports  : Customer Rekanola selected Connect Four.
+Guy's Announcement : Rekanola bought Connect Four for $12.00.
+Guy's Announcement : Cashier Ernie reports  : Customer Rekanola selected Life.
+Guy's Announcement : Rekanola bought Life for $20.00.
+Guy's Announcement : Cashier Ernie reports  :  Customer Rekanola bought 2 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Zoqiwak is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Zoqiwak is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Zoqiwak to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Zoqiwak bought 0 game(s).
+Guy's Announcement : Ernie the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Ernie the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 17 packages of cookies for $104.04
+Guy's Announcement : Gonger the baker has earned $922 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 17.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 17.
+Guy's Announcement : Three new orders of Pokemon have arrived.
+Guy's Announcement : Three new orders of Life have arrived.
+Guy's Announcement : The cash register currently has $101.96.
+Guy's Announcement : Gonger the Baker has arrived on Day 17
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 2 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 1 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 3 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 1 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Burt stacked 3 Life game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 1 Magic game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 3 Catan game(s) at shelf position 9.
+Guy's Announcement : Burt stacked -2 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked 1 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 3 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster wants to damage 2 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Life
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Clue
+Guy's Announcement : Cashier Burt reports that : Customer named Cosipoee is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Cosipoee is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Cosipoee to buy!
+Guy's Announcement : Cashier Burt reports  : Customer Cosipoee selected Monopoly.
+Guy's Announcement : Cosipoee bought Monopoly for $28.00.
+Guy's Announcement : Cashier Burt reports  :  Customer Cosipoee bought 1 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Cowopeho is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Cowopeho is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Cowopeho to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Cowopeho bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Gimapafe is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Gimapafe is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Gimapafe to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Gimapafe bought 0 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 18 packages of cookies for $110.16
+Guy's Announcement : Gonger the baker has earned $1032 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 18.
+Guy's Announcement : Ernie the Cashier arrived at the store on Day 18.
+Guy's Announcement : Three new orders of Clue have arrived.
+Guy's Announcement : The cash register currently has $-9.20.
+Guy's Announcement : The Cash Fairy graciously and magically added $1000.00 to the cash register.
+Guy's Announcement : The cash register currently has $990.80.
+Guy's Announcement : Gonger the Baker has arrived on Day 18
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Guy's Announcement : Ernie stacked 1 Netrunner game(s) at shelf position 2.
+Guy's Announcement : Ernie stacked 3 Candyland game(s) at shelf position 3.
+Guy's Announcement : Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy's Announcement : Ernie stacked 2 Life game(s) at shelf position 5.
+Guy's Announcement : Ernie stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Ernie stacked 3 Clue game(s) at shelf position 7.
+Guy's Announcement : Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Guy's Announcement : Ernie stacked 1 Magic game(s) at shelf position 9.
+Guy's Announcement : Ernie stacked 3 Catan game(s) at shelf position 10.
+Guy's Announcement : Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Guy's Announcement : Ernie stacked -2 Gloomhaven game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Ernie reports that : 2 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster wants to damage 2 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Magic
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Life
+Guy's Announcement : Cashier Ernie reports that : Customer named Bego is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Bego is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Bego to buy!
+Guy's Announcement : Cashier Ernie reports  : Customer Bego selected Connect Four.
+Guy's Announcement : Bego bought Connect Four for $12.00.
+Guy's Announcement : Cashier Ernie reports  :  Customer Bego bought 1 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Kodi is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Kodi is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Kodi to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Kodi bought 0 game(s).
+Guy's Announcement : Ernie the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Ernie the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 19 packages of cookies for $116.28
+Guy's Announcement : Gonger the baker has earned $1148 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 19.
+Guy's Announcement : Bart the Cashier arrived at the store on Day 19.
+Guy's Announcement : Three new orders of Connect Four have arrived.
+Guy's Announcement : Three new orders of Magic have arrived.
+Guy's Announcement : The cash register currently has $808.52.
+Guy's Announcement : Gonger the Baker has arrived on Day 19
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Bart stacked 3 Connect Four game(s) at shelf position 1.
+Guy's Announcement : Bart stacked 3 Candyland game(s) at shelf position 2.
+Guy's Announcement : Bart stacked 3 Clue game(s) at shelf position 3.
+Guy's Announcement : Bart stacked -1 Risk game(s) at shelf position 4.
+Guy's Announcement : Bart stacked 3 Catan game(s) at shelf position 5.
+Guy's Announcement : Bart stacked 3 Magic game(s) at shelf position 6.
+Guy's Announcement : Bart stacked -2 Gloomhaven game(s) at shelf position 7.
+Guy's Announcement : Bart stacked 3 Pokemon game(s) at shelf position 8.
+Guy's Announcement : Bart stacked 1 Monopoly game(s) at shelf position 9.
+Guy's Announcement : Bart stacked 1 Mousetrap game(s) at shelf position 10.
+Guy's Announcement : Bart stacked 1 Life game(s) at shelf position 11.
+Guy's Announcement : Bart stacked 1 Netrunner game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Bart reports that : 4 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster wants to damage 2 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Magic
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Candyland
+Guy's Announcement : Cashier Bart reports that : Customer named Lieaeoh is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Lieaeoh is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Lieaeoh to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Lieaeoh bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Sofepu is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Sofepu is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Sofepu to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Sofepu bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Hitut is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Hitut is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Hitut to buy!
+Guy's Announcement : Cashier Bart reports  : Customer Hitut selected Magic.
+Guy's Announcement : Hitut bought Magic for $39.88.
+Guy's Announcement : Cashier Bart reports  :  Customer Hitut bought 1 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Xiluno is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Xiluno is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Xiluno to buy!
+Guy's Announcement : Cashier Bart reports  : Customer Xiluno selected Connect Four.
+Guy's Announcement : Xiluno bought Connect Four for $12.00.
+Guy's Announcement : Cashier Bart reports  :  Customer Xiluno bought 1 game(s).
+Guy's Announcement : Bart the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Bart the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 20 packages of cookies for $122.4
+Guy's Announcement : Gonger the baker has earned $1270 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 20.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 20.
+Guy's Announcement : The cash register currently has $738.00.
+Guy's Announcement : Gonger the Baker has arrived on Day 20
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 1 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 2 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 2 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 3 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked 1 Life game(s) at shelf position 6.
+Guy's Announcement : Burt stacked -1 Risk game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 1 Magic game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 3 Catan game(s) at shelf position 9.
+Guy's Announcement : Burt stacked -2 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked 1 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 3 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster wants to damage 5 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Magic
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Connect Four
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Connect Four
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Pokemon
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Clue
+Guy's Announcement : Cashier Burt reports that : Customer named Wezisen is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Wezisen is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Wezisen to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Wezisen bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Zukahac is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Zukahac is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Zukahac to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Zukahac bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Vakodo is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Vakodo is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Vakodo to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Vakodo bought 0 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 21 packages of cookies for $128.52
+Guy's Announcement : Gonger the baker has earned $1398 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 21.
+Guy's Announcement : Bart the Cashier arrived at the store on Day 21.
+Guy's Announcement : Three new orders of Connect Four have arrived.
+Guy's Announcement : Three new orders of Magic have arrived.
+Guy's Announcement : The cash register currently has $531.48.
+Guy's Announcement : Gonger the Baker has arrived on Day 21
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Bart stacked 3 Connect Four game(s) at shelf position 1.
+Guy's Announcement : Bart stacked 2 Candyland game(s) at shelf position 2.
+Guy's Announcement : Bart stacked 2 Clue game(s) at shelf position 3.
+Guy's Announcement : Bart stacked -1 Risk game(s) at shelf position 4.
+Guy's Announcement : Bart stacked 3 Catan game(s) at shelf position 5.
+Guy's Announcement : Bart stacked 3 Magic game(s) at shelf position 6.
+Guy's Announcement : Bart stacked -2 Gloomhaven game(s) at shelf position 7.
+Guy's Announcement : Bart stacked 2 Pokemon game(s) at shelf position 8.
+Guy's Announcement : Bart stacked 1 Monopoly game(s) at shelf position 9.
+Guy's Announcement : Bart stacked 1 Mousetrap game(s) at shelf position 10.
+Guy's Announcement : Bart stacked 1 Life game(s) at shelf position 11.
+Guy's Announcement : Bart stacked 1 Netrunner game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Bart reports that : 4 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster wants to damage 4 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Magic
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Monopoly
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Pokemon
+Guy's Announcement : Cashier Bart reports that : Customer named Sexasoea is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Sexasoea is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Sexasoea to buy!
+Guy's Announcement : Cashier Bart reports  : Customer Sexasoea selected Connect Four.
+Guy's Announcement : Sexasoea bought Connect Four for $12.00.
+Guy's Announcement : Cashier Bart reports  :  Customer Sexasoea bought 1 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Lezic is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Lezic is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Lezic to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Lezic bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Vubatu is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Vubatu is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Vubatu to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Vubatu bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Pisi is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Pisi is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Pisi to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Pisi bought 0 game(s).
+Guy's Announcement : Bart the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Bart the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 22 packages of cookies for $134.64000000000001
+Guy's Announcement : Gonger the baker has earned $1532 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 22.
+Guy's Announcement : Ernie the Cashier arrived at the store on Day 22.
+Guy's Announcement : Three new orders of Monopoly have arrived.
+Guy's Announcement : Three new orders of Netrunner have arrived.
+Guy's Announcement : The cash register currently has $348.84.
+Guy's Announcement : Gonger the Baker has arrived on Day 22
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Ernie stacked 1 Pokemon game(s) at shelf position 1.
+Guy's Announcement : Ernie stacked 3 Netrunner game(s) at shelf position 2.
+Guy's Announcement : Ernie stacked 2 Candyland game(s) at shelf position 3.
+Guy's Announcement : Ernie stacked 2 Connect Four game(s) at shelf position 4.
+Guy's Announcement : Ernie stacked 1 Life game(s) at shelf position 5.
+Guy's Announcement : Ernie stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Ernie stacked 2 Clue game(s) at shelf position 7.
+Guy's Announcement : Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Guy's Announcement : Ernie stacked 3 Catan game(s) at shelf position 9.
+Guy's Announcement : Ernie stacked 2 Magic game(s) at shelf position 10.
+Guy's Announcement : Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Guy's Announcement : Ernie stacked -2 Gloomhaven game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Ernie reports that : 7 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster wants to damage 4 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Connect Four
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Pokemon
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Monopoly
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Life
+Guy's Announcement : Cashier Ernie reports that : Customer named Mebuea is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Mebuea is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Mebuea to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Mebuea bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Zab is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Zab is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Zab to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Zab bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Miya is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Miya is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Miya to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Miya bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Log is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Log is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Log to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Log bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Doeob is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Doeob is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Doeob to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Doeob bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Geh is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Geh is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Geh to buy!
+Guy's Announcement : Cashier Ernie reports  : Customer Geh selected Candyland.
+Guy's Announcement : Geh bought Candyland for $24.40.
+Guy's Announcement : Cashier Ernie reports  :  Customer Geh bought 1 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Foqib is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Foqib is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Foqib to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Foqib bought 0 game(s).
+Guy's Announcement : Ernie the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Ernie the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 23 packages of cookies for $140.76
+Guy's Announcement : Gonger the baker has earned $1672 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 23.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 23.
+Guy's Announcement : Three new orders of Pokemon have arrived.
+Guy's Announcement : Three new orders of Life have arrived.
+Guy's Announcement : The cash register currently has $187.48.
+Guy's Announcement : Gonger the Baker has arrived on Day 23
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 2 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 1 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 1 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 2 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Burt stacked 3 Life game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 2 Magic game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 3 Catan game(s) at shelf position 9.
+Guy's Announcement : Burt stacked -2 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked 3 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 3 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster wants to damage 1 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Mousetrap
+Guy's Announcement : Cashier Burt reports that : Customer named Xini is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Xini is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Xini to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Xini bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Vesupuno is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Vesupuno is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Vesupuno to buy!
+Guy's Announcement : Cashier Burt reports  : Customer Vesupuno selected Connect Four.
+Guy's Announcement : Vesupuno bought Connect Four for $12.00.
+Guy's Announcement : Cashier Burt reports  :  Customer Vesupuno bought 1 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Wegomah is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Wegomah is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Wegomah to buy!
+Guy's Announcement : Cashier Burt reports  : Customer Wegomah selected Magic.
+Guy's Announcement : Wegomah bought Magic for $39.88.
+Guy's Announcement : Cashier Burt reports  :  Customer Wegomah bought 1 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 24 packages of cookies for $146.88
+Guy's Announcement : Gonger the baker has earned $1818 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 24.
+Guy's Announcement : Bart the Cashier arrived at the store on Day 24.
+Guy's Announcement : Three new orders of Connect Four have arrived.
+Guy's Announcement : Three new orders of Mousetrap have arrived.
+Guy's Announcement : The cash register currently has $37.48.
+Guy's Announcement : The Cash Fairy graciously and magically added $1000.00 to the cash register.
+Guy's Announcement : The cash register currently has $1037.48.
+Guy's Announcement : Gonger the Baker has arrived on Day 24
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Bart stacked 2 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Bart stacked 3 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Bart stacked 3 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Bart stacked 2 Clue game(s) at shelf position 4.
+Guy's Announcement : Bart stacked 3 Life game(s) at shelf position 5.
+Guy's Announcement : Bart stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Bart stacked 3 Catan game(s) at shelf position 7.
+Guy's Announcement : Bart stacked -2 Gloomhaven game(s) at shelf position 8.
+Guy's Announcement : Bart stacked 3 Netrunner game(s) at shelf position 9.
+Guy's Announcement : Bart stacked 3 Pokemon game(s) at shelf position 10.
+Guy's Announcement : Bart stacked 1 Candyland game(s) at shelf position 11.
+Guy's Announcement : Bart stacked 1 Magic game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Bart reports that : 2 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster wants to damage 3 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Catan
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Magic
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : Cashier Bart reports that : Customer named Maqo is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Maqo is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Maqo to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Maqo bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Wasu is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Wasu is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Wasu to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Wasu bought 0 game(s).
+Guy's Announcement : Bart the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Bart the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 25 packages of cookies for $153.0
+Guy's Announcement : Gonger the baker has earned $1971 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 25.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 25.
+Guy's Announcement : Three new orders of Magic have arrived.
+Guy's Announcement : The cash register currently has $824.48.
+Guy's Announcement : Gonger the Baker has arrived on Day 25
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 2 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 1 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 2 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Burt stacked 3 Life game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 3 Magic game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 2 Catan game(s) at shelf position 9.
+Guy's Announcement : Burt stacked -2 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked 2 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 4 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster wants to damage 5 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Connect Four
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Netrunner
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Monopoly
+Guy's Announcement : Cashier Burt reports that : Customer named Huzoyaqa is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Huzoyaqa is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Huzoyaqa to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Huzoyaqa bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Haxanofe is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Haxanofe is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Haxanofe to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Haxanofe bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Yasirab is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Yasirab is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Yasirab to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Yasirab bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Yibolu is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Yibolu is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Yibolu to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Yibolu bought 0 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 26 packages of cookies for $159.12
+Guy's Announcement : Gonger the baker has earned $2130 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 26.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 26.
+Guy's Announcement : The cash register currently has $665.36.
+Guy's Announcement : Gonger the Baker has arrived on Day 26
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 1 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 2 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 3 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 1 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 2 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked 3 Life game(s) at shelf position 6.
+Guy's Announcement : Burt stacked -1 Risk game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 2 Catan game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 3 Magic game(s) at shelf position 9.
+Guy's Announcement : Burt stacked -2 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked -1 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 2 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster wants to damage 2 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Connect Four
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Mousetrap
+Guy's Announcement : Cashier Burt reports that : Customer named Wuco is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Wuco is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Wuco to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Wuco bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Gasueapo is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Gasueapo is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Gasueapo to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Gasueapo bought 0 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 27 packages of cookies for $165.24
+Guy's Announcement : Gonger the baker has earned $2295 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 27.
+Guy's Announcement : Ernie the Cashier arrived at the store on Day 27.
+Guy's Announcement : The cash register currently has $500.12.
+Guy's Announcement : Gonger the Baker has arrived on Day 27
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Guy's Announcement : Ernie stacked -1 Netrunner game(s) at shelf position 2.
+Guy's Announcement : Ernie stacked 1 Candyland game(s) at shelf position 3.
+Guy's Announcement : Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy's Announcement : Ernie stacked 3 Life game(s) at shelf position 5.
+Guy's Announcement : Ernie stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Ernie stacked 2 Clue game(s) at shelf position 7.
+Guy's Announcement : Ernie stacked 1 Monopoly game(s) at shelf position 8.
+Guy's Announcement : Ernie stacked 2 Catan game(s) at shelf position 9.
+Guy's Announcement : Ernie stacked 3 Magic game(s) at shelf position 10.
+Guy's Announcement : Ernie stacked 2 Mousetrap game(s) at shelf position 11.
+Guy's Announcement : Ernie stacked -2 Gloomhaven game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Ernie reports that : 3 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster wants to damage 4 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Candyland
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Catan
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Monopoly
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Mousetrap
+Guy's Announcement : Cashier Ernie reports that : Customer named Deqebak is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Deqebak is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Deqebak to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Deqebak bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Xale is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Xale is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Xale to buy!
+Guy's Announcement : Cashier Ernie reports  : Customer Xale selected Clue.
+Guy's Announcement : Xale bought Clue for $19.00.
+Guy's Announcement : Cashier Ernie reports  :  Customer Xale bought 1 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Veeuwuxo is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Veeuwuxo is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Veeuwuxo to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Veeuwuxo bought 0 game(s).
+Guy's Announcement : Ernie the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Ernie the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 28 packages of cookies for $171.36
+Guy's Announcement : Gonger the baker has earned $2466 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 28.
+Guy's Announcement : Ernie the Cashier arrived at the store on Day 28.
+Guy's Announcement : Three new orders of Candyland have arrived.
+Guy's Announcement : Three new orders of Monopoly have arrived.
+Guy's Announcement : The cash register currently has $268.76.
+Guy's Announcement : Gonger the Baker has arrived on Day 28
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Ernie stacked 3 Pokemon game(s) at shelf position 1.
+Guy's Announcement : Ernie stacked -1 Netrunner game(s) at shelf position 2.
+Guy's Announcement : Ernie stacked 3 Candyland game(s) at shelf position 3.
+Guy's Announcement : Ernie stacked 1 Connect Four game(s) at shelf position 4.
+Guy's Announcement : Ernie stacked 3 Life game(s) at shelf position 5.
+Guy's Announcement : Ernie stacked -1 Risk game(s) at shelf position 6.
+Guy's Announcement : Ernie stacked 1 Clue game(s) at shelf position 7.
+Guy's Announcement : Ernie stacked 3 Monopoly game(s) at shelf position 8.
+Guy's Announcement : Ernie stacked 1 Catan game(s) at shelf position 9.
+Guy's Announcement : Ernie stacked 3 Magic game(s) at shelf position 10.
+Guy's Announcement : Ernie stacked 1 Mousetrap game(s) at shelf position 11.
+Guy's Announcement : Ernie stacked -2 Gloomhaven game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Ernie reports that : 3 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie Monster wants to damage 3 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Connect Four
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Candyland
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Ernie reports  : Cookie monster has damaged Game : Monopoly
+Guy's Announcement : Cashier Ernie reports that : Customer named Kegap is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Kegap is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Kegap to buy!
+Guy's Announcement : Cashier Ernie reports  : Customer Kegap selected Pokemon.
+Guy's Announcement : Kegap bought Pokemon for $10.00.
+Guy's Announcement : Cashier Ernie reports  :  Customer Kegap bought 1 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Foe is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Foe is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Foe to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Foe bought 0 game(s).
+Guy's Announcement : Cashier Ernie reports that : Customer named Codulee is inspecting the shelves.
+Guy's Announcement : Cashier Ernie reports  : Customer Codulee is trying to buy cookies.
+Guy's Announcement : Cashier Ernie reports  : There are no cookies for Codulee to buy!
+Guy's Announcement : Cashier Ernie reports  :  Customer Codulee bought 0 game(s).
+Guy's Announcement : Ernie the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Ernie the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 29 packages of cookies for $177.48
+Guy's Announcement : Gonger the baker has earned $2643 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 29.
+Guy's Announcement : Bart the Cashier arrived at the store on Day 29.
+Guy's Announcement : Three new orders of Connect Four have arrived.
+Guy's Announcement : The cash register currently has $83.28.
+Guy's Announcement : The Cash Fairy graciously and magically added $1000.00 to the cash register.
+Guy's Announcement : The cash register currently has $1083.28.
+Guy's Announcement : Gonger the Baker has arrived on Day 29
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Bart stacked 2 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Bart stacked 3 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Bart stacked 2 Candyland game(s) at shelf position 3.
+Guy's Announcement : Bart stacked -1 Risk game(s) at shelf position 4.
+Guy's Announcement : Bart stacked 3 Life game(s) at shelf position 5.
+Guy's Announcement : Bart stacked 3 Magic game(s) at shelf position 6.
+Guy's Announcement : Bart stacked -2 Gloomhaven game(s) at shelf position 7.
+Guy's Announcement : Bart stacked -1 Netrunner game(s) at shelf position 8.
+Guy's Announcement : Bart stacked 2 Pokemon game(s) at shelf position 9.
+Guy's Announcement : Bart stacked 1 Mousetrap game(s) at shelf position 10.
+Guy's Announcement : Bart stacked 1 Clue game(s) at shelf position 11.
+Guy's Announcement : Bart stacked 1 Catan game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Bart reports that : 4 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie Monster wants to damage 1 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Bart reports  : Cookie monster has damaged Game : Magic
+Guy's Announcement : Cashier Bart reports that : Customer named Lutunuea is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Lutunuea is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Lutunuea to buy!
+Guy's Announcement : Cashier Bart reports  : Customer Lutunuea selected Candyland.
+Guy's Announcement : Lutunuea bought Candyland for $24.40.
+Guy's Announcement : Cashier Bart reports  :  Customer Lutunuea bought 1 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Xerab is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Xerab is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Xerab to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Xerab bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Bekin is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Bekin is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Bekin to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Bekin bought 0 game(s).
+Guy's Announcement : Cashier Bart reports that : Customer named Giye is inspecting the shelves.
+Guy's Announcement : Cashier Bart reports  : Customer Giye is trying to buy cookies.
+Guy's Announcement : Cashier Bart reports  : There are no cookies for Giye to buy!
+Guy's Announcement : Cashier Bart reports  :  Customer Giye bought 0 game(s).
+Guy's Announcement : Bart the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Bart the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 30 packages of cookies for $183.6
+Guy's Announcement : Gonger the baker has earned $2826 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+Guy's Announcement : Guy has arrived on Day 30.
+Guy's Announcement : Burt the Cashier arrived at the store on Day 30.
+Guy's Announcement : The cash register currently has $924.08.
+Guy's Announcement : Gonger the Baker has arrived on Day 30
+Guy's Announcement : Vacuuming... 
+Guy's Announcement : Stacking...
+Guy's Announcement : Burt stacked 2 Monopoly game(s) at shelf position 1.
+Guy's Announcement : Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy's Announcement : Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Guy's Announcement : Burt stacked 1 Candyland game(s) at shelf position 4.
+Guy's Announcement : Burt stacked 1 Clue game(s) at shelf position 5.
+Guy's Announcement : Burt stacked 3 Life game(s) at shelf position 6.
+Guy's Announcement : Burt stacked -1 Risk game(s) at shelf position 7.
+Guy's Announcement : Burt stacked 1 Catan game(s) at shelf position 8.
+Guy's Announcement : Burt stacked 2 Magic game(s) at shelf position 9.
+Guy's Announcement : Burt stacked -2 Gloomhaven game(s) at shelf position 10.
+Guy's Announcement : Burt stacked -1 Netrunner game(s) at shelf position 11.
+Guy's Announcement : Burt stacked 2 Pokemon game(s) at shelf position 12.
+Guy's Announcement : The store is open for business.
+Guy's Announcement : Cashier Burt reports that : 4 customer(s) visited the store today.
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has arrived to terrorize!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster has eaten all the cookies!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie Monster wants to damage 5 game(s)!
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Catan
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Mousetrap
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Monopoly
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Mousetrap
+Guy's Announcement : 
+	COOKIE MONSTER ALERT!!! 
+Cashier Burt reports  : Cookie monster has damaged Game : Clue
+Guy's Announcement : Cashier Burt reports that : Customer named Cerih is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Cerih is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Cerih to buy!
+Guy's Announcement : Cashier Burt reports  :  Customer Cerih bought 0 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Cili is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Cili is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Cili to buy!
+Guy's Announcement : Cashier Burt reports  : Customer Cili selected Monopoly.
+Guy's Announcement : Cili bought Monopoly for $28.00.
+Guy's Announcement :  They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy's Announcement : Cashier Burt reports  :  Customer Cili bought 1 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Zixetixa is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Zixetixa is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Zixetixa to buy!
+Guy's Announcement : Cashier Burt reports  : Customer Zixetixa selected Connect Four.
+Guy's Announcement : Zixetixa bought Connect Four for $12.00.
+Guy's Announcement : Cashier Burt reports  :  Customer Zixetixa bought 1 game(s).
+Guy's Announcement : Cashier Burt reports that : Customer named Ximanif is inspecting the shelves.
+Guy's Announcement : Cashier Burt reports  : Customer Ximanif is trying to buy cookies.
+Guy's Announcement : Cashier Burt reports  : There are no cookies for Ximanif to buy!
+Guy's Announcement : Cashier Burt reports  : Customer Ximanif selected Pokemon.
+Guy's Announcement : Ximanif bought Pokemon for $10.00.
+Guy's Announcement : Cashier Burt reports  :  Customer Ximanif bought 1 game(s).
+Guy's Announcement : Burt the Cashier checks to see if games need to be restocked...
+Guy's Announcement : Burt the Cashier closed the store for the night and went home.
+Guy's Announcement : Gonger the baker has dropped 31 packages of cookies for $189.72
+Guy's Announcement : Gonger the baker has earned $3015 so far!
+Guy's Announcement : Gonger the baker has left for day 
+Guy's Announcement : Guy has left for the day 
+---------------------------------------------
+---------------------------------------------
+Items Sold and Their Generated Revenue: 
+
+4 sale(s) of Monopoly occurred, generating $112.00 of revenue.
+9 sale(s) of Connect Four occurred, generating $108.00 of revenue.
+2 sale(s) of Mousetrap occurred, generating $49.80 of revenue.
+3 sale(s) of Candyland occurred, generating $73.20 of revenue.
+6 sale(s) of Clue occurred, generating $114.00 of revenue.
+1 sale(s) of Life occurred, generating $20.00 of revenue.
+0 sale(s) of Risk occurred, generating $0.00 of revenue.
+0 sale(s) of Catan occurred, generating $0.00 of revenue.
+2 sale(s) of Magic occurred, generating $79.76 of revenue.
+0 sale(s) of Gloomhaven occurred, generating $0.00 of revenue.
+1 sale(s) of Netrunner occurred, generating $12.00 of revenue.
+5 sale(s) of Pokemon occurred, generating $50.00 of revenue.
+The Cash Fairy graciously visited the store 4 time(s).

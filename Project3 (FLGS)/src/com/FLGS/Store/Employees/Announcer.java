@@ -15,11 +15,11 @@ public class Announcer extends Employee implements Subscriber {
     }
 
     public void arrive(int numDay){
-        this.publish(this.getName()+ " has arrived on day " + (numDay+1) + ".");
+        this.publish(this.getName()+ " has arrived on Day " + (numDay+1) + ".");
     }
 
     public void leave(){
-        this.publish(this.getName() + " has left for the day ");
+        this.publish(this.getName() + " has left for the day.");
     }
 
     public void update(String message){
@@ -47,7 +47,7 @@ public class Announcer extends Employee implements Subscriber {
     }
 
     public void publish(String message) {
-        System.out.println("Guy's Announcement : " + message);
+        System.out.println("Guy says: " + message);
     }
 
 

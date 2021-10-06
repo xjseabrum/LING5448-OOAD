@@ -12,7 +12,7 @@ public class SpecialTokenPack extends SpecialAdd {
     }
 
     public String getDesc(){
-        desc = " They also bought " + this.getNumBuy() + " special token pack for $" +
+        desc = "They also bought " + this.getNumBuy() + " special token pack for $" +
                 String.format("%.2f", this.getAddCost()) +
                 " for a grand total of $" + String.format("%.2f", this.getPrice())
                 + ".";

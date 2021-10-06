@@ -4,7 +4,7 @@ import com.FLGS.Store.CookieJar;
 
 public class Baker extends Employee implements Publisher {
 
-    private int Pocket = 0;
+    private double Pocket = 0;
     private int deliverPackages = 1;
     private Announcer subscriber;
 
@@ -13,7 +13,7 @@ public class Baker extends Employee implements Publisher {
     }
 
     public void arrive(int numDays){
-        this.publish(this.getName() + " the Baker has arrived on day " + (numDays+1));
+        this.publish(this.getName() + " the Baker arrived on Day " + (numDays+1) + ".");
     }
 
 
@@ -31,13 +31,18 @@ public class Baker extends Employee implements Publisher {
 
         this.Pocket+=soldPrice;
 
-        this.publish(this.getName() + " the baker has dropped "+deliverPackages+" packages of cookies for $"+soldPrice);
-        this.publish(this.getName() + " the baker has earned $"+this.Pocket+" so far!");
+        this.publish(this.getName() + " the Baker dropped off " +
+                     deliverPackages + " packages of chocolate chip " +
+                     "cookies for $" +
+                     String.format("%.2f", soldPrice) + ".");
+
+        this.publish(this.getName() + " the Baker has earned $" +
+                     String.format("%.2f", this.Pocket) + " so far!");
 
     }
 
     public void leave(){
-        this.publish(this.getName() + " the baker has left for day ");
+        this.publish(this.getName() + " the Baker has left for day.");
     }
     public void addDeliverPackages(){
         deliverPackages=deliverPackages+1;

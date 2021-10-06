@@ -14,7 +14,7 @@ public class CustomMinis extends SpecialAdd {
     }
 
     public String getDesc(){
-        desc = " They also bought " + this.getNumBuy() + " custom mini(s) for $" +
+        desc = "They also bought " + this.getNumBuy() + " custom mini(s) for $" +
                 String.format("%.2f", this.getAddCost()) +
                 " for a grand total of $" + String.format("%.2f", this.getPrice())
                 + ".";

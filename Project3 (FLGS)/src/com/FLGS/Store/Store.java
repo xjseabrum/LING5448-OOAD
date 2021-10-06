@@ -68,7 +68,7 @@ public class Store {
 
         this.spawnCustomer();
 
-        this.getCashier().publish( "Cashier " + this.getCashier().getName() +" reports that : " +
+        this.getCashier().publish( "Cashier " + this.getCashier().getName() +" reports: " +
                 this.customers.size() + " customer(s) visited the store today.");
 
         CookieMonster cookieMonster = StoreUtils.spawnCookieMonster();
@@ -78,7 +78,7 @@ public class Store {
         }
 
         for (Customer customer:this.customers){
-            this.getCashier().publish("Cashier " + this.getCashier().getName() +" reports that : " +
+            this.getCashier().publish("Cashier " + this.getCashier().getName() +" reports: " +
                     "Customer named " + customer.getCustomerName() + " is inspecting the shelves.");
             customer.VisitStore(Main.wares.cookiejar, Main.wares.gamesList, this.getCashier());
         }
@@ -104,7 +104,7 @@ public class Store {
         PublishUtils.setupPublishing();
 
         for (int day = 0; day < days; day++){
-            System.out.println("-".repeat(45));
+            System.out.println("-".repeat(80));
             this.doDailyRollCall(day);
             this.doDailyMaintainence(day);
             this.doDailyBusiness();

@@ -22,37 +22,45 @@ public class CookieMonster implements StoreVisitor {
         DamageGame dg = new DamageGame();
         Games damagedGame;
 
-        cashier.publish("COOKIEMONSTERALERT!!! Cashier " + cashier.getName() + " reports  : " +
-                "Cookie Monster wants to damage " + numGamesToDamage + " game(s)!");
+        cashier.publish("\t\tCOOKIE MONSTER ALERT!!! \n\tCashier " +
+                cashier.getName() + " reports: " +
+                "Cookie Monster wants to damage " +
+                numGamesToDamage + " game(s)!");
 
         for (int i=0; i<numGamesToDamage; i++) {
 
             damagedGame = dg.damageRandomGame(shelf);
             if (damagedGame==null){
-                cashier.publish("COOKIEMONSTERALERT!!! Cashier " + cashier.getName() + " reports  : " +
-                        "Cookie Monster tried to  damage games, but the shelf was empty!");
+                cashier.publish("\t\tCOOKIE MONSTER ALERT!!! \n\tCashier " +
+                                cashier.getName() + " reports: " +
+                        "Cookie Monster tried to damage games, but the shelf was empty!");
             }
 
             else {
-                cashier.publish("COOKIEMONSTERALERT!!! Cashier " + cashier.getName() + " reports  : " +
-                        "Cookie monster has damaged Game : " + damagedGame.getGameName());
+                cashier.publish("\t\tCOOKIE MONSTER ALERT!!! \n\tCashier " +
+                         cashier.getName() + " reports: " +
+                        "Cookie monster damaged an in-stock copy of " +
+                        damagedGame.getGameName() + ".");
             }
         }
     }
 
     private boolean terrorize(CookieJar cookiejar, Cashier cashier){
-        cashier.publish("COOKIEMONSTERALERT!!! Cashier " + cashier.getName() + " reports  : " +
+        cashier.publish("\t\tCOOKIE MONSTER ALERT!!! \n\tCashier " +
+                cashier.getName() + " reports: " +
                 "Cookie Monster has arrived to terrorize!");
 
         if(!cookiejar.existCookies()) {
-            cashier.publish("COOKIEMONSTERALERT!!! Cashier " + cashier.getName() + " reports  : " +
+            cashier.publish("\t\tCOOKIE MONSTER ALERT!!! \n\tCashier " +
+                    cashier.getName() + " reports: " +
                     "Cookie Monster notices there are no cookies and leaves dejectedly.");
             return false;
         }
 
         else {
             cookiejar.devour();
-            cashier.publish("COOKIEMONSTERALERT!!! Cashier " + cashier.getName() + " reports  : " +
+            cashier.publish("\t\tCOOKIE MONSTER ALERT!!! \n\tCashier " +
+                    cashier.getName() + " reports: " +
                     "Cookie Monster has eaten all the cookies!");
             return true;
         }

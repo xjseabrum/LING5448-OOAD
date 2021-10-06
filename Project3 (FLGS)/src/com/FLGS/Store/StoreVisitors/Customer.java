@@ -39,11 +39,11 @@ public class Customer implements StoreVisitor {
     private void buyCookie(CookieJar cookieJar, Cashier cashier){
 
         int numCookies = RandomUtils.getRandomInt(2)+1;
-        cashier.publish("Cashier " + cashier.getName() + " reports  : " +
+        cashier.publish("Cashier " + cashier.getName() + " reports: " +
                 "Customer " + this.name + " is trying to buy cookies.");
 
         if (cookieJar.getCookiesInJar()==0){
-            cashier.publish("Cashier " + cashier.getName() + " reports  : " +
+            cashier.publish("Cashier " + cashier.getName() + " reports: " +
                     "There are no cookies for " + this.name + " to buy!");
             this.buyProbabilityModifier -= 0.10;
             return;
@@ -52,7 +52,7 @@ public class Customer implements StoreVisitor {
         numCookies = Math.min(numCookies, cookieJar.getCookiesInJar());
         cookieJar.soldCookie(numCookies);
 
-        cashier.publish("Cashier " + cashier.getName() + " reports  : " +
+        cashier.publish("Cashier " + cashier.getName() + " reports: " +
                 "Customer " + this.name + " bought " + numCookies + "cookies");
 
         this.buyProbabilityModifier += 0.20;
@@ -63,8 +63,8 @@ public class Customer implements StoreVisitor {
         for (int i = 0; i<inInventory.size(); i++){
 
             if (RandomUtils.customerBuysFromShelf(i, this.buyProbabilityModifier)) {
-                cashier.publish("Cashier " + cashier.getName() + " reports  : " +
-                       "Customer" + this.name + " selected " + inInventory.get(i).getGameName() + ".");
+                cashier.publish("Cashier " + cashier.getName() + " reports: " +
+                       "Customer " + this.name + " selected " + inInventory.get(i).getGameName() + ".");
 
                 cashier.tasks.sold(inInventory.get(i), this.getCustomerName(), Main.register);
 
@@ -90,7 +90,7 @@ public class Customer implements StoreVisitor {
         this.buyCookie(cookieJar, cashier);
         this.buyGames(inInventory, cashier);
 
-        cashier.publish("Cashier " + cashier.getName() + " reports  : Customer " + this.name +
+        cashier.publish("Cashier " + cashier.getName() + " reports: Customer " + this.name +
                 " bought " + this.numPurchasedGames + " game(s).");
 
     }

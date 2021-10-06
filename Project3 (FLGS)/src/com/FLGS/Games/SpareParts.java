@@ -15,7 +15,7 @@ public class SpareParts extends SpecialAdd {
     }
 
     public String getDesc(){
-        desc = " They also bought " + this.getNumBuy() + " spare parts kit(s) for $" +
+        desc = "They also bought " + this.getNumBuy() + " spare parts kit(s) for $" +
                 String.format("%.2f", this.getAddCost()) +
                 " for a grand total of $" + String.format("%.2f", this.getPrice())
                 + ".";
