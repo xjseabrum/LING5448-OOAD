@@ -1,5 +1,7 @@
 package com.FLGS.Games;
 
+// One of the concrete decorator subclasses.
+
 public class SpecialCards extends SpecialAdd{
     private int minRoll = 1;
     private int maxRoll = 6;

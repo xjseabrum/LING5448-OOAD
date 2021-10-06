@@ -1,6 +1,9 @@
 package com.FLGS.Games;
 import com.FLGS.Utils.RandomUtils;
 
+// This is the abstract decorator class from which the
+// concrete classes derive.
+
 public abstract class SpecialAdd extends Games{
     public double cost = 0;
     public int randRoll;

@@ -1,11 +1,13 @@
 package com.FLGS.Store;
 import static com.FLGS.Main.register;
+
 // Has to access the cash register
 // so that when a cookie is sold, we add the
 // price to the register
 // and that when a cookie is bought (as restock),
 // we subtract the price from the register.
-
+// It also has a class that CookieMonster calls
+// when he comes to visit the store.
 
 public class CookieJar {
 

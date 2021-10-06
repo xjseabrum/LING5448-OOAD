@@ -1,5 +1,7 @@
 package com.FLGS.Games;
 
+// One of the concrete decorator subclasses.
+
 public class SpecialTokenPack extends SpecialAdd {
     public String desc;
     private int numBuy;
