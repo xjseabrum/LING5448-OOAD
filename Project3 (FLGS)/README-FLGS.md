@@ -108,7 +108,7 @@ public class CustomMinis extends SpecialAdd {
 
 
 ### 3. Strategy
-The following helper class (Deco) helps to assign the correct decorator given the game that is inputted.  This is just one of four different ways strategy is used in the project (the other main examples can be found in: RandomUtils, StoreUtils, EmployeeUtils, PublishUtils).  
+The following helper class (Deco) helps to assign the correct decorator given the game that is inputted.  This is just one of the ways Strategy is used in the project (the other main examples can be found in: RandomUtils, StoreUtils, EmployeeUtils, PublishUtils).  
 ```java
 
 public class Deco {
@@ -157,17 +157,17 @@ public class Deco {
 ```
 
 Now, where is Deco called so that Strategy may be used?  It is called here, under the buyGames() method in Customer.java:
-_(Note: code is truncated here just to show the main point.  Truncated code is represented with [...])_
+_(Note: code is truncated here just to show the main point.  Truncated code is represented with //[...])_
 ```java
 private void buyGames(List<Games> inInventory, Cashier cashier){
         Deco deco = new Deco();
         for (int i = 0; i<inInventory.size(); i++){
-            [...]
+            //[...]
                     // Here, delegation to deco occurs.
                     // allowing it to assign the correct decorator
                     // to the game that the customer buys.
                     cashier.publish(deco.decorate(inInventory.get(i), Main.register));
-            [...]
+            //[...]
     }
 ```
 
