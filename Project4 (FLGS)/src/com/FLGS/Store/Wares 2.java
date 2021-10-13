@@ -17,9 +17,7 @@ package com.FLGS.Store;// This class controls and manages what is in the
 import com.FLGS.Games.*;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 public class Wares {
     public int totalGames;
@@ -114,12 +112,5 @@ public class Wares {
         this.addGame(new Catan());
         this.addGame(new Risk());
         this.addGame(new Gloomhaven());
-    }
-    public Set<Class<?>> getGameTypeSet(){
-        Set<Class<?>> TypeSet = new HashSet();
-        for(Games g:this.gamesList){
-            TypeSet.add(g.getClass().getSuperclass());
-        }
-        return TypeSet;
     }
 }

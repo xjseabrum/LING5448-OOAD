@@ -9,8 +9,6 @@ package com.FLGS.Store;
 import com.FLGS.Store.Employees.Announcer;
 import com.FLGS.Store.Employees.Baker;
 import com.FLGS.Store.Employees.Cashier;
-import com.FLGS.Store.Employees.Demonstrator;
-import com.FLGS.Store.Employees.commands.Command;
 import com.FLGS.Store.StoreVisitors.CookieMonster;
 import com.FLGS.Store.StoreVisitors.Customer;
 import com.FLGS.Utils.*;
@@ -19,7 +17,6 @@ import com.FLGS.Main;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 
 public class Store {
 
@@ -28,7 +25,6 @@ public class Store {
     private List<Cashier> cashiers = new ArrayList<Cashier>();
     private final Announcer announcer = EmployeeUtils.spawnAnnouncer();;
     private final Baker baker = EmployeeUtils.spawnBaker(announcer);
-    private Demonstrator demonstrator=EmployeeUtils.spawnDemonstrator(announcer);
 
     // getters and setters
     public Cashier getCashier(){
@@ -76,35 +72,18 @@ public class Store {
     private void doDailyBusiness(){
         // Employees open the shop and customers buy stuff.
 
-
         this.spawnCustomer();
 
         this.getCashier().publish( "Cashier " + this.getCashier().getName() +" reports: " +
                 this.customers.size() + " customer(s) visited the store today.");
+
         CookieMonster cookieMonster = StoreUtils.spawnCookieMonster();
 
-        this.demonstrator.arrive();
-        this.demonstrator.setWare(Main.wares);
-
         if (!(cookieMonster==null)){
-            this.demonstrator.screamAndRun();
-            this.demonstrator=EmployeeUtils.spawnDemonstrator(announcer);
-            this.demonstrator.setWare(Main.wares);
-
             cookieMonster.VisitStore(Main.wares.cookiejar, Main.wares.gamesList, this.getCashier());
         }
 
         for (Customer customer:this.customers){
-            Random r = new Random();
-            int requestTimes = r.nextInt(2);// random number from 0~2
-            for(int i=0;i<=requestTimes;i++){
-                Command cmd=customer.requestRandomCommand(this.demonstrator);
-                if(cmd!=null){
-                    this.getCashier().setCommand(cmd);
-                    this.getCashier().excuteCommands();
-                }
-            }
-
             this.getCashier().publish("Cashier " + this.getCashier().getName() +" reports: " +
                     "Customer named " + customer.getCustomerName() + " is inspecting the shelves.");
             customer.VisitStore(Main.wares.cookiejar, Main.wares.gamesList, this.getCashier());

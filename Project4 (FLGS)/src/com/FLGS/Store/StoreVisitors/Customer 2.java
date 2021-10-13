@@ -1,5 +1,4 @@
 package com.FLGS.Store.StoreVisitors;
-import com.FLGS.Games.BoardGame;
 import com.FLGS.Games.Deco;
 
 //An example of identity - com.FLGS.Store.StoreVisitors.Customer.buyGame() passes a com.FLGS.Games.Games object to
@@ -11,14 +10,10 @@ import com.FLGS.Interfaces.StoreVisitor;
 import com.FLGS.Main;
 import com.FLGS.Store.CookieJar;
 import com.FLGS.Store.Employees.Cashier;
-import com.FLGS.Store.Employees.Demonstrator;
-import com.FLGS.Store.Employees.commands.*;
 import com.FLGS.Utils.RandomUtils;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
-import java.util.Set;
 
 
 public class Customer implements StoreVisitor {
@@ -101,28 +96,5 @@ public class Customer implements StoreVisitor {
         cashier.publish("Cashier " + cashier.getName() + " reports: Customer " + this.name +
                 " bought " + this.numPurchasedGames + " game(s).");
 
-    }
-    public Command requestRandomCommand(Demonstrator demonstrator){
-        Set gameTypeSet=Main.wares.getGameTypeSet();
-        // convert HashSet to an array
-        Class<?>[] typeArray = (Class<?>[]) gameTypeSet.toArray(new Class<?>[gameTypeSet.size()]);
-        Random r = new Random();
-        int rndmNumber = r.nextInt(gameTypeSet.size());
-        Class<?> interestedType=typeArray[rndmNumber];
-        int c = r.nextInt(100);
-        Command cmd=null;
-        if (c < 25){ // 25%
-            cmd=new Demonstrate(demonstrator, interestedType,this.name);
-        }
-        else if (c < 50){ // 30%
-            cmd=new Recommend(demonstrator, interestedType,this.name);
-        }
-        else if (c < 70){ // 20%
-            cmd=new Explain(demonstrator, interestedType,this.name);
-        }
-        else { // 25%
-        }
-
-        return cmd;
     }
 }

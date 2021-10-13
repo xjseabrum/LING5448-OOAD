@@ -7,8 +7,6 @@ import com.FLGS.Store.Employees.Cashier;
 import com.FLGS.Actions.WidestFirstStack;
 import com.FLGS.Actions.HighestFirstStack;
 import com.FLGS.Actions.SingleLastStack;
-import com.FLGS.Store.Employees.Demonstrator;
-import com.FLGS.Store.Wares;
 
 public class EmployeeUtils {
 
@@ -39,12 +37,6 @@ public class EmployeeUtils {
         Baker baker = new Baker("Gonger");
         baker.setSubscriber(announcer);
         return baker;
-    }
-    public static Demonstrator spawnDemonstrator(Announcer announcer){
-        String name=RandomUtils.getRandomName();
-        Demonstrator demonstrator=new Demonstrator(name);
-        demonstrator.setSubscriber(announcer);
-        return demonstrator;
     }
 
 

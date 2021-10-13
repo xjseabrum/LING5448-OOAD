@@ -7,17 +7,12 @@ package com.FLGS.Store.Employees;
 
 import com.FLGS.Actions.Stack;
 import com.FLGS.Interfaces.Publisher;
-import com.FLGS.Store.Employees.commands.Command;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class Cashier extends Employee implements Publisher {
 
     public int vacuumDamageRate;
     public CashierTask tasks;
     private Announcer subscriber = null;
-    public List<Command> commandOnHold=new ArrayList<Command>();
 
     public Cashier(String cashierName, int damageRate, Stack stack) {
 
@@ -36,14 +31,7 @@ public class Cashier extends Employee implements Publisher {
     public void setSubscriber(Announcer announcer){
         this.subscriber = announcer;
     }
-    public void setCommand(Command command){
-        commandOnHold.add(command);
-    }
-    public void excuteCommands(){
-        for(Command cmd:this.commandOnHold){
-            cmd.execute();
-        }
-    }
+
 
 
 }
