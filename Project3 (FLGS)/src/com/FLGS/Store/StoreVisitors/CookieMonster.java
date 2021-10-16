@@ -71,7 +71,6 @@ public class CookieMonster implements StoreVisitor {
         boolean foundCookies;
 
         List<Games> inInventory = new ArrayList<>();
-        // TODO: Weitung/Jay, give me an updated list of games that I can buy from!
         for (Games gameInInventory:shelf){
             if (gameInInventory.getInventory() > 0) {
                 inInventory.add(gameInInventory);

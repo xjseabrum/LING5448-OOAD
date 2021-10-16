@@ -3,7 +3,7 @@ package com.FLGS.Store.Employees;
 import com.FLGS.Interfaces.Publisher;
 import com.FLGS.Utils.RandomUtils;
 
-public class Employee {
+public abstract class Employee {
 
     // Every employee is now a publisher, and changes are published to a subscriber (Announcer).
     // In a typical pub-sub model - there are usually more subscribers than publishers. But
@@ -30,6 +30,5 @@ public class Employee {
     public String getName(){
         return this.name;
     }
-
 
 }

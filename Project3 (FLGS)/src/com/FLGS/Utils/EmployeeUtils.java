@@ -12,7 +12,7 @@ import com.FLGS.Store.Wares;
 
 public class EmployeeUtils {
 
-    public static  Announcer spawnAnnouncer(){
+    public static Announcer spawnAnnouncer(){
         return new Announcer("Guy");
     }
 

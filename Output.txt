@@ -1,0 +1,241 @@
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 1.
+Guy says: Bart the Cashier arrived at the store on Day 1.
+Guy says: The cash register currently has $0.00.
+Guy says: The Cash Fairy graciously and magically added $1000.00 to the cash register.
+Guy says: The cash register currently has $1000.00.
+Guy says: Gonger the Baker arrived on Day 1.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $6.12 so far! The cookie jar now has 12 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Bart stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Bart stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Bart stacked 3 Mousetrap game(s) at shelf position 3.
+Guy says: Bart stacked 3 Candyland game(s) at shelf position 4.
+Guy says: Bart stacked 3 Clue game(s) at shelf position 5.
+Guy says: Bart stacked 3 Risk game(s) at shelf position 6.
+Guy says: Bart stacked 3 Life game(s) at shelf position 7.
+Guy says: Bart stacked 3 Catan game(s) at shelf position 8.
+Guy says: Bart stacked 3 Magic game(s) at shelf position 9.
+Guy says: Bart stacked 3 Gloomhaven game(s) at shelf position 10.
+Guy says: Bart stacked 3 Netrunner game(s) at shelf position 11.
+Guy says: Bart stacked 3 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Bart reports: 6 customer(s) visited the store today.
+Guy says: Cashier Bart reports: Card Gamer Quo is inspecting the shelves.
+Guy says: Cashier Bart reports: Card Gamer Quo is trying to buy cookies.
+Guy says: Cashier Bart reports: Card Gamer Quo bought 2 cookie(s).
+Guy says: Cashier Bart reports: Card Gamer Quo selected Monopoly.
+Guy says: Quo bought Monopoly for $28.00.
+Guy says: Cashier Bart reports: Card Gamer Quo selected Connect Four.
+Guy says: Quo bought Connect Four for $12.00.
+Guy says: Cashier Bart reports: Card Gamer Quo selected Mousetrap.
+Guy says: Quo bought Mousetrap for $24.90.
+Guy says: Cashier Bart reports: Card Gamer Quo bought 3 game(s) in all.
+Guy says: Cashier Bart reports: Card Gamer Aeeo is inspecting the shelves.
+Guy says: Cashier Bart reports: Card Gamer Aeeo is trying to buy cookies.
+Guy says: Cashier Bart reports: Card Gamer Aeeo bought 2 cookie(s).
+Guy says: Cashier Bart reports: Card Gamer Aeeo selected Monopoly.
+Guy says: Aeeo bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Bart reports: Card Gamer Aeeo selected Connect Four.
+Guy says: Aeeo bought Connect Four for $12.00.
+Guy says: Cashier Bart reports: Card Gamer Aeeo selected Life.
+Guy says: Aeeo bought Life for $20.00.
+Guy says: Cashier Bart reports: Card Gamer Aeeo bought 3 game(s) in all.
+Guy says: Cashier Bart reports: Board Gamer Wonatut is inspecting the shelves.
+Guy says: Cashier Bart reports: Board Gamer Wonatut is trying to buy cookies.
+Guy says: Cashier Bart reports: Board Gamer Wonatut bought 3 cookie(s).
+Guy says: Cashier Bart reports: Board Gamer Wonatut selected Monopoly.
+Guy says: Wonatut bought Monopoly for $28.00.
+Guy says: Cashier Bart reports: Board Gamer Wonatut selected Risk.
+Guy says: Wonatut bought Risk for $31.50.
+Guy says: Cashier Bart reports: Board Gamer Wonatut bought 2 game(s) in all.
+Guy says: Cashier Bart reports: Family Gamer Luwezi is inspecting the shelves.
+Guy says: Cashier Bart reports: Family Gamer Luwezi is trying to buy cookies.
+Guy says: Cashier Bart reports: Family Gamer Luwezi bought 2 cookie(s).
+Guy says: Cashier Bart reports: Family Gamer Luwezi selected Clue.
+Guy says: Luwezi bought Clue for $19.00.
+Guy says: Cashier Bart reports: Family Gamer Luwezi selected Risk.
+Guy says: Luwezi bought Risk for $31.50.
+Guy says: Cashier Bart reports: Family Gamer Luwezi selected Life.
+Guy says: Luwezi bought Life for $20.00.
+Guy says: Cashier Bart reports: Family Gamer Luwezi bought 3 game(s) in all.
+Guy says: Cashier Bart reports: Board Gamer Iuhepum is inspecting the shelves.
+Guy says: Cashier Bart reports: Board Gamer Iuhepum is trying to buy cookies.
+Guy says: Cashier Bart reports: Board Gamer Iuhepum bought 2 cookie(s).
+Guy says: Cashier Bart reports: Board Gamer Iuhepum selected Life.
+Guy says: Iuhepum bought Life for $20.00.
+Guy says: Cashier Bart reports: Board Gamer Iuhepum bought 1 game(s) in all.
+Guy says: Cashier Bart reports: Kid Gamer Uufed is inspecting the shelves.
+Guy says: Cashier Bart reports: Kid Gamer Uufed is trying to buy cookies.
+Guy says: Cashier Bart reports: Kid Gamer Uufed bought 1 cookie(s).
+Guy says: Cashier Bart reports: Kid Gamer Uufed selected Connect Four.
+Guy says: Uufed bought Connect Four for $12.00.
+Guy says: Cashier Bart reports: Kid Gamer Uufed selected Mousetrap.
+Guy says: Uufed bought Mousetrap for $24.90.
+Guy says: Cashier Bart reports: Kid Gamer Uufed selected Candyland.
+Guy says: Uufed bought Candyland for $24.40.
+Guy says: Cashier Bart reports: Kid Gamer Uufed bought 3 game(s) in all.
+Guy says: Bart the Cashier checks to see if games need to be restocked...
+Guy says: Bart the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 12 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are NO cookies left at the end of the day, and will increase delivery to 2-dozen cookies.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 2.
+Guy says: Burt the Cashier arrived at the store on Day 2.
+Guy says: Three new orders of Monopoly have arrived.
+Guy says: Three new orders of Connect Four have arrived.
+Guy says: Three new orders of Life have arrived.
+Guy says: The cash register currently has $1258.32.
+Guy says: Gonger the Baker arrived on Day 2.
+Guy says: Gonger the Baker dropped off 2-dozen chocolate chip cookies for $12.24.
+Guy says: Gonger the Baker has earned $18.36 so far! The cookie jar now has 24 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 3 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 2 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 2 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 3 Life game(s) at shelf position 6.
+Guy says: Burt stacked 1 Risk game(s) at shelf position 7.
+Guy says: Burt stacked 3 Magic game(s) at shelf position 8.
+Guy says: Burt stacked 3 Catan game(s) at shelf position 9.
+Guy says: Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 3 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 1 customer(s) visited the store today.
+Guy says: Cashier Burt reports: Kid Gamer Nakar is inspecting the shelves.
+Guy says: Cashier Burt reports: Kid Gamer Nakar is trying to buy cookies.
+Guy says: Cashier Burt reports: Kid Gamer Nakar bought 1 cookie(s).
+Guy says: Cashier Burt reports: Kid Gamer Nakar selected Monopoly.
+Guy says: Nakar bought Monopoly for $28.00.
+Guy says: Cashier Burt reports: Kid Gamer Nakar selected Clue.
+Guy says: Nakar bought Clue for $19.00.
+Guy says: Cashier Burt reports: Kid Gamer Nakar selected Risk.
+Guy says: Nakar bought Risk for $31.50.
+Guy says: Cashier Burt reports: Kid Gamer Nakar bought 3 game(s) in all.
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 1 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+Guy says: Guy has arrived on Day 3.
+Guy says: Burt the Cashier arrived at the store on Day 3.
+Guy says: Three new orders of Risk have arrived.
+Guy says: The cash register currently has $1278.60.
+Guy says: Gonger the Baker arrived on Day 3.
+Guy says: Gonger the Baker dropped off 1-dozen chocolate chip cookies for $6.12.
+Guy says: Gonger the Baker has earned $24.48 so far! The cookie jar now has 35 cookie(s).
+Guy says: Vacuuming... 
+Guy says: Stacking...
+Guy says: Burt stacked 2 Monopoly game(s) at shelf position 1.
+Guy says: Burt stacked 3 Connect Four game(s) at shelf position 2.
+Guy says: Burt stacked 1 Mousetrap game(s) at shelf position 3.
+Guy says: Burt stacked 2 Candyland game(s) at shelf position 4.
+Guy says: Burt stacked 1 Clue game(s) at shelf position 5.
+Guy says: Burt stacked 3 Risk game(s) at shelf position 6.
+Guy says: Burt stacked 3 Life game(s) at shelf position 7.
+Guy says: Burt stacked 3 Catan game(s) at shelf position 8.
+Guy says: Burt stacked 3 Magic game(s) at shelf position 9.
+Guy says: Burt stacked 3 Gloomhaven game(s) at shelf position 10.
+Guy says: Burt stacked 3 Netrunner game(s) at shelf position 11.
+Guy says: Burt stacked 3 Pokemon game(s) at shelf position 12.
+Guy says: The store is open for business.
+Guy says: Cashier Burt reports: 5 customer(s) visited the store today.
+Guy says: Cashier Burt reports: Board Gamer Liaax is inspecting the shelves.
+Guy says: Cashier Burt reports: Board Gamer Liaax is trying to buy cookies.
+Guy says: Cashier Burt reports: Board Gamer Liaax bought 2 cookie(s).
+Guy says: Cashier Burt reports: Board Gamer Liaax selected Connect Four.
+Guy says: Liaax bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Board Gamer Liaax selected Candyland.
+Guy says: Liaax bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Board Gamer Liaax bought 2 game(s) in all.
+Guy says: Cashier Burt reports: Family Gamer Pesi is inspecting the shelves.
+Guy says: Cashier Burt reports: Family Gamer Pesi is trying to buy cookies.
+Guy says: Cashier Burt reports: Family Gamer Pesi bought 2 cookie(s).
+Guy says: Cashier Burt reports: Family Gamer Pesi selected Risk.
+Guy says: Pesi bought Risk for $31.50.
+Guy says: Cashier Burt reports: Family Gamer Pesi selected Netrunner.
+Guy says: Pesi bought Netrunner for $12.00.
+Guy says: Cashier Burt reports: Family Gamer Pesi bought 2 game(s) in all.
+Guy says: Cashier Burt reports: Board Gamer Eiciwex is inspecting the shelves.
+Guy says: Cashier Burt reports: Board Gamer Eiciwex is trying to buy cookies.
+Guy says: Cashier Burt reports: Board Gamer Eiciwex bought 1 cookie(s).
+Guy says: Cashier Burt reports: Board Gamer Eiciwex selected Monopoly.
+Guy says: Eiciwex bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Board Gamer Eiciwex selected Clue.
+Guy says: Eiciwex bought Clue for $19.00.
+Guy says: Cashier Burt reports: Board Gamer Eiciwex selected Risk.
+Guy says: Eiciwex bought Risk for $31.50.
+Guy says: Cashier Burt reports: Board Gamer Eiciwex bought 3 game(s) in all.
+Guy says: Cashier Burt reports: Card Gamer Rakatin is inspecting the shelves.
+Guy says: Cashier Burt reports: Card Gamer Rakatin is trying to buy cookies.
+Guy says: Cashier Burt reports: Card Gamer Rakatin bought 2 cookie(s).
+Guy says: Cashier Burt reports: Card Gamer Rakatin selected Monopoly.
+Guy says: Rakatin bought Monopoly for $28.00.
+Guy says: They also bought 1 special token pack for $6.00 for a grand total of $34.00.
+Guy says: Cashier Burt reports: Card Gamer Rakatin selected Connect Four.
+Guy says: Rakatin bought Connect Four for $12.00.
+Guy says: Cashier Burt reports: Card Gamer Rakatin selected Candyland.
+Guy says: Rakatin bought Candyland for $24.40.
+Guy says: Cashier Burt reports: Card Gamer Rakatin bought 3 game(s) in all.
+Guy says: Cashier Burt reports: Family Gamer Suniiui is inspecting the shelves.
+Guy says: Cashier Burt reports: Family Gamer Suniiui is trying to buy cookies.
+Guy says: Cashier Burt reports: Family Gamer Suniiui bought 3 cookie(s).
+Guy says: Cashier Burt reports: Family Gamer Suniiui selected Life.
+Guy says: Suniiui bought Life for $20.00.
+Guy says: Cashier Burt reports: Family Gamer Suniiui selected Gloomhaven.
+Guy says: Suniiui bought Gloomhaven for $50.00.
+Guy says: Cashier Burt reports: Family Gamer Suniiui bought 2 game(s) in all.
+Guy says: Burt the Cashier checks to see if games need to be restocked...
+Guy says: Burt the Cashier closed the store for the night and went home.
+Guy says: Gonger the Baker says that 10 cookie sale(s) happened today.
+Guy says: Gonger the Baker says that the Cookie Monster devoured 0 cookie(s) today.
+Guy says: Gonger the Baker says there are still cookies left at the end of the day, and will deliver 1-dozen cookies the next day.
+Guy says: Gonger the Baker has left for the day.
+Guy says: Guy has left for the day.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Event Summary:
+The Cash Fairy graciously visited the store 1 time(s).
+Gonger the Baker made a racket totalling $24.48.
+
+Item Summary:
+The cookie monster devoured a total of 0 cookie(s).
+23 sale(s) of cookies occurred, generating $23.46 of revenue.
+6 sale(s) of Monopoly occurred, generating $168.00 of revenue.
+5 sale(s) of Connect Four occurred, generating $60.00 of revenue.
+2 sale(s) of Mousetrap occurred, generating $49.80 of revenue.
+3 sale(s) of Candyland occurred, generating $73.20 of revenue.
+3 sale(s) of Clue occurred, generating $57.00 of revenue.
+5 sale(s) of Risk occurred, generating $157.50 of revenue.
+4 sale(s) of Life occurred, generating $80.00 of revenue.
+0 sale(s) of Catan occurred, generating $0.00 of revenue.
+0 sale(s) of Magic occurred, generating $0.00 of revenue.
+1 sale(s) of Gloomhaven occurred, generating $50.00 of revenue.
+1 sale(s) of Netrunner occurred, generating $12.00 of revenue.
+0 sale(s) of Pokemon occurred, generating $0.00 of revenue.
+
+0 order(s) of Monopoly got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Connect Four got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Mousetrap got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Candyland got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Clue got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Risk got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Life got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Catan got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Magic got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Gloomhaven got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Netrunner got damaged, costing the store $0.00 in replacement costs.
+0 order(s) of Pokemon got damaged, costing the store $0.00 in replacement costs.

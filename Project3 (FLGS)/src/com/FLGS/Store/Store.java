@@ -106,7 +106,7 @@ public class Store {
             }
 
             this.getCashier().publish("Cashier " + this.getCashier().getName() +" reports: " +
-                    "Customer named " + customer.getCustomerName() + " is inspecting the shelves.");
+                    customer.type + " Gamer " + customer.getCustomerName() + " is inspecting the shelves.");
             customer.VisitStore(Main.wares.cookiejar, Main.wares.gamesList, this.getCashier());
         }
     }

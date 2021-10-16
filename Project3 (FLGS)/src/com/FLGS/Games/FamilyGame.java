@@ -15,6 +15,6 @@ package com.FLGS.Games;
 
 public class FamilyGame extends Games {
     public FamilyGame(){
-        super.gameType = "Family Game";
+        super.gameType = "Family";
     }
 }

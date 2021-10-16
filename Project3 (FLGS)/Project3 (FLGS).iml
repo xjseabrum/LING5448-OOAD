@@ -8,6 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+<<<<<<< HEAD
     <orderEntry type="module-library" scope="TEST">
       <library name="JUnit5.7.0">
         <CLASSES>
@@ -40,5 +41,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+=======
+    <orderEntry type="module" module-name="Project4 (FLGS)" />
+>>>>>>> dev_p3
   </component>
 </module>
