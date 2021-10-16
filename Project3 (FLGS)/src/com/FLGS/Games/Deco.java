@@ -21,7 +21,7 @@ public class Deco {
             r.addCash(g2.getAddCost());
             return special;
 
-        } else if (Objects.equals(g.gameType, "Card Game")) {
+        } else if (Objects.equals(g.gameType, "Card")) {
             Games g2 = g;
             g2 = new SpecialCards(g2);
             this.special = g2.getDesc();

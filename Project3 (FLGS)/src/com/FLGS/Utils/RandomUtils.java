@@ -1,5 +1,5 @@
 package com.FLGS.Utils;
-
+import java.util.ArrayList;
 import java.util.Random;
 
 public class RandomUtils {
@@ -14,8 +14,8 @@ public class RandomUtils {
         // References
         // https://stackoverflow.com/questions/20536566/creating-a-random-string-with-a-z-and-0-9-in-java
 
-        char[] charsCons = {'b', 'c', 'd', 'e', 'f', 'g', 'h', 'k', 'l', 'm',
-                'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y',
+        char[] charsCons = {'a','b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'k', 'l', 'm',
+                'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y',
                 'z'};
         char[] charsVowel = {'a', 'e', 'i', 'o', 'u'};
 
@@ -66,14 +66,14 @@ public class RandomUtils {
 
     }
 
-    public static boolean customerBuysFromShelf(int shelfPos, double probModifier) {
+    public static boolean customerBuysFromShelf(int shelfPos, double probModifier, double[] b) {
         // We can account for modifications to shelf probability if customer buys a cookie.
+        double shelfProbability = 0.2 - (0.02 * shelfPos) + probModifier +
+                                  b[shelfPos];
 
-        double shelfProbability = 0.8 + (0.02 * shelfPos) ;
-
-        double randomNum = getRandomDouble() + probModifier;
+        double randomNum = getRandomDouble();
 //        boolean valid = randomNum<=shelfProbability;
-        return  randomNum>=shelfProbability ;
+        return  randomNum <= shelfProbability ;
 
     }
 

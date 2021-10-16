@@ -23,7 +23,7 @@ public class PublishUtils {
         System.out.println("The Cash Fairy graciously visited the store " +
                 register.cashFairyCounter + " time(s).");
         System.out.println(store.getBaker().getName() +
-                " the Baker made a racket of $" +
+                " the Baker made a racket totalling $" +
                 String.format("%.2f", store.getBaker().getPocket()) + ".");
         System.out.println("\nItem Summary:");
         System.out.println("The cookie monster devoured a total of " +

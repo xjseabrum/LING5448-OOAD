@@ -15,7 +15,7 @@ package com.FLGS.Games;
 
 public class CardGame extends Games{
     public CardGame(){
-        super.gameType = "Card Game";
+        super.gameType = "Card";
         super.extraBuyChance = 0.2;
     }
 }
