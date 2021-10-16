@@ -10,7 +10,7 @@ import com.FLGS.Actions.SingleLastStack;
 
 public class EmployeeUtils {
 
-    public static  Announcer spawnAnnouncer(){
+    public static Announcer spawnAnnouncer(){
         return new Announcer("Guy");
     }
 

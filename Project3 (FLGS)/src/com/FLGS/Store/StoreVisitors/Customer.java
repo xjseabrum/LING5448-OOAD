@@ -10,18 +10,23 @@ import com.FLGS.Interfaces.StoreVisitor;
 import com.FLGS.Main;
 import com.FLGS.Store.CookieJar;
 import com.FLGS.Store.Employees.Cashier;
+import com.FLGS.Utils.BiasUtils;
 import com.FLGS.Utils.RandomUtils;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 
-public class Customer implements StoreVisitor {
+public abstract class Customer implements StoreVisitor {
 
     // Attributes.
     private final String name;
     private double buyProbabilityModifier = 0.0;
     private int numPurchasedGames = 0; // Num of games a customer buys for a given visit
+    public String type = "No-Type";
+    public Double bonusBias[] = {0.0, 0.0, 0.0};
 
     public Customer(String name){
         this.name = name;
@@ -36,16 +41,24 @@ public class Customer implements StoreVisitor {
         return name;
     }
 
+    public void setBias(){
+        Double bias[] = {0.2, 0.1, 0.0};
+        List<Double> dblList = Arrays.asList(bias);
+        Collections.shuffle(dblList);
+        dblList.toArray(bias);
+        this.bonusBias = bias;
+    }
+
     private void buyCookie(CookieJar cookieJar, Cashier cashier){
 
         int numCookies = RandomUtils.getRandomInt(3)+1;
         cashier.publish("Cashier " + cashier.getName() + " reports: " +
-                "Customer " + this.name + " is trying to buy cookies.");
+                this.type + " Gamer " + this.name + " is trying to buy cookies.");
 
-        if (cookieJar.getCookiesInJar()==0){
+        if (!cookieJar.existCookies()){
             cashier.publish("Cashier " + cashier.getName() + " reports: " +
                     "There are no cookies for " + this.name + " to buy!");
-            this.buyProbabilityModifier -= 0.10;
+            this.buyProbabilityModifier = -0.10;
             return;
         }
 
@@ -53,18 +66,20 @@ public class Customer implements StoreVisitor {
         cookieJar.soldCookie(numCookies);
 
         cashier.publish("Cashier " + cashier.getName() + " reports: " +
-                "Customer " + this.name + " bought " + numCookies + " cookie(s).");
+                this.type + " Gamer " + this.name + " bought " + numCookies + " cookie(s).");
 
-        this.buyProbabilityModifier += 0.20;
+        this.buyProbabilityModifier = 0.20;
     }
 
     private void buyGames(List<Games> inInventory, Cashier cashier){
         Deco deco = new Deco();
-        for (int i = 0; i<inInventory.size(); i++){
 
-            if (RandomUtils.customerBuysFromShelf(i, this.buyProbabilityModifier)) {
+        for (int i = 0; i<inInventory.size(); i++){
+            double[] b = BiasUtils.assignCustomerBias(this, inInventory);
+            if (RandomUtils.customerBuysFromShelf(i, this.buyProbabilityModifier, b)) {
                 cashier.publish("Cashier " + cashier.getName() + " reports: " +
-                       "Customer " + this.name + " selected " + inInventory.get(i).getGameName() + ".");
+                        this.type + " Gamer " +  this.name + " selected " +
+                        inInventory.get(i).getGameName() + ".");
 
                 cashier.tasks.sold(inInventory.get(i), this.getCustomerName(), Main.register);
 
@@ -75,6 +90,7 @@ public class Customer implements StoreVisitor {
                     cashier.publish(deco.decorate(inInventory.get(i), Main.register));
                 }
                 this.numPurchasedGames ++;
+            BiasUtils.reset();
             }
 
             if (this.numPurchasedGames >= 3){return;}
@@ -83,7 +99,6 @@ public class Customer implements StoreVisitor {
 
     public void VisitStore(CookieJar cookieJar, List<Games> shelf, Cashier cashier) {
         List<Games> inInventory = new ArrayList<>();
-        // TODO: Weitung/Jay, give me an updated list of games that I can buy from!
         for (Games gameInInventory:shelf){
             if (gameInInventory.getInventory() > 0) {
                 inInventory.add(gameInInventory);
@@ -93,8 +108,8 @@ public class Customer implements StoreVisitor {
         this.buyCookie(cookieJar, cashier);
         this.buyGames(inInventory, cashier);
 
-        cashier.publish("Cashier " + cashier.getName() + " reports: Customer " + this.name +
-                " bought " + this.numPurchasedGames + " game(s).");
+        cashier.publish("Cashier " + cashier.getName() + " reports: " + this.type + " Gamer " + this.name +
+                " bought " + this.numPurchasedGames + " game(s) in all.");
 
     }
 }
