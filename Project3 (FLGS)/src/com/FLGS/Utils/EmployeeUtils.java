@@ -1,19 +1,21 @@
 package com.FLGS.Utils;
 
 
-import com.FLGS.Store.Employees.Announcer;
-import com.FLGS.Store.Employees.Baker;
-import com.FLGS.Store.Employees.Cashier;
+import com.FLGS.Store.Employees.*;
 import com.FLGS.Actions.WidestFirstStack;
 import com.FLGS.Actions.HighestFirstStack;
 import com.FLGS.Actions.SingleLastStack;
-import com.FLGS.Store.Employees.Demonstrator;
+import com.FLGS.Store.Store;
 import com.FLGS.Store.Wares;
 
 public class EmployeeUtils {
 
     public static Announcer spawnAnnouncer(){
-        return new Announcer("Guy");
+        if (Store.announcerType == "Eager"){
+            return EagerAnnouncer.getInstance();
+        } else {
+            return LazyAnnouncer.getInstance();
+        }
     }
 
     public static Cashier spawnCashier(Announcer announcer){

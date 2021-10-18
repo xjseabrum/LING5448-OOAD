@@ -1,49 +1,21 @@
-//package com.FLGS.Store.Employees;
-//
-//import java.util.ArrayList;
-//import java.util.List;
-//
-//public class LazyAnnouncer {
-//
-//    public Announcer(String announcerName){
-//        super(announcerName);
-//    }
-//
-//    public void arrive(int numDay){
-//        this.publish(this.getName()+ " has arrived on Day " + (numDay+1) + ".");
-//    }
-//
-//    public void leave(){
-//        this.publish(this.getName() + " has left for the day.");
-//    }
-//
-//    public void update(String message){
-//        System.out.println(this.getName() + " Log: " + message);
-//    }
-//
-//
-//
-//    //  Announcer subscribes to every employee.
-////  Does the Subscriber (Announcer) even need a reference of all the Publishers (Employees?)
-////
-//    public List<Employee> Publishers = new ArrayList<Employee>();
-//    //
-//    public void addPublisher(Employee employee) {
-//        this.Publishers.add(employee);
-//    }
-//
-//    public void removePublisher(Employee employee) {
-//        this.Publishers.remove(employee);
-//    }
-//
-//
-//    public void removeAllPublishers(){
-//        this.Publishers.clear();
-//    }
-//
-//    public void publish(String message) {
-//        System.out.println("Guy says: " + message);
-//    }
-//
-//
-//}
+// Here is the Lazy implementation of the Announcer Singleton
+// In the code, after talking to Bruce, we only call the
+// Eager version of the Announcer via a variable that can be
+// set under Store.java
+
+package com.FLGS.Store.Employees;
+
+public class LazyAnnouncer extends Announcer{
+    private static LazyAnnouncer unique;
+
+    private LazyAnnouncer(String announcerName) {
+        super(announcerName);
+    }
+
+    public static synchronized LazyAnnouncer getInstance(){
+        if (unique == null){
+            unique = new LazyAnnouncer("Guy");
+        }
+        return unique;
+    }
+}

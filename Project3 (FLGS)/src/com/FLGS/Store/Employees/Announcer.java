@@ -8,7 +8,7 @@ import com.FLGS.Interfaces.Subscriber;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Announcer extends Employee implements Subscriber {
+public abstract class Announcer extends Employee implements Subscriber {
 
     public Announcer(String announcerName){
         super(announcerName);

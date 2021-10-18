@@ -19,10 +19,22 @@ public abstract class Introduce implements Command{
     public void execute() {
         Games DemonstratedGame=this.demonstrator.getRandGameByType(this.gameType);
         if(DemonstratedGame != null) {
-            this.demonstrator.publish(demonstrator.getName()+" the Demonstrator "+this.approach+" "+DemonstratedGame.gameName+" for Customer "+this.customer.getCustomerName());
+            this.demonstrator.publish(demonstrator.getName() +
+                    " the Demonstrator " + this.approach + " " +
+                    DemonstratedGame.gameName + " to " + this.customer.type +
+                    " Gamer " +
+                    this.customer.getCustomerName() + ".");
+
             this.customer.IntroducedGames.add(DemonstratedGame);
-        }else{
-            this.demonstrator.publish(demonstrator.getName()+" the Demonstrator didn't "+this.approach+" "+this.gameType.toString()+" for Customer "+this.customer.getCustomerName()+"because the select type is not available");
+
+        }else {
+            this.demonstrator.publish(demonstrator.getName()+
+                    " the Demonstrator has not " + this.approach + " " +
+                    this.gameType.toString() + " to " + this.customer.type +
+                    " Gamer " +
+                    this.customer.getCustomerName() +
+                    "because the selected" +
+                    " type is not available.");
         }
 
     }

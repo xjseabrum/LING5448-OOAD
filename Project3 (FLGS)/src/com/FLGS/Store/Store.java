@@ -26,7 +26,8 @@ public class Store {
     // attributes
     private List<Customer> customers = new ArrayList<Customer>();
     private List<Cashier> cashiers = new ArrayList<Cashier>();
-    private final Announcer announcer = EmployeeUtils.spawnAnnouncer();;
+    private final Announcer announcer = EmployeeUtils.spawnAnnouncer();
+    public static String announcerType = "Eager";
     private final Baker baker = EmployeeUtils.spawnBaker(announcer);
     private Demonstrator demonstrator=EmployeeUtils.spawnDemonstrator(announcer);
 
