@@ -32,10 +32,11 @@ public class Order{
         }
 
         //order 3 of any games that have an inventory of 0 and pay it.
-        int costOfGame=0;
+        double costOfGame=0;
         for(Games game:outOfStockGames){
             game.addInventory(3);
-            costOfGame += Math.round(game.getPrice()*3*0.5*100.0/100.0);
+            double cost=game.price*3*0.5;
+            costOfGame += cost;
             ware.gameOrderedLastNight.add(game);
         }
 
