@@ -15,6 +15,6 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        store.simulate(3);
+        store.simulate(30);
     }
 }
