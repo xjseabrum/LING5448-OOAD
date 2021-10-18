@@ -1,4 +1,7 @@
 package com.FLGS.Store;
+import com.FLGS.Interfaces.Robbable;
+import com.FLGS.Utils.StoreUtils;
+
 import static com.FLGS.Main.register;
 
 // Has to access the cash register
@@ -9,7 +12,7 @@ import static com.FLGS.Main.register;
 // It also has a class that CookieMonster calls
 // when he comes to visit the store.
 
-public class CookieJar {
+public class CookieJar implements Robbable {
 
     // fields
     public double priceDozen = 12.24;
@@ -71,5 +74,16 @@ public class CookieJar {
         this.totCMAte += this.getCookiesInJar();
         this.totCMAteToday += this.getCookiesInJar();
         this.cookiesInJar = 0;
+    }
+
+    public StoreUtils.Record rob(StoreUtils.Record record) {
+        record.setNumCookiesStolen(this.cookiesInJar);
+        this.cookiesInJar = 0;
+
+        return record;
+    }
+
+    public void settleInsurance(StoreUtils.Record record){
+        this.cookiesInJar = record.getNumCookiesStolen();
     }
 }

@@ -6,6 +6,7 @@ package com.FLGS.Store;
 // are all private because they need (and should) not be accessed
 // outside of com.FLGS.Store.Store.simulate().
 
+import com.FLGS.Interfaces.Robbable;
 import com.FLGS.Store.Employees.Announcer;
 import com.FLGS.Store.Employees.Baker;
 import com.FLGS.Store.Employees.Cashier;
@@ -21,7 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Store {
+public class Store implements Robbable {
 
     // attributes
     private List<Customer> customers = new ArrayList<Customer>();
@@ -30,6 +31,33 @@ public class Store {
     public static String announcerType = "Eager";
     private final Baker baker = EmployeeUtils.spawnBaker(announcer);
     private Demonstrator demonstrator=EmployeeUtils.spawnDemonstrator(announcer);
+
+    // related to Robbable interface
+    private StoreUtils.Record storeRecord = new  StoreUtils.Record();
+    private boolean hasBeenRobbed = false;
+    private boolean insuranceSettled = false;
+
+    public StoreUtils.Record rob(StoreUtils.Record record) {
+
+        record = Main.wares.rob(record);
+        record = Main.register.rob(record);
+        record = Main.wares.cookiejar.rob(record);
+
+        this.hasBeenRobbed = true;
+
+        return record;
+    }
+
+    public void settleInsurance(StoreUtils.Record record){
+
+        Main.wares.settleInsurance(record);
+        Main.register.settleInsurance(record);
+        Main.wares.cookiejar.settleInsurance(record);
+
+        this.insuranceSettled = true;
+    }
+    // End of Robbable interface.
+
 
     // getters and setters
     public Cashier getCashier(){
@@ -48,10 +76,11 @@ public class Store {
         cashiers.add(EmployeeUtils.spawnCashier(announcer));
     }
 
-
     private void doDailyRollCall(int day){
 
         this.announcer.arrive(day);
+
+
 
         spawnCashiers(this.announcer);
         for (Cashier cashier:this.cashiers){
@@ -133,16 +162,44 @@ public class Store {
         PublishUtils.setupPublishing();
 
         for (int day = 0; day < days; day++){
+
             System.out.println("-".repeat(80));
-            this.doDailyRollCall(day);
-            this.doDailyMaintainence(day);
-            this.doDailyBusiness();
-            this.doDailyPunchOut();
-        }
+
+            if (this.hasBeenRobbed & !this.insuranceSettled){
+                this.announcer.arrive(day);
+                this.announcer.publish("Looks like the store got robbed last night!" +
+                        " The Insurance Company has sent their adjuster.");
+
+                int numGamesStolen;
+
+
+
+                this.announcer.publish("We lost : " + storeRecord.getNumGamesStolen() + " games, $"
+                                                    + storeRecord.getCashStolen() + " from the cash record, and "
+                                                    + storeRecord.getNumCookiesStolen() + " cookies.");
+                this.settleInsurance(storeRecord);
+
+                this.announcer.publish("The store will remain closed while the insurances settles up.");
+
+                this.announcer.leave();
+            }
+
+            else {
+                this.doDailyRollCall(day);
+                this.doDailyMaintainence(day);
+                this.doDailyBusiness();
+                this.doDailyPunchOut();
+            }
+
+            if (!this.hasBeenRobbed){
+                if (StoreUtils.attemptToRobIsSuccessful()){
+                    this.storeRecord = this.rob(storeRecord);
+                }
+
+            }
+
         PublishUtils.publishSummary();
+
+        }
     }
-
-
-
-
 }

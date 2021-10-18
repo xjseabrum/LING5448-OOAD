@@ -4,7 +4,10 @@ package com.FLGS.Store;
 // instantiated cash registers in the store.  As it does no other function,
 // it is incredibly cohesive.
 
-public class CashRegister {
+import com.FLGS.Interfaces.Robbable;
+import com.FLGS.Utils.StoreUtils;
+
+public class CashRegister implements Robbable {
     public double cash = 0;
     public int cashFairyCounter = 0;
     public double getCash(){
@@ -19,5 +22,15 @@ public class CashRegister {
         this.cash -= remCash;
     }
 
+    public StoreUtils.Record rob(StoreUtils.Record record) {
+        record.setCashStolen(this.cash);
+        this.cash = 0;
+
+        return record;
+    }
+
+    public void settleInsurance(StoreUtils.Record record){
+        this.cash = record.getCashStolen();
+    }
 }
 

@@ -15,13 +15,15 @@ package com.FLGS.Store;// This class controls and manages what is in the
 // is instantiates the games and assigns them their prices.
 
 import com.FLGS.Games.*;
+import com.FLGS.Interfaces.Robbable;
+import com.FLGS.Utils.StoreUtils;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Wares {
+public class Wares implements Robbable {
     public int totalGames;
     public double totalCash;
     public List<CashRegister> listCashReg = new ArrayList<>();
@@ -121,5 +123,28 @@ public class Wares {
             TypeSet.add(g.getClass().getSuperclass());
         }
         return TypeSet;
+    }
+
+    // Robbable Interface
+    public StoreUtils.Record rob(StoreUtils.Record record) {
+
+        int numGamesStolen = 0;
+        record.setGamesStolen(this.gamesList);
+
+        for (Games games:this.gamesList){
+            numGamesStolen += games.inventory;
+            games.inventory = 0;
+        }
+
+        record.setNumGamesStolen(numGamesStolen);
+        return record;
+    }
+
+    public void settleInsurance(StoreUtils.Record record){
+        List<Games> stolenGamesList = record.getGamesStolen() ;
+        for (Games game:this.gamesList){
+            int gameIndex = stolenGamesList.indexOf(game);
+            game.inventory = stolenGamesList.get(gameIndex).inventory;
+        }
     }
 }
