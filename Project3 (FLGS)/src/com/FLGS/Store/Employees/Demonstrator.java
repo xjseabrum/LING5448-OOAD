@@ -53,6 +53,7 @@ public class Demonstrator extends Employee implements Publisher {
         this.subscriber.publish("Demonstrator "+this.name+" arrived.");
     }
     public void screamAndRun(){
-        this.subscriber.publish(this.name+": ahhhhhhh~~~~");
+        this.subscriber.publish(this.name +
+                " shrieks: Ahhhhhhh~~~~! *flees the premises, arms aflailing*");
     }
 }

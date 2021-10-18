@@ -26,7 +26,7 @@ public class PublishUtils {
                 " the Baker made a racket totalling $" +
                 String.format("%.2f", store.getBaker().getPocket()) + ".");
         System.out.println("\nItem Summary:");
-        System.out.println("The cookie monster devoured a total of " +
+        System.out.println("The Cookie Monster devoured a total of " +
                 wares.cookiejar.getTotCMAte() + " cookie(s).");
         System.out.println(wares.cookiejar.getTotCookiesSold() +
                 " sale(s) of cookies occurred, generating $" +

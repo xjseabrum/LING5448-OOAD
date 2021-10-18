@@ -89,7 +89,7 @@ public class Store {
 
         if (!(cookieMonster==null)){
             this.demonstrator.screamAndRun();
-            this.demonstrator=EmployeeUtils.spawnDemonstrator(announcer);
+            this.demonstrator = EmployeeUtils.spawnDemonstrator(announcer);
             this.demonstrator.setWare(Main.wares);
 
             cookieMonster.VisitStore(Main.wares.cookiejar, Main.wares.gamesList, this.getCashier());
