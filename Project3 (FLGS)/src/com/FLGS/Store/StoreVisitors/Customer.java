@@ -32,6 +32,7 @@ public abstract class Customer implements StoreVisitor {
     private int numPurchasedGames = 0; // Num of games a customer buys for a given visit
     public String type = "No-Type";
     public Double bonusBias[] = {0.0, 0.0, 0.0};
+    public List<Games>IntroducedGames=new ArrayList();
 
     public Customer(String name){
         this.name = name;
@@ -81,7 +82,7 @@ public abstract class Customer implements StoreVisitor {
 
         for (int i = 0; i<inInventory.size(); i++){
             double[] b = BiasUtils.assignCustomerBias(this, inInventory);
-            if (RandomUtils.customerBuysFromShelf(i, this.buyProbabilityModifier, b)) {
+            if (RandomUtils.customerBuysFromShelf(i, this.buyProbabilityModifier, b,this,inInventory)) {
                 cashier.publish("Cashier " + cashier.getName() + " reports: " +
                         this.type + " Gamer " +  this.name + " selected " +
                         inInventory.get(i).getGameName() + ".");
@@ -127,13 +128,13 @@ public abstract class Customer implements StoreVisitor {
         int c = r.nextInt(100);
         Command cmd=null;
         if (c < 25){ // 25%
-            cmd=new Demonstrate(demonstrator, interestedType,this.name);
+            cmd=new Demonstrate(demonstrator, interestedType,this);
         }
         else if (c < 50){ // 30%
-            cmd=new Recommend(demonstrator, interestedType,this.name);
+            cmd=new Recommend(demonstrator, interestedType,this);
         }
         else if (c < 70){ // 20%
-            cmd=new Explain(demonstrator, interestedType,this.name);
+            cmd=new Explain(demonstrator, interestedType,this);
         }
         else { // 25%
         }

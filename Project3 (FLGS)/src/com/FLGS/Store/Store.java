@@ -96,7 +96,7 @@ public class Store {
 
         for (Customer customer:this.customers){
             Random r = new Random();
-            int requestTimes = r.nextInt(2);// random number from 0~2
+            int requestTimes = r.nextInt(2);// Request 0~3 commands
             for(int i=0;i<=requestTimes;i++){
                 Command cmd=customer.requestRandomCommand(this.demonstrator);
                 if(cmd!=null){
