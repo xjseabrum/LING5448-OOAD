@@ -18,7 +18,7 @@ class StoreUtilsTest {
     void spawnCustomers() {
         List result=StoreUtils.spawnCustomers();
         if(result!=null && result.size()>0){
-            assertEquals(result.get(0).getClass(),Customer.class);
+            assertEquals(result.get(0).getClass().getSuperclass(),Customer.class);
         }
     }
 

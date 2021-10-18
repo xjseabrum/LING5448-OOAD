@@ -1,5 +1,6 @@
 package com.FLGS.Games;
 import com.FLGS.Store.Wares;
+import com.FLGS.Utils.RandomUtils;
 
 import java.util.List;
 import java.util.Random;
@@ -12,7 +13,7 @@ public class DamageGame {
         if(gameList != null && !gameList.isEmpty()){
             List<Games> gameInStock=gameList;
             gameInStock.removeIf(x->x.inventory==0);
-            Games gameDamaged = gameInStock.get(r.nextInt(gameInStock.size()));
+            Games gameDamaged = gameInStock.get(RandomUtils.getRandomInt(gameInStock.size()));
             gameDamaged.inventory -= 1;
             gameDamaged.setDamageContainer(1);
             return gameDamaged;
