@@ -8,6 +8,7 @@ import com.FLGS.Store.CashRegister;
 import com.FLGS.Store.Employees.Announcer;
 import com.FLGS.Store.Employees.Cashier;
 import com.FLGS.Store.Employees.CashierTask;
+import com.FLGS.Store.Employees.EagerAnnouncer;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -18,7 +19,7 @@ class SoldTest {
     void doAction() {
         HighestFirstStack stack = new HighestFirstStack();
         Cashier cashier= new Cashier( "testCashier", 3, stack);
-        cashier.setSubscriber(new Announcer("temp"));
+        cashier.setSubscriber(EagerAnnouncer.getInstance());
         Sold obj = new Sold(cashier);
         CashRegister register=new CashRegister();
         Clue game=new Clue();

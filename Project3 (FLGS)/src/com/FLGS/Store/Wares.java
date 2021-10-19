@@ -29,7 +29,7 @@ public class Wares implements Robbable {
     public List<CashRegister> listCashReg = new ArrayList<>();
     public List<Games> gamesList = new ArrayList<>();
     public List<Games> damagedList = new ArrayList<>();
-    public List<Games> gameOrderedLastNight = new ArrayList<>();
+    public static List<Games> gameOrderedLastNight = new ArrayList<>();
     public CookieJar cookiejar;
 
     //////////////////////////////////////////////////////////////////////////

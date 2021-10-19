@@ -29,11 +29,11 @@ public abstract class Introduce implements Command{
 
         }else {
             this.demonstrator.publish(demonstrator.getName()+
-                    " the Demonstrator has not " + this.approach + " " +
-                    this.gameType.toString() + " to " + this.customer.type +
+                    " the Demonstrator has not " + this.approach + " a " +
+                    this.gameType + " game to " + this.customer.type +
                     " Gamer " +
                     this.customer.getCustomerName() +
-                    "because the selected" +
+                    " because the selected" +
                     " type is not available.");
         }
 

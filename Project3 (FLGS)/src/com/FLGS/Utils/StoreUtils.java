@@ -10,7 +10,7 @@ import java.util.List;
 
 public class StoreUtils {
 
-    public static double chanceOfStoreGettingRobbed = 0.033333; // 1 / 30 days
+    public static double chanceOfStoreGettingRobbed = 1.0/10.0; // 1 / 30 days
 
     public static List<Customer> spawnCustomers(){
 
@@ -33,8 +33,8 @@ public class StoreUtils {
 
     public static boolean attemptToRobIsSuccessful(){
 
-        chanceOfStoreGettingRobbed += chanceOfStoreGettingRobbed;
         return RandomUtils.getRandomDouble() <= chanceOfStoreGettingRobbed;
+
     }
 
     public static class Record {
@@ -74,6 +74,14 @@ public class StoreUtils {
         public void setNumGamesStolen(int numGamesStolen){
             this.numGamesStolen = numGamesStolen;
         }
+
+        public void settleGames(){
+            for (Games games : gameList) {
+                games.resetAfterRob();
+            }
+        }
+
+
 
     }
 

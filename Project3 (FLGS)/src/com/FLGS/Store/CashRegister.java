@@ -30,7 +30,7 @@ public class CashRegister implements Robbable {
     }
 
     public void settleInsurance(StoreUtils.Record record){
-        this.cash = record.getCashStolen();
+        this.cash = 1000;
     }
 }
 

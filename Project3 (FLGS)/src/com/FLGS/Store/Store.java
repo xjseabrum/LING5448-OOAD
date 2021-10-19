@@ -11,6 +11,7 @@ import com.FLGS.Store.Employees.Announcer;
 import com.FLGS.Store.Employees.Baker;
 import com.FLGS.Store.Employees.Cashier;
 import com.FLGS.Store.Employees.Demonstrator;
+import com.FLGS.Store.Wares;
 import com.FLGS.Store.Employees.commands.Command;
 import com.FLGS.Store.StoreVisitors.CookieMonster;
 import com.FLGS.Store.StoreVisitors.Customer;
@@ -53,6 +54,8 @@ public class Store implements Robbable {
         Main.wares.settleInsurance(record);
         Main.register.settleInsurance(record);
         Main.wares.cookiejar.settleInsurance(record);
+        record.settleGames();
+        Wares.gameOrderedLastNight = new ArrayList<>();
 
         this.insuranceSettled = true;
     }
@@ -168,18 +171,23 @@ public class Store implements Robbable {
             if (this.hasBeenRobbed & !this.insuranceSettled){
                 this.announcer.arrive(day);
                 this.announcer.publish("Looks like the store got robbed last night!" +
-                        " The Insurance Company has sent their adjuster.");
+                        " The Insurance Company has sent their agent.");
 
                 int numGamesStolen;
 
 
 
-                this.announcer.publish("We lost : " + storeRecord.getNumGamesStolen() + " games, $"
-                                                    + storeRecord.getCashStolen() + " from the cash record, and "
-                                                    + storeRecord.getNumCookiesStolen() + " cookies.");
+                this.announcer.publish("We lost: " +
+                        storeRecord.getNumGamesStolen() + " game(s), $" +
+                        String.format("%.2f", storeRecord.getCashStolen()) +
+                        " from the" + " cash " + "register, and " +
+                        storeRecord.getNumCookiesStolen() + " cookie(s).");
                 this.settleInsurance(storeRecord);
 
-                this.announcer.publish("The store will remain closed while the insurances settles up.");
+                this.announcer.publish("The store will remain closed while the insurance settles the claim.");
+                this.announcer.publish("The Insurance Company states that they " +
+                        "will restore $1000, all of the cookies, and some of the stolen " +
+                        "games.");
 
                 this.announcer.leave();
             }
@@ -198,8 +206,7 @@ public class Store implements Robbable {
 
             }
 
-        PublishUtils.publishSummary();
-
         }
+        PublishUtils.publishSummary();
     }
 }
