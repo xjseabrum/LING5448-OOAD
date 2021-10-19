@@ -8,7 +8,7 @@ Team members (along with version of Java that each is using):
 ## UML Diagram is here: Project4 (FLGS)/Proj4UML.png
 ## Output file is here: Project4 (FLGS)/Output.txt
 ## Code can be found in various folders here:  Project4 (FLGS)/src/com/FLGS/
-## J-Unit output here:  Project4 (FLGS)/src/com/FLGS/
+## J-Unit Test output here:  Project4 (FLGS)/src/com/FLGS/
 
 # Examples of Design Patterns 
 
@@ -37,7 +37,7 @@ Team members (along with version of Java that each is using):
 // Update later.
 ```
 
-### 4. J-Tests
+### 4. J-Unit Tests
 
 ```java
 // Update later.
