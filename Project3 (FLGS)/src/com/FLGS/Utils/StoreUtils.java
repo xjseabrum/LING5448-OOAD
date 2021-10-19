@@ -10,7 +10,7 @@ import java.util.List;
 
 public class StoreUtils {
 
-    public static double chanceOfStoreGettingRobbed = 1.0/10.0; // 1 / 30 days
+    public static double chanceOfStoreGettingRobbed = 1.0/30.0; // 1 / 30 days
 
     public static List<Customer> spawnCustomers(){
 
