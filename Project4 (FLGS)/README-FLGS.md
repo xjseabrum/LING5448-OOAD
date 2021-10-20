@@ -92,12 +92,11 @@ Guy says: Cashier Ernie reports: Board Gamer Fopamok is inspecting the shelves.
 
 ```
 
-
 ### 3. Customer Factory 
-_See the section below where we talk about the Factory Pattern_
+_See the section below where we talk about the Factory Pattern._
 
 ### 4. Singleton Announcer
-_See the section below where we talk about the Singleton Pattern_
+_See the section below where we talk about the Singleton Pattern._
 
 ### 5. Demonstrator
 For the most part, see the section below where we talk about the Command Pattern.
@@ -110,7 +109,8 @@ Guy says: Qayiaebo the Demonstrator recommended Clue to Kid Gamer Suuah.
 ```
 
 And that the demonstrator flees (and a new one spawns) when the cookie monster visits (ex: Day 3):
-_Note: bold parts added here in the README for emphasis_
+
+_Note: The double asterisks are added here in the README for emphasis_
 ```text
 Guy says: Cashier Ernie reports: 4 customer(s) visited the store today.
 Guy says: Demonstrator **Qayiaebo** arrived.
