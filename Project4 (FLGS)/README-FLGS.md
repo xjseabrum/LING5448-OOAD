@@ -320,6 +320,16 @@ When using any of the Command patterns, each customer will initiate and assign t
 And here is the Demonstrator class which has the functionality to execute the commands
 
 ```java
+package com.FLGS.Store.Employees;
+
+import com.FLGS.Games.Games;
+import com.FLGS.Interfaces.Publisher;
+import com.FLGS.Store.Wares;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
+
 public class Demonstrator extends Employee implements Publisher {
     private Wares ware;
     private Announcer subscriber = null;
@@ -365,8 +375,10 @@ public class Demonstrator extends Employee implements Publisher {
         this.subscriber.publish("Demonstrator "+this.name+" arrived.");
     }
     public void screamAndRun(){
-        this.subscriber.publish(this.name+": ahhhhhhh~~~~");
+        this.subscriber.publish(this.name +
+                " shrieks: Ahhhhhhh~~~~! *flees the premises, arms aflailing*");
     }
+}
 }
 ```
 
