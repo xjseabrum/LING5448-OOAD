@@ -18,7 +18,7 @@ public class StoreUtils {
         List<Customer> customers = new ArrayList<Customer>();
 
         for (int i=0; i<numCustomers; i++){
-            customers.add(new GenerateCustomer().createCustomer());
+            customers.add(GenerateCustomer().createCustomer());
         }
 
         return customers;
