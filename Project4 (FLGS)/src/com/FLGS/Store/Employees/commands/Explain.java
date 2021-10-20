@@ -5,6 +5,6 @@ import com.FLGS.Store.StoreVisitors.Customer;
 
 public class Explain extends Introduce implements Command{
     public Explain(Demonstrator demoer, Class<?> gameType, Customer customer) {
-        super(demoer, gameType, customer, "explain");
+        super(demoer, gameType, customer, "explained");
     }
 }
