@@ -30,9 +30,9 @@ public abstract class Announcer extends Employee implements Subscriber {
 
 //  Announcer subscribes to every employee.
 //  Does the Subscriber (Announcer) even need a reference of all the Publishers (Employees?)
-//
+
     public List<Employee> Publishers = new ArrayList<Employee>();
-//
+
     public void addPublisher(Employee employee) {
         this.Publishers.add(employee);
     }

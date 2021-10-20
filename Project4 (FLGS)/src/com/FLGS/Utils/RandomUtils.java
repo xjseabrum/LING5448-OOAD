@@ -70,11 +70,21 @@ public class RandomUtils {
 
     }
 
-    public static boolean customerBuysFromShelf(int shelfPos, double probModifier, double[] b, Customer customer, List<Games> shelf) {
-        // We can account for modifications to shelf probability if customer buys a cookie.
+    public static boolean customerBuysFromShelf(int shelfPos,
+                                                double probModifier,
+                                                double[] b,
+                                                Customer customer,
+                                                List<Games> shelf) {
+
+        // We can account for modifications to shelf probability if
+        // customer buys a cookie and has a bias towards a specific game-type.
         double shelfProbability = 0.2 - (0.02 * shelfPos) + probModifier +
                                   b[shelfPos];
-        //If the Demonstrator Demonstrates, Recommends, or Explains any game to a customer, the chance that customer will buy that instance of a game (Ex: Magic, Risk) increases by 10%
+
+        //Next, if the Demonstrator Demonstrates, Recommends, or Explains
+        // any game to a customer, the chance that
+        // customer will buy that instance of a game
+        // (Ex: Magic, Risk) increases by 10%
         if(customer.IntroducedGames.contains(shelf.get(shelfPos))){
             shelfProbability+=0.1;
         }

@@ -1,4 +1,12 @@
 package com.FLGS.Utils;
+// This Utils class helps assign the correct prob modifier
+// based on the customer's type and the game-type currently in stock
+// the values generated here are called in RandomUtils once a customer
+// goes to buy a game.
+
+// Yes, the implementation here isn't the most efficient, but considering
+// that we only have 12 types, this method of assigning bias will suffice.
+
 
 import com.FLGS.Games.Games;
 import com.FLGS.Store.StoreVisitors.Customer;
