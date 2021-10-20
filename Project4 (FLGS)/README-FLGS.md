@@ -8,7 +8,7 @@ Team members (along with version of Java that each is using):
 ## UML Diagram is here: Project4 (FLGS)/Proj4UML.png
 ## Output file is here: Project4 (FLGS)/Output.txt
 ## Code can be found in various folders here:  Project4 (FLGS)/src/com/FLGS/
-## J-Unit Test output here:  Project4 (FLGS)/src/com/FLGS/Test Results.html ; pdf version of this is also available in the same directory.
+## J-Unit Test output here:  Project4 (FLGS)/Test Results.html ; pdf version of this is also available in the same directory.
 ## J-Unit Test Code here: Project4 (FLGS)/src/com/FLGS/Test/
 
 # Requirements Met:
@@ -237,15 +237,24 @@ Then announcerType is called under EmployeeUtils.java:
 
 ### 2. Command Pattern
 
-The command Pattern in this project is composed of three parts: Demonstrator who do the commands, Customer who initiate commands, Cashier who get the command and activate Demonstrator to do it by calling the execute function of commands object. 
+The Command Pattern in this project is composed of three parts: Demonstrator who does the commands, Customer who initiates commands, Cashier who gets the command and activate Demonstrator to do it by calling the execute function of commands object. 
 
-In command class, there is a Command interface which define function that commands have, and a Introduce abstract class which implement the command and will be extended by Explain, Demonstrate and Recommand class which do the very similar task. 
+In the Command class, there is a Command interface which defines functions that commands have, and an Introduce abstract class which implements the command and is extended by the Explain, Demonstrate, and Recommand classes which do the very similar tasks. 
+
 ```java
 public interface Command {
 
     public void execute();
 
-    }
+}
+```
+
+```java
+package com.FLGS.Store.Employees.commands;
+
+import com.FLGS.Games.Games;
+import com.FLGS.Store.Employees.Demonstrator;
+import com.FLGS.Store.StoreVisitors.Customer;
 
 public abstract class Introduce implements Command{
     Demonstrator demonstrator;
@@ -262,16 +271,30 @@ public abstract class Introduce implements Command{
     public void execute() {
         Games DemonstratedGame=this.demonstrator.getRandGameByType(this.gameType);
         if(DemonstratedGame != null) {
-            this.demonstrator.publish(demonstrator.getName()+" the Demonstrator "+this.approach+" "+DemonstratedGame.gameName+" for Customer "+this.customer.getCustomerName());
+            this.demonstrator.publish(demonstrator.getName() +
+                    " the Demonstrator " + this.approach + " " +
+                    DemonstratedGame.gameName + " to " + this.customer.type +
+                    " Gamer " +
+                    this.customer.getCustomerName() + ".");
+
             this.customer.IntroducedGames.add(DemonstratedGame);
-        }else{
-            this.demonstrator.publish(demonstrator.getName()+" the Demonstrator didn't "+this.approach+" "+this.gameType.toString()+" for Customer "+this.customer.getCustomerName()+"because the select type is not available");
+
+        }else {
+            this.demonstrator.publish(demonstrator.getName()+
+                    " the Demonstrator has not " + this.approach + " a" +
+                    " game to " + this.customer.type +
+                    " Gamer " +
+                    this.customer.getCustomerName() +
+                    " because the game they requested is not in stock.");
         }
 
     }
 
 }
 
+```
+
+```java
 public class Explain extends Introduce implements Command{
     public Explain(Demonstrator demoer, Class<?> gameType, Customer customer) {
         super(demoer, gameType, customer, "explain");
@@ -279,7 +302,8 @@ public class Explain extends Introduce implements Command{
 }
 ```
 
-When using the commands pattern, each customer will initiate and assign the demonstrator who will execute the command. Then, the cashier will receieve the commands and find a time(right after in this case) to activate the command. And each customer will do this 0~3 times randomly. 
+When using any of the Command patterns, each customer will initiate and assign their request to the Demonstrator who will execute the command. Then, the cashier will receieve the commands and find the moment (right after in this case) to activate the command. And each customer will do this 0-3 times randomly. 
+
 ```java
         for (Customer customer:this.customers){
             Random r = new Random();
@@ -292,7 +316,9 @@ When using the commands pattern, each customer will initiate and assign the demo
                 }
             }
 ```
+
 And here is the Demonstrator class which has the functionality to execute the commands
+
 ```java
 public class Demonstrator extends Employee implements Publisher {
     private Wares ware;
