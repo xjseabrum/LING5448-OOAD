@@ -297,7 +297,7 @@ public abstract class Introduce implements Command{
 ```java
 public class Explain extends Introduce implements Command{
     public Explain(Demonstrator demoer, Class<?> gameType, Customer customer) {
-        super(demoer, gameType, customer, "explain");
+        super(demoer, gameType, customer, "explained");
     }
 }
 ```
