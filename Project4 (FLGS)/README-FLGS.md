@@ -237,11 +237,112 @@ Then announcerType is called under EmployeeUtils.java:
 
 ### 2. Command Pattern
 
+The command Pattern in this project is composed of three parts: Demonstrator who do the commands, Customer who initiate commands, Cashier who get the command and activate Demonstrator to do it by calling the execute function of commands object. 
 
+In command class, there is a Command interface which define function that commands have, and a Introduce abstract class which implement the command and will be extended by Explain, Demonstrate and Recommand class which do the very similar task. 
 ```java
-// Update later.
+public interface Command {
+
+    public void execute();
+
+    }
+
+public abstract class Introduce implements Command{
+    Demonstrator demonstrator;
+    Class<?> gameType;
+    Customer customer;
+    String approach;
+    public Introduce(Demonstrator demoer, Class<?> gameType, Customer customer,String approach){
+        this.demonstrator=demoer;
+        this.gameType=gameType;
+        this.customer=customer;
+        this.approach=approach;
+    }
+    @Override
+    public void execute() {
+        Games DemonstratedGame=this.demonstrator.getRandGameByType(this.gameType);
+        if(DemonstratedGame != null) {
+            this.demonstrator.publish(demonstrator.getName()+" the Demonstrator "+this.approach+" "+DemonstratedGame.gameName+" for Customer "+this.customer.getCustomerName());
+            this.customer.IntroducedGames.add(DemonstratedGame);
+        }else{
+            this.demonstrator.publish(demonstrator.getName()+" the Demonstrator didn't "+this.approach+" "+this.gameType.toString()+" for Customer "+this.customer.getCustomerName()+"because the select type is not available");
+        }
+
+    }
+
+}
+
+public class Explain extends Introduce implements Command{
+    public Explain(Demonstrator demoer, Class<?> gameType, Customer customer) {
+        super(demoer, gameType, customer, "explain");
+    }
+}
 ```
 
+When using the commands pattern, each customer will initiate and assign the demonstrator who will execute the command. Then, the cashier will receieve the commands and find a time(right after in this case) to activate the command. And each customer will do this 0~3 times randomly. 
+```java
+        for (Customer customer:this.customers){
+            Random r = new Random();
+            int requestTimes = r.nextInt(2);// Request 0~3 commands
+            for(int i=0;i<=requestTimes;i++){
+                Command cmd=customer.requestRandomCommand(this.demonstrator);
+                if(cmd!=null){
+                    this.getCashier().setCommand(cmd);
+                    this.getCashier().excuteCommands();
+                }
+            }
+```
+And here is the Demonstrator class which has the functionality to execute the commands
+```java
+public class Demonstrator extends Employee implements Publisher {
+    private Wares ware;
+    private Announcer subscriber = null;
+    public Demonstrator(String name) {
+        super.name=name;
+    }
+    @Override
+    public void publish(String message) {
+        this.subscriber.publish(message);
+    }
+
+    @Override
+    public String getSubscriber() {
+        return this.subscriber.getName();
+    }
+
+    @Override
+    public void setSubscriber(Announcer announcer) {
+        this.subscriber = announcer;
+    }
+    public Games getRandGameByType(Class<?> gameType){
+
+        List<Games> gameList=this.ware.getGames();
+        List<Games> targetGames=new ArrayList<Games>();
+        for(Games game:gameList){
+            if(gameType.isAssignableFrom(game.getClass()) && game.inventory>0){
+                targetGames.add(game);
+            }
+        }
+        Random r = new Random();
+        if(targetGames.size()>0){
+            int i = r.nextInt(targetGames.size());
+            return targetGames.get(i);
+        }
+        else{
+            return null;
+        }
+    }
+    public void setWare(Wares ware){
+        this.ware=ware;
+    }
+    public void arrive(){
+        this.subscriber.publish("Demonstrator "+this.name+" arrived.");
+    }
+    public void screamAndRun(){
+        this.subscriber.publish(this.name+": ahhhhhhh~~~~");
+    }
+}
+```
 
 ### 3. Factory Pattern
 Similar to how Announcer was made an Abstract Class, so too was Customer.  This was done so that a customer class structure could be made for GenerateCustomer.java to function. 
