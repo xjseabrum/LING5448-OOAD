@@ -123,10 +123,53 @@ public class StoreUtils {
 ```
 
 ### 4. J-Unit Tests
+The following is the entire code for SoldTest.java under src/com/FLGS/Test/.  Other test code can be found in the directory. 
 
 ```java
-// Update later.
+package com.FLGS.Test;
+
+import com.FLGS.Actions.HighestFirstStack;
+import com.FLGS.Actions.Sold;
+import com.FLGS.Games.Clue;
+import com.FLGS.Games.Games;
+import com.FLGS.Store.CashRegister;
+import com.FLGS.Store.Employees.Announcer;
+import com.FLGS.Store.Employees.Cashier;
+import com.FLGS.Store.Employees.CashierTask;
+import com.FLGS.Store.Employees.EagerAnnouncer;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+class SoldTest {
+
+    @Test
+    void doAction() {
+        HighestFirstStack stack = new HighestFirstStack();
+        Cashier cashier= new Cashier( "testCashier", 3, stack);
+        cashier.setSubscriber(EagerAnnouncer.getInstance());
+        Sold obj = new Sold(cashier);
+        CashRegister register=new CashRegister();
+        Clue game=new Clue();
+        game.inventory=3;
+        double originalCash=register.cash;
+
+        obj.doAction(game,"testCustomer",register);
+
+        //assert game inventory decremented
+        assertEquals(2,game.inventory);
+        //assert cash add to the cash register
+        assertEquals(originalCash+game.price,register.cash);
+    }
+}
 ```
+
+And below is the confirmation output for the aforementioned code:
+![image](https://user-images.githubusercontent.com/77007903/138156968-d27ebb43-c509-4d84-8bcb-7ae2a6a062dc.png)
+
+Finally, the following shows that all 15 of our tests did pass (open the html file for a full breakdown):
+![image](https://user-images.githubusercontent.com/77007903/138157059-fcdcc083-0928-4ba4-a1b2-b8280a18fe7e.png)
+
 
 ### Final Thoughts
 
