@@ -1,3 +1,8 @@
+// This is the customer factory pattern. 
+// Now that customer has a fleshed out class structure, 
+// the factory, when called, will generate a customer of a 
+// random type.  
+
 package com.FLGS.Store.StoreVisitors;
 
 import com.FLGS.Utils.RandomUtils;
