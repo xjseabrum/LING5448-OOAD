@@ -1,3 +1,5 @@
+// The abstract Introduce class form which the concrete commands extend.
+
 package com.FLGS.Store.Employees.commands;
 
 import com.FLGS.Games.Games;
