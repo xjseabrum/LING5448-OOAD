@@ -2,7 +2,10 @@ from abc import ABC, abstractclassmethod
 
 class AbstractController(ABC) : 
 
-    def __init__(self, state) : 
+    def __init__(self) : 
+        pass
+
+    def set_state(self, state) : 
         self.state = state
 
     @abstractclassmethod
