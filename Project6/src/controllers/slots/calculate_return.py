@@ -8,10 +8,10 @@ def calculate(bet, matches, multiplier):
     constrained_matches = constraint(matches)
 
     # Boolean of if the user even got any matches
-    match_check = bool(matches > 0)
+    match_check = bool(constrained_matches > 0)
     
     # Perc increase function if there is any matches
-    perc_increase = match_check * (1.5 + (matches - 1)*0.1)
+    perc_increase = match_check * (1.5 + (constrained_matches - 1)*0.1)
 
     # Math behind dispense:
     dispense = round((match_check * multiplier * perc_increase * bet), 2)
