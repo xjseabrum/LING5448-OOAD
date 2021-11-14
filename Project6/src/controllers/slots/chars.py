@@ -10,7 +10,6 @@ class wheel():
     # keycap 7, A button, face w tongue, cowboy, skull, 
     # grinning face, strawberry, kiwi, peach, 
     # pineapple
-
         easy = ["\U0001f4b5", "\U0001F170", "\U0001f61b", "\U0001f920",
                 "\U0001f480", 
                 "\U0001f600", "\U0001f353", "\U0001f95d", "\U0001f351", 

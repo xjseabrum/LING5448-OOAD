@@ -20,12 +20,14 @@ class SlotsGame():
         self.user_wallet = user_wallet
         self.repeat = True
 
+    # View
     def _set_difficulty(self):
         user_input = input("Select your difficulty:\n1: Easy.\n2: Medium (earnings are 2x if win)\n3: Hard (earnings are 10x if win)\n\t")
         selection = difficulty.select(user_input)
         self.charset = selection[0]
         self.earnings_multiplier = selection[1]
     
+    # View
     def _ask_bet(self):
         user_bet = input("Please bet any amount between $5 and $60.\n\t")
         verified = verify(user_bet)
@@ -34,6 +36,7 @@ class SlotsGame():
         self.user_wallet -= original
         print("You currently have $" + num_print(self.user_wallet) + ".")
     
+    # Controller
     def _spin_slots(self):
         print("The lever arm is pulled and the slots spin.")
         # Get number of elements in the charset
@@ -42,27 +45,32 @@ class SlotsGame():
         # Next get random values from the charset 
         for index in range(len(self.choices)):
             self.choices[index] = self.charset[secrets.randbelow(n_elements)]
-        
+    
+    # View
     def _display_slots(self):
         print(self.choices[0] + "\t" + self.choices[1] + "\t"+ self.choices[2] + "\n" +
               self.choices[3] + "\t" + self.choices[4] +  "\t" + self.choices[5] + "\n" +
               self.choices[6] + "\t" + self.choices[7] + "\t" + self.choices[8])
-        
+    
+    # Controller
     def _check_matches(self):
         n_matches = matches(self.choices)
         self.tot_matches = n_matches
         print("The board has " + str(self.tot_matches) + " match(es) on it!")
 
+    # Controller
     def _user_delta(self):
         delta = calculate(self.bet, self.tot_matches, self.earnings_multiplier)
         print("You won $" + num_print(delta) + "!")
         self.user_wallet += delta
         print("You now have $" + num_print(self.user_wallet) + ".")
 
+    # View
     def _inquire(self):
         query = input("Do you want to play again? [Y/N] \n\t")
         self.repeat = resolve(query)
 
+    # Controller
     def _reset_slots(self):
         self.choices = [None] * 9
     

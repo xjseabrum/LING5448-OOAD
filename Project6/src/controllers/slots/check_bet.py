@@ -5,6 +5,16 @@ from format_number import num_print
 # and against the user's wallet.
 
 def verify(user_bet):
+    """This will round and check the bet against the 
+    constraints of [5, 60] and against user's wallet.
+
+    Args:
+        user_bet ([type]): [description]
+
+    Returns:
+        [type]: [description]
+    """
+
     try: 
         float(user_bet)
         isfloat = True
@@ -34,6 +44,3 @@ def verify(user_bet):
 def set_bet(value):
     new_value = round(0.8 * value, 2)
     return new_value
-
-def get_bet(value):
-    return round((set_bet(value) / 0.8), 2)

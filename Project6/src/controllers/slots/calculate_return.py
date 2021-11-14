@@ -3,7 +3,18 @@
 # the diffuculty multiplier
 import math as m
 
-def calculate(bet, matches, multiplier):
+def calculate(bet: float, matches: int, multiplier: int) -> float:
+    """This is accessed via _user_wallet in slots_controller.
+    This is not access publically.
+
+    Args:
+        bet (float): Automatically filled in by the slot_controller's self.bet
+        matches (int): Automatically filled in by the slot_controller's self.matches
+        multiplier (int): Automatically filled in by the slot_controller's self.multiplier
+
+    Returns:
+        float: This is called dispense.  This is the amount given to the user's wallet.
+    """
     # Internal check to ensure that matches is strictly between 0 and 8
     constrained_matches = constraint(matches)
 
