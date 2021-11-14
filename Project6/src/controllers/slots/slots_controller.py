@@ -1,11 +1,12 @@
-from check_bet import verify
-import difficulty 
+from src.controllers.slots.check_bet import verify
+import src.controllers.slots.difficulty as difficulty
 import secrets
-from evaluate_board import matches
-from calculate_return import calculate
-from format_number import num_print
-from check_query import resolve
-import exit_sequence
+from src.controllers.slots.evaluate_board import matches
+from src.controllers.slots.calculate_return import calculate
+from src.controllers.slots.format_number import num_print
+from src.controllers.slots.check_query import resolve
+import src.controllers.slots.exit_sequence as exit_sequence
+from src.views.slots_view import SlotsView
 
 user_wallet = 1000
 
@@ -48,9 +49,10 @@ class SlotsGame():
     
     # View
     def _display_slots(self):
-        print(self.choices[0] + "\t" + self.choices[1] + "\t"+ self.choices[2] + "\n" +
-              self.choices[3] + "\t" + self.choices[4] +  "\t" + self.choices[5] + "\n" +
-              self.choices[6] + "\t" + self.choices[7] + "\t" + self.choices[8])
+        SlotsView().render(choices = self.choices)
+        # print(self.choices[0] + "\t" + self.choices[1] + "\t"+ self.choices[2] + "\n" +
+        #       self.choices[3] + "\t" + self.choices[4] +  "\t" + self.choices[5] + "\n" +
+        #       self.choices[6] + "\t" + self.choices[7] + "\t" + self.choices[8])
     
     # Controller
     def _check_matches(self):
