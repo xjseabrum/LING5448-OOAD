@@ -1,14 +1,14 @@
 from src.controllers.slots.check_bet import verify
 import src.controllers.slots.difficulty as difficulty
-import secrets
 from src.controllers.slots.evaluate_board import matches
 from src.controllers.slots.calculate_return import calculate
 from src.controllers.slots.format_number import num_print
 from src.controllers.slots.check_query import resolve
+from src.controllers.slots.assign_slots import assign
 import src.controllers.slots.exit_sequence as exit_sequence
 from src.views.slots_view import SlotsView, AskView
 
-user_wallet = 4
+user_wallet = 1000
 
 class SlotsGame():   
     
@@ -27,8 +27,7 @@ class SlotsGame():
     def _set_difficulty(self):
         user_input = input("Select your difficulty:\n1: Easy.\n2: Medium (earnings are 2x if win)\n3: Hard (earnings are 10x if win)\n\t")
         selection = difficulty.select(user_input)
-        self.charset = selection[0]
-        self.earnings_multiplier = selection[1]
+        self.charset, self.earnings_multiplier = selection
     
     # View
     def _ask_bet(self):
@@ -44,13 +43,8 @@ class SlotsGame():
     
     # Controller
     def _spin_slots(self):
-        print("The lever arm is pulled and the slots spin.")
-        # Get number of elements in the charset
-        n_elements = len(self.charset)
-
-        # Next get random values from the charset 
-        for index in range(len(self.choices)):
-            self.choices[index] = self.charset[secrets.randbelow(n_elements)]
+        self.choices = assign(char_list = self.charset, 
+                              list = self.choices)
     
     # View
     def _display_slots(self):
@@ -58,14 +52,13 @@ class SlotsGame():
     
     # Controller
     def _check_matches(self):
-        n_matches = matches(self.choices)
-        self.tot_matches = n_matches
-        print("The board has " + str(self.tot_matches) + " match(es) on it!")
+        self.tot_matches = matches(self.choices)
 
     # Controller
     def _user_delta(self):
-        delta = calculate(self.bet, self.tot_matches, self.earnings_multiplier)
-        print("You won $" + num_print(delta) + "!")
+        delta = calculate(bet = self.bet, 
+                          matches = self.tot_matches, 
+                          multiplier = self.earnings_multiplier)
         self.user_wallet += delta
         print("You now have $" + num_print(self.user_wallet) + ".")
 
@@ -85,13 +78,13 @@ class SlotsGame():
         return self.earnings_multiplier
     
     def get_charset(self):
-        return(self.charset)
+        return self.charset
     
     def get_matches(self):
-        return(self.tot_matches)
+        return self.tot_matches
 
     def get_repeat(self):
-        return(self.repeat)
+        return self.repeat
 
 def initialize():
     play_again = True

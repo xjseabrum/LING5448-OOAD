@@ -55,5 +55,6 @@ def matches(board):
     for step in range(len(examine)):
         if(all_equal(examine[step])):
             num_matches += 1
-            
+
+    print("The board has " + str(num_matches) + " match(es) on it!") 
     return num_matches

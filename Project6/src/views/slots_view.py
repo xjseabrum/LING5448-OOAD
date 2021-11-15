@@ -20,7 +20,11 @@ class AskView(AbstractView):
         if is_valid:
             return self.check_constraint(is_valid, **kwargs)
         else:
-            user_bet = input(kwargs["msg"])
+            while is_valid == False:
+                user_bet = input(kwargs["msg"])
+                is_valid = self.validate_input(user_bet)
+                if is_valid == True:
+                    return self.check_constraint(is_valid, **kwargs)
 
     def validate_input(self, bet):
         # verification for if float
@@ -28,8 +32,8 @@ class AskView(AbstractView):
             as_float = float(bet)
             return as_float
         else:
-            print("Invalid bet detected. Setting to $0.")
-            return 0
+            print("Invalid input detected. Please try again.")
+            return False
 
     def check_constraint(self, as_float, **kwargs):
         if ((kwargs["wallet"] < as_float) | (kwargs["wallet"] < 5)):

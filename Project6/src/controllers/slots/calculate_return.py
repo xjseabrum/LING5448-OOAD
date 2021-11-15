@@ -1,6 +1,8 @@
 # This will calculate the return given back to the player
 # based on the number of matches they got and 
 # the diffuculty multiplier
+
+from src.controllers.slots.format_number import num_print
 import math as m
 
 def calculate(bet: float, matches: int, multiplier: int) -> float:
@@ -26,6 +28,7 @@ def calculate(bet: float, matches: int, multiplier: int) -> float:
 
     # Math behind dispense:
     dispense = round((match_check * multiplier * perc_increase * bet), 2)
+    print("You won $" + num_print(dispense) + "!")
     return dispense
 
 def constraint(value):
