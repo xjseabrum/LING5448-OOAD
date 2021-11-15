@@ -81,7 +81,7 @@ class SetDifficulty(AbstractView):
             print("Difficulty set to hard.  Earnings will be 10x.")
             return(wheel().hard, 10)
 
-        elif (choice == "1"):
+        else:
             print("Difficulty set to easy.  Earnings will be 1x.")
             return(wheel().easy, 1)
 
