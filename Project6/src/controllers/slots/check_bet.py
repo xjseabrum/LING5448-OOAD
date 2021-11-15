@@ -1,4 +1,4 @@
-from format_number import num_print
+from src.controllers.slots.format_number import num_print
 
 # This will round and check the bet
 # against the constraints of [$5, $60]

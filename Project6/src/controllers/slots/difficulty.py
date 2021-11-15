@@ -1,7 +1,7 @@
 # This will take in the user input
 # and select the appropriate difficulty
 
-import chars
+import src.controllers.slots.chars as chars
 
 def select(user_input): 
     if (user_input == "2"):

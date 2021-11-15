@@ -6,9 +6,9 @@ from src.controllers.slots.calculate_return import calculate
 from src.controllers.slots.format_number import num_print
 from src.controllers.slots.check_query import resolve
 import src.controllers.slots.exit_sequence as exit_sequence
-from src.views.slots_view import SlotsView
+from src.views.slots_view import SlotsView, AskView
 
-user_wallet = 1000
+user_wallet = 4
 
 class SlotsGame():   
     
@@ -20,6 +20,8 @@ class SlotsGame():
         self.tot_matches = 0
         self.user_wallet = user_wallet
         self.repeat = True
+        self.min_bet = 5
+        self.max_bet = 60
 
     # View
     def _set_difficulty(self):
@@ -30,12 +32,15 @@ class SlotsGame():
     
     # View
     def _ask_bet(self):
-        user_bet = input("Please bet any amount between $5 and $60.\n\t")
-        verified = verify(user_bet)
-        original = round(verified * 1.25, 2)
-        self.bet = verified
-        self.user_wallet -= original
-        print("You currently have $" + num_print(self.user_wallet) + ".")
+        AskView().render(msg = "Please bet any amount between $5 and $60.\n\t", 
+                         min = self.min_bet,
+                         max = self.max_bet,
+                         wallet = self.user_wallet)
+        # verified = verify(user_bet)
+        # original = round(verified * 1.25, 2)
+        # self.bet = verified
+        # self.user_wallet -= original
+        # print("You currently have $" + num_print(self.user_wallet) + ".")
     
     # Controller
     def _spin_slots(self):
@@ -50,9 +55,6 @@ class SlotsGame():
     # View
     def _display_slots(self):
         SlotsView().render(choices = self.choices)
-        # print(self.choices[0] + "\t" + self.choices[1] + "\t"+ self.choices[2] + "\n" +
-        #       self.choices[3] + "\t" + self.choices[4] +  "\t" + self.choices[5] + "\n" +
-        #       self.choices[6] + "\t" + self.choices[7] + "\t" + self.choices[8])
     
     # Controller
     def _check_matches(self):
