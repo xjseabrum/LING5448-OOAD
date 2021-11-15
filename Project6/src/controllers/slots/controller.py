@@ -54,8 +54,8 @@ class SlotsGame(AbstractController):
         self.charset, self.earnings_multiplier = selection
     
     def __house_transaction(self, val):
-        self.user_wallet -= val
-        self.bet = 0.8 * val
+        self.user_wallet += -(val)
+        self.bet = round((0.8 * val), 2)
 
     def __ask_bet(self):
         user_bet = AskBet().render(msg = msgs.bet, 
