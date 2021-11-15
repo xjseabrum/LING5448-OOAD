@@ -1,17 +1,19 @@
 # This will take in the user input
 # and select the appropriate difficulty
 
-import src.controllers.slots.chars as chars
+# import src.controllers.slots.chars as chars
+# from src.lib.core.check_float import CheckFloat as cf
+# from src.lib.core.invalid_input_detected import retry
 
-def select(user_input): 
-    if (user_input == "2"):
-        print("Difficulty set to medium.  Earnings will be 2x.")
-        return (chars.wheel().med, 2)
+# def choose():
+#     user_input = input("Select your difficulty:\n1: Easy.\n2: Medium (earnings are 2x if win)\n3: Hard (earnings are 10x if win)\n\t")
 
-    elif (user_input == "3"):
-        print("Difficulty set to hard.  Earnings will be 10x.")
-        return(chars.wheel().hard, 10)
+#     return user_input
 
-    else:
-        print("Difficulty set to easy.  Earnings will be 1x.")
-        return(chars.wheel().easy, 1)
+# def select(user_input): 
+
+    
+#     else:
+#         while cf(user_input) == False:
+#             retry()
+#             user_input = input("Select your difficulty:\n1: Easy.\n2: Medium (earnings are 2x if win)\n3: Hard (earnings are 10x if win)\n\t")

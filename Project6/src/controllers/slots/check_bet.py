@@ -6,7 +6,7 @@ from src.controllers.slots.format_number import num_print
 
 def verify(user_bet):
     """This will round and check the bet against the 
-    constraints of [5, 60] and against user's wallet.
+    constraints of [$5, $60] and against user's wallet.
 
     Args:
         user_bet ([type]): [description]
