@@ -35,5 +35,7 @@ class Player(object) :
             int: Returns back the amount, if the wager is successful. 
         """
 
+        pass
+
 
 
