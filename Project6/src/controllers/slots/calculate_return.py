@@ -6,8 +6,8 @@ from src.controllers.slots.format_number import num_print
 import math as m
 
 def calculate(bet: float, matches: int, multiplier: int) -> float:
-    """This is accessed via _user_wallet in slots_controller.
-    This is not access publically.
+    """This is accessed via the __user_delta method in slots controller.
+    This is not accessed publically.
 
     Args:
         bet (float): Automatically filled in by the slot_controller's self.bet
@@ -31,7 +31,7 @@ def calculate(bet: float, matches: int, multiplier: int) -> float:
     print("You won $" + num_print(dispense) + "!")
     return dispense
 
-def constraint(value):
+def constraint(value: float) -> float:
     if value > 8:
         constraint = 8
     elif value < 0:

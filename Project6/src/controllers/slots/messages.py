@@ -2,8 +2,6 @@
 # Just print statements from head functions that start 
 # off certain cascades of events.
 
-from src.controllers.slots.format_number import num_print
-
 difficulty = ("Select your difficulty:\n" + 
               "1: Easy.\n" +
               "2: Medium (earnings are 2x if win)\n" + 

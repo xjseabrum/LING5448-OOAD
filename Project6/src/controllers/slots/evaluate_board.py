@@ -4,17 +4,22 @@ import numpy as np
 # This is here to evaluate the board for the number of matches on it
 # the maximum number of matches is 8.
 
-
-# Taken from 
+# Function all_equal is taken from 
 # https://stackoverflow.com/questions/3844801/check-if-all-elements-in-a-list-are-identical
-# Edited to include the argument to increment
-# the number of matches 
 def all_equal(iterable):
     g = groupby(iterable)
     return next(g, True) and not next (g, False)
 
 # Collect the slices of the board
-def collect_slices(board):
+def collect_slices(board: list) -> list:
+    """This function will take in the list of random characters generated earlier and arrange them in such a way to check the number of matches on the board.
+
+    Args:
+        board (list): This is generated beforehand in the slot contorller's __spin_slots method.
+
+    Returns:
+        list: Returns a list of lists that contains all the possible triplets on the board.
+    """
     # Arrange the board into a matrix to
     # do slice operations on it
     matrix = np.mat([board[0:3], 
@@ -46,7 +51,15 @@ def collect_slices(board):
     return collection
 
 # Ennumerate the number of matches
-def matches(board):
+def matches(board: list) -> int:
+    """This function counts the number of matches on the board
+
+    Args:
+        board (list): This is generated beforehand in the slot contorller's __spin_slots method. 
+
+    Returns:
+        int: This is the number of matches on the board, from 0-8, inclusive.
+    """
     examine = collect_slices(board)
 
     num_matches = 0
