@@ -75,15 +75,15 @@ class SetDifficulty(AbstractView):
     def assign(self, choice):
         if (choice == "2"):
             print("Difficulty set to medium.  Earnings will be 2x.")
-            return (wheel().med, 2)
+            return (wheel.med, 2)
 
         elif (choice == "3"):
             print("Difficulty set to hard.  Earnings will be 10x.")
-            return(wheel().hard, 10)
+            return(wheel.hard, 10)
 
         else:
             print("Difficulty set to easy.  Earnings will be 1x.")
-            return(wheel().easy, 1)
+            return(wheel.easy, 1)
 
 class DisplayAmount(AbstractView):
     def render(self, wallet, flag = "pre"):
