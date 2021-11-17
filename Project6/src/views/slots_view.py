@@ -1,7 +1,6 @@
 """Views for Slots!
 """
 
-from src.controllers.abstract_controller import AbstractController
 from src.views.abstract_view import AbstractView
 from src.lib.core.check_float import CheckFloat as cf
 from src.lib.core.format_number import num_print
@@ -20,14 +19,15 @@ class AskBet(AbstractView):
         user_bet = input(kwargs["msg"])
         is_valid = self.validate_input(user_bet)
 
-        if is_valid:
+        if is_valid > 0:
             return self.check_constraint(is_valid, **kwargs)
         else:
-            while is_valid == False:
+            while is_valid == 0:
                 user_bet = input(kwargs["msg"])
                 is_valid = self.validate_input(user_bet)
-                if is_valid == True:
+                if is_valid > 0:
                     return self.check_constraint(is_valid, **kwargs)
+            return self.check_constraint(is_valid, **kwargs)
 
     def validate_input(self, bet):
         # verification for if float
@@ -36,7 +36,7 @@ class AskBet(AbstractView):
             return as_float
         else:
             print("Invalid input detected. Please try again.")
-            return False
+            return float(0)
 
     def check_constraint(self, as_float, **kwargs):
         if ((kwargs["wallet"] < as_float) | (kwargs["wallet"] < 5)):

@@ -51,8 +51,8 @@ class SlotsGame(AbstractController):
         selection = SetDifficulty().render(msg = msgs.difficulty)
         self.charset, self.earnings_multiplier = selection
     
-    def __house_transaction(self, val):
-        self.user_wallet += -(val)
+    def __house_transaction(self, val: float):
+        self.user_wallet -= val
         self.bet = round((0.8 * val), 2)
 
     def __ask_bet(self):
@@ -60,7 +60,7 @@ class SlotsGame(AbstractController):
                                    min = self.min_bet,
                                    max = self.max_bet,
                                    wallet = self.user_wallet)
-        self.__house_transaction(user_bet)
+        self.__house_transaction(val = user_bet)
         DisplayAmount().render(wallet = self.user_wallet)
     
     def __spin_slots(self):
