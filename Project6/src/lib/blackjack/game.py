@@ -129,6 +129,26 @@ class BlackJack(object) :
             min_score = aces+score
 
             return max_score if max_score <= 21 else min_score
+
+    def get_victors(self) : 
+
+        victors = []
+        max_score = 0
+
+        for player, hand in self.pit.items() : 
+
+            if hand['score'] > max_score : 
+                victors = [str(player)]
+                max_score = hand['score']
+
+            elif hand['score'] == max_score : 
+                victors.append(str(player))
+
+            else : 
+                pass
+
+        return victors
+
             
 
 if __name__ == "__main__" : 
@@ -136,132 +156,3 @@ if __name__ == "__main__" :
     num_players = 1
     black_jack = BlackJack(num_players)
     print(black_jack._score(['3♠️', '8♣️']))
-
-    # from src.lib.core.user import User
-    # import time
-
-
-    # num_players = 1
-    # black_jack = BlackJack(num_players)
-    # highest_score = 0
-    # highest_players = []
-    # player_turn_ctr = 0
-
-    # print("Dealing...\n....\n....\n....")
-    # black_jack.opening_deal()
-    # time.sleep(2)
-
-    # while player_turn_ctr<num_players:
-        
-    #     for i in range(3) : 
-    #         print("...")
-    #         time.sleep(0.5)
-
-    #     print("Now starting with player : " , player_turn_ctr)
-    #     time.sleep(0.5)
-
-    #     player_turn = black_jack.pit[player_turn_ctr]['valid']
-    #     print("DEALER -> Your cards are : ".format(player_turn_ctr) , black_jack.pit[player_turn_ctr]['cards'])
-    #     time.sleep(0.5)
-    #     while player_turn : 
-            
-    #         print("DEALER -> Your score is : ".format(player_turn_ctr), black_jack.pit[player_turn_ctr]['score'])
-    #         time.sleep(0.5)
-    #         selected_action = input('PLAYER {} -> Do you wish to 1. hit or 2. stay?'.format(player_turn_ctr))
-    #         player_hand = black_jack.player_action(player_turn_ctr, selected_action)
-    #         player_turn = player_hand['valid'] & ~player_hand['blackjack']
-    #         print("DEALER -> Your cards are : ".format(player_turn_ctr) , black_jack.pit[player_turn_ctr]['cards'])
-    #         time.sleep(0.5)
-
-
-    #     score = black_jack.pit[player_turn_ctr]['score']
-    #     if (score>21) : 
-    #         print("PLAYER {} -> You've gone bust! Your score : ".format(player_turn_ctr), score)
-    #         time.sleep(0.5)
-            
-    #     elif (score == 21) : 
-    #         print("PLAYER {} -> You've got 21!".format(player_turn_ctr))
-    #         time.sleep(0.5)
-    #         print("PLAYER {} -> You have the highest score!".format(player_turn_ctr))
-    #         time.sleep(0.5)
-    #         highest_players.append(player_turn_ctr)
-    #         highest_score = 21
-    #     else : 
-    #         print("PLAYER {} -> Your final score is : ".format(player_turn_ctr) , score)
-    #         time.sleep(0.5)
-    #         if score>highest_score:
-    #             print("PLAYER {} -> You have the highest score!".format(player_turn_ctr))
-    #             time.sleep(0.5)
-    #             highest_score = score
-    #             highest_players.append(player_turn_ctr)
-
-    #     player_turn_ctr += 1
-
-    # for i in range(3) : 
-    #         print("---")
-    #         time.sleep(0.5)
-
-    # dealer_turn = True
-    # print(player_turn_ctr)
-    # dealer_hand = black_jack.pit[player_turn_ctr]
-    # dealer = Dealer()
-    # print(black_jack.pit)
-
-    # print("Looks like the dealer is about to play...")
-    # time.sleep(0.5)
-    
-    # print("DEALER -> Your cards are : " , dealer_hand['cards'])
-    
-
-    # while dealer_turn : 
-        
-        
-        
-    #     print("DEALER -> Your score is : " , dealer_hand['cards'])
-    #     print("DEALER -> Do you wish to 1. hit or 2. stay?")
-    #     dealer_action = Dealer().dealer_actions(highest_score, dealer_hand)
-    #     print("DEALER -> You have chosen to : ", dealer_action)
-        
-    #     if dealer_action == 'stay' : 
-    #         dealer_hand['valid'] = False
-
-    #     else : 
-    #         dealer_hand = black_jack.player_action(player_turn_ctr, dealer_action)
-    #         print("DEALER -> Your cards are : " , dealer_hand['cards'])
-        
-    #     dealer_turn = dealer_hand['valid'] & ~dealer_hand['blackjack']
-
-        
-
-
-    #     score = black_jack.pit[player_turn_ctr]['score']
-    #     if (score>21) : 
-    #         print("PLAYER {} -> You've gone bust! Your score : ".format(player_turn_ctr), score)
-    #         time.sleep(0.5)
-            
-    #     elif (score == 21) : 
-    #         print("PLAYER {} -> You've got 21!".format(player_turn_ctr))
-    #         time.sleep(0.5)
-    #         print("PLAYER {} -> You have the highest score!".format(player_turn_ctr))
-    #         time.sleep(0.5)
-    #         highest_players.append(player_turn_ctr)
-    #         highest_score = 21
-    #     else : 
-    #         print("PLAYER {} -> Your final score is : ".format(player_turn_ctr) , score)
-    #         time.sleep(0.5)
-    #         if score>highest_score:
-    #             print("PLAYER {} -> You have the highest score!".format(player_turn_ctr))
-    #             time.sleep(0.5)
-    #             highest_score = score
-    #             highest_players.append(player_turn_ctr)
-
-    #     player_turn_ctr += 1
-
-
-        
-
-    
-        
-
-
-
