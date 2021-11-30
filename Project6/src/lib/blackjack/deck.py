@@ -6,6 +6,7 @@ class Deck(object):
 
     def __init__(self) -> None:
         self._current_deck = self._prepare_deck()
+        self._shuffle_deck()
 
     def _prepare_deck(self)->list :  
         """This is a private function that prepares a deck from a prototype. 

@@ -8,6 +8,8 @@ Team members (along with version of Java that each is using):
 
 Note: Specific projects will have their own READMEs with comments regarding that project.
 
+Update (Nov 17, 2021): For projects 5-7, all members are using Python 3.9.x
+
 
 
 
