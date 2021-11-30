@@ -27,6 +27,7 @@ class GameView(AbstractView) :
     def render(self, **kwargs) : 
         
         prefix = "PLAYER {}-> ".format(kwargs['player_num']) if 'player_num' in kwargs else self.prefix
+        prefix = "DEALER ->" if 'is_dealer' in kwargs and kwargs['is_dealer'] else prefix
         animation_delay = kwargs['animation_delay'] if 'animation_delay' in kwargs else self.animation_delay
         leading_elipsis = kwargs['leading_elipsis'] if 'leading_elipsis' in kwargs else self.leading_elipsis
 
