@@ -1,10 +1,10 @@
-import db_client
-from abstract_model import AbstractModel
+from src.models.db_client import *
+from src.models.abstract_model import AbstractModel
 
 class UserModel(AbstractModel):
-    collection = db_client.dbClient.get_db_client()["user"]
+    collection = dbClient().get_db_client()["user"]
 
-    def __init__(self, user_id, user_password=None, user_wallet=None):
+    def __init__(self, user_id=None, user_password=None, user_wallet=None):
         self.user_id = user_id
         self.user_password = user_password
         self.user_wallet = user_wallet
@@ -46,9 +46,13 @@ class UserModel(AbstractModel):
         print(str(update_result.modified_count)+" documents updated\n")
 
     @classmethod
-    def retrieve(self, kwargs)->bool:
-        print("Fetching data from the DB with the following kwargs : \n", kwargs)
-        return list(UserModel.collection.find(kwargs))
+    def retrieve(self, user_id=None,user_password=None,wallet=None):
+        doc={}
+        if user_id: doc["_id"]=user_id
+        if user_password: doc["password"]=user_password
+        if wallet: doc["wallet"]=wallet
+        result=UserModel.collection.find(doc)
+        return [UserModel(x["_id"],x["password"],x["wallet"]) for x in result]
 
     def delete(self, kwargs):
         print("Deleting data from the DB with the following kwargs : \n", kwargs)
