@@ -24,25 +24,15 @@ class UserModel(AbstractModel):
         pass
 
     def create(self)->bool:
-        document={"_id":self.user_id, "password":self.user_password, "wallet":self.user_wallet}
+        document=self.get_document_from_self()
         self.collection.insert_one(document)
         for keyword, arg in document.items():
             print("Successfully create kwargs {} :-> {}".format(keyword, arg))
         return True
 
-
-    @classmethod
-    def update(self, filter_kwargs, update_values: dict) ->bool:
-        '''
-
-        Args:
-            filter_kwargs:
-            update_values:
-
-        Returns:
-
-        '''
-        update_result = self.collection.update_many(filter_kwargs, {"$set": update_values})
+    def update(self) ->bool:
+        document=self.get_document_from_self()
+        update_result = self.collection.update_one({"_id":document["_id"]}, {"$set": document})
         print(str(update_result.modified_count)+" documents updated\n")
 
     @classmethod
@@ -62,6 +52,9 @@ class UserModel(AbstractModel):
     @classmethod
     def check_if_id_exist(self, user_id) -> bool:
         return self.collection.count_documents({"_id": user_id}) != 0
+    
+    def get_document_from_self(self):
+        return {"_id":self.user_id, "password":self.user_password, "wallet":self.user_wallet}
 
 
     
