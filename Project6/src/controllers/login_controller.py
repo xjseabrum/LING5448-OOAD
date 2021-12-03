@@ -1,31 +1,28 @@
 from src.controllers.abstract_controller import AbstractController
 from src.views.login_view import *
 from src.models.user_model import *
+from src.models.user_data_util import *
 class login(AbstractController) :
-    def __init__(self) : 
+    def __init__(self): 
         self.view=None
         self.cur_state=0
         self.account=None
         self.password=None
-    def set_state(self, state) : 
-        self.cur_state=state
 
     def execute(self) :
         self.update_state()
         while(True):
-            response=self.view.render()
             # account state
+            response=self.view.render()
             if self.account==None:
                 if response == "register":
-                    # goes to register controller
-                    print("goes to register controller")
-                    return
-                elif self.validate_account_or_password(response):
+                    return register(self)
+                elif validate_account_or_password(response):
                     self.go_to_next_step()
                     self.account=response
                     continue
                 else:
-                    print("account doesn't exist, please try again")
+                    AccountOrPasswordErrorView().render()
                     continue
 
             # password state
@@ -33,13 +30,13 @@ class login(AbstractController) :
                 self.account=None
                 self.go_to_prev_step()
                 continue
-            elif self.validate_account_or_password(self.account,response):
+            elif validate_account_or_password(self.account,response):
                 self.password=response
                 #goes to menu controller
                 print("goes to menu controller")
                 return
             else:
-                print("password is wrong, please try again")
+                AccountOrPasswordErrorView().render()
                 continue
 
     def go_to_next_step(self):
@@ -51,16 +48,7 @@ class login(AbstractController) :
         self.update_state()
         return
         
-    def validate_account_or_password(self,account,password=None):
-        if password==None:
-            if len(UserModel().retrieve(account))>0:
-                return True
-            else:
-                return False
-        if len(UserModel().retrieve(account, password))>0:
-            return True
-        
-        return False
+
 
     def update_state(self) : 
         view_list = [AskAccountView(),AskPasswordView()]
@@ -70,18 +58,36 @@ class login(AbstractController) :
         raise NotImplementedError('Controller has not defined method transition()')
 
 class register(AbstractController):
-    def __init__(self) : 
-        pass
-
-    def set_state(self, state) : 
-        self.state = state
+    def __init__(self,previous_state) : 
+        self.view=None
+        self.cur_state=0
+        self.previous_state=previous_state
 
     def execute(self) :
-        registration_view=registrationView()
+        self.update_state()
+
+        while(True):
+            account=self.view.render()
+            if validate_account_or_password(account):
+                RegisterAccountExistedView().render()
+                continue
+            else:
+                self.go_to_next_step()
+                password=self.view.render()
+                self.go_to_next_step()
+                user_model=UserModel(account,password)
+                user_model.create()
+                self.view.render() 
+                return self.previous_state
 
 
     def update_state(self) : 
-        raise NotImplementedError('Controller has not defined method update_state()')
+        view_list = [AskRegisterAccountView(),AskRegisterPasswordView(),RegisterAccountSuccessView()]
+        self.view=view_list[self.cur_state]
+    
+    def go_to_next_step(self):
+        self.cur_state+=1
+        self.update_state()
     
     def transition(self) : 
         raise NotImplementedError('Controller has not defined method transition()')

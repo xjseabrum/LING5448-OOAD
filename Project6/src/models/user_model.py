@@ -4,7 +4,7 @@ from src.models.abstract_model import AbstractModel
 class UserModel(AbstractModel):
     collection = dbClient().get_db_client()["user"]
 
-    def __init__(self, user_id=None, user_password=None, user_wallet=None):
+    def __init__(self, user_id=None, user_password=None, user_wallet=1000):
         self.user_id = user_id
         self.user_password = user_password
         self.user_wallet = user_wallet
@@ -24,7 +24,7 @@ class UserModel(AbstractModel):
         pass
 
     def create(self)->bool:
-        document={"_id":self.user_id, "user_password":self.user_password, "user_wallet":self.user_wallet}
+        document={"_id":self.user_id, "password":self.user_password, "wallet":self.user_wallet}
         self.collection.insert_one(document)
         for keyword, arg in document.items():
             print("Successfully create kwargs {} :-> {}".format(keyword, arg))
