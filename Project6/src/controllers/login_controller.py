@@ -1,4 +1,5 @@
 from src.controllers.abstract_controller import AbstractController
+from src.controllers.roulette_controller import rouletteController
 from src.views.login_view import *
 from src.models.user_model import *
 from src.models.user_data_util import *
@@ -34,7 +35,7 @@ class login(AbstractController) :
                 self.password=response
                 #goes to menu controller
                 print("goes to menu controller")
-                return
+                return rouletteController(UserModel.retrieve(self.account)[0],self)
             else:
                 AccountOrPasswordErrorView().render()
                 continue
