@@ -184,7 +184,6 @@ class BlackJackGame(AbstractController) :
 
         
 if __name__ == '__main__' : 
-
     game = BlackJackGame()
     game.execute()
 
