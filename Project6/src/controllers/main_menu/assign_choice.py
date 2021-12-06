@@ -4,7 +4,7 @@
 from src.controllers.slots import main as slots_main
 # from src. import as roulette_main
 # from src. import as blackjack_main
-from src.controllers.settings import main as settings
+from src.controllers.settings import main as settings_screen
 import src.controllers.logout as logout_screen
 
 
@@ -21,7 +21,7 @@ def change(choice):
         # return controller
         pass
     elif choice == 4:
-        controller = settings
+        controller = settings_screen
         return controller
     elif choice == 5:
         controller = logout_screen

@@ -20,8 +20,7 @@ class Settings(AbstractController):
             self.__add_funds(money)
             inquire = input(
                      "1: Return to Main Menu. \n" + 
-                     "2: Add funds. \n\n\t")
-            
+                     "2: Add funds. \n\n\t")      
     
     def update_state(self):
         check = self.get_user_input()
