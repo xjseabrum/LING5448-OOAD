@@ -2,7 +2,7 @@
 # All this does is start slots. 
 from src.controllers.slots.controller import SlotsGame
 
-def start():
+def execute():
     play_again = True
     while play_again == True:
         print("Hello, welcome to Slots!")
@@ -14,4 +14,4 @@ def start():
             break
 
 if __name__ == '__main__':
-    start()
+    execute()
