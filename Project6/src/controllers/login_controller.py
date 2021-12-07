@@ -3,6 +3,7 @@ from src.controllers.roulette_controller import rouletteController
 from src.views.login_view import *
 from src.models.user_model import *
 from src.models.user_data_util import *
+
 class login(AbstractController) :
     def __init__(self): 
         self.view=None
