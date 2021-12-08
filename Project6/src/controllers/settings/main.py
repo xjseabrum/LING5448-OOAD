@@ -7,8 +7,6 @@ class Settings(AbstractController):
     def __init__(self, player:UserModel, prev_state:AbstractController):
         self.player = player
         self.previous_state = prev_state
-        self.state = None
-        self.user_input = 2
 
     def execute(self):
         print("Settings Menu: \n")
