@@ -31,7 +31,7 @@ class Bet(object) :
             wager = int(wager)
             is_number = True
         except : 
-            is_number = False
+            return False
 
         is_positive = wager>0 # checks if non-zero positive integer
 
@@ -49,11 +49,9 @@ class Bet(object) :
         Args:
             wager (int): Amount to wager.
         """
-        if self._validate_wager(wager) : 
-            self._wager = wager
-            return True
+ 
+        self._wager = wager
 
-        return False
 
     def set_odds(self, odds: float) -> None : 
         """Selects odds after the object has been initialized. 

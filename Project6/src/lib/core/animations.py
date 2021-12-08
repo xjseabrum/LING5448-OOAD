@@ -17,6 +17,8 @@ def display_msg(method, message, animation_delay=0.5, leading_elipsis=3, trailin
                 if user_input in acceptable_inputs : return user_input
                 print("Sorry, but I could not understand that request.\n")
 
+        return input(message)
+
 
 
     for i in range(trailing_elipsis) : 

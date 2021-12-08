@@ -26,6 +26,7 @@ class GameView(AbstractView) :
 
     def render(self, **kwargs) : 
 
+
         if 'clear_screen' in kwargs : 
             display_msg(method='POST', message="", animation_delay=1, leading_elipsis=3)
             clear_screen()
@@ -41,6 +42,7 @@ class GameView(AbstractView) :
 
         if 'method' in kwargs : 
             if 'acceptable_inputs' in kwargs: 
+                print("acceptable_input in kwargs")
                 return display_msg(kwargs['method'], prefix + kwargs['message'], animation_delay, leading_elipsis, acceptable_inputs=kwargs['acceptable_inputs'])
                                 
             else : 

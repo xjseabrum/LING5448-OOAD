@@ -14,7 +14,7 @@ from src.models.user_model import UserModel
 def change(choice,player:UserModel,prev_state:AbstractController)->AbstractController:
     if choice == 1:
         # print(msgs.options[choice])
-        controller = BlackJackGame()
+        controller = BlackJackGame(player, prev_state)
         return controller
     elif choice == 2:
         # print(msgs.options[choice])

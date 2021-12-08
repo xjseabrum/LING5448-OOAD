@@ -29,7 +29,7 @@ class BlackJack(object) :
         Returns:
             float: The odds of the bet. 
         """
-        self.proposed_odds = 1 + 4*random.random()
+        self.proposed_odds = random.randint(1, 4)
         return  self.proposed_odds
 
 
@@ -39,7 +39,7 @@ class BlackJack(object) :
 
         self.bet.set_odds(self.proposed_odds)
         
-    def get_wager(self, wager: int)-> dict:
+    def approve_wager(self, wager: int, player_wallet: int)-> dict:
         """User inputs the wager. This function checks if the wager is 
         legitimate. 
 
@@ -49,13 +49,18 @@ class BlackJack(object) :
         Returns:
             bool: [description]
         """
-        self.proposed_wager = wager
-        return self.bet.validate_wager(wager) & self.player.check_funds(wager)
+        if self.bet.validate_wager(wager) :
+            wager = int(wager)
+            if  wager<=player_wallet : 
+                self.proposed_wager = wager
+                self.set_wager()
+                return True
+        return False
 
     def set_wager(self) : 
         """Once the checks on the wager are done, the wager can be set. 
         """
-        self.bet.set_wager(self.proposed_wager)
+        return self.bet.set_wager(self.proposed_wager)
 
     def opening_deal(self)->list:
         """The first deal is made by dealing 2 cards to the dealer and the 

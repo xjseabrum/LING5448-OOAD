@@ -1,7 +1,6 @@
 from src.controllers.abstract_controller import AbstractController
 from src.views.blackjack_view import GameView
-# from src.models.blackjack_model import BlackJackModel
-# from src.models.user_model import UserModel
+from src.lib.blackjack.bet import Bet
 from src.lib.blackjack.game import BlackJack
 from src.lib.blackjack.dealer import Dealer
 from src.lib.blackjack.utils import calculate_result
@@ -9,20 +8,19 @@ from src.lib.blackjack.utils import calculate_result
 
 class BlackJackGame(AbstractController) : 
 
-    def __init__(self):
+    def __init__(self, player, prev_state):
 
         '''
         This will typically happen outside the controller : 
         '''
 
         self.view = GameView()
-        # self.game_model = BlackJackModel()
-        # self.user_model = UserModel()
+        self.player = player
         self.black_jack = BlackJack(1)
-
         self.highest_score = 0
         self.highest_players = []
         self.player_turn_ctr = 0
+        self.previous_state = prev_state
 
     def execute(self):
         
@@ -65,26 +63,24 @@ class BlackJackGame(AbstractController) :
 
         if str(next_action)=='1' : 
             self.__init__()
-            self.execute()
+            self.execute(self.player, self.previous_state)
         else :
-            self.update_state() 
+            return self.transition()
 
-
-        
 
     def update_state(self):
         print("Update State")
 
     def transition(self):
-        print("Transition")
+        return self.previous_state
 
     def _bet_loop(self)->None:
         """The function that handles proposed betting
         """
 
-        bet_accepted = False
+        odds_accepted = False
 
-        while not bet_accepted : 
+        while not odds_accepted : 
 
             proposed_odds = self.black_jack.get_odds()
 
@@ -99,8 +95,8 @@ class BlackJackGame(AbstractController) :
                                 is_dealer=True)
 
                 self.black_jack.set_odds()
+                odds_accepted = True
 
-                return
 
             elif user_reply=="2" : 
 
@@ -113,6 +109,21 @@ class BlackJackGame(AbstractController) :
                 self.view.render(method="POST", 
                                 message="I did not get that, could you choose again?", 
                                 is_dealer=True)
+
+
+        while True : 
+
+            user_wager = self.view.render(method="GET", 
+                            message="And how much money would you like to bet?", 
+                            is_dealer=True)
+
+            if self.black_jack.approve_wager(user_wager, self.player.user_wallet) : 
+                return
+
+            else : 
+                self.view.render(method="POST", 
+                            message="That wager could not be approved.", 
+                            is_dealer=True)
 
                         
                             
