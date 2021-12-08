@@ -1,39 +1,56 @@
 from src.controllers.abstract_controller import AbstractController
-import src.controllers.main_menu.controller as main_menu
-
-user_wallet = 1000
+from src.models.user_model import UserModel
+from src.lib.core.check_float import CheckFloat as cf
 
 class Settings(AbstractController):
-    def __init__(self):
+    def __init__(self, player:UserModel, prev_state:AbstractController):
+        self.player = player
+        self.previous_state = prev_state
         self.state = None
         self.user_input = 2
-        self.user_wallet = user_wallet
 
     def execute(self):
         print("Settings Menu: \n")
         inquire = input(
-        "1: Return to Main Menu. \n" + 
-        "2: Add funds. \n\n\t")
+        "1: Return to Main Menu. \n" +
+        "2: Check funds. \n" +  
+        "3: Add funds. \n\n\t")
+        return self.__process(inquire)
 
-        while inquire == 2:
-            money = ("How much money would you like to add (between $0 and $5000)?")
-            self.__add_funds(money)
-            inquire = input(
-                     "1: Return to Main Menu. \n" + 
-                     "2: Add funds. \n\n\t")      
+    def __process(self, input):
+        if input == 1:
+            print("Returning to the main menu.")
+            return self.transition()
+        elif input == 2:
+            print("You have $" + round(self.player.user_wallet, 2) + "\n")
+            self.execute()
+        elif input == 3:
+            print("How much money would you like to add (between $0 and $5000)?")
+            number = input("\n\t")
+            if cf(number):
+                as_float = float(number)
+                if ((as_float < 5000) & (as_float > 0)):
+                    self.player.user_wallet += as_float
+                    self.player.update()
+                    print("You now have $" + round(self.player.user_wallet, 2) + "\n")
+                    self.execute()
+                else:
+                    print("Invalid input detected. Please provide a number between 0 and 5000.\n")
+                    self.execute()
+                
+            else:
+                print("Invalid input detected. Please give a number. \n")
+                self.execute()
+        else:
+            print("Returning to the main menu.\n")
+            return self.transition() 
     
     def update_state(self):
-        check = self.get_user_input()
-        if check != 2:
-            pass
+        pass
         
     def get_user_input(self):
         return self.user_input
     
     def transition(self):
-        pass
-
-    def __add_funds(self, input):
-        self.user_wallet += input
-        print("Added $" + input + "to your wallet.")
+        return self.previous_state
 

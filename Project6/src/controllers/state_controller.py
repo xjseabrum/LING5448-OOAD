@@ -12,4 +12,4 @@ class states_controller():
             state=next_state
             if state==None:
                 break
-        print("finished")
+        print("Finished.")

@@ -14,7 +14,7 @@ main_selection = ("Please select from the following options: \n" +
               "1: Play Blackjack. \n" +
               "2: Play Slots. \n" + 
               "3: Play Roulette. \n" + 
-              "4: Change Settings. " + 
+              "4: Change Settings. \n" + 
               "5: Logout. \n\n\t")
 
 options = {
