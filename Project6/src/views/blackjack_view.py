@@ -42,7 +42,6 @@ class GameView(AbstractView) :
 
         if 'method' in kwargs : 
             if 'acceptable_inputs' in kwargs: 
-                print("acceptable_input in kwargs")
                 return display_msg(kwargs['method'], prefix + kwargs['message'], animation_delay, leading_elipsis, acceptable_inputs=kwargs['acceptable_inputs'])
                                 
             else : 

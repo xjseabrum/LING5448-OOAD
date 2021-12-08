@@ -49,7 +49,6 @@ class Bet(object) :
         Args:
             wager (int): Amount to wager.
         """
- 
         self._wager = wager
 
 
@@ -73,8 +72,7 @@ class Bet(object) :
         Returns:
             float: Amount that they have received. 
         """
-
-        return self._bet*self._odds
+        return self._wager*self._odds
 
 
 if __name__ == "__main__":

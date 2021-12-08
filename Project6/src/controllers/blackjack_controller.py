@@ -43,6 +43,7 @@ class BlackJackGame(AbstractController) :
             self.player_turn_ctr += 1
 
             self.view.render(clear_screen=True)
+            self.view.render(pit=self.black_jack.pit)
 
         
         player_hand = self.black_jack.pit[self.player_turn_ctr]
@@ -52,9 +53,14 @@ class BlackJackGame(AbstractController) :
         self._judge_score(player_hand, is_dealer=True)
         self.view.render(clear_screen=True)
 
-        victor, score = self.black_jack.get_victors()
+        victor, score, payout = self.black_jack.get_victors()
+
+        self.player.user_wallet += int(payout)
+        self.player.update()
+
+        self.view.render(pit=self.black_jack.pit)
         self.view.render(method="POST",
-                        message="The winner(s) is : {} with a score of {}. Congratulations!".format(victor, score),
+                        message="The winner(s) is : {} with a score of {}. The HUMAN earns : ${}. Congratulations!".format(victor, score, payout),
                         )
 
         next_action = self.view.render(method="GET", 
@@ -62,17 +68,17 @@ class BlackJackGame(AbstractController) :
                         acceptable_inputs=["1", "2"])
 
         if str(next_action)=='1' : 
-            self.__init__()
-            self.execute(self.player, self.previous_state)
-        else :
-            return self.transition()
+            self.__init__(self.player, self.previous_state)
+            self.execute()
+        
+        return self.previous_state
 
 
     def update_state(self):
-        print("Update State")
+        pass
 
     def transition(self):
-        return self.previous_state
+        pass 
 
     def _bet_loop(self)->None:
         """The function that handles proposed betting
@@ -118,6 +124,7 @@ class BlackJackGame(AbstractController) :
                             is_dealer=True)
 
             if self.black_jack.approve_wager(user_wager, self.player.user_wallet) : 
+                self.player.user_wallet -= int(user_wager)
                 return
 
             else : 

@@ -139,6 +139,7 @@ class BlackJack(object) :
 
         victors = []
         max_score = 0
+        payout = 0
 
         for player, hand in self.pit.items() : 
 
@@ -154,9 +155,12 @@ class BlackJack(object) :
 
             else : 
                 pass
+
+        if "HUMAN" in victors : 
+            payout = self.bet.payout()
         
         
-        return victors, max_score
+        return victors, max_score, payout
 
             
 
