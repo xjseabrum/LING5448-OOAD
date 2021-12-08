@@ -6,6 +6,7 @@ from src.lib.blackjack.game import BlackJack
 from src.lib.blackjack.dealer import Dealer
 from src.lib.blackjack.utils import calculate_result
 
+
 class BlackJackGame(AbstractController) : 
 
     def __init__(self):
@@ -33,7 +34,8 @@ class BlackJackGame(AbstractController) :
             
             self.view.render(method="POST", 
                             message="Now starting with player : {}".format(self.player_turn_ctr),
-                            leading_elipsis=3)
+                            leading_elipsis=3,
+                            pit=self.black_jack.pit)
                             
             player_hand = self.black_jack.pit[self.player_turn_ctr]
             
@@ -41,14 +43,33 @@ class BlackJackGame(AbstractController) :
             self._judge_score(player_hand)
 
             self.player_turn_ctr += 1
+
+            self.view.render(clear_screen=True)
+
         
         player_hand = self.black_jack.pit[self.player_turn_ctr]
         player_hand = self._player_loop(player_hand, is_dealer=True)
-        self._judge_score(player_hand)
         
+        
+        self._judge_score(player_hand, is_dealer=True)
+        self.view.render(clear_screen=True)
+
+        victor, score = self.black_jack.get_victors()
         self.view.render(method="POST",
-                        message="WINNER(S) : {}".format(" , ".join(self.black_jack.get_victors())),
+                        message="The winner(s) is : {} with a score of {}. Congratulations!".format(victor, score),
                         )
+
+        next_action = self.view.render(method="GET", 
+                        message="What would you like to do next? 1. Play again 2. Go to main menu", 
+                        acceptable_inputs=["1", "2"])
+
+        if str(next_action)=='1' : 
+            self.__init__()
+            self.execute()
+        else :
+            self.update_state() 
+
+
         
 
     def update_state(self):
@@ -69,7 +90,8 @@ class BlackJackGame(AbstractController) :
 
             user_reply = self.view.render(method="GET", 
                             message="I can offer you {} in odds. Do you 1. Accept? 2. Reject?".format(proposed_odds), 
-                            is_dealer=True)
+                            is_dealer=True, 
+                            acceptable_inputs=["1", "2"])
 
             if user_reply=="1" : 
                 self.view.render(method="POST", 
@@ -122,7 +144,8 @@ class BlackJackGame(AbstractController) :
                 selected_action = self.view.render(method="GET", 
                                                 message="Do you wish to 1. hit or 2. stay?\n->", 
                                                 player_num=self.player_turn_ctr,
-                                                is_dealer=is_dealer)
+                                                is_dealer=is_dealer, 
+                                                acceptable_inputs=["1", "2"])
                 
             player_hand = self.black_jack.player_action(self.player_turn_ctr, selected_action)
             player_turn = player_hand['valid'] & ~player_hand['blackjack']

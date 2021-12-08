@@ -1,5 +1,5 @@
 from src.views.abstract_view import AbstractView
-from src.lib.core.animations import display_msg
+from src.lib.core.animations import display_msg, clear_screen, display_pit
 
 class DefaultView(AbstractView) : 
 
@@ -25,6 +25,14 @@ class GameView(AbstractView) :
 
 
     def render(self, **kwargs) : 
+
+        if 'clear_screen' in kwargs : 
+            display_msg(method='POST', message="", animation_delay=1, leading_elipsis=3)
+            clear_screen()
+
+
+        if 'pit' in kwargs : 
+            display_pit(kwargs['pit'], 1)
         
         prefix = "PLAYER {}-> ".format(kwargs['player_num']) if 'player_num' in kwargs else self.prefix
         prefix = "DEALER ->" if 'is_dealer' in kwargs and kwargs['is_dealer'] else prefix
@@ -32,7 +40,12 @@ class GameView(AbstractView) :
         leading_elipsis = kwargs['leading_elipsis'] if 'leading_elipsis' in kwargs else self.leading_elipsis
 
         if 'method' in kwargs : 
-            return display_msg(kwargs['method'], prefix + kwargs['message'], animation_delay, leading_elipsis)
+            if 'acceptable_inputs' in kwargs: 
+                return display_msg(kwargs['method'], prefix + kwargs['message'], animation_delay, leading_elipsis, acceptable_inputs=kwargs['acceptable_inputs'])
+                                
+            else : 
+                return display_msg(kwargs['method'], prefix + kwargs['message'], animation_delay, leading_elipsis)
+                            
             
 
 class ResultView(AbstractView) : 

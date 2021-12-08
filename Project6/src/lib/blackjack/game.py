@@ -137,17 +137,21 @@ class BlackJack(object) :
 
         for player, hand in self.pit.items() : 
 
-            if hand['score'] > max_score : 
-                victors = [str(player)]
+            player_name = "HUMAN" if player==0 else "DEALER"
+
+            if (hand['score'] > max_score) and (hand['score']<=21) : 
+
+                victors = [player_name]
                 max_score = hand['score']
 
             elif hand['score'] == max_score : 
-                victors.append(str(player))
+                victors.append(player_name)
 
             else : 
                 pass
-
-        return victors
+        
+        
+        return victors, max_score
 
             
 
