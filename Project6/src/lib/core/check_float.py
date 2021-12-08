@@ -1,7 +1,7 @@
 
-def CheckFloat(input): 
-    try: 
+def CheckFloat(input):
+    try:
         float(input)
         return True
-    except:
+    except BaseException:
         return False

@@ -1,9 +1,10 @@
 # This will calculate the return given back to the player
-# based on the number of matches they got and 
+# based on the number of matches they got and
 # the diffuculty multiplier
 
 from src.controllers.slots.format_number import num_print
 import math as m
+
 
 def calculate(bet: float, matches: int, multiplier: int) -> float:
     """This is accessed via the __user_delta method in slots controller.
@@ -22,14 +23,15 @@ def calculate(bet: float, matches: int, multiplier: int) -> float:
 
     # Boolean of if the user even got any matches
     match_check = bool(constrained_matches > 0)
-    
+
     # Perc increase function if there is any matches
-    perc_increase = match_check * (1.5 + (constrained_matches - 1)*0.1)
+    perc_increase = match_check * (1.5 + (constrained_matches - 1) * 0.1)
 
     # Math behind dispense:
     dispense = round((match_check * multiplier * perc_increase * bet), 2)
     print("You won $" + num_print(dispense) + "!")
     return dispense
+
 
 def constraint(value: float) -> float:
     if value > 8:
