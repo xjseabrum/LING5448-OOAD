@@ -25,7 +25,8 @@ class MainMenu(AbstractController):
             print("Hello, welcome to the Terminal Casino! \n")
         else:
             print("Welcome back. \n")
-            self.user_seen = True
+        
+        self.user_seen = True
         display=Display()
         display.render(msg = msgs.main_selection)
         self.user_choice = display.get_choice()

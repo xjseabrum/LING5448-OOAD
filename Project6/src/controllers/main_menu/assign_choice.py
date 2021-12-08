@@ -24,7 +24,7 @@ def change(choice,player:UserModel,prev_state:AbstractController)->AbstractContr
         return controller
     elif choice == 3:
         # print(msgs.options[choice])
-        controller = rouletteController(player,prev_state)
+        controller = rouletteController(player, prev_state)
         return controller
     elif choice == 4:
         # print(msgs.options[choice])
