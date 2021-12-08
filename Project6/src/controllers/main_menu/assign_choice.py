@@ -8,7 +8,8 @@ from src.controllers.slots.main import main_slots
 from src.controllers.settings.main import Settings
 from src.controllers.roulette_controller import rouletteController
 from src.controllers.blackjack_controller import BlackJackGame
-import src.controllers.logout as logout_screen
+# from src.controllers.login_controller import login
+from src.controllers.logout import LogOut
 from src.models.user_model import UserModel
 import src.controllers.main_menu.msgs as msgs
 
@@ -27,12 +28,10 @@ def change(choice,player:UserModel,prev_state:AbstractController)->AbstractContr
         controller = rouletteController(player, prev_state)
         return controller
     elif choice == 4:
-        # print(msgs.options[choice])
         controller = Settings(player, prev_state)
         return controller
     elif choice == 5:
-        # print(msgs.options[choice])
-        controller = logout_screen()
+        controller = LogOut(player, prev_state)
         return controller
     else:
         raise NotImplementedError('Invalid choice')
