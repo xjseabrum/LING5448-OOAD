@@ -3,6 +3,7 @@
 
 import secrets
 
+
 def assign(char_list: list, list: list) -> list:
     """This is accessed via the slot contorller's __spin_slots method.
 
@@ -15,9 +16,9 @@ def assign(char_list: list, list: list) -> list:
     """
     n_elements = len(char_list)
 
-    # Next get random values from the charset 
+    # Next get random values from the charset
     for index in range(len(list)):
         list[index] = char_list[secrets.randbelow(n_elements)]
-    
+
     print("The lever arm is pulled and the slots spin.")
     return list

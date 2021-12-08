@@ -11,7 +11,8 @@ from src.controllers.logout import LogOut
 from src.models.user_model import UserModel
 
 
-def change(choice,player:UserModel,prev_state:AbstractController)->AbstractController:
+def change(choice, player: UserModel,
+           prev_state: AbstractController) -> AbstractController:
     if choice == 1:
         # print(msgs.options[choice])
         controller = BlackJackGame(player, prev_state)
@@ -32,4 +33,3 @@ def change(choice,player:UserModel,prev_state:AbstractController)->AbstractContr
         return controller
     else:
         raise NotImplementedError('Invalid choice')
-

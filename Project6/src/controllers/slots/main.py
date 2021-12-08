@@ -1,12 +1,12 @@
 # Slots main file.
-# All this does is start slots. 
+# All this does is start slots.
 from src.controllers.abstract_controller import AbstractController
 from src.controllers.slots.controller import SlotsGame
 from src.models.user_model import UserModel
 
 
 class main_slots(AbstractController):
-    def __init__(self, player:UserModel, prev_state:AbstractController) : 
+    def __init__(self, player: UserModel, prev_state: AbstractController):
         self.player = player
         self.previous_state = prev_state
         self.play_again = True
