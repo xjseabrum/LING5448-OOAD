@@ -23,7 +23,7 @@ class Settings(AbstractController):
             return self.previous_state
         elif choice == 2:
             print("You have $" + num_print(self.player.user_wallet) + "\n")
-            self.execute()
+            return self.execute()
         elif choice == 3:
             print("How much money would you like to add (between $0 and $5000)?")
             number = input("\n\t")
@@ -33,14 +33,14 @@ class Settings(AbstractController):
                     self.player.user_wallet += as_float
                     self.player.update()
                     print("You now have $" + num_print(self.player.user_wallet) + "\n")
-                    self.execute()
+                    return self.execute()
                 else:
                     print("Invalid input detected. Please provide a number between 0 and 5000.\n")
-                    self.execute()
+                    return self.execute()
                 
             else:
                 print("Invalid input detected. Please give a number. \n")
-                self.execute()
+                return self.execute()
         else:
             print("Returning to the main menu.\n")
             return self.previous_state 
