@@ -17,7 +17,7 @@ def change(choice,player:UserModel,prev_state:AbstractController)->AbstractContr
         controller = BlackJackGame()
         return controller
     elif choice == 2:
-        controller = slots_main
+        controller = slots_main(player, prev_state).execute()
         return controller
     elif choice == 3:
         controller = rouletteController(player,prev_state)
@@ -29,5 +29,5 @@ def change(choice,player:UserModel,prev_state:AbstractController)->AbstractContr
         controller = logout_screen()
         return controller
     else:
-        raise NotImplementedError('Invalid choise')
+        raise NotImplementedError('Invalid choice')
 

@@ -6,22 +6,25 @@ from src.controllers.slots.assign_slots import assign
 import src.controllers.slots.exit_sequence as exit_sequence
 from src.views.slots_view import DisplayAmount, DisplaySlots, AskBet, SetDifficulty
 import src.controllers.slots.messages as msgs
+from src.models.user_model import *
 
-user_wallet = 1000
+# user_wallet = 1000
 
 class SlotsGame(AbstractController):   
     
-    def __init__(self):
+    def __init__(self, player:UserModel, prev_state:AbstractController):
         self.charset = []
         self.earnings_multiplier = 1
         self.bet = 0
         self.choices = [None] * 9
         self.tot_matches = 0
-        self.user_wallet = user_wallet
+        self.user_wallet = player.user_wallet
         self.repeat = True
         self.min_bet = 5
         self.max_bet = 60
         self.state = None
+        self.player = player
+        self.previous_state = prev_state
 
     # Concrete implementation of abstract class method
     # This and the getters are the only exposed points
@@ -42,6 +45,7 @@ class SlotsGame(AbstractController):
     # Concrete implementation of public abstract class method
     def transition(self):
         exit_sequence.exit()
+        return self.previous_state
 
     # The only setter
     def _set_state(self, state):
@@ -79,6 +83,8 @@ class SlotsGame(AbstractController):
                           multiplier = self.earnings_multiplier)
         self.user_wallet += delta
         DisplayAmount().render(wallet = self.user_wallet, flag = 0)
+        self.player.user_wallet = self.user_wallet
+        self.player.update()
 
     def __inquire(self):
         query = input(msgs.inquire)
