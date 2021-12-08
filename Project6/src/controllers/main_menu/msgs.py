@@ -6,7 +6,7 @@ import random as random
 def rand_msg():
     r = random.randint(0, 2)
     msg = joy[r]
-    print(msg)
+    return msg
 
 joy = ["Enjoy!", "Have fun!", "Break a leg!"]
 
@@ -18,10 +18,10 @@ main_selection = ("Please select from the following options: \n" +
               "5: Logout. \n\n\t")
 
 options = {
-    '1': print("Starting Blackjack. " + rand_msg()),
-    '2': print("Starting Slots. " + rand_msg()),
-    '3': print("Starting Roulette. " + rand_msg()),
-    '4': print("Bringing up your settings."),
-    '5': print("Changing to the logout menu.")
+    '1': "Starting Blackjack. " + rand_msg(),
+    '2': "Starting Slots. " + rand_msg(),
+    '3': "Starting Roulette. " + rand_msg(),
+    '4': "Bringing up your settings.",
+    '5': "Changing to the logout menu."
 }
 

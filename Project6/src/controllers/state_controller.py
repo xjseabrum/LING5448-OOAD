@@ -6,9 +6,7 @@ class states_controller():
 
 
     def execute(self) :
-        
         state=self.initial_state
-
         while(True):
             next_state=state.execute()
             state=next_state

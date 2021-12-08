@@ -30,10 +30,11 @@ class Display(AbstractView):
         print(self.show[inquire])
 
     def get_choice(self):
-        return self.keep_choice
+        return int(self.keep_choice)
 
     def __validate_input(self, input):
-        if((~(isinstance(input, int))) or (input < self.min or input > self.max)):
+        #if((~(isinstance(input, int))) or (input < self.min or input > self.max)):
+        if((~input.isnumeric()) and (int(input) < self.min or int(input) > self.max)):
             print("Invalid input.  Please try again.\n")
             return False
         else:

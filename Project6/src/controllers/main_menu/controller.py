@@ -8,15 +8,17 @@
 from src.controllers.abstract_controller import AbstractController
 from src.controllers.main_menu.view import Display
 import src.controllers.main_menu.msgs as msgs
-
+import src.controllers.main_menu.assign_choice
+from src.models.user_model import UserModel
 
 class MainMenu(AbstractController):
-    def __init__(self):
+    def __init__(self,player:UserModel):
         # Define a veriable that keeps track of if the user has seen the
         # MainMenu
         self.user_seen = False
         self.state = None
         self.user_choice = None
+        self.player=player
     
     def execute(self):
         if ~self.user_seen:
@@ -24,15 +26,15 @@ class MainMenu(AbstractController):
         else:
             print("Welcome back. \n")
             self.user_seen = True
-        Display().render(msg = msgs.main_selection)
-        self.user_choice = Display().get_choice
-        self.update_state()
-        self.transition()
-
+        display=Display()
+        display.render(msg = msgs.main_selection)
+        self.user_choice = display.get_choice()
+        return src.controllers.main_menu.assign_choice.change(self.user_choice,self.player,self)
     def update_state(self):
         self.state = None
 
     def transition(self):
+        # Not used
         new_controller = self.state
         new_controller.execute()
         self.user_choice = None
@@ -41,6 +43,6 @@ class MainMenu(AbstractController):
         self.state = state
 
 
-if __name__ == '__main__':
-    controller = MainMenu()
-    controller.execute()
+#if __name__ == '__main__':
+#    controller = MainMenu()
+#    controller.execute()

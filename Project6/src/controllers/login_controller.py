@@ -3,6 +3,7 @@ from src.controllers.roulette_controller import rouletteController
 from src.views.login_view import *
 from src.models.user_model import *
 from src.models.user_data_util import *
+from src.controllers.main_menu.controller import MainMenu
 
 class login(AbstractController) :
     def __init__(self): 
@@ -34,9 +35,8 @@ class login(AbstractController) :
                 continue
             elif validate_account_or_password(self.account,response):
                 self.password=response
-                #goes to menu controller
-                print("goes to menu controller")
-                return rouletteController(UserModel.retrieve(self.account)[0],self)
+                player=UserModel.retrieve(self.account)[0]
+                return MainMenu(player)
             else:
                 AccountOrPasswordErrorView().render()
                 continue
