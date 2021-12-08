@@ -33,7 +33,7 @@ class UserModel(AbstractModel):
     def update(self) ->bool:
         document=self.get_document_from_self()
         update_result = self.collection.update_one({"_id":document["_id"]}, {"$set": document})
-        print(str(update_result.modified_count)+" documents updated\n")
+        print(str(update_result.modified_count)+" document(s) updated\n")
 
     @classmethod
     def retrieve(self, user_id=None,user_password=None,wallet=None):

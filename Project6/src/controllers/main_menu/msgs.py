@@ -22,6 +22,6 @@ options = {
     '2': "Starting Slots. " + rand_msg(),
     '3': "Starting Roulette. " + rand_msg(),
     '4': "Bringing up your settings.",
-    '5': "Changing to the logout menu."
+    '5': "Logging out..."
 }
 

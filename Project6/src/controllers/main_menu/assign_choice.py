@@ -3,15 +3,12 @@
 
 from src.controllers.abstract_controller import AbstractController
 from src.controllers.slots.main import main_slots
-# from src. import as roulette_main
 # from src. import as blackjack_main
 from src.controllers.settings.main import Settings
 from src.controllers.roulette_controller import rouletteController
 from src.controllers.blackjack_controller import BlackJackGame
-# from src.controllers.login_controller import login
 from src.controllers.logout import LogOut
 from src.models.user_model import UserModel
-import src.controllers.main_menu.msgs as msgs
 
 
 def change(choice,player:UserModel,prev_state:AbstractController)->AbstractController:

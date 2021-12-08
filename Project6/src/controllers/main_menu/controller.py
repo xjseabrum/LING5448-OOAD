@@ -42,8 +42,3 @@ class MainMenu(AbstractController):
 
     def _set_state(self, state):
         self.state = state
-
-
-#if __name__ == '__main__':
-#    controller = MainMenu()
-#    controller.execute()

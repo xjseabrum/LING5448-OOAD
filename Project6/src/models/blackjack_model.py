@@ -36,7 +36,7 @@ class BlackJackModel(AbstractModel) :
 
     def update(self, **kwargs):
         self.validate(**kwargs)
-        print(" Updating the DB with the following kwargs : \n", kwargs)
+        print("Updating the DB with the following kwargs : \n", kwargs)
 
     def retrieve(self, **kwargs):
         print("Fetching data from the DB with the following kwargs : \n", kwargs)
