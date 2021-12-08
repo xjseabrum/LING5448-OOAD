@@ -2,7 +2,7 @@
 # the user gave.
 
 from src.controllers.abstract_controller import AbstractController
-from src.controllers.slots import main as slots_main
+from src.controllers.slots.main import main_slots
 # from src. import as roulette_main
 # from src. import as blackjack_main
 from src.controllers.settings import main as settings_screen
@@ -17,7 +17,7 @@ def change(choice,player:UserModel,prev_state:AbstractController)->AbstractContr
         controller = BlackJackGame()
         return controller
     elif choice == 2:
-        controller = slots_main(player, prev_state).execute()
+        controller = main_slots(player, prev_state)
         return controller
     elif choice == 3:
         controller = rouletteController(player,prev_state)

@@ -18,10 +18,10 @@ class main_slots(AbstractController):
             game.execute()
             self.play_again = game.get_repeat()
             if(self.play_again == False):
-                game.transition()
+                return self.previous_state
 
     def update_state(self):
         pass
 
     def transition(self):
-        pass
+        return self.previous_state
