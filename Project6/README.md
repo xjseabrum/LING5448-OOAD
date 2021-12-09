@@ -1,8 +1,8 @@
 All team members are using Python version 3.9.x for this project.
 
 # For Project 7:
-The PDF for this project can be found here: 
-The code for this project can be found here: Project6/src
+The PDF for this project can be found here: .
+The code for this project can be found here: Project6/src .
 
 The Video Submission for Proj 7 can be found here: https://youtu.be/1i2t0i_H9W8
 
@@ -28,5 +28,5 @@ Timestamps for the video. These timestamps can also be found in the YouTube vide
 # For Project 6:
 The PDF has the current progress of the project, located here: Project6/Project 6 Update.pdf
 
-Code for the project was able to be found here: Project6/src
+Code for the project was able to be found here: Project6/src .
 To see the code for Project 6, see the history for this repo on December 7, which was the last date before the Project 7 code was pushed to this repo.
