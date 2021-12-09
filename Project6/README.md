@@ -7,7 +7,7 @@ Project6/Project 7 Update.pdf .
 Project6/src .
 
 ### The Video Submission for Proj 7 can be found here: 
-https://youtu.be/1i2t0i_H9W8
+https://www.youtube.com/watch?v=1i2t0i_H9W8
 
 Timestamps for the video. These timestamps can also be found in the YouTube video's description:
 
