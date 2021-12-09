@@ -1,7 +1,7 @@
 All team members are using Python version 3.9.x for this project.
 
 # For Project 7:
-The PDF for this project can be found here: .
+The PDF for this project can be found here: Project6/Project 7 Update.pdf .
 The code for this project can be found here: Project6/src .
 
 The Video Submission for Proj 7 can be found here: https://youtu.be/1i2t0i_H9W8
