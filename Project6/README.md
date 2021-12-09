@@ -33,4 +33,4 @@ Timestamps for the video. These timestamps can also be found in the YouTube vide
 Project6/Project 6 Update.pdf
 
 ### Code for the project was able to be found here: 
-Project6/src .  To see the code for Project 6, see the history for this repo on December 7, which was the last date before the Project 7 code was pushed to this repo.
+Project6/src .  To see the code for Project 6, see the history for this repo on December 7 2021, which was the last date before the Project 7 code was pushed to this folder.
