@@ -4,7 +4,7 @@ This repository contains the various projects that my teammates and I worked on 
 Projects 1-4 were projects designed by the professor so as to get us exposed to the various OOAD patterns and concepts.  In short, these patterns and concepts can help programmers create more legible, robust, and clean code.  Projects 1-4 are all in Java, whereas projects 5-7 are all in Python. 
 
 # Class Syllabus
-The Object Oriented Analysis and Design class (which I took as a student under Bruce Montgomery) went over many topics, including:  .  The syllabus can be found here: []()
+The Object Oriented Analysis and Design class (which I took as a student under Bruce Montgomery) went over many topics, including:  .  The syllabus can be found here: [Class_Syllabus_Schedule_OOAD.PNG](https://github.com/xjseabrum/LING5448-OOAD/blob/main/Class_Syllabus_Schedule_OOAD.PNG)
 
 # Team Members
 
